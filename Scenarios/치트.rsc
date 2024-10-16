@@ -341,59 +341,66 @@
         
         
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_PackTurret</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Axolotl_Bamboo</thingDef><count>20001</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Axolotl_Bamboo</thingDef><count>20000</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BabyFood</thingDef><count>20000</count><quality>Good</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Bioferrite</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Bioferrite</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksGranite</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksLimestone</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksMarble</thingDef><count>10001</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksSandstone</thingDef><count>10001</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Chemfuel</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Cloth</thingDef><count>10001</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ComponentIndustrial</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ComponentSpacer</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksMarble</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksSandstone</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Chemfuel</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Cloth</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ComponentIndustrial</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ComponentSpacer</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>DevilstrandCloth</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Dye</thingDef><count>10000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Dye</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>FlatscreenTelevision</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Gold</thingDef><count>10001</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Gold</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Gun_AssaultRifle</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>HemogenPack</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Hyperweave</thingDef><count>10001</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>HemogenPack</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Hyperweave</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>IG_Meal_b</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>IG_Meal_g</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>IJade</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Jade</thingDef><count>10000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Jade</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Kiiro_CannedCatFood</thingDef><count>20000</count><quality>Masterwork</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Kiiro_CannedMintedCatFood</thingDef><count>20000</count><quality>Awful</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Kiiro_MixMedicineHerbal</thingDef><count>20000</count><quality>Good</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Camel</thingDef><count>20000</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Dog</thingDef><count>10000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Dog</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Fox</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Plain</thingDef><count>20000</count><quality>Awful</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MechSerumHealer</thingDef><count>10000</count><quality>Masterwork</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MechSerumHealer</thingDef><count>20000</count><quality>Masterwork</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MechSerumResurrector</thingDef><count>20000</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineHerbal</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineIndustrial</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineUltratech</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Miho_CelestialScale</thingDef><count>20001</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineHerbal</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineIndustrial</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineUltratech</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Miho_CelestialScale</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Miho_Ebony_SilkCloth</thingDef><count>20000</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Neutroamine</thingDef><count>10000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Neutroamine</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Novel</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Penoxycyline</thingDef><count>10000</count><quality>Good</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Plasteel</thingDef><count>10001</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Penoxycyline</thingDef><count>20000</count><quality>Good</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Plasteel</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ProximityDetector</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Shard</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Shard</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ShipChunk</thingDef><count>100</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Silver</thingDef><count>10001</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Silver</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Steel</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>SubcoreBasic</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Synthread</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>TextBook</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Tome</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Uranium</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Uranium</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>VanometricPowerCell</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>WoodLog</thingDef><count>10000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>WoolSheep</thingDef><count>10000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>WoodLog</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>WoolSheep</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Chocolate_strawberry</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_FirefoampopPack</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Shell_Firefoam</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>FirefoamPopper</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>TrapIED_Firefoam</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_ArmorMarinePrestige</thingDef><count>1000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>baier</animalKind><count>1</count><age>17</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>buer</animalKind><count>1</count><age>17</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>jiaer</animalKind><count>1</count><age>18</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
@@ -573,7 +580,9 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ArmorRating_Sharp</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AssemblySpeedFactor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BandwidthCost</stat><factor>0.01</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Beauty</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Beauty</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BeautyOutdoors</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BeautyOutdoors</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BedHungerRateFactor</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BedRestEffectiveness</stat><factor>100</factor></li>
@@ -585,12 +594,15 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CancerRate</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CaravanRidingSpeedFactor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CarryingCapacity</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Cleanliness</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Cleanliness</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Comfort</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Comfort</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ComfyTemperatureMax</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ComfyTemperatureMin</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConstructionSpeed</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConstructionSpeedFactor</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConstructSuccessChance</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ContainmentStrength</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ControlTakingTime</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConversionPower</stat><factor>100</factor></li>
@@ -603,7 +615,7 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>EatingSpeed</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>EMPResistance</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>EntityStudyRate</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Fertility</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Fertility</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>FilthRate</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>FixBrokenDownBuildingSuccessChance</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>FoodPoisonChance</stat><factor>0.01</factor></li>
@@ -660,7 +672,7 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeHitChanceIndoorsLitOffset</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeHitChanceOutdoorsDarkOffset</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeHitChanceOutdoorsLitOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MentalBreakThreshold</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MentalBreakThreshold</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MinimumContainmentStrength</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MinimumHandlingSkill</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MiningSpeed</stat><factor>100</factor></li>
@@ -683,7 +695,7 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RangedCooldownFactor</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RangedWeapon_Cooldown</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RangedWeapon_DamageMultiplier</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RawNutritionFactor</stat><factor>0.01</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RawNutritionFactor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ReadingSpeed</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ResearchSpeed</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ResearchSpeedFactor</stat><factor>100</factor></li>
@@ -742,6 +754,11 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkTableWorkSpeedFactor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkToBuild</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkToMake</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StyleDominance</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>TradePriceImprovement</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SocialImpact</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ArrestSuccessChance</stat><factor>100</factor></li>
+
 
 
 <li Class="VFECore.ScenPart_ForcedFactionGoodwill"><affectStartingGoodwill>True</affectStartingGoodwill><startingGoodwillRange>100~100</startingGoodwillRange><affectNaturalGoodwill>True</affectNaturalGoodwill><naturalGoodwillRange>100~100</naturalGoodwillRange><def>VFEC_ForcedFactionGoodwill</def></li>

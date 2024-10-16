@@ -346,7 +346,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Axolotl_Bamboo</thingDef>
-				<count>20001</count>
+				<count>20000</count>
 				<quality>Excellent</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -360,7 +360,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Bioferrite</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -381,42 +381,42 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>BlocksMarble</thingDef>
-				<count>10001</count>
+				<count>20000</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>BlocksSandstone</thingDef>
-				<count>10001</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Chemfuel</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Cloth</thingDef>
-				<count>10001</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>ComponentIndustrial</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>ComponentSpacer</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -430,7 +430,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Dye</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -444,7 +444,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Gold</thingDef>
-				<count>10001</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -458,14 +458,14 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>HemogenPack</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Hyperweave</thingDef>
-				<count>10001</count>
+				<count>20000</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -493,7 +493,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Jade</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -528,7 +528,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Leather_Dog</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -549,7 +549,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>MechSerumHealer</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Masterwork</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -563,28 +563,28 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>MedicineHerbal</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>MedicineIndustrial</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>MedicineUltratech</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Miho_CelestialScale</thingDef>
-				<count>20001</count>
+				<count>20000</count>
 				<quality>Poor</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -598,7 +598,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Neutroamine</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -612,14 +612,14 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Penoxycyline</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Good</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Plasteel</thingDef>
-				<count>10001</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -633,7 +633,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Shard</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -647,7 +647,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Silver</thingDef>
-				<count>10001</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -689,7 +689,7 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Uranium</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -703,14 +703,56 @@
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>WoodLog</thingDef>
-				<count>10000</count>
+				<count>20000</count>
 				<quality>Normal</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>WoolSheep</thingDef>
-				<count>10000</count>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Chocolate_strawberry</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Apparel_FirefoampopPack</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Shell_Firefoam</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>FirefoamPopper</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>TrapIED_Firefoam</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Apparel_ArmorMarinePrestige</thingDef>
+				<count>1000</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -1551,6 +1593,16 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
+				<stat>AnimalGatherSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AnimalGatherYield</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
 				<stat>AnimalProductsSellImprovement</stat>
 				<factor>100</factor>
 			</li>
@@ -1577,7 +1629,17 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Beauty</stat>
+				<factor>1</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Beauty</stat>
 				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BeautyOutdoors</stat>
+				<factor>1</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1602,6 +1664,11 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>BirthRitualQualityOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BondAnimalChanceFactor</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -1632,7 +1699,17 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Cleanliness</stat>
+				<factor>1</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Cleanliness</stat>
 				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Comfort</stat>
+				<factor>1</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1733,6 +1810,11 @@
 				<def>StatFactor</def>
 				<stat>FixBrokenDownBuildingSuccessChance</stat>
 				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>FoodPoisonChance</stat>
+				<factor>0.01</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1936,7 +2018,17 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
+				<stat>MeditationFocusGain</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
 				<stat>MeditationFocusStrength</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeditationPlantGrowthOffset</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -1977,27 +2069,37 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>MeleeHitChanceIndoorsLitOffset</stat>
-				<factor>0.01</factor>
+				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>MeleeHitChanceOutdoorsDarkOffset</stat>
-				<factor>0.01</factor>
+				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>MeleeHitChanceOutdoorsLitOffset</stat>
-				<factor>0.01</factor>
+				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>MentalBreakThreshold</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MinimumContainmentStrength</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>MinimumHandlingSkill</stat>
 				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MiningSpeed</stat>
+				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -2031,7 +2133,17 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
+				<stat>PawnBeauty</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
 				<stat>PawnTrapSpringChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PlantHarvestYield</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -2046,12 +2158,22 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
+				<stat>PsychicEntropyMax</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
 				<stat>PsychicEntropyRecoveryRate</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>PsychicSensitivity</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PsychicSensitivityFactor</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -2082,6 +2204,11 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>ReadingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ResearchSpeed</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -2182,7 +2309,7 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>SocialIdeoSpreadFrequencyFactor</stat>
-				<factor>1</factor>
+				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -2336,6 +2463,11 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
+				<stat>WorkSpeedGlobal</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
 				<stat>WorkSpeedGlobalOffsetMech</stat>
 				<factor>100</factor>
 			</li>
@@ -2368,228 +2500,58 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>VEF_GrowthPointMultiplier</stat>
-				<factor>100</factor>
+				<stat>StyleDominance</stat>
+				<factor>1.83</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>WorkToBuild</stat>
-				<factor>100</factor>
+				<stat>RawNutritionFactor</stat>
+				<factor>0.67</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>ResearchSpeed</stat>
-				<factor>100</factor>
+				<stat>Fertility</stat>
+				<factor>0.44</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>DeteriorationRate</stat>
-				<factor>0.01</factor>
+				<stat>TradePriceImprovement</stat>
+				<factor>0.86</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>PlantHarvestYield</stat>
-				<factor>100</factor>
+				<stat>SocialImpact</stat>
+				<factor>1.28</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>GlobalLearningFactor</stat>
-				<factor>100</factor>
+				<stat>ArrestSuccessChance</stat>
+				<factor>2.25</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>ConstructionSpeed</stat>
-				<factor>100</factor>
+				<stat>MedicalTendQualityOffset</stat>
+				<factor>1.23</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>VEF_GrowthPointMultiplier</stat>
-				<factor>100</factor>
+				<stat>MedicalQualityMax</stat>
+				<factor>2.18</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>ImmunityGainSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MiningSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MaxHitPoints</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_FoodCapacityMultiplier</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_VerbCooldownFactor</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_VerbRangeFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_RangedCooldownFactor</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MinimumContainmentStrength</stat>
-				<factor>100</factor>
+				<stat>EntityStudyRate</stat>
+				<factor>2.82</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>ContainmentStrength</stat>
-				<factor>100</factor>
+				<factor>3.11</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>ControlTakingTime</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>DeteriorationRate</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>BirthRitualQualityOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PruningSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ConversionPower</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeditationPlantGrowthOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>FoodPoisonChance</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MentalBreakThreshold</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>AnimalGatherYield</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>AnimalGatherSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>SmoothingSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>BondAnimalChanceFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>WorkSpeedGlobal</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PawnBeauty</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>JoyFallRateFactor</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>EMPResistance</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>GrowthVatOccupantSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PsychicEntropyMax</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PsychicEntropyRecoveryRate</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeditationFocusGain</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>CrawlSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PsychicSensitivity</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PsychicSensitivityFactor</stat>
-				<factor>1.9</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PsychicSensitivityOffset</stat>
-				<factor>1.17</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeditationFocusStrength</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>BeautyOutdoors</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Beauty</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PsychicEntropyMax</stat>
-				<factor>2.56</factor>
+				<stat>MinimumContainmentStrength</stat>
+				<factor>0.91</factor>
 			</li>
 		</parts>
 	</scenario>
