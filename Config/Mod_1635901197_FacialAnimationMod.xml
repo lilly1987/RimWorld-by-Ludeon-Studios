@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FacialAnimation.FacialAnimationModSettings">
+		<DrawEyesParts>True</DrawEyesParts>
+		<EnableDarkSkinShader>True</EnableDarkSkinShader>
+		<OddEyeProbability>50</OddEyeProbability>
+		<IgnoreEnableAnimationForRaceXenoTypeListAA />
+	</ModSettings>
+</SettingsBlock>

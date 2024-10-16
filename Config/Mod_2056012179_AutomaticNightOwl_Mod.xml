@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AutomaticNightOwl.AutomaticNightOwl_ModSettings">
+		<AddOn_Ideology>False</AddOn_Ideology>
+		<AddOn_Biotech>False</AddOn_Biotech>
+	</ModSettings>
+</SettingsBlock>

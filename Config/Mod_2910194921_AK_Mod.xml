@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AK_DLL.AK_ModSettings">
+		<display_AllyFaction>True</display_AllyFaction>
+		<display_AllyFaction_InjuryedOnly>True</display_AllyFaction_InjuryedOnly>
+		<display_NeturalFaction>True</display_NeturalFaction>
+		<display_NeutralFaction_InjuryedOnly>True</display_NeutralFaction_InjuryedOnly>
+		<display_Skillbar_OnDraftedOnly>True</display_Skillbar_OnDraftedOnly>
+		<b_enemy>0</b_enemy>
+		<playVoice>True</playVoice>
+		<voiceInterTime>2</voiceInterTime>
+		<displayP>True</displayP>
+		<ratio>20</ratio>
+		<secretary>Amiya</secretary>
+		<secLoc>(400.0, 0.0, 1.0)</secLoc>
+		<secSense>1</secSense>
+		<font>AK_Font_YouYuan</font>
+		<lastClass>9</lastClass>
+		<lastSeries>0</lastSeries>
+	</ModSettings>
+</SettingsBlock>

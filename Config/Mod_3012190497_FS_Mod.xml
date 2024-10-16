@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FS_LivelyRim.FS_ModSettings">
+		<fillCore>False</fillCore>
+		<l2dDef>AZ_Live_Janus</l2dDef>
+	</ModSettings>
+</SettingsBlock>

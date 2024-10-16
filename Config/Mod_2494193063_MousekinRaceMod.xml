@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MousekinRace.Settings">
+		<EarlessMousekinsAreSuicidal>False</EarlessMousekinsAreSuicidal>
+		<RootCellarTemperature>1</RootCellarTemperature>
+		<AllegianceSys_DaysBetweenRandomTraders>3</AllegianceSys_DaysBetweenRandomTraders>
+	</ModSettings>
+</SettingsBlock>

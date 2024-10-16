@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Replace_Stuff.Settings">
+		<bridgePrefNames>
+			<li>Bridge</li>
+			<li>TileIJade</li>
+			<li>FlagstoneIJade</li>
+			<li>SilverPlatedTileIJade</li>
+			<li>Tile_MorbidIJade</li>
+			<li>Tile_SpikecoreIJade</li>
+			<li>Tile_TotemicIJade</li>
+			<li>FineTileIJade</li>
+		</bridgePrefNames>
+	</ModSettings>
+</SettingsBlock>

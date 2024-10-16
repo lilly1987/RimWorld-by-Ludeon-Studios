@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CombatExtended.Settings">
+		<smokeEffects>False</smokeEffects>
+		<enableWeaponAutopatcher>True</enableWeaponAutopatcher>
+		<enableApparelAutopatcher>True</enableApparelAutopatcher>
+		<enableAmmoSystem>False</enableAmmoSystem>
+		<fasterRepeatShots>True</fasterRepeatShots>
+	</ModSettings>
+</SettingsBlock>

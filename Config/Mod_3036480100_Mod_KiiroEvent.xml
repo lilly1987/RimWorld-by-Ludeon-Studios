@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Kiiro_Event.KiiroEventSettings">
+		<OpportunitySite_PaperArtExhibition>True</OpportunitySite_PaperArtExhibition>
+		<OpportunitySite_SkyLanternFestival>True</OpportunitySite_SkyLanternFestival>
+		<OpportunitySite_HuntingSurplus>True</OpportunitySite_HuntingSurplus>
+		<OpportunitySite_BonfireParty>True</OpportunitySite_BonfireParty>
+		<MineralDiscovery>True</MineralDiscovery>
+		<PiratesOutpost>True</PiratesOutpost>
+		<WandererJoin>True</WandererJoin>
+		<RelativeJoin>True</RelativeJoin>
+		<HospitalityRefugee>True</HospitalityRefugee>
+		<NewSettlementEstablish>True</NewSettlementEstablish>
+		<ThrumboFound>True</ThrumboFound>
+		<GuerrillaAssist>True</GuerrillaAssist>
+		<Beggar>True</Beggar>
+		<ProblemCauser>True</ProblemCauser>
+		<RefugeeBaby>True</RefugeeBaby>
+		<Kiiro_MerchantMainButton>True</Kiiro_MerchantMainButton>
+	</ModSettings>
+</SettingsBlock>

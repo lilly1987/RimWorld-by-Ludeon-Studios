@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LWM.DeepStorage.Settings">
+		<int_to_use_DS>Animal</int_to_use_DS>
+		<useRightClickLogic>False</useRightClickLogic>
+	</ModSettings>
+</SettingsBlock>

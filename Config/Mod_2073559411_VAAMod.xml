@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VoiceroidAsAnimal.VAAModSettings">
+		<VAASetting_VAATalkMode>True</VAASetting_VAATalkMode>
+		<VAASetting_VersionLabel>1.11.0</VAASetting_VersionLabel>
+		<VAASetting_UpdateNoticeBool>False</VAASetting_UpdateNoticeBool>
+		<VAASetting_VAAcountDead>False</VAASetting_VAAcountDead>
+		<VAASetting_VAAEnablingPassiveSkills>True</VAASetting_VAAEnablingPassiveSkills>
+		<VAASetting_VAAEnablingJoy>True</VAASetting_VAAEnablingJoy>
+		<VAASetting_VAANotChangeGraphic>False</VAASetting_VAANotChangeGraphic>
+		<VAASetting_VAACanUseTable>True</VAASetting_VAACanUseTable>
+		<VAASetting_VAAEnablingPlayStuffed>True</VAASetting_VAAEnablingPlayStuffed>
+		<VAASetting_VAAStuffedGetDown>False</VAASetting_VAAStuffedGetDown>
+		<VAASetting_VAAShowTuinaCorrection>True</VAASetting_VAAShowTuinaCorrection>
+		<VAASetting_VAAAllowBondCorrection>True</VAASetting_VAAAllowBondCorrection>
+		<VAASetting_VAAAllowBondAkariCorrection>True</VAASetting_VAAAllowBondAkariCorrection>
+		<VAASetting_VAAAllowAkariSpecialEvent>True</VAASetting_VAAAllowAkariSpecialEvent>
+		<VAASetting_VAAAllowParticipateGathering>True</VAASetting_VAAAllowParticipateGathering>
+		<VAASetting_VAAForceHardWorking>True</VAASetting_VAAForceHardWorking>
+		<VAASetting_VAAAllowTeachChild>True</VAASetting_VAAAllowTeachChild>
+		<VAASetting_VAAAllowShowBackGroundImage>True</VAASetting_VAAAllowShowBackGroundImage>
+		<VAASetting_VAAAllowInteract>True</VAASetting_VAAAllowInteract>
+		<VAASetting_VAAAllowInteractWithVAA>True</VAASetting_VAAAllowInteractWithVAA>
+		<VAASetting_VAASpawnLimitAkane>2</VAASetting_VAASpawnLimitAkane>
+		<VAASetting_VAASpawnLimitAoi>2</VAASetting_VAASpawnLimitAoi>
+		<VAASetting_VAASpawnLimitTuina>2</VAASetting_VAASpawnLimitTuina>
+		<VAASetting_VAASpawnLimitSasara>2</VAASetting_VAASpawnLimitSasara>
+		<VAASetting_VAASpawnLimitTsudumi>2</VAASetting_VAASpawnLimitTsudumi>
+		<VAASetting_VAASpawnLimitIA>2</VAASetting_VAASpawnLimitIA>
+		<VAASetting_VAASpawnLimitONE>2</VAASetting_VAASpawnLimitONE>
+		<VAASetting_VAASpawnLimitHime>2</VAASetting_VAASpawnLimitHime>
+		<VAASetting_VAASpawnLimitMikoto>2</VAASetting_VAASpawnLimitMikoto>
+		<VAASetting_VAASpawnLimitItako>2</VAASetting_VAASpawnLimitItako>
+		<VAASetting_VAASpawnLimitZunko>2</VAASetting_VAASpawnLimitZunko>
+		<VAASetting_VAASpawnLimitKiritan>2</VAASetting_VAASpawnLimitKiritan>
+		<VAASetting_VAASpawnLimitUna>2</VAASetting_VAASpawnLimitUna>
+		<VAASetting_VAASpawnLimitFlower>2</VAASetting_VAASpawnLimitFlower>
+		<VAASetting_VAASpawnLimitYukari>2</VAASetting_VAASpawnLimitYukari>
+		<VAASetting_VAASpawnLimitAkari>2</VAASetting_VAASpawnLimitAkari>
+		<VAASetting_VAASpawnLimitSeika>2</VAASetting_VAASpawnLimitSeika>
+		<VAASetting_VAASpawnLimitAllial>2</VAASetting_VAASpawnLimitAllial>
+		<VAASetting_VAASpawnLimitMillial>2</VAASetting_VAASpawnLimitMillial>
+		<VAASetting_VAAFeedingWhenTraining>0</VAASetting_VAAFeedingWhenTraining>
+	</ModSettings>
+</SettingsBlock>

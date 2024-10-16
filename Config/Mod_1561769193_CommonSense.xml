@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CommonSense.Settings">
+		<hauling_over_bills>False</hauling_over_bills>
+		<adv_cleaning_ingest>True</adv_cleaning_ingest>
+		<safe_wander>True</safe_wander>
+	</ModSettings>
+</SettingsBlock>

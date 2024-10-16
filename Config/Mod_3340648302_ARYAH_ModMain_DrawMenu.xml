@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ARY_AutomaticHunting.ARYAH_Settings">
+		<ARYAH_bool_markonly>False</ARYAH_bool_markonly>
+		<ARYAH_bool_planteateronly>False</ARYAH_bool_planteateronly>
+		<ARYAH_bool_meateateronly>False</ARYAH_bool_meateateronly>
+		<ARYAH_bool_eaterchanged>False</ARYAH_bool_eaterchanged>
+		<ARYAH_bool_boomallowed>False</ARYAH_bool_boomallowed>
+		<ARYAH_bool_includeHumanMeat>False</ARYAH_bool_includeHumanMeat>
+		<ARYAH_bool_includeMegaspiderMeat>False</ARYAH_bool_includeMegaspiderMeat>
+		<ARYAH_bool_includeTwistedMeat>False</ARYAH_bool_includeTwistedMeat>
+		<ARYAH_meleehunterstronger>2</ARYAH_meleehunterstronger>
+		<ARYAH_manhunterOnDamageChance>0.04</ARYAH_manhunterOnDamageChance>
+		<ARYAH_tickinterval_amount>2</ARYAH_tickinterval_amount>
+		<ARYAH_rawmeat_limit>100</ARYAH_rawmeat_limit>
+		<selectedAnimals />
+	</ModSettings>
+</SettingsBlock>
