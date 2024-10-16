@@ -394,12 +394,11 @@
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>VanometricPowerCell</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>WoodLog</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>WoolSheep</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Chocolate_strawberry</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_FirefoampopPack</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Shell_Firefoam</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>FirefoamPopper</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>TrapIED_Firefoam</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_ArmorMarinePrestige</thingDef><count>1000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_ArmorMarinePrestige</thingDef><count>100</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>baier</animalKind><count>1</count><age>17</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>buer</animalKind><count>1</count><age>17</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
@@ -427,6 +426,7 @@
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_v_flower</animalKind><count>1</count><age>20</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_YuzukiYukari</animalKind><count>1</count><age>9</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>zhuer</animalKind><count>1</count><age>27</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
+
 <li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MealSurvivalPack</thingDef><count>20000</count><quality>Normal</quality></li>
 <li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Steel</thingDef><count>20000</count><quality>Normal</quality></li>
 <li Class="ScenPart_ConfigPage_ConfigureStartingPawns"><def>ConfigPage_ConfigureStartingPawns</def><pawnChoiceCount>1</pawnChoiceCount><pawnCount>1</pawnCount></li>
@@ -578,12 +578,13 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AnimalProductsSellImprovement</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AnimalsLearningFactor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ArmorRating_Sharp</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ArrestSuccessChance</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AssemblySpeedFactor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BandwidthCost</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Beauty</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Beauty</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BeautyOutdoors</stat><factor>1</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Beauty</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BeautyOutdoors</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BeautyOutdoors</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BedHungerRateFactor</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BedRestEffectiveness</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BiosculpterOccupantSpeed</stat><factor>100</factor></li>
@@ -594,10 +595,10 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CancerRate</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CaravanRidingSpeedFactor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CarryingCapacity</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Cleanliness</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Cleanliness</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Comfort</stat><factor>1</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Cleanliness</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Comfort</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Comfort</stat><factor>1</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ComfyTemperatureMax</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ComfyTemperatureMin</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConstructionSpeed</stat><factor>100</factor></li>
@@ -718,6 +719,7 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SmeltingSpeed</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SmoothingSpeed</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SocialIdeoSpreadFrequencyFactor</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SocialImpact</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StaggerDurationFactor</stat><factor>0.01</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffEffectMultiplierArmor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffEffectMultiplierInsulation_Cold</stat><factor>100</factor></li>
@@ -725,11 +727,13 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffPower_Armor_Blunt</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffPower_Armor_Heat</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffPower_Armor_Sharp</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StyleDominance</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SubcoreEncodingSpeed</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SuppressionPower</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>TameAnimalChance</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ToxicEnvironmentResistance</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ToxicResistance</stat><factor>100</factor></li>
+<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>TradePriceImprovement</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>TrapMeleeDamage</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_EnergyShieldEnergyMaxApparel</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_EnergyShieldEnergyMaxFactor</stat><factor>100</factor></li>
@@ -754,10 +758,6 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkTableWorkSpeedFactor</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkToBuild</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkToMake</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StyleDominance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>TradePriceImprovement</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SocialImpact</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ArrestSuccessChance</stat><factor>100</factor></li>
 
 
 
