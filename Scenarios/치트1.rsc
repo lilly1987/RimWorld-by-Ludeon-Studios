@@ -716,43 +716,36 @@
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
-				<thingDef>Chocolate_strawberry</thingDef>
-				<count>20000</count>
-				<quality>Legendary</quality>
-				<allowRoofed>True</allowRoofed>
-			</li>
-			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
-				<def>ScatterThingsAnywhere</def>
 				<thingDef>Apparel_FirefoampopPack</thingDef>
-				<count>20000</count>
+				<count>100</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Shell_Firefoam</thingDef>
-				<count>20000</count>
+				<count>100</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>FirefoamPopper</thingDef>
-				<count>20000</count>
+				<count>100</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>TrapIED_Firefoam</thingDef>
-				<count>20000</count>
+				<count>100</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
 				<def>ScatterThingsAnywhere</def>
 				<thingDef>Apparel_ArmorMarinePrestige</thingDef>
-				<count>1000</count>
+				<count>100</count>
 				<quality>Legendary</quality>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -1618,6 +1611,11 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
+				<stat>ArrestSuccessChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
 				<stat>AssemblySpeedFactor</stat>
 				<factor>100</factor>
 			</li>
@@ -1629,22 +1627,22 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Beauty</stat>
-				<factor>1</factor>
+				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Beauty</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>BeautyOutdoors</stat>
 				<factor>1</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>BeautyOutdoors</stat>
 				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BeautyOutdoors</stat>
+				<factor>1</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1699,22 +1697,22 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Cleanliness</stat>
-				<factor>1</factor>
+				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Cleanliness</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Comfort</stat>
 				<factor>1</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Comfort</stat>
 				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Comfort</stat>
+				<factor>1</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1734,6 +1732,11 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>ConstructionSpeedFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ConstructSuccessChance</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -1799,7 +1802,7 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Fertility</stat>
-				<factor>100</factor>
+				<factor>1</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -2199,7 +2202,7 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>RawNutritionFactor</stat>
-				<factor>0.01</factor>
+				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -2313,6 +2316,11 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
+				<stat>SocialImpact</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
 				<stat>StaggerDurationFactor</stat>
 				<factor>0.01</factor>
 			</li>
@@ -2348,6 +2356,11 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
+				<stat>StyleDominance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
 				<stat>SubcoreEncodingSpeed</stat>
 				<factor>100</factor>
 			</li>
@@ -2369,6 +2382,11 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>ToxicResistance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>TradePriceImprovement</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -2497,61 +2515,6 @@
 				<affectNaturalGoodwill>True</affectNaturalGoodwill>
 				<naturalGoodwillRange>100~100</naturalGoodwillRange>
 				<def>VFEC_ForcedFactionGoodwill</def>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>StyleDominance</stat>
-				<factor>1.83</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>RawNutritionFactor</stat>
-				<factor>0.67</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Fertility</stat>
-				<factor>0.44</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>TradePriceImprovement</stat>
-				<factor>0.86</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>SocialImpact</stat>
-				<factor>1.28</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ArrestSuccessChance</stat>
-				<factor>2.25</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MedicalTendQualityOffset</stat>
-				<factor>1.23</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MedicalQualityMax</stat>
-				<factor>2.18</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>EntityStudyRate</stat>
-				<factor>2.82</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ContainmentStrength</stat>
-				<factor>3.11</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MinimumContainmentStrength</stat>
-				<factor>0.91</factor>
 			</li>
 		</parts>
 	</scenario>

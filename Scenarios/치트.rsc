@@ -336,434 +336,2389 @@
 			<factionDef>ResearchExpedition</factionDef>
 		</playerFaction>
 		<parts>
-        
-        
-        
-        
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_PackTurret</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Axolotl_Bamboo</thingDef><count>20000</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BabyFood</thingDef><count>20000</count><quality>Good</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Bioferrite</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksGranite</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksLimestone</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksMarble</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>BlocksSandstone</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Chemfuel</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Cloth</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ComponentIndustrial</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ComponentSpacer</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>DevilstrandCloth</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Dye</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>FlatscreenTelevision</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Gold</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Gun_AssaultRifle</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>HemogenPack</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Hyperweave</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>IG_Meal_b</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>IG_Meal_g</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>IJade</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Jade</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Kiiro_CannedCatFood</thingDef><count>20000</count><quality>Masterwork</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Kiiro_CannedMintedCatFood</thingDef><count>20000</count><quality>Awful</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Kiiro_MixMedicineHerbal</thingDef><count>20000</count><quality>Good</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Camel</thingDef><count>20000</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Dog</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Fox</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Leather_Plain</thingDef><count>20000</count><quality>Awful</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MechSerumHealer</thingDef><count>20000</count><quality>Masterwork</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MechSerumResurrector</thingDef><count>20000</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineHerbal</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineIndustrial</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>MedicineUltratech</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Miho_CelestialScale</thingDef><count>20000</count><quality>Poor</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Miho_Ebony_SilkCloth</thingDef><count>20000</count><quality>Excellent</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Neutroamine</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Novel</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Penoxycyline</thingDef><count>20000</count><quality>Good</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Plasteel</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ProximityDetector</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Shard</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>ShipChunk</thingDef><count>100</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Silver</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Steel</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>SubcoreBasic</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Synthread</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>TextBook</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Tome</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Uranium</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>VanometricPowerCell</thingDef><count>10</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>WoodLog</thingDef><count>20000</count><quality>Normal</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>WoolSheep</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_FirefoampopPack</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Shell_Firefoam</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>FirefoamPopper</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>TrapIED_Firefoam</thingDef><count>20000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere"><def>ScatterThingsAnywhere</def><thingDef>Apparel_ArmorMarinePrestige</thingDef><count>100</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Apparel_PackTurret</thingDef>
+				<count>10</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Axolotl_Bamboo</thingDef>
+				<count>20000</count>
+				<quality>Excellent</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>BabyFood</thingDef>
+				<count>20000</count>
+				<quality>Good</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Bioferrite</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>BlocksGranite</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>BlocksLimestone</thingDef>
+				<count>20000</count>
+				<quality>Poor</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>BlocksMarble</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>BlocksSandstone</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Chemfuel</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Cloth</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>ComponentIndustrial</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>ComponentSpacer</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>DevilstrandCloth</thingDef>
+				<count>20000</count>
+				<quality>Poor</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Dye</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>FlatscreenTelevision</thingDef>
+				<count>10</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Gold</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Gun_AssaultRifle</thingDef>
+				<count>10</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>HemogenPack</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Hyperweave</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>IG_Meal_b</thingDef>
+				<count>20000</count>
+				<quality>Poor</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>IG_Meal_g</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>IJade</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Jade</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Kiiro_CannedCatFood</thingDef>
+				<count>20000</count>
+				<quality>Masterwork</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Kiiro_CannedMintedCatFood</thingDef>
+				<count>20000</count>
+				<quality>Awful</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Kiiro_MixMedicineHerbal</thingDef>
+				<count>20000</count>
+				<quality>Good</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Leather_Camel</thingDef>
+				<count>20000</count>
+				<quality>Excellent</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Leather_Dog</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Leather_Fox</thingDef>
+				<count>20000</count>
+				<quality>Poor</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Leather_Plain</thingDef>
+				<count>20000</count>
+				<quality>Awful</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>MechSerumHealer</thingDef>
+				<count>20000</count>
+				<quality>Masterwork</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>MechSerumResurrector</thingDef>
+				<count>20000</count>
+				<quality>Excellent</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>MedicineHerbal</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>MedicineIndustrial</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>MedicineUltratech</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Miho_CelestialScale</thingDef>
+				<count>20000</count>
+				<quality>Poor</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Miho_Ebony_SilkCloth</thingDef>
+				<count>20000</count>
+				<quality>Excellent</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Neutroamine</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Novel</thingDef>
+				<count>10</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Penoxycyline</thingDef>
+				<count>20000</count>
+				<quality>Good</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Plasteel</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>ProximityDetector</thingDef>
+				<count>10</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Shard</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>ShipChunk</thingDef>
+				<count>10</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Silver</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Steel</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>SubcoreBasic</thingDef>
+				<count>10</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Synthread</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>TextBook</thingDef>
+				<count>10</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Tome</thingDef>
+				<count>10</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Uranium</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>VanometricPowerCell</thingDef>
+				<count>10</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>WoodLog</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>WoolSheep</thingDef>
+				<count>20000</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Apparel_FirefoampopPack</thingDef>
+				<count>100</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Shell_Firefoam</thingDef>
+				<count>100</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>FirefoamPopper</thingDef>
+				<count>100</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>TrapIED_Firefoam</thingDef>
+				<count>100</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_ScatterThingsStyleAnywhere">
+				<def>ScatterThingsAnywhere</def>
+				<thingDef>Apparel_ArmorMarinePrestige</thingDef>
+				<count>100</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>baier</animalKind>
+				<count>1</count>
+				<age>17</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>buer</animalKind>
+				<count>1</count>
+				<age>17</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>jiaer</animalKind>
+				<count>1</count>
+				<age>18</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>juer</animalKind>
+				<count>1</count>
+				<age>4</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>kuoer</animalKind>
+				<count>1</count>
+				<age>3</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_Allial</animalKind>
+				<count>1</count>
+				<age>25</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_IA</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>16</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_KizunaAkari</animalKind>
+				<count>1</count>
+				<age>18</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_KotonohaAkane</animalKind>
+				<count>1</count>
+				<age>2</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_KotonohaAoi</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>25</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_KyomachiSeika</animalKind>
+				<count>1</count>
+				<age>6</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_MeikaHime</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>13</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_MeikaMikoto</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>29</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_Millial</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>4</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_ONE</animalKind>
+				<count>1</count>
+				<age>16</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_OtomachiUna</animalKind>
+				<count>1</count>
+				<age>6</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_SatoSasara</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>27</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_SuzukiTsudumi</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>7</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_TohokuItako</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>19</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_TohokuKiritan</animalKind>
+				<count>1</count>
+				<age>7</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_TohokuKiritan</animalKind>
+				<count>1</count>
+				<gender>None</gender>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_TohokuZunko</animalKind>
+				<count>1</count>
+				<age>27</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_Tuina_chan</animalKind>
+				<count>1</count>
+				<gender>Male</gender>
+				<age>9</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_v_flower</animalKind>
+				<count>1</count>
+				<age>20</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_YuzukiYukari</animalKind>
+				<count>1</count>
+				<age>9</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>zhuer</animalKind>
+				<count>1</count>
+				<age>27</age>
+				<pawnName Class="NameSingle">
+					<name />
+				</pawnName>
+				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>MealSurvivalPack</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Steel</thingDef>
+				<count>20000</count>
+				<quality>Normal</quality>
+			</li>
+			<li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+				<def>ConfigPage_ConfigureStartingPawns</def>
+				<pawnChoiceCount>1</pawnChoiceCount>
+				<pawnCount>1</pawnCount>
+			</li>
+			<li Class="ScenPart_PlayerPawnsArriveMethod">
+				<def>PlayerPawnsArriveMethod</def>
+				<method>DropPods</method>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>AdvancedFabrication</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Archogenetics</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ArtificialMetabolism</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Autodoors</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_HeavenlyTopArmor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>BasicMechtech</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Batteries</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>BioferriteExtraction</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>BioferriteHarvesting</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>BiofuelRefining</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Bionics</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Bioregeneration</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Biosculpting</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>BlissLobotomy</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>BlowbackOperation</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>BrainWiring</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Brewing</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>CarpetMaking</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ChargedShot</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>CircadianInfluence</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Cocoa</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ColoredLights</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>CompactWeaponry</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Cryptosleep</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>DeadlifeDust</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Deathrest</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>DetColumnRes</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Devilstrand</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>DrugProduction</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Electroharvester</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Fabrication</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>FertilityProcedures</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Firefoam</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>FlakArmor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>FlatscreenTelevision</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>FleshShaping</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>GeneProcessor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>GeothermalPower</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>GhoulResurrection</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>GoJuiceProduction</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Greatbow</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>GrowthVats</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Gunsmithing</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>GunTurrets</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Harp</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Harpsichord</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>HealingFactors</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>HeavyTurrets</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>HighMechtech</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Hydroponics</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>IGBaseTech</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>IGMealMegaTech</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>IGSecretmedicine</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>JumpPack</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Kiiro_Amamech</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Kiiro_Apparel_I</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Kiiro_Apparel_III</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Kiiro_AutoLauncher</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>LongBlades</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Machining</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MaidTech</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MetallicBatteriesImproved</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MicroelectronicsBasics</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Miho_ApparelAssassin</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Miho_ApparelSorcerees</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Miho_BasicFactory</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Miho_Drone</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Miho_PlasmaWeapon</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MoisturePump</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MolecularAnalysis</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Mortars</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MultiAnalyzer</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MultibarrelWeapons</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MutationWeaponry</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MyaFufu</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>NeuralComputation</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>NeuralSupercharger</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>NobleApparel</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>OrbitalTradeColumnRes</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>PackagedSurvivalMeal</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Pemmican</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>PenoxycylineProduction</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Piano</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>PlateArmor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>PoweredArmor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>PsychiteRefining</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>PsychoidBrewing</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ReconArmor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>RecurveBow</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>RevenantInvisibility</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>RocketswarmLauncher</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>RoyalApparel</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SecurityDoor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SerumSynthesis</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ShieldBelt</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ShipBasics</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ShipComputerCore</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ShipCryptosleep</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ShipEngine</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ShipReactor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ShipSensorCluster</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SkinHardening</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Smithing</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SmokepopBelt</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SniperTurret</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SolarPanels</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SpecializedLimbs</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>StandardMechtech</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SterileMaterials</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SummonShamblers</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ToxFiltration</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ToxGas</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ToxifierGenerator</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>TransportPod</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>TreeSowing</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>TubeTelevision</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>TurretPack</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>UltraMechtech</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>VenomSynthesis</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>VitalsMonitor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>VoidSculptures</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>WakeUpProduction</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>WastepackAtomizer</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>WatermillGenerator</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Xenogermination</project>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Ability_CastingTime</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Ability_DetectChancePerEntropy</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Ability_PsyfocusCost</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Ability_Range</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AccuracyLong</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AccuracyMedium</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AccuracyShort</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AccuracyTouch</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AimingDelayFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AnimalGatherSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AnimalGatherYield</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AnimalProductsSellImprovement</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AnimalsLearningFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ArmorRating_Sharp</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ArrestSuccessChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>AssemblySpeedFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BandwidthCost</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Beauty</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Beauty</stat>
+				<factor>1</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BeautyOutdoors</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BeautyOutdoors</stat>
+				<factor>1</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BedHungerRateFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BedRestEffectiveness</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BiosculpterOccupantSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BirthRitualQualityOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>BondAnimalChanceFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ButcheryFleshEfficiency</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ButcheryFleshSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>CancerRate</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>CaravanRidingSpeedFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>CarryingCapacity</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Cleanliness</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Cleanliness</stat>
+				<factor>1</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Comfort</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Comfort</stat>
+				<factor>1</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ComfyTemperatureMax</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ComfyTemperatureMin</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ConstructionSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ConstructionSpeedFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ConstructSuccessChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ContainmentStrength</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ControlTakingTime</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ConversionPower</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>CookSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>CrawlSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>DeepDrillingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>DeteriorationRate</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>DrugCookingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>DrugHarvestYield</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>EatingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>EMPResistance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>EntityStudyRate</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Fertility</stat>
+				<factor>1</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>FilthRate</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>FixBrokenDownBuildingSuccessChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>FoodPoisonChance</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>FoodPoisonChanceFixedHuman</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ForagedNutritionPerDay</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>GeneralLaborSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>GlobalLearningFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>GrowthVatOccupantSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>HackingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>HemogenGainFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>HuntingStealth</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ImmunityGainSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>IncomingDamageFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>InjuryHealingFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Insulation_Cold</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Insulation_Heat</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>JoyFallRateFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>JoyGainFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>JumpRange</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Kiiro_DodgePostProcessFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Kiiro_RangeDodgeChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>LearningRateFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>LeatherAmount</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>LifespanFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MarketValue</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MarketValueIgnoreHp</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Mass</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MaxHitPoints</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeatAmount</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MechBandwidth</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MechEnergyLossPerHP</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MechEnergyUsageFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MechFormingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MechRemoteRepairDistance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MechRemoteShieldDistance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MechRemoteShieldEnergy</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MechRepairSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MedicalOperationSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MedicalPotency</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MedicalQualityMax</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MedicalSurgerySuccessChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MedicalTendQualityOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MedicalTendSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeditationFocusGain</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeditationFocusStrength</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeditationPlantGrowthOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeDodgeChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeDodgeChanceIndoorsDarkOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeDodgeChanceIndoorsLitOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeDodgeChanceOutdoorsDarkOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeDodgeChanceOutdoorsLitOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeHitChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeHitChanceIndoorsDarkOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeHitChanceIndoorsLitOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeHitChanceOutdoorsDarkOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MeleeHitChanceOutdoorsLitOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MentalBreakThreshold</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MinimumContainmentStrength</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MinimumHandlingSkill</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MiningSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MiningYield</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MortarMissRadiusFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MoveSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>Nutrition</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PackRadius</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PainShockThreshold</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PawnBeauty</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PawnTrapSpringChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PlantHarvestYield</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PowerPlantMaxPowerOuput</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PruningSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PsychicEntropyMax</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PsychicEntropyRecoveryRate</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PsychicSensitivity</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PsychicSensitivityFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>PsychicSensitivityOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>RangedCooldownFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>RangedWeapon_Cooldown</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>RangedWeapon_DamageMultiplier</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>RawNutritionFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ReadingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ResearchSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ResearchSpeedFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>RestFallRateFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>RestRateMultiplier</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>RoomReadingBonus</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>RoyalFavorValue</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>SellPriceFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyFactor_Long</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyFactor_Medium</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyFactor_Short</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyFactor_Touch</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyIndoorsDarkOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyIndoorsLitOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyOutdoorsDarkOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyOutdoorsLitOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyPawn</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ShootingAccuracyTurret</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>SlaveSuppressionFallRate</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>SmeltingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>SmoothingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>SocialIdeoSpreadFrequencyFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>SocialImpact</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>StaggerDurationFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>StuffEffectMultiplierArmor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>StuffEffectMultiplierInsulation_Cold</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>StuffEffectMultiplierInsulation_Heat</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>StuffPower_Armor_Blunt</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>StuffPower_Armor_Heat</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>StuffPower_Armor_Sharp</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>StyleDominance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>SubcoreEncodingSpeed</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>SuppressionPower</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>TameAnimalChance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ToxicEnvironmentResistance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>ToxicResistance</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>TradePriceImprovement</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>TrapMeleeDamage</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_EnergyShieldEnergyMaxApparel</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_EnergyShieldEnergyMaxFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_EnergyShieldEnergyMaxOffset</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_EnergyShieldEnergyMaxPawn</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_EnergyShieldRadiusPawn</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_EnergyShieldRechargeRatePawn</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_FoodCapacityMultiplier</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_GrowthPointMultiplier</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_MassCarryCapacity</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_MeleeAttackDamageFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_MeleeAttackSpeedFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_RangeAttackDamageFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_RangeAttackSpeedFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_RangedCooldownFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_VerbCooldownFactor</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>VEF_VerbRangeFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>WastepacksPerRecharge</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>WorkSpeedGlobal</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>WorkSpeedGlobalOffsetMech</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>WorkTableEfficiencyFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>WorkTableWorkSpeedFactor</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>WorkToBuild</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>WorkToMake</stat>
+				<factor>100</factor>
+			</li>
+			<li Class="VFECore.ScenPart_ForcedFactionGoodwill">
+				<affectStartingGoodwill>True</affectStartingGoodwill>
+				<startingGoodwillRange>100~100</startingGoodwillRange>
+				<affectNaturalGoodwill>True</affectNaturalGoodwill>
+				<naturalGoodwillRange>100~100</naturalGoodwillRange>
+				<def>VFEC_ForcedFactionGoodwill</def>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>MaidCostumeCraftingTable</thingDef>
+				<count>5</count>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>MURWallSunLamp</thingDef>
+				<count>100</count>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>ElectricStove</thingDef>
+				<count>5</count>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>Electroharvester</thingDef>
+				<count>5</count>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>ElectricSmithy</thingDef>
+				<count>5</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>ElectricTailoringBench</thingDef>
+				<stuff>Plasteel</stuff>
+				<count>5</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>ChefMaid</thingDef>
+				<count>100</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>LWM_VeryBigShelf</thingDef>
+				<stuff>Plasteel</stuff>
+				<count>100</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>ElectricSmelter</thingDef>
+				<count>5</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>Battery_Advanced</thingDef>
+				<count>10</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>Battery</thingDef>
+				<count>10</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>Bed</thingDef>
+				<stuff>Plasteel</stuff>
+				<count>50</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>LWM_Medicine_Cabinet</thingDef>
+				<stuff>Plasteel</stuff>
+				<count>10</count>
+				<quality>Legendary</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>Kibble</thingDef>
+				<count>10000</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>Steel</thingDef>
+				<count>100000</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>Nimble</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>FastLearner</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>GreatMemory</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>Tough</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>QuickSleeper</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>SpeedOffset</trait>
+				<degree>2</degree>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>Nerves</trait>
+				<degree>2</degree>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>NaturalMood</trait>
+				<degree>1</degree>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>Industriousness</trait>
+				<degree>1</degree>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>Beauty</trait>
+				<degree>2</degree>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>Immunity</trait>
+				<degree>1</degree>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>PerfectMemory</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>Joyous</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>BodyMastery</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>ToxicResistance</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>1</chance>
+				<trait>KittyValor</trait>
+			</li>
+			<li Class="ScenPart_ForcedTrait">
+				<def>ForcedTrait</def>
+				<chance>0.52</chance>
+				<context>PlayerStarter</context>
+				<trait>SingleTailFox</trait>
+			</li>
+			<li Class="KCSG.ScenPart_AddStartingStructure">
+				<def>VFEC_AddStartingStructure</def>
+				<spawnConduits>True</spawnConduits>
+				<preGenClear>True</preGenClear>
+				<structureLabel />
+				<chooseFrom>
+					<li>IG_StructureLayoutDef_InsectGirlsHouse</li>
+					<li>IG_StructureLayoutDef_RGK_InsectGirlsHouse</li>
+				</chooseFrom>
+			</li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildShamaness_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildSummoner_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildTemptress_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildTinker_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildCelestial_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildHuntress_High</hediff><severityRange>1~1</severityRange></li>
 
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>baier</animalKind><count>1</count><age>17</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>buer</animalKind><count>1</count><age>17</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>jiaer</animalKind><count>1</count><age>18</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>juer</animalKind><count>1</count><age>4</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>kuoer</animalKind><count>1</count><age>3</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_Allial</animalKind><count>1</count><age>25</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_IA</animalKind><count>1</count><gender>Male</gender><age>16</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_KizunaAkari</animalKind><count>1</count><age>18</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_KotonohaAkane</animalKind><count>1</count><age>2</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_KotonohaAoi</animalKind><count>1</count><gender>Male</gender><age>25</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_KyomachiSeika</animalKind><count>1</count><age>6</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_MeikaHime</animalKind><count>1</count><gender>Male</gender><age>13</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_MeikaMikoto</animalKind><count>1</count><gender>Male</gender><age>29</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_Millial</animalKind><count>1</count><gender>Male</gender><age>4</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_ONE</animalKind><count>1</count><age>16</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_OtomachiUna</animalKind><count>1</count><age>6</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_SatoSasara</animalKind><count>1</count><gender>Male</gender><age>27</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_SuzukiTsudumi</animalKind><count>1</count><gender>Male</gender><age>7</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_TohokuItako</animalKind><count>1</count><gender>Male</gender><age>19</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_TohokuKiritan</animalKind><count>1</count><age>7</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_TohokuKiritan</animalKind><count>1</count><gender>None</gender><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_TohokuZunko</animalKind><count>1</count><age>27</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_Tuina_chan</animalKind><count>1</count><gender>Male</gender><age>9</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_v_flower</animalKind><count>1</count><age>20</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_YuzukiYukari</animalKind><count>1</count><age>9</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>zhuer</animalKind><count>1</count><age>27</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MealSurvivalPack</thingDef><count>20000</count><quality>Normal</quality></li>
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Steel</thingDef><count>20000</count><quality>Normal</quality></li>
-<li Class="ScenPart_ConfigPage_ConfigureStartingPawns"><def>ConfigPage_ConfigureStartingPawns</def><pawnChoiceCount>1</pawnChoiceCount><pawnCount>1</pawnCount></li>
-<li Class="ScenPart_PlayerPawnsArriveMethod"><def>PlayerPawnsArriveMethod</def><method>DropPods</method></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>AdvancedFabrication</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Archogenetics</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ArtificialMetabolism</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Autodoors</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Axolotl_HeavenlyTopArmor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BasicMechtech</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Batteries</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BioferriteExtraction</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BioferriteHarvesting</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BiofuelRefining</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Bionics</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Bioregeneration</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Biosculpting</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BlissLobotomy</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BlowbackOperation</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BrainWiring</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Brewing</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>CarpetMaking</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ChargedShot</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>CircadianInfluence</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Cocoa</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ColoredLights</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>CompactWeaponry</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Cryptosleep</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>DeadlifeDust</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Deathrest</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>DetColumnRes</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Devilstrand</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>DrugProduction</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Electroharvester</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Fabrication</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>FertilityProcedures</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Firefoam</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>FlakArmor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>FlatscreenTelevision</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>FleshShaping</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GeneProcessor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GeothermalPower</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GhoulResurrection</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GoJuiceProduction</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Greatbow</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GrowthVats</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Gunsmithing</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GunTurrets</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Harp</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Harpsichord</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>HealingFactors</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>HeavyTurrets</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>HighMechtech</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Hydroponics</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>IGBaseTech</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>IGMealMegaTech</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>IGSecretmedicine</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>JumpPack</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Kiiro_Amamech</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Kiiro_Apparel_I</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Kiiro_Apparel_III</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Kiiro_AutoLauncher</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>LongBlades</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Machining</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MaidTech</project></li>            
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MetallicBatteriesImproved</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MicroelectronicsBasics</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Miho_ApparelAssassin</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Miho_ApparelSorcerees</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Miho_BasicFactory</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Miho_Drone</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Miho_PlasmaWeapon</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MoisturePump</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MolecularAnalysis</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Mortars</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MultiAnalyzer</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MultibarrelWeapons</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MutationWeaponry</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MyaFufu</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>NeuralComputation</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>NeuralSupercharger</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>NobleApparel</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>OrbitalTradeColumnRes</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>PackagedSurvivalMeal</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Pemmican</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>PenoxycylineProduction</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Piano</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>PlateArmor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>PoweredArmor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>PsychiteRefining</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>PsychoidBrewing</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ReconArmor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>RecurveBow</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>RevenantInvisibility</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>RocketswarmLauncher</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>RoyalApparel</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SecurityDoor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SerumSynthesis</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ShieldBelt</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ShipBasics</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ShipComputerCore</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ShipCryptosleep</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ShipEngine</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ShipReactor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ShipSensorCluster</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SkinHardening</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Smithing</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SmokepopBelt</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SniperTurret</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SolarPanels</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SpecializedLimbs</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>StandardMechtech</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SterileMaterials</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>SummonShamblers</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ToxFiltration</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ToxGas</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ToxifierGenerator</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>TransportPod</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>TreeSowing</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>TubeTelevision</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>TurretPack</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>UltraMechtech</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>VenomSynthesis</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>VitalsMonitor</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>VoidSculptures</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>WakeUpProduction</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>WastepackAtomizer</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>WatermillGenerator</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Xenogermination</project></li>
-
-
-
-
-
-
-
-
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Ability_CastingTime</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Ability_DetectChancePerEntropy</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Ability_PsyfocusCost</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Ability_Range</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AccuracyLong</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AccuracyMedium</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AccuracyShort</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AccuracyTouch</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AimingDelayFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AnimalGatherSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AnimalGatherYield</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AnimalProductsSellImprovement</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AnimalsLearningFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ArmorRating_Sharp</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ArrestSuccessChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>AssemblySpeedFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BandwidthCost</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Beauty</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Beauty</stat><factor>1</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BeautyOutdoors</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BeautyOutdoors</stat><factor>1</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BedHungerRateFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BedRestEffectiveness</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BiosculpterOccupantSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BirthRitualQualityOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>BondAnimalChanceFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ButcheryFleshEfficiency</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ButcheryFleshSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CancerRate</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CaravanRidingSpeedFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CarryingCapacity</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Cleanliness</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Cleanliness</stat><factor>1</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Comfort</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Comfort</stat><factor>1</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ComfyTemperatureMax</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ComfyTemperatureMin</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConstructionSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConstructionSpeedFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConstructSuccessChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ContainmentStrength</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ControlTakingTime</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ConversionPower</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CookSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>CrawlSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>DeepDrillingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>DeteriorationRate</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>DrugCookingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>DrugHarvestYield</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>EatingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>EMPResistance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>EntityStudyRate</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Fertility</stat><factor>1</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>FilthRate</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>FixBrokenDownBuildingSuccessChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>FoodPoisonChance</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>FoodPoisonChanceFixedHuman</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ForagedNutritionPerDay</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>GeneralLaborSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>GlobalLearningFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>GrowthVatOccupantSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>HackingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>HemogenGainFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>HuntingStealth</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ImmunityGainSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>IncomingDamageFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>InjuryHealingFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Insulation_Cold</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Insulation_Heat</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>JoyFallRateFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>JoyGainFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>JumpRange</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Kiiro_DodgePostProcessFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Kiiro_RangeDodgeChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>LearningRateFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>LeatherAmount</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>LifespanFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MarketValue</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MarketValueIgnoreHp</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Mass</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MaxHitPoints</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeatAmount</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MechBandwidth</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MechEnergyLossPerHP</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MechEnergyUsageFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MechFormingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MechRemoteRepairDistance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MechRemoteShieldDistance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MechRemoteShieldEnergy</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MechRepairSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MedicalOperationSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MedicalPotency</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MedicalQualityMax</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MedicalSurgerySuccessChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MedicalTendQualityOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MedicalTendSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeditationFocusGain</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeditationFocusStrength</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeditationPlantGrowthOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeDodgeChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeDodgeChanceIndoorsDarkOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeDodgeChanceIndoorsLitOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeDodgeChanceOutdoorsDarkOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeDodgeChanceOutdoorsLitOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeHitChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeHitChanceIndoorsDarkOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeHitChanceIndoorsLitOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeHitChanceOutdoorsDarkOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MeleeHitChanceOutdoorsLitOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MentalBreakThreshold</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MinimumContainmentStrength</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MinimumHandlingSkill</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MiningSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MiningYield</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MortarMissRadiusFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>MoveSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>Nutrition</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PackRadius</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PainShockThreshold</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PawnBeauty</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PawnTrapSpringChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PlantHarvestYield</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PowerPlantMaxPowerOuput</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PruningSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PsychicEntropyMax</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PsychicEntropyRecoveryRate</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PsychicSensitivity</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PsychicSensitivityFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>PsychicSensitivityOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RangedCooldownFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RangedWeapon_Cooldown</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RangedWeapon_DamageMultiplier</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RawNutritionFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ReadingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ResearchSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ResearchSpeedFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RestFallRateFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RestRateMultiplier</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RoomReadingBonus</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>RoyalFavorValue</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SellPriceFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyFactor_Long</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyFactor_Medium</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyFactor_Short</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyFactor_Touch</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyIndoorsDarkOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyIndoorsLitOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyOutdoorsDarkOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyOutdoorsLitOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyPawn</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ShootingAccuracyTurret</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SlaveSuppressionFallRate</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SmeltingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SmoothingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SocialIdeoSpreadFrequencyFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SocialImpact</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StaggerDurationFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffEffectMultiplierArmor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffEffectMultiplierInsulation_Cold</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffEffectMultiplierInsulation_Heat</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffPower_Armor_Blunt</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffPower_Armor_Heat</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StuffPower_Armor_Sharp</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>StyleDominance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SubcoreEncodingSpeed</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>SuppressionPower</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>TameAnimalChance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ToxicEnvironmentResistance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>ToxicResistance</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>TradePriceImprovement</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>TrapMeleeDamage</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_EnergyShieldEnergyMaxApparel</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_EnergyShieldEnergyMaxFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_EnergyShieldEnergyMaxOffset</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_EnergyShieldEnergyMaxPawn</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_EnergyShieldRadiusPawn</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_EnergyShieldRechargeRatePawn</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_FoodCapacityMultiplier</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_GrowthPointMultiplier</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_MassCarryCapacity</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_MeleeAttackDamageFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_MeleeAttackSpeedFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_RangeAttackDamageFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_RangeAttackSpeedFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_RangedCooldownFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_VerbCooldownFactor</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>VEF_VerbRangeFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WastepacksPerRecharge</stat><factor>0.01</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkSpeedGlobal</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkSpeedGlobalOffsetMech</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkTableEfficiencyFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkTableWorkSpeedFactor</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkToBuild</stat><factor>100</factor></li>
-<li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkToMake</stat><factor>100</factor></li>
-
-
-
-<li Class="VFECore.ScenPart_ForcedFactionGoodwill"><affectStartingGoodwill>True</affectStartingGoodwill><startingGoodwillRange>100~100</startingGoodwillRange><affectNaturalGoodwill>True</affectNaturalGoodwill><naturalGoodwillRange>100~100</naturalGoodwillRange><def>VFEC_ForcedFactionGoodwill</def></li>
-            
-            
 		</parts>
 	</scenario>
 </savedscenario>
