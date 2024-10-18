@@ -11,14 +11,22 @@
 			<li>ludeon.rimworld.ideology</li>
 			<li>ludeon.rimworld.biotech</li>
 			<li>ludeon.rimworld.anomaly</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>mlie.blueprintmaterialdebt</li>
+			<li>chippedchap.blueprinttotalstooltip</li>
 			<li>imranfish.xmlextensions</li>
+			<li>jp.perfectpathing</li>
 			<li>erdelf.humanoidalienraces</li>
+			<li>syrchalis.metallicbatteries</li>
 			<li>butterfish.hairmoddingplus</li>
 			<li>gguake.ai.dsfi</li>
+			<li>sarg.alphaprefabs</li>
+			<li>nep.smallerturbines</li>
+			<li>owlchemist.cherrypicker.tmpfix</li>
 			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>mrhydralisk.voeadditionaloutposts</li>
 			<li>eoralmilk.faceaddonframework</li>
 			<li>nals.facialanimation</li>
-			<li>fluffy.blueprints</li>
 			<li>hentailoliteam.axolotl</li>
 			<li>merthsoft.designatorshapes</li>
 			<li>hentailoliteam.axolotl.fa</li>
@@ -35,7 +43,6 @@
 			<li>automatic.startupimpact</li>
 			<li>eoralmilk.kurinmeowedition</li>
 			<li>lovetianyilove.kurin.ve.zhcn.lovetianyilove</li>
-			<li>unlimitedhugs.hugslib</li>
 			<li>ancot.kiirorace</li>
 			<li>ventaextera.ideorolepatch</li>
 			<li>defo.invinciblewalls</li>
@@ -44,6 +51,8 @@
 			<li>sumghai.hamefura</li>
 			<li>lotusland.fixedpawngenerate</li>
 			<li>erin.hair2</li>
+			<li>ponpeco.pphair</li>
+			<li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
 			<li>erin.hairredux</li>
 			<li>lotusland.fpgbluearchive</li>
 			<li>chad.almostthere1.5</li>
@@ -59,6 +68,7 @@
 			<li>mlie.syrmetallicbatteries</li>
 			<li>bbis.maidproject</li>
 			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>ganjamannl.nomorefilth</li>
 			<li>dani.custommotemaker</li>
 			<li>mlmlmlm.cosplayapparelzenlesszonezero</li>
 			<li>mlmlmlm.cosplayequipmentbluearchive</li>
@@ -100,18 +110,51 @@
 			<li>lucifer.realisticrooms</li>
 			<li>tr.qualcolor</li>
 			<li>void.charactereditor</li>
+			<li>windchime.giverthecolonyhelper</li>
 			<li>doug.nojobauthors</li>
 			<li>indeed.stackxxl</li>
-			<li>rmk.translation</li>
-			<li>blackcanvas.korean.myafufu</li>
-			<li>moonleaf.mistranslations</li>
-			<li>blackcanvas.ayabosstranslations</li>
-			<li>blackcanvas.ayaracetranslations</li>
-			<li>blackcanvas.korean.voiceroidasanimal</li>
 			<li>dubwise.dubsperformanceanalyzer.steam</li>
-			<li>krkr.rocketman</li>
+			<li>rmk.translation</li>
 			<li>taranchuk.performanceoptimizer</li>
 			<li>owlchemist.toggleablereadouts</li>
+			<li>kota.inventorytab</li>
+			<li>zal.bulksmelting</li>
+			<li>mlie.foodalert</li>
+			<li>haecriver.injuredcarry</li>
+			<li>runnelatki.rabbieracemod</li>
+			<li>erdelf.minifyeverything</li>
+			<li>jkluch.haultostack</li>
+			<li>notooshabby.homemover</li>
+			<li>mlie.iclearlyhaveenough</li>
+			<li>ratys.madskills</li>
+			<li>mastertea.randomplus</li>
+			<li>mlie.milkablecolonists</li>
+			<li>unon.noburnmetal</li>
+			<li>azzyh.mechchargerbooster</li>
+			<li>fed1splay.pawntargetfix</li>
+			<li>erdelf.powerindicators</li>
+			<li>andromeda.stackgap</li>
+			<li>brrainz.reversecommands</li>
+			<li>elshender.stackablechunks</li>
+			<li>scherub.stonecuttingextended</li>
+			<li>falconne.roomsense</li>
+			<li>cedaro.devicestandby</li>
+			<li>frozensnowfox.nodefaultshelfstorage</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>flyfire2002.fieldmedic</li>
+			<li>dvs.norandomrelations</li>
+			<li>fluffy.blueprints.fork</li>
+			<li>m00nl1ght.unofficialupdates.preparelanding</li>
+			<li>murmur.tcu</li>
+			<li>mlie.noversionwarning</li>
+			<li>pyrce.terrain.zone.select</li>
+			<li>blackcanvas.korean.voiceroidasanimal</li>
+			<li>blackcanvas.ayabosstranslations</li>
+			<li>blackcanvas.korean.myafufu</li>
+			<li>moonleaf.mistranslations</li>
+			<li>blackcanvas.ayaracetranslations</li>
+			<li>blackcanvas.korean.giverthecolonyhelper</li>
+			<li>krkr.rocketman</li>
 		</modIds>
 		<modSteamIds>
 			<li>0</li>
@@ -122,6 +165,15 @@
 			<li>1392840</li>
 			<li>1826140</li>
 			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -201,8 +253,42 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
+			<li>0</li>
 			<li>1231617602</li>
 			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>858744731</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -233,14 +319,22 @@
 			<li>Ideology</li>
 			<li>Biotech</li>
 			<li>Anomaly</li>
+			<li>HugsLib</li>
+			<li>Blueprint Material Debt (Continued)</li>
+			<li>Blueprint Totals Tooltip</li>
 			<li>XML Extensions</li>
+			<li>Perfect Pathfinding</li>
 			<li>Humanoid Alien Races</li>
+			<li>[SYR] Metallic Batteries</li>
 			<li>Hair Modding Plus (continued)</li>
 			<li>Do Something for Idle</li>
+			<li>Alpha Prefabs</li>
+			<li>Aligned Turbines</li>
+			<li>Cherry Picker</li>
 			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Outposts Expanded: Additional Outposts</li>
 			<li>Face Addon Framework</li>
 			<li>[NL] Facial Animation - WIP</li>
-			<li>Blueprints</li>
 			<li>MoeLotl Race</li>
 			<li>Designator Shapes</li>
 			<li>MoeLotl Facial Animation</li>
@@ -257,7 +351,6 @@
 			<li>StartupImpact</li>
 			<li>Kurin Meow Edition</li>
 			<li>Kurin魅狐豪华版本体内置载具拓展内容简中汉化补丁</li>
-			<li>HugsLib</li>
 			<li>Kiiro Race</li>
 			<li>Ideo Roles Don't Forbid Work</li>
 			<li>Invincible Walls</li>
@@ -266,6 +359,8 @@
 			<li>Hamefura</li>
 			<li>Fixed Pawn Generate</li>
 			<li>Erin's Hairstyles 2</li>
+			<li>Ponpeco Hair</li>
+			<li>AFU女士发型_Women's hairstyles</li>
 			<li>Erin's Hairstyles - Redux</li>
 			<li>Characters - Blue Archive</li>
 			<li>Almostthere1.5</li>
@@ -281,6 +376,7 @@
 			<li>[SYR] Metallic Batteries (Continued)</li>
 			<li>[SS]Maid Project</li>
 			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>No More Filth (continued)</li>
 			<li>[DN] Custom Mote Maker</li>
 			<li>[Cosplay apparel]Zenless Zone Zero</li>
 			<li>[Cosplay equipment] Blue archive</li>
@@ -322,22 +418,55 @@
 			<li>Realistic Rooms Rewritten</li>
 			<li>Quality Colors 1.5 - Forked</li>
 			<li>Character Editor</li>
+			<li>Giver</li>
 			<li>No Job Authors</li>
 			<li>Stack XXL</li>
-			<li>Rimworld Mod Korean</li>
-			<li>Mya's fufu 한국어 번역</li>
-			<li>[MIS] - 명일방주 통합 한국어 번역모드</li>
-			<li>Ayameduki Boss 통합 한국어 번역</li>
-			<li>Ayameduki Race 통합 한국어 번역</li>
-			<li>VoiceroidAsAnimal 한국어 번역</li>
 			<li>Dubs Performance Analyzer</li>
-			<li>RocketMan - Performance Mod</li>
+			<li>Rimworld Mod Korean</li>
 			<li>Performance Optimizer</li>
 			<li>Toggleable Readouts</li>
+			<li>InventoryTab</li>
+			<li>Bulk Smelting (Continued)</li>
+			<li>Food Alert (Continued)</li>
+			<li>Injured Carry</li>
+			<li>Rabbie The Moonrabbit race</li>
+			<li>MinifyEverything</li>
+			<li>Haul to Stack</li>
+			<li>Home Mover</li>
+			<li>I Clearly Have Enough! (Continued)</li>
+			<li>Mad Skills</li>
+			<li>RandomPlus</li>
+			<li>Milkable Colonists (Continued)</li>
+			<li>No Burn Metal</li>
+			<li>Mech Charger Booster</li>
+			<li>PawnTargetFix</li>
+			<li>Power Indicators</li>
+			<li>Stack gap</li>
+			<li>Reverse Commands</li>
+			<li>Stackable Chunks [1.5]</li>
+			<li>Stonecutting Extended</li>
+			<li>Room Sense</li>
+			<li>Device Standby</li>
+			<li>[FSF] No Default Shelf Storage</li>
+			<li>Geological Landforms</li>
+			<li>Field Medic [1.0-1.5]</li>
+			<li>No Random Relations</li>
+			<li>Blueprints - Forked</li>
+			<li>Prepare Landing for 1.5</li>
+			<li>Temperature Control Unit</li>
+			<li>No Version Warning</li>
+			<li>Terrain Zone Selections</li>
+			<li>VoiceroidAsAnimal 한국어 번역</li>
+			<li>Ayameduki Boss 통합 한국어 번역</li>
+			<li>Mya's fufu 한국어 번역</li>
+			<li>[MIS] - 명일방주 통합 한국어 번역모드</li>
+			<li>Ayameduki Race 통합 한국어 번역</li>
+			<li>Giver 한국어 번역</li>
+			<li>RocketMan - Performance Mod</li>
 		</modNames>
 	</meta>
 	<scenario>
-		<name>치트</name>
+		<name>치트s</name>
 		<summary />
 		<description />
 		<playerFaction>
@@ -346,8 +475,6 @@
 		</playerFaction>
 		<parts>
             
-            
-		
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>baier</animalKind><count>1</count><age>17</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>buer</animalKind><count>1</count><age>17</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>jiaer</animalKind><count>1</count><age>18</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
@@ -374,108 +501,31 @@
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_v_flower</animalKind><count>1</count><age>20</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>VAA_YuzukiYukari</animalKind><count>1</count><age>9</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
 <li Class="CharacterEditor.ScenPart_StartingAnimalExtra"><def>StartingAnimal</def><animalKind>zhuer</animalKind><count>1</count><age>27</age><pawnName Class="NameSingle"><name /></pawnName><bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance></li>
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MealSurvivalPack</thingDef><count>100000</count><quality>Legendary</quality></li>
 <li Class="ScenPart_ConfigPage_ConfigureStartingPawns"><def>ConfigPage_ConfigureStartingPawns</def><pawnChoiceCount>1</pawnChoiceCount><pawnCount>1</pawnCount></li>
-<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildCelestial_High</hediff><severityRange>1~1</severityRange></li>
-<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildHuntress_High</hediff><severityRange>1~1</severityRange></li>
-<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildShamaness_High</hediff><severityRange>1~1</severityRange></li>
-<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildSummoner_High</hediff><severityRange>1~1</severityRange></li>
-<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildTemptress_High</hediff><severityRange>1~1</severityRange></li>
-<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><hediff>Miho_PositiveFlower_ChildTinker_High</hediff><severityRange>1~1</severityRange></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>Beauty</trait><degree>2</degree></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>BodyMastery</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>FastLearner</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>GreatMemory</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>Immunity</trait><degree>1</degree></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>Industriousness</trait><degree>1</degree></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>Joyous</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>KittyValor</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>NaturalMood</trait><degree>1</degree></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>Nerves</trait><degree>2</degree></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>Nimble</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>PerfectMemory</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>QuickSleeper</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>SingleTailFox</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>SpeedOffset</trait><degree>2</degree></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>Tough</trait></li>
-<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><trait>ToxicResistance</trait></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><context>PlayerStarter</context><hediff>Miho_PositiveFlower_ChildCelestial_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><context>PlayerStarter</context><hediff>Miho_PositiveFlower_ChildHuntress_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><context>PlayerStarter</context><hediff>Miho_PositiveFlower_ChildShamaness_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><context>PlayerStarter</context><hediff>Miho_PositiveFlower_ChildSummoner_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><context>PlayerStarter</context><hediff>Miho_PositiveFlower_ChildTemptress_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedHediff"><def>ForcedHediff</def><chance>1</chance><context>PlayerStarter</context><hediff>Miho_PositiveFlower_ChildTinker_High</hediff><severityRange>1~1</severityRange></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>Beauty</trait><degree>2</degree></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>BodyMastery</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>FastLearner</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>GreatMemory</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>Immunity</trait><degree>1</degree></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>Industriousness</trait><degree>1</degree></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>Joyous</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>KittyValor</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>NaturalMood</trait><degree>1</degree></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>Nerves</trait><degree>2</degree></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>Nimble</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>PerfectMemory</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>QuickSleeper</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>SingleTailFox</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>SpeedOffset</trait><degree>2</degree></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>Tough</trait></li>
+<li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>ToxicResistance</trait></li>
 <li Class="ScenPart_PlayerPawnsArriveMethod"><def>PlayerPawnsArriveMethod</def><method>DropPods</method></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Apparel_ArmorMarinePrestige</thingDef><count>100</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Apparel_FirefoampopPack</thingDef><count>100</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Apparel_PackTurret</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Axolotl_Bamboo</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>BabyFood</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Battery</thingDef><count>10</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Battery_Advanced</thingDef><count>10</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Bed</thingDef><stuff>Plasteel</stuff><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Bioferrite</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>BlocksGranite</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>BlocksLimestone</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>BlocksMarble</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>BlocksSandstone</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ChefMaid</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Chemfuel</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Cloth</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ComponentIndustrial</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ComponentSpacer</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>DevilstrandCloth</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Dye</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ElectricSmelter</thingDef><count>5</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ElectricSmithy</thingDef><count>5</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ElectricStove</thingDef><count>5</count></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ElectricTailoringBench</thingDef><stuff>Plasteel</stuff><count>5</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Electroharvester</thingDef><count>5</count></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>FirefoamPopper</thingDef><count>100</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>FlatscreenTelevision</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Gold</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Gun_AssaultRifle</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>HemogenPack</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Hyperweave</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>IG_Meal_b</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>IG_Meal_g</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>IJade</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Jade</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Kibble</thingDef><count>100000</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Kiiro_CannedCatFood</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Kiiro_CannedMintedCatFood</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Kiiro_MixMedicineHerbal</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Leather_Camel</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Leather_Dog</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Leather_Fox</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Leather_Plain</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>LWM_Medicine_Cabinet</thingDef><stuff>Plasteel</stuff><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>LWM_VeryBigShelf</thingDef><stuff>Plasteel</stuff><count>100</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MaidCostumeCraftingTable</thingDef><count>5</count></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MealSurvivalPack</thingDef><count>100000</count><allowRoofed>True</allowRoofed></li>            
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MechSerumHealer</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MechSerumResurrector</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MedicineHerbal</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MedicineIndustrial</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MedicineUltratech</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Miho_CelestialScale</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Miho_Ebony_SilkCloth</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MURWallSunLamp</thingDef><count>100</count></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Neutroamine</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Novel</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Penoxycyline</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Plasteel</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ProximityDetector</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Shard</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Shell_Firefoam</thingDef><count>100</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ShipChunk</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Silver</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Silver</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Steel</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Steel</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>SubcoreBasic</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Synthread</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>TextBook</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Tome</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>TrapIED_Firefoam</thingDef><count>100</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Uranium</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>VanometricPowerCell</thingDef><count>10</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>WoodLog</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>WoolSheep</thingDef><count>100000</count><quality>Legendary</quality><allowRoofed>True</allowRoofed></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>AdvancedFabrication</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Archogenetics</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ArtificialMetabolism</project></li>
@@ -494,6 +544,7 @@
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BrainWiring</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Brewing</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>CarpetMaking</project></li>
+<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>CataphractArmor</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>ChargedShot</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>CircadianInfluence</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Cocoa</project></li>
@@ -502,6 +553,7 @@
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Cryptosleep</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>DeadlifeDust</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Deathrest</project></li>
+<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>DeepDrilling</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>DetColumnRes</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Devilstrand</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>DrugProduction</project></li>
@@ -517,7 +569,9 @@
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GhoulResurrection</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GoJuiceProduction</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Greatbow</project></li>
+<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GroundPenetratingScanner</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GrowthVats</project></li>
+<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Gunlink</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Gunsmithing</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>GunTurrets</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Harp</project></li>
@@ -535,8 +589,10 @@
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Kiiro_Apparel_III</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Kiiro_AutoLauncher</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>LongBlades</project></li>
+<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>LongRangeMineralScanner</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Machining</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MaidTech</project></li>
+<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MedicineProduction</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MetallicBatteriesImproved</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>MicroelectronicsBasics</project></li>
 <li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Miho_ApparelAssassin</project></li>
@@ -796,8 +852,19 @@
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkToBuild</stat><factor>100</factor></li>
 <li Class="ScenPart_StatFactor"><def>StatFactor</def><stat>WorkToMake</stat><factor>100</factor></li>
 <li Class="VFECore.ScenPart_ForcedFactionGoodwill"><affectStartingGoodwill>True</affectStartingGoodwill><startingGoodwillRange>100~100</startingGoodwillRange><affectNaturalGoodwill>True</affectNaturalGoodwill><naturalGoodwillRange>100~100</naturalGoodwillRange><def>VFEC_ForcedFactionGoodwill</def></li>
-        
-        
-        </parts>
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>BlocksMarble</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Cloth</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ComponentIndustrial</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MealSurvivalPack</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Plasteel</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Silver</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Steel</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MedicineIndustrial</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MedicineHerbal</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ComponentSpacer</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Chemfuel</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Gold</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
+            
+		</parts>
 	</scenario>
 </savedscenario>

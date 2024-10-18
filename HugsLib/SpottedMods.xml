@@ -217,4 +217,18 @@
   <mod packageId="dani.CustomMoteMaker" />
   <mod packageId="papercrane1001.WeaponsTab" />
   <mod packageId="savestoragesettings.kv.rw.fishtmp" />
+  <mod packageId="Lillynone.Lilly" />
+  <mod packageId="MrHydralisk.VOEAdditionalOutposts" />
+  <mod packageId="ponpeco.PPHair" />
+  <mod packageId="Unon.NoBurnMetal" />
+  <mod packageId="AzzyH.MechChargerBooster" />
+  <mod packageId="ganjamannl.NoMoreFilth" />
+  <mod packageId="Mlie.NoVersionWarning" />
+  <mod packageId="pyrce.terrain.zone.select" />
+  <mod packageId="Fluffy.Blueprints.fork" />
+  <mod packageId="jp.perfectpathing" />
+  <mod packageId="Sarg.AlphaPrefabs" />
+  <mod packageId="syrchalis.metallicbatteries" />
+  <mod packageId="Mlie.BlueprintMaterialDebt" />
+  <mod packageId="ChippedChap.BlueprintTotalsTooltip" />
 </Mods>

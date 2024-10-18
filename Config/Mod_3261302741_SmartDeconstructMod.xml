@@ -4,5 +4,6 @@
 		<Thick>False</Thick>
 		<NonColonists>True</NonColonists>
 		<Animals>True</Animals>
+		<ThickResearch>HospitalBed</ThickResearch>
 	</ModSettings>
 </SettingsBlock>

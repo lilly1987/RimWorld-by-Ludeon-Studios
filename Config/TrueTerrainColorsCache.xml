@@ -3357,4 +3357,31 @@
       <a>0</a>
     </Color>
   </CacheEntry>
+  <CacheEntry>
+    <DefName>Go_KitchenTile</DefName>
+    <Color>
+      <r>0.4392157</r>
+      <g>0.431372553</g>
+      <b>0.4392157</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Go_KitchenTileDiagonal</DefName>
+    <Color>
+      <r>0.5137255</r>
+      <g>0.5137255</g>
+      <b>0.5176471</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Go_KitchenTileBlue</DefName>
+    <Color>
+      <r>0.619607866</r>
+      <g>0.623529434</g>
+      <b>0.5882353</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
 </ArrayOfCacheEntry>

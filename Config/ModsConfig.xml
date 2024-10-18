@@ -10,14 +10,24 @@
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>mlie.blueprintmaterialdebt</li>
+    <li>chippedchap.blueprinttotalstooltip</li>
     <li>imranfish.xmlextensions</li>
+    <li>jp.perfectpathing</li>
     <li>erdelf.humanoidalienraces</li>
+    <li>syrchalis.metallicbatteries</li>
     <li>butterfish.hairmoddingplus</li>
     <li>gguake.ai.dsfi</li>
+    <li>sarg.alphaprefabs</li>
+    <li>nep.smallerturbines</li>
+    <li>owlchemist.cherrypicker.tmpfix</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>mrhydralisk.voeadditionaloutposts</li>
     <li>eoralmilk.faceaddonframework</li>
     <li>nals.facialanimation</li>
     <li>hentailoliteam.axolotl</li>
+    <li>merthsoft.designatorshapes</li>
     <li>hentailoliteam.axolotl.fa</li>
     <li>miho.fortifiedoutremer</li>
     <li>fxz.myafufu</li>
@@ -25,13 +35,13 @@
     <li>talos.miho.face.fa</li>
     <li>leafzxg.masterofcrafting</li>
     <li>supes.mapwideorbitaltradebeacon</li>
+    <li>zylle.mapdesigner</li>
     <li>lc.experimentalhair</li>
     <li>mlie.lessstupidromanceattempt</li>
     <li>lwm.deepstorage</li>
     <li>automatic.startupimpact</li>
     <li>eoralmilk.kurinmeowedition</li>
     <li>lovetianyilove.kurin.ve.zhcn.lovetianyilove</li>
-    <li>unlimitedhugs.hugslib</li>
     <li>ancot.kiirorace</li>
     <li>ventaextera.ideorolepatch</li>
     <li>defo.invinciblewalls</li>
@@ -40,6 +50,8 @@
     <li>sumghai.hamefura</li>
     <li>lotusland.fixedpawngenerate</li>
     <li>erin.hair2</li>
+    <li>ponpeco.pphair</li>
+    <li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
     <li>erin.hairredux</li>
     <li>lotusland.fpgbluearchive</li>
     <li>chad.almostthere1.5</li>
@@ -55,6 +67,7 @@
     <li>mlie.syrmetallicbatteries</li>
     <li>bbis.maidproject</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
+    <li>ganjamannl.nomorefilth</li>
     <li>dani.custommotemaker</li>
     <li>mlmlmlm.cosplayapparelzenlesszonezero</li>
     <li>mlmlmlm.cosplayequipmentbluearchive</li>
@@ -96,18 +109,51 @@
     <li>lucifer.realisticrooms</li>
     <li>tr.qualcolor</li>
     <li>void.charactereditor</li>
+    <li>windchime.giverthecolonyhelper</li>
     <li>doug.nojobauthors</li>
     <li>indeed.stackxxl</li>
-    <li>rmk.translation</li>
-    <li>blackcanvas.korean.myafufu</li>
-    <li>moonleaf.mistranslations</li>
-    <li>blackcanvas.ayabosstranslations</li>
-    <li>blackcanvas.ayaracetranslations</li>
-    <li>blackcanvas.korean.voiceroidasanimal</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
-    <li>krkr.rocketman</li>
+    <li>rmk.translation</li>
     <li>taranchuk.performanceoptimizer</li>
     <li>owlchemist.toggleablereadouts</li>
+    <li>kota.inventorytab</li>
+    <li>zal.bulksmelting</li>
+    <li>mlie.foodalert</li>
+    <li>haecriver.injuredcarry</li>
+    <li>runnelatki.rabbieracemod</li>
+    <li>erdelf.minifyeverything</li>
+    <li>jkluch.haultostack</li>
+    <li>notooshabby.homemover</li>
+    <li>mlie.iclearlyhaveenough</li>
+    <li>ratys.madskills</li>
+    <li>mastertea.randomplus</li>
+    <li>mlie.milkablecolonists</li>
+    <li>unon.noburnmetal</li>
+    <li>azzyh.mechchargerbooster</li>
+    <li>fed1splay.pawntargetfix</li>
+    <li>erdelf.powerindicators</li>
+    <li>andromeda.stackgap</li>
+    <li>brrainz.reversecommands</li>
+    <li>elshender.stackablechunks</li>
+    <li>scherub.stonecuttingextended</li>
+    <li>falconne.roomsense</li>
+    <li>cedaro.devicestandby</li>
+    <li>frozensnowfox.nodefaultshelfstorage</li>
+    <li>m00nl1ght.geologicallandforms</li>
+    <li>flyfire2002.fieldmedic</li>
+    <li>dvs.norandomrelations</li>
+    <li>fluffy.blueprints.fork</li>
+    <li>m00nl1ght.unofficialupdates.preparelanding</li>
+    <li>murmur.tcu</li>
+    <li>mlie.noversionwarning</li>
+    <li>pyrce.terrain.zone.select</li>
+    <li>blackcanvas.korean.voiceroidasanimal</li>
+    <li>blackcanvas.ayabosstranslations</li>
+    <li>blackcanvas.korean.myafufu</li>
+    <li>moonleaf.mistranslations</li>
+    <li>blackcanvas.ayaracetranslations</li>
+    <li>blackcanvas.korean.giverthecolonyhelper</li>
+    <li>krkr.rocketman</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

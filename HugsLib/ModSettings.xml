@@ -17,4 +17,7 @@
     <bodyPartsStack>XXL</bodyPartsStack>
     <othersStackableStack>XXL</othersStackableStack>
   </StackXXL>
+  <BlueprintTotalsTooltip>
+    <highlightOpacity>0.09999999</highlightOpacity>
+  </BlueprintTotalsTooltip>
 </settings>

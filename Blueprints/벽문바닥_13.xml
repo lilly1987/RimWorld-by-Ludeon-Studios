@@ -1,0 +1,1322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Blueprint>
+	<meta>
+		<gameVersion>1.5.4241 rev599</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>malteschulze.rimmsassemble</li>
+			<li>me.samboycoding.betterloading.dev</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>imranfish.xmlextensions</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>butterfish.hairmoddingplus</li>
+			<li>gguake.ai.dsfi</li>
+			<li>nep.smallerturbines</li>
+			<li>owlchemist.cherrypicker.tmpfix</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>mrhydralisk.voeadditionaloutposts</li>
+			<li>eoralmilk.faceaddonframework</li>
+			<li>nals.facialanimation</li>
+			<li>fluffy.blueprints</li>
+			<li>hentailoliteam.axolotl</li>
+			<li>merthsoft.designatorshapes</li>
+			<li>hentailoliteam.axolotl.fa</li>
+			<li>miho.fortifiedoutremer</li>
+			<li>fxz.myafufu</li>
+			<li>oels.multireinstall</li>
+			<li>talos.miho.face.fa</li>
+			<li>leafzxg.masterofcrafting</li>
+			<li>supes.mapwideorbitaltradebeacon</li>
+			<li>zylle.mapdesigner</li>
+			<li>lc.experimentalhair</li>
+			<li>mlie.lessstupidromanceattempt</li>
+			<li>lwm.deepstorage</li>
+			<li>automatic.startupimpact</li>
+			<li>eoralmilk.kurinmeowedition</li>
+			<li>lovetianyilove.kurin.ve.zhcn.lovetianyilove</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>ancot.kiirorace</li>
+			<li>ventaextera.ideorolepatch</li>
+			<li>defo.invinciblewalls</li>
+			<li>nep.yeetit</li>
+			<li>tk421storm.prioritytreatmentressurected</li>
+			<li>sumghai.hamefura</li>
+			<li>lotusland.fixedpawngenerate</li>
+			<li>erin.hair2</li>
+			<li>ponpeco.pphair</li>
+			<li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
+			<li>erin.hairredux</li>
+			<li>lotusland.fpgbluearchive</li>
+			<li>chad.almostthere1.5</li>
+			<li>mlie.cutplantsbeforebuilding</li>
+			<li>owlchemist.cleanpathfinding</li>
+			<li>kittahkhan.grazeup</li>
+			<li>ben.automaticnightowl</li>
+			<li>automatic.bionicicons</li>
+			<li>nercury.assignanimalfood</li>
+			<li>nals.dynamicportraits</li>
+			<li>seekiworksmod.no17</li>
+			<li>brrainz.achtung</li>
+			<li>mlie.syrmetallicbatteries</li>
+			<li>bbis.maidproject</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>ganjamannl.nomorefilth</li>
+			<li>dani.custommotemaker</li>
+			<li>mlmlmlm.cosplayapparelzenlesszonezero</li>
+			<li>mlmlmlm.cosplayequipmentbluearchive</li>
+			<li>arylice.rimworld.automatichunting</li>
+			<li>savestoragesettings.kv.rw.fishtmp</li>
+			<li>seohyeon.autotranslation</li>
+			<li>dhultgren.smarterconstruction</li>
+			<li>sakama.roppoihair</li>
+			<li>denev.smartturretcovering</li>
+			<li>won2.hair</li>
+			<li>mlie.smarterdeconstructionandmining</li>
+			<li>pupa.insectgirls</li>
+			<li>carnysenpai.traitraritycolors</li>
+			<li>avilmask.commonsense</li>
+			<li>antaioz.tdiner</li>
+			<li>jamaicancastle.shoo</li>
+			<li>nephlite.orbitaltradecolumn</li>
+			<li>murmur.walllight</li>
+			<li>revolus.whatsmissing.15tmp</li>
+			<li>sandy.rpgstyleinventory.avilmask.revamped</li>
+			<li>zal.wallvitalsmonitor</li>
+			<li>arandomkiwi.rimsaves</li>
+			<li>codeoptimist.jobsofopportunity</li>
+			<li>owlchemist.smartfarming</li>
+			<li>ogliss.thewhitecrayon.quarry</li>
+			<li>jaxe.rimhud</li>
+			<li>andromeda.pawnquickinfo</li>
+			<li>uuugggg.replacestuff</li>
+			<li>mehni.pickupandhaul</li>
+			<li>tofudriver.medicaltabforked</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>brrainz.justignoremepassing</li>
+			<li>dubwise.dubsmintminimap</li>
+			<li>telardo.dragselect</li>
+			<li>oels.chooseyouroutfit</li>
+			<li>unlimitedhugs.allowtool</li>
+			<li>hatena.voiceroidasanimal</li>
+			<li>tr.autocutblight</li>
+			<li>lucifer.realisticrooms</li>
+			<li>tr.qualcolor</li>
+			<li>void.charactereditor</li>
+			<li>windchime.giverthecolonyhelper</li>
+			<li>doug.nojobauthors</li>
+			<li>indeed.stackxxl</li>
+			<li>dubwise.dubsperformanceanalyzer.steam</li>
+			<li>rmk.translation</li>
+			<li>taranchuk.performanceoptimizer</li>
+			<li>owlchemist.toggleablereadouts</li>
+			<li>kota.inventorytab</li>
+			<li>zal.bulksmelting</li>
+			<li>mlie.foodalert</li>
+			<li>haecriver.injuredcarry</li>
+			<li>runnelatki.rabbieracemod</li>
+			<li>erdelf.minifyeverything</li>
+			<li>jkluch.haultostack</li>
+			<li>notooshabby.homemover</li>
+			<li>mlie.iclearlyhaveenough</li>
+			<li>ratys.madskills</li>
+			<li>mastertea.randomplus</li>
+			<li>mlie.milkablecolonists</li>
+			<li>unon.noburnmetal</li>
+			<li>azzyh.mechchargerbooster</li>
+			<li>fed1splay.pawntargetfix</li>
+			<li>erdelf.powerindicators</li>
+			<li>andromeda.stackgap</li>
+			<li>brrainz.reversecommands</li>
+			<li>elshender.stackablechunks</li>
+			<li>scherub.stonecuttingextended</li>
+			<li>falconne.roomsense</li>
+			<li>cedaro.devicestandby</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>flyfire2002.fieldmedic</li>
+			<li>dvs.norandomrelations</li>
+			<li>m00nl1ght.unofficialupdates.preparelanding</li>
+			<li>murmur.tcu</li>
+			<li>mlie.noversionwarning</li>
+			<li>pyrce.terrain.zone.select</li>
+			<li>blackcanvas.korean.voiceroidasanimal</li>
+			<li>blackcanvas.ayabosstranslations</li>
+			<li>blackcanvas.korean.myafufu</li>
+			<li>moonleaf.mistranslations</li>
+			<li>blackcanvas.ayaracetranslations</li>
+			<li>blackcanvas.korean.giverthecolonyhelper</li>
+			<li>krkr.rocketman</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>730936602</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>1231617602</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>858744731</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>RIMMSAssemble</li>
+			<li>BetterLoading</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Anomaly</li>
+			<li>XML Extensions</li>
+			<li>Humanoid Alien Races</li>
+			<li>Hair Modding Plus (continued)</li>
+			<li>Do Something for Idle</li>
+			<li>Aligned Turbines</li>
+			<li>Cherry Picker</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Outposts Expanded: Additional Outposts</li>
+			<li>Face Addon Framework</li>
+			<li>[NL] Facial Animation - WIP</li>
+			<li>Blueprints</li>
+			<li>MoeLotl Race</li>
+			<li>Designator Shapes</li>
+			<li>MoeLotl Facial Animation</li>
+			<li>Miho, the celestial fox</li>
+			<li>Mya's fufu</li>
+			<li>Multi-Reinstall</li>
+			<li>Miho Facial Animation</li>
+			<li>Master of Crafting</li>
+			<li>Map Wide Orbital Trade Beacon</li>
+			<li>Map Designer</li>
+			<li>LC-HairXXX</li>
+			<li>Less Stupid Romance Attempt (Continued)</li>
+			<li>LWM's Deep Storage</li>
+			<li>StartupImpact</li>
+			<li>Kurin Meow Edition</li>
+			<li>Kurin魅狐豪华版本体内置载具拓展内容简中汉化补丁</li>
+			<li>HugsLib</li>
+			<li>Kiiro Race</li>
+			<li>Ideo Roles Don't Forbid Work</li>
+			<li>Invincible Walls</li>
+			<li>Just Drop it on the Floor</li>
+			<li>Priority Treatment Ressurected</li>
+			<li>Hamefura</li>
+			<li>Fixed Pawn Generate</li>
+			<li>Erin's Hairstyles 2</li>
+			<li>Ponpeco Hair</li>
+			<li>AFU女士发型_Women's hairstyles</li>
+			<li>Erin's Hairstyles - Redux</li>
+			<li>Characters - Blue Archive</li>
+			<li>Almostthere1.5</li>
+			<li>Cut plants before building (Continued)</li>
+			<li>Clean Pathfinding 2</li>
+			<li>[Kit] Graze up</li>
+			<li>Automatic Night Owl</li>
+			<li>Bionic icons</li>
+			<li>Assign Animal Food</li>
+			<li>[NL] Dynamic Portraits</li>
+			<li>AAAA(Allowed Area Automatic Adapter)</li>
+			<li>Achtung!</li>
+			<li>[SYR] Metallic Batteries (Continued)</li>
+			<li>[SS]Maid Project</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>No More Filth (continued)</li>
+			<li>[DN] Custom Mote Maker</li>
+			<li>[Cosplay apparel]Zenless Zone Zero</li>
+			<li>[Cosplay equipment] Blue archive</li>
+			<li>[ARY] Automatic Hunting [1.5]</li>
+			<li>[1.5][KV] Save Storage, Outfit, Crafting, Drug, &amp; Operation Settings </li>
+			<li>Auto Translation</li>
+			<li>Smarter Construction</li>
+			<li>Roppoi hair</li>
+			<li>Smart Turret Covering</li>
+			<li>Won hair_women </li>
+			<li>Smarter Deconstruction and Mining (Continued)</li>
+			<li>虫娘 Insect Girls</li>
+			<li>Trait Rarity Colors</li>
+			<li>Common Sense</li>
+			<li>Table Diner</li>
+			<li>Shoo!</li>
+			<li>Utility Columns</li>
+			<li>Wall Light</li>
+			<li>What's Missing? 1.5 temp</li>
+			<li>RPG Style Inventory Revamped</li>
+			<li>Wall Vitals Monitor (Continued)</li>
+			<li>RimSaves</li>
+			<li>While You're Up (with add-on for PUAH)</li>
+			<li>Smart Farming</li>
+			<li>Quarry</li>
+			<li>RimHUD</li>
+			<li>Pawn quick info</li>
+			<li>Replace Stuff</li>
+			<li>Pick Up And Haul</li>
+			<li>Medical Tab - Forked</li>
+			<li>Dubs Mint Menus</li>
+			<li>Just Ignore Me Passing</li>
+			<li>Dubs Mint Minimap</li>
+			<li>DragSelect</li>
+			<li>Choose Your Outfit</li>
+			<li>Allow Tool</li>
+			<li>VoiceroidAsAnimal</li>
+			<li>Auto-Cut Blight</li>
+			<li>Realistic Rooms Rewritten</li>
+			<li>Quality Colors 1.5 - Forked</li>
+			<li>Character Editor</li>
+			<li>Giver</li>
+			<li>No Job Authors</li>
+			<li>Stack XXL</li>
+			<li>Dubs Performance Analyzer</li>
+			<li>Rimworld Mod Korean</li>
+			<li>Performance Optimizer</li>
+			<li>Toggleable Readouts</li>
+			<li>InventoryTab</li>
+			<li>Bulk Smelting (Continued)</li>
+			<li>Food Alert (Continued)</li>
+			<li>Injured Carry</li>
+			<li>Rabbie The Moonrabbit race</li>
+			<li>MinifyEverything</li>
+			<li>Haul to Stack</li>
+			<li>Home Mover</li>
+			<li>I Clearly Have Enough! (Continued)</li>
+			<li>Mad Skills</li>
+			<li>RandomPlus</li>
+			<li>Milkable Colonists (Continued)</li>
+			<li>No Burn Metal</li>
+			<li>Mech Charger Booster</li>
+			<li>PawnTargetFix</li>
+			<li>Power Indicators</li>
+			<li>Stack gap</li>
+			<li>Reverse Commands</li>
+			<li>Stackable Chunks [1.5]</li>
+			<li>Stonecutting Extended</li>
+			<li>Room Sense</li>
+			<li>Device Standby</li>
+			<li>Geological Landforms</li>
+			<li>Field Medic [1.0-1.5]</li>
+			<li>No Random Relations</li>
+			<li>Prepare Landing for 1.5</li>
+			<li>Temperature Control Unit</li>
+			<li>No Version Warning</li>
+			<li>Terrain Zone Selections</li>
+			<li>VoiceroidAsAnimal 한국어 번역</li>
+			<li>Ayameduki Boss 통합 한국어 번역</li>
+			<li>Mya's fufu 한국어 번역</li>
+			<li>[MIS] - 명일방주 통합 한국어 번역모드</li>
+			<li>Ayameduki Race 통합 한국어 번역</li>
+			<li>Giver 한국어 번역</li>
+			<li>RocketMan - Performance Mod</li>
+		</modNames>
+	</meta>
+	<Blueprint>
+		<BuildableThings>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Silver</Stuff>
+				<Position>(-6, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-6, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-5, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-5, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-4, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-4, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-3, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-3, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-2, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-2, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-2, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-1, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(-1, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-1, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Silver</Stuff>
+				<Position>(0, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Silver</Stuff>
+				<Position>(0, 0, 6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(0, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(1, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(2, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(2, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(2, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(3, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(3, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(4, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(4, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, -6)</Position>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(5, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Silver</Stuff>
+				<Position>(6, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<TerrainDef>FineTileMarble</TerrainDef>
+				<Position>(6, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 6)</Position>
+			</li>
+		</BuildableThings>
+		<Name>벽문바닥_13</Name>
+		<Size>(13, 13)</Size>
+	</Blueprint>
+</Blueprint>

@@ -23,7 +23,7 @@
     </li>
     <li>
       <key>InteractingWithTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Drafting</key>
@@ -55,7 +55,7 @@
     </li>
     <li>
       <key>DrugPolicies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TVForSickPeople</key>
@@ -79,7 +79,7 @@
     </li>
     <li>
       <key>QueueOrders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Shelves</key>
@@ -143,11 +143,11 @@
     </li>
     <li>
       <key>FormCaravan</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTaming</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTraining</key>
@@ -203,7 +203,7 @@
     </li>
     <li>
       <key>Outfits</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FirePreparation</key>
@@ -307,7 +307,7 @@
     </li>
     <li>
       <key>StudyingEntities</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EntityCodex</key>
@@ -319,7 +319,7 @@
     </li>
     <li>
       <key>AnomalyResearch</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ColonyGhouls</key>

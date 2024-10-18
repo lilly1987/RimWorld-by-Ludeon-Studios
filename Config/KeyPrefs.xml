@@ -708,6 +708,41 @@
     </value>
   </li>
   <li>
+    <key>CoordinatesWindow</key>
+    <value>
+      <keyBindingA>M</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>PrepareLandingWindow</key>
+    <value>
+      <keyBindingA>P</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleRoomSenseOverlay</key>
+    <value>
+      <keyBindingA>Equals</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>Dev_QuickGoToConfigPawnPage</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleTracking</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -718,6 +753,13 @@
     <key>HotkeyTeleport</key>
     <value>
       <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>Blueprint_Flip</key>
+    <value>
+      <keyBindingA>F</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -750,13 +792,6 @@
     </value>
   </li>
   <li>
-    <key>ToggleRoomSenseOverlay</key>
-    <value>
-      <keyBindingA>Equals</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>MainTab_kNumbersOverviewTab</key>
     <value>
       <keyBindingA>Z</keyBindingA>
@@ -764,37 +799,9 @@
     </value>
   </li>
   <li>
-    <key>Dev_QuickGoToConfigPawnPage</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>CoordinatesWindow</key>
-    <value>
-      <keyBindingA>M</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>PrepareLandingWindow</key>
-    <value>
-      <keyBindingA>P</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>ToggleHeatMap</key>
     <value>
       <keyBindingA>Backslash</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>Blueprint_Flip</key>
-    <value>
-      <keyBindingA>F</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>

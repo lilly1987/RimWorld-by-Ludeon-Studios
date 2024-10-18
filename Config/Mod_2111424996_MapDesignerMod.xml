@@ -2,7 +2,10 @@
 <SettingsBlock>
 	<ModSettings Class="MapDesigner.MapDesignerSettings">
 		<configs />
+		<hillSmoothness>0</hillSmoothness>
 		<hillRadialAmt>1</hillRadialAmt>
+		<densityGeyser>2.5</densityGeyser>
+		<densityOre>2.5</densityOre>
 		<oreCommonality>
 			<keys>
 				<li>MineableSteel</li>
@@ -23,6 +26,7 @@
 				<li>1</li>
 			</values>
 		</oreCommonality>
+		<rockTypeRange>5~5</rockTypeRange>
 		<allowedRocks>
 			<keys>
 				<li>Sandstone</li>
