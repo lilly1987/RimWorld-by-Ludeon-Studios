@@ -530,7 +530,6 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-6, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -602,57 +601,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -675,57 +663,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -748,57 +725,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -821,57 +787,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -894,57 +849,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -963,7 +907,6 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, -6)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -972,31 +915,25 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>DarkColumnMod</ThingDef>
@@ -1004,27 +941,22 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Autodoor</ThingDef>
@@ -1034,7 +966,6 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(0, 0, 6)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1052,57 +983,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1125,57 +1045,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1198,57 +1107,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1271,57 +1169,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1344,57 +1231,46 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 1)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 2)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 3)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 4)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 5)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1468,7 +1344,6 @@
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(6, 0, 0)</Position>
-				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>

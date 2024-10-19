@@ -616,46 +616,40 @@
 				<Position>(-6, 0, -4)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-6, 0, -4)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>SecurityDoor</ThingDef>
 				<Position>(-6, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-6, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-6, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-6, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>Autodoor</ThingDef>
-				<Stuff>Silver</Stuff>
-				<Position>(-6, 0, 0)</Position>
 				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-6, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-6, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-6, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-6, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-6, 0, 0)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -721,52 +715,54 @@
 				<Position>(-5, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-5, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-5, 0, -4)</Position>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-5, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-5, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-5, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-5, 0, -1)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-5, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-5, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-5, 0, 1)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-5, 0, 2)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-5, 0, 3)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-5, 0, 4)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-5, 0, 5)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -787,57 +783,33 @@
 				<Position>(-4, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-4, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-4, 0, -4)</Position>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-4, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-4, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-4, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-4, 0, -1)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-4, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-4, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-4, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-4, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-4, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-4, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-4, 0, 6)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>SecurityDoor</ThingDef>
+				<Position>(-3, 0, 6)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -849,55 +821,25 @@
 				<Position>(-3, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-3, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-3, 0, -4)</Position>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-3, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-3, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-3, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-3, 0, -1)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>IceColumnMod</ThingDef>
 				<Position>(-3, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-3, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-3, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-3, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-3, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-3, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, 6)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-3, 0, 6)</Position>
 			</li>
@@ -911,48 +853,54 @@
 				<Position>(-2, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-2, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-2, 0, -4)</Position>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-2, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-2, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-2, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-2, 0, -1)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-2, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-2, 0, 1)</Position>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-1, 0, 1)</Position>
+				<Rotation>3</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-2, 0, 2)</Position>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-1, 0, 2)</Position>
+				<Rotation>3</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-2, 0, 3)</Position>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-1, 0, 3)</Position>
+				<Rotation>3</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-2, 0, 4)</Position>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-1, 0, 4)</Position>
+				<Rotation>3</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-2, 0, 5)</Position>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(-1, 0, 5)</Position>
+				<Rotation>3</Rotation>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -964,59 +912,35 @@
 				<Position>(-2, 0, 6)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-1, 0, -6)</Position>
-			</li>
-			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
 				<Position>(-1, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-1, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-1, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-1, 0, -4)</Position>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-1, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-1, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-1, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-1, 0, -1)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-1, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-1, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-1, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-1, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-1, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(-1, 0, 5)</Position>
-			</li>
-			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
 				<Position>(-1, 0, 6)</Position>
@@ -1026,69 +950,78 @@
 				<Position>(-1, 0, 6)</Position>
 			</li>
 			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(0, 0, -6)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(0, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>Autodoor</ThingDef>
-				<Stuff>Silver</Stuff>
-				<Position>(0, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(0, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, -4)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>IceColumnMod</ThingDef>
 				<Position>(0, 0, -3)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, -2)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, -1)</Position>
 			</li>
 			<li>
-				<ThingDef>DarkColumnMod</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, 1)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, 2)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>IceColumnMod</ThingDef>
 				<Position>(0, 0, 3)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, 4)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, 5)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(0, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>Autodoor</ThingDef>
-				<Stuff>Silver</Stuff>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(0, 0, 6)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(1, 0, -6)</Position>
+				<Position>(0, 0, 6)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1096,372 +1029,332 @@
 				<Position>(1, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(1, 0, -5)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, -4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(1, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(1, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(1, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(2, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, -5)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, -4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(2, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(2, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(3, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(3, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, -5)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, -4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(3, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(3, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(3, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(4, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, -5)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, -4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(4, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(4, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(5, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(5, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, -5)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, -4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>AnimalSleepingSpot</ThingDef>
-				<Position>(5, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(5, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(5, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, -5)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -5)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, -4)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -4)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -3)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>Autodoor</ThingDef>
-				<Stuff>Silver</Stuff>
-				<Position>(6, 0, 0)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, -4)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, -2)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, -1)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, 5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(1, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(2, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(2, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(2, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(2, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(2, 0, 5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(2, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(2, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(3, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>SecurityDoor</ThingDef>
+				<Position>(3, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>IceColumnMod</ThingDef>
+				<Position>(3, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(3, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(3, 0, 5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(4, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, -5)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, -4)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, -3)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, -2)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, -1)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(4, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(4, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(4, 0, 5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(5, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Bed</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, 5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(6, 0, 1)</Position>
 			</li>
 			<li>
@@ -1470,36 +1363,26 @@
 				<Position>(6, 0, 1)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 2)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(6, 0, 2)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 3)</Position>
+				<Position>(6, 0, 2)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(6, 0, 3)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 4)</Position>
+				<ThingDef>SecurityDoor</ThingDef>
+				<Position>(6, 0, 3)</Position>
+				<Rotation>3</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(6, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 5)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1508,513 +1391,519 @@
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 6)</Position>
+				<Position>(6, 0, 5)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(6, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-6, 0, 0)</Position>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 6)</Position>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-5, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-5, 0, 5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-4, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-4, 0, 5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-3, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-3, 0, 5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-2, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-2, 0, 5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-1, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(-1, 0, 5)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, -6)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, -5)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, -4)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, -3)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, -2)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, 1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, 2)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, 3)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, 4)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, 5)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, 6)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(1, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(1, 0, 5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(2, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(2, 0, 5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(3, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(3, 0, 5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(4, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(4, 0, 5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -5)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, -1)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(5, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 1)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 2)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 3)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 4)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>FineTileMarble</TerrainDef>
 				<Position>(5, 0, 5)</Position>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(6, 0, 0)</Position>
+				<Rotation>200</Rotation>
 			</li>
 		</BuildableThings>
-		<Name>축사13</Name>
+		<Name>단체 수감실</Name>
 		<Size>(13, 13)</Size>
 	</Blueprint>
 </Blueprint>

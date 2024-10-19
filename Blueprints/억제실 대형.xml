@@ -14,24 +14,58 @@
 			<li>unlimitedhugs.hugslib</li>
 			<li>mlie.blueprintmaterialdebt</li>
 			<li>chippedchap.blueprinttotalstooltip</li>
+			<li>scorpio.resourcedictionary</li>
 			<li>imranfish.xmlextensions</li>
-			<li>jp.perfectpathing</li>
+			<li>seekiworksmod.no18</li>
 			<li>erdelf.humanoidalienraces</li>
+			<li>sm.mimikko</li>
+			<li>rooandgloomy.yuranracemod</li>
+			<li>ancot.ancotlibrary</li>
+			<li>ancot.milirarace</li>
+			<li>jp.perfectpathing</li>
+			<li>anthitei.athsretexturefemalapparel.retexture</li>
+			<li>petetimessix.compacthediffs</li>
+			<li>nals.realisticbody</li>
+			<li>anthitei.athsstylefemaledresses.style</li>
+			<li>zal.moretradeships</li>
+			<li>lwm.deepstorage</li>
+			<li>brrainz.rangefinder</li>
+			<li>oken.rebalanceddeepstorage</li>
+			<li>psyche.kemomimihouse</li>
+			<li>simplephysics.perishablespoiltimefilter</li>
+			<li>owlchemist.cherrypicker.tmpfix</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>rebuild.cotr.doorsandcorners</li>
+			<li>seioch.kurin.har</li>
+			<li>jaxe.bubbles</li>
+			<li>dhultgren.useminifiedbuildings</li>
+			<li>dark.jobinbar</li>
+			<li>mlie.animalharvestingspot</li>
+			<li>mlie.markthatpawn</li>
+			<li>frozensnowfox.betterspiketraps</li>
+			<li>sumghai.mousekinrace</li>
+			<li>hysteria82.lisasmousekinapparelvictorian</li>
+			<li>hysteria82.lisasmousekinmedieval</li>
+			<li>hysteria82.lisasmousekinapparelservantsandslaves</li>
+			<li>fxz.myafufu</li>
+			<li>lan.fufu</li>
 			<li>syrchalis.metallicbatteries</li>
 			<li>butterfish.hairmoddingplus</li>
+			<li>unagi.short.hair2</li>
+			<li>violue.yahmlol.hairs</li>
+			<li>unagi.a.d.coat</li>
 			<li>gguake.ai.dsfi</li>
 			<li>sarg.alphaprefabs</li>
 			<li>nep.smallerturbines</li>
-			<li>owlchemist.cherrypicker.tmpfix</li>
-			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>timmyliang.tradehelper</li>
 			<li>mrhydralisk.voeadditionaloutposts</li>
+			<li>nakomaru.shelfanything</li>
 			<li>eoralmilk.faceaddonframework</li>
 			<li>nals.facialanimation</li>
 			<li>hentailoliteam.axolotl</li>
 			<li>merthsoft.designatorshapes</li>
 			<li>hentailoliteam.axolotl.fa</li>
 			<li>miho.fortifiedoutremer</li>
-			<li>fxz.myafufu</li>
 			<li>oels.multireinstall</li>
 			<li>talos.miho.face.fa</li>
 			<li>leafzxg.masterofcrafting</li>
@@ -39,7 +73,6 @@
 			<li>zylle.mapdesigner</li>
 			<li>lc.experimentalhair</li>
 			<li>mlie.lessstupidromanceattempt</li>
-			<li>lwm.deepstorage</li>
 			<li>automatic.startupimpact</li>
 			<li>eoralmilk.kurinmeowedition</li>
 			<li>lovetianyilove.kurin.ve.zhcn.lovetianyilove</li>
@@ -64,6 +97,7 @@
 			<li>nercury.assignanimalfood</li>
 			<li>nals.dynamicportraits</li>
 			<li>seekiworksmod.no17</li>
+			<li>voult.betterpawncontrol</li>
 			<li>brrainz.achtung</li>
 			<li>mlie.syrmetallicbatteries</li>
 			<li>bbis.maidproject</li>
@@ -137,11 +171,18 @@
 			<li>brrainz.reversecommands</li>
 			<li>elshender.stackablechunks</li>
 			<li>scherub.stonecuttingextended</li>
+			<li>steve.betterquestrewards</li>
 			<li>falconne.roomsense</li>
+			<li>irilis.uncap.tradepriceimprovement</li>
 			<li>cedaro.devicestandby</li>
 			<li>frozensnowfox.nodefaultshelfstorage</li>
 			<li>m00nl1ght.geologicallandforms</li>
+			<li>heaven.colonymanagerfork</li>
+			<li>kapitanoczywisty.changemapedge</li>
+			<li>unagi.apparel.b.zibunyou</li>
 			<li>flyfire2002.fieldmedic</li>
+			<li>mlie.pawnschooseresearch</li>
+			<li>unagi.kawaii.hair1</li>
 			<li>dvs.norandomrelations</li>
 			<li>fluffy.blueprints.fork</li>
 			<li>m00nl1ght.unofficialupdates.preparelanding</li>
@@ -154,6 +195,7 @@
 			<li>moonleaf.mistranslations</li>
 			<li>blackcanvas.ayaracetranslations</li>
 			<li>blackcanvas.korean.giverthecolonyhelper</li>
+			<li>destiny.rktm.mod</li>
 			<li>krkr.rocketman</li>
 		</modIds>
 		<modSteamIds>
@@ -165,6 +207,40 @@
 			<li>1392840</li>
 			<li>1826140</li>
 			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -309,6 +385,14 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 		</modSteamIds>
 		<modNames>
 			<li>Harmony</li>
@@ -322,24 +406,58 @@
 			<li>HugsLib</li>
 			<li>Blueprint Material Debt (Continued)</li>
 			<li>Blueprint Totals Tooltip</li>
+			<li>Resource Dictionary</li>
 			<li>XML Extensions</li>
-			<li>Perfect Pathfinding</li>
+			<li>Forced Rearmament</li>
 			<li>Humanoid Alien Races</li>
+			<li>兽耳助手（Mimikko）</li>
+			<li>Yuran race</li>
+			<li>Ancot Library</li>
+			<li>Milira Race</li>
+			<li>Perfect Pathfinding</li>
+			<li>ATH's Retexture Female Apparel</li>
+			<li>Compact Hediffs</li>
+			<li>[NL] Realistic Body</li>
+			<li>ATH's Style Female Dresses</li>
+			<li>More Trade Ships (Continued)</li>
+			<li>LWM's Deep Storage</li>
+			<li>Range Finder</li>
+			<li>Integrated Deep Storage</li>
+			<li>kemomimihouse</li>
+			<li>Perishable Spoil Time Filter</li>
+			<li>Cherry Picker</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>ReBuild: Doors and Corners</li>
+			<li>Kurin HAR Edition</li>
+			<li>Interaction Bubbles</li>
+			<li>Use Minified Buildings</li>
+			<li>Job In Bar</li>
+			<li>AnimalHarvestingSpot (Continued)</li>
+			<li>Mark That Pawn</li>
+			<li>[FSF] Better Spike Traps</li>
+			<li>Mousekin Race</li>
+			<li>Lisa's Mousekin Apparel: Victorian</li>
+			<li>Lisa's Mousekin Apparel: Medieval</li>
+			<li>Lisa's Mousekin Apparel: Servants And Slaves</li>
+			<li>Mya's fufu</li>
+			<li>Xiaolan'fufu</li>
 			<li>[SYR] Metallic Batteries</li>
 			<li>Hair Modding Plus (continued)</li>
+			<li>UNAGI_Hair2</li>
+			<li>Yet Another Hair Mod: League of Legends Edition</li>
+			<li>UNAGI Another Duster Coat</li>
 			<li>Do Something for Idle</li>
 			<li>Alpha Prefabs</li>
 			<li>Aligned Turbines</li>
-			<li>Cherry Picker</li>
-			<li>Vanilla Expanded Framework</li>
+			<li>TradeHelper</li>
 			<li>Vanilla Outposts Expanded: Additional Outposts</li>
+			<li>Shelf Anything Continued</li>
 			<li>Face Addon Framework</li>
 			<li>[NL] Facial Animation - WIP</li>
 			<li>MoeLotl Race</li>
 			<li>Designator Shapes</li>
 			<li>MoeLotl Facial Animation</li>
 			<li>Miho, the celestial fox</li>
-			<li>Mya's fufu</li>
 			<li>Multi-Reinstall</li>
 			<li>Miho Facial Animation</li>
 			<li>Master of Crafting</li>
@@ -347,7 +465,6 @@
 			<li>Map Designer</li>
 			<li>LC-HairXXX</li>
 			<li>Less Stupid Romance Attempt (Continued)</li>
-			<li>LWM's Deep Storage</li>
 			<li>StartupImpact</li>
 			<li>Kurin Meow Edition</li>
 			<li>Kurin魅狐豪华版本体内置载具拓展内容简中汉化补丁</li>
@@ -372,6 +489,7 @@
 			<li>Assign Animal Food</li>
 			<li>[NL] Dynamic Portraits</li>
 			<li>AAAA(Allowed Area Automatic Adapter)</li>
+			<li>Better Pawn Control</li>
 			<li>Achtung!</li>
 			<li>[SYR] Metallic Batteries (Continued)</li>
 			<li>[SS]Maid Project</li>
@@ -445,11 +563,18 @@
 			<li>Reverse Commands</li>
 			<li>Stackable Chunks [1.5]</li>
 			<li>Stonecutting Extended</li>
+			<li>Better Quest Rewards</li>
 			<li>Room Sense</li>
+			<li>UnCap TradePriceImprovement</li>
 			<li>Device Standby</li>
 			<li>[FSF] No Default Shelf Storage</li>
 			<li>Geological Landforms</li>
+			<li>Colony Manager Fork</li>
+			<li>Change map edge limit</li>
+			<li>UNAGI_バニラ服</li>
 			<li>Field Medic [1.0-1.5]</li>
+			<li>PawnsChooseResearch (Continued)</li>
+			<li>UNAGI_Hair1</li>
 			<li>No Random Relations</li>
 			<li>Blueprints - Forked</li>
 			<li>Prepare Landing for 1.5</li>
@@ -462,6 +587,7 @@
 			<li>[MIS] - 명일방주 통합 한국어 번역모드</li>
 			<li>Ayameduki Race 통합 한국어 번역</li>
 			<li>Giver 한국어 번역</li>
+			<li>[RKTM] Mod</li>
 			<li>RocketMan - Performance Mod</li>
 		</modNames>
 	</meta>
@@ -486,12 +612,12 @@
 				<Position>(-11, 0, -10)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -9)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-11, 0, -9)</Position>
 			</li>
 			<li>
@@ -504,12 +630,12 @@
 				<Position>(-11, 0, -8)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-11, 0, -7)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -7)</Position>
 			</li>
 			<li>
@@ -531,18 +657,13 @@
 				<Position>(-11, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, -4)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -4)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, -3)</Position>
+				<Position>(-11, 0, -4)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -551,7 +672,7 @@
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, -2)</Position>
+				<Position>(-11, 0, -3)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -560,10 +681,15 @@
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
+				<Position>(-11, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -1)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-11, 0, -1)</Position>
 			</li>
 			<li>
@@ -577,12 +703,12 @@
 				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 1)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-11, 0, 1)</Position>
 			</li>
 			<li>
@@ -604,21 +730,21 @@
 				<Position>(-11, 0, 3)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, 4)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 4)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
+				<Position>(-11, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 5)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-11, 0, 5)</Position>
 			</li>
 			<li>
@@ -649,21 +775,21 @@
 				<Position>(-11, 0, 8)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, 9)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 9)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
+				<Position>(-11, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 10)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-11, 0, 10)</Position>
 			</li>
 			<li>
@@ -683,70 +809,10 @@
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-10, 0, -11)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, -2)</Position>
-				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-10, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-9, 0, 10)</Position>
-				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -789,68 +855,8 @@
 				<Position>(-8, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, -2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-8, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-7, 0, 10)</Position>
-				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -884,79 +890,19 @@
 				<Position>(-7, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-6, 0, -11)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-6, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, -2)</Position>
-				<Rotation>2</Rotation>
+				<Position>(-6, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-6, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-5, 0, 10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-6, 0, 11)</Position>
 			</li>
@@ -966,12 +912,12 @@
 				<Position>(-6, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-5, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-5, 0, -11)</Position>
 			</li>
 			<li>
@@ -997,76 +943,16 @@
 				<Position>(-4, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, -2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-4, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-3, 0, 10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-4, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-4, 0, 11)</Position>
 			</li>
 			<li>
@@ -1083,16 +969,12 @@
 				<Position>(-3, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-3, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-3, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-3, 0, 11)</Position>
 			</li>
 			<li>
@@ -1105,80 +987,16 @@
 				<Position>(-2, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, -2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-2, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-2, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, 10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-2, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-2, 0, 11)</Position>
 			</li>
 			<li>
@@ -1195,16 +1013,12 @@
 				<Position>(-1, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-1, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(-1, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-1, 0, 11)</Position>
 			</li>
 			<li>
@@ -1321,72 +1135,8 @@
 				<Position>(1, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, -2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(1, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(1, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, 10)</Position>
-				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1398,20 +1148,16 @@
 				<Position>(1, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(2, 0, -11)</Position>
-			</li>
-			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
 				<Position>(2, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(2, 0, 0)</Position>
+				<Position>(2, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(2, 0, 0)</Position>
 			</li>
 			<li>
@@ -1424,81 +1170,17 @@
 				<Position>(2, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(3, 0, -11)</Position>
-			</li>
-			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
 				<Position>(3, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, -2)</Position>
-				<Rotation>2</Rotation>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(3, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(3, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(3, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(4, 0, 10)</Position>
-				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1510,12 +1192,12 @@
 				<Position>(3, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(4, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(4, 0, -11)</Position>
 			</li>
 			<li>
@@ -1532,94 +1214,34 @@
 				<Position>(4, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(5, 0, -11)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(5, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, -2)</Position>
-				<Rotation>2</Rotation>
+				<Position>(5, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(5, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 10)</Position>
-				<Rotation>2</Rotation>
+				<Position>(5, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(5, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(5, 0, 11)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(6, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(6, 0, -11)</Position>
 			</li>
 			<li>
@@ -1627,95 +1249,39 @@
 				<Position>(6, 0, 0)</Position>
 			</li>
 			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(6, 0, 11)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(6, 0, 11)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(6, 0, 11)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(7, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(7, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, -2)</Position>
-				<Rotation>2</Rotation>
+				<Position>(7, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(7, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, 10)</Position>
-				<Rotation>2</Rotation>
+				<Position>(7, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(7, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(7, 0, 11)</Position>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1723,111 +1289,51 @@
 				<Position>(8, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(8, 0, -11)</Position>
+				<ThingDef>HoldingPlatform</ThingDef>
+				<Position>(9, 0, -9)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(8, 0, 0)</Position>
 			</li>
 			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
+				<Position>(8, 0, 11)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(8, 0, 11)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(8, 0, 11)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(9, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(9, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, -10)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, -7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, -2)</Position>
-				<Rotation>2</Rotation>
+				<Position>(9, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(9, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
+				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, 2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, 3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, 6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, 7)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_BigShelf</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(10, 0, 10)</Position>
-				<Rotation>2</Rotation>
+				<Position>(9, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(9, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(9, 0, 11)</Position>
-			</li>
-			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(10, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(10, 0, -11)</Position>
 			</li>
 			<li>
@@ -1835,21 +1341,21 @@
 				<Position>(10, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(10, 0, 11)</Position>
-			</li>
-			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
 				<Position>(10, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(10, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(11, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, -11)</Position>
 			</li>
 			<li>
@@ -1889,17 +1395,13 @@
 				<Position>(11, 0, -7)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(11, 0, -6)</Position>
-			</li>
-			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
 				<Position>(11, 0, -6)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(11, 0, -5)</Position>
+				<Position>(11, 0, -6)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1908,7 +1410,7 @@
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(11, 0, -4)</Position>
+				<Position>(11, 0, -5)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1917,7 +1419,7 @@
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(11, 0, -3)</Position>
+				<Position>(11, 0, -4)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -1926,11 +1428,15 @@
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(11, 0, -2)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, -2)</Position>
 			</li>
 			<li>
@@ -1941,10 +1447,6 @@
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
 				<Position>(11, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(11, 0, 0)</Position>
 			</li>
 			<li>
 				<ThingDef>Autodoor</ThingDef>
@@ -1953,12 +1455,16 @@
 				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(11, 0, 1)</Position>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, 0)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(11, 0, 1)</Position>
 			</li>
 			<li>
@@ -1989,17 +1495,13 @@
 				<Position>(11, 0, 4)</Position>
 			</li>
 			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, 5)</Position>
+			</li>
+			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
 				<Position>(11, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(11, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(11, 0, 6)</Position>
 			</li>
 			<li>
 				<ThingDef>Wall</ThingDef>
@@ -2007,9 +1509,8 @@
 				<Position>(11, 0, 6)</Position>
 			</li>
 			<li>
-				<ThingDef>Wall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(11, 0, 7)</Position>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, 6)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -2018,7 +1519,7 @@
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(11, 0, 8)</Position>
+				<Position>(11, 0, 7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -2027,7 +1528,7 @@
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
-				<Position>(11, 0, 9)</Position>
+				<Position>(11, 0, 8)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -2036,10 +1537,15 @@
 			<li>
 				<ThingDef>Wall</ThingDef>
 				<Stuff>BlocksMarble</Stuff>
+				<Position>(11, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, 10)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Wall</ThingDef>
+				<Stuff>BlocksMarble</Stuff>
 				<Position>(11, 0, 10)</Position>
 			</li>
 			<li>
@@ -3815,7 +3321,7 @@
 				<Position>(10, 0, 10)</Position>
 			</li>
 		</BuildableThings>
-		<Name>창고선반23</Name>
+		<Name>억제실 대형</Name>
 		<Size>(23, 23)</Size>
 	</Blueprint>
 </Blueprint>

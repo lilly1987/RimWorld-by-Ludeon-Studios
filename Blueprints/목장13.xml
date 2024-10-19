@@ -468,134 +468,253 @@
 	<Blueprint>
 		<BuildableThings>
 			<li>
-				<ThingDef>Bed</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-1, 0, 0)</Position>
-				<Rotation>3</Rotation>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>Bed</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(0, 0, -1)</Position>
-				<Rotation>2</Rotation>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>EndTable</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Rotation>2</Rotation>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, -4)</Position>
 			</li>
 			<li>
-				<ThingDef>Bed</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(0, 0, 1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, -3)</Position>
 			</li>
 			<li>
-				<ThingDef>Bed</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(1, 0, 0)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>FenceGate</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, 0)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-2, 0, -2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, 1)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-2, 0, -1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, 2)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-2, 0, 0)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, 3)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-2, 0, 1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, 4)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-2, 0, 2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, 5)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-1, 0, -2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-1, 0, -1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-5, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-1, 0, 0)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-5, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-1, 0, 1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-4, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-1, 0, 2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-4, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, -2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-3, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, -1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-3, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-2, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, 1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-2, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(0, 0, 2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-1, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(1, 0, -2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-1, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(1, 0, -1)</Position>
+				<ThingDef>FenceGate</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(0, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(1, 0, 0)</Position>
+				<ThingDef>PenMarker</ThingDef>
+				<Stuff>Plasteel</Stuff>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(1, 0, 1)</Position>
+				<ThingDef>FenceGate</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(0, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(1, 0, 2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(1, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(2, 0, -2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(1, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(2, 0, -1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(2, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(2, 0, 0)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(2, 0, 6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(2, 0, 1)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(3, 0, -6)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(2, 0, 2)</Position>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(4, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(5, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>FenceGate</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Fence</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 6)</Position>
 			</li>
 		</BuildableThings>
-		<Name>침대+</Name>
-		<Size>(5, 5)</Size>
+		<Name>목장13</Name>
+		<Size>(13, 13)</Size>
 	</Blueprint>
 </Blueprint>

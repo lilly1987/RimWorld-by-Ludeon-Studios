@@ -548,6 +548,48 @@
 				<li>VWEL_Gun_SalvagedLaserShotgun</li>
 				<li>VWEL_Gun_SalvagedLaserSniperRifle</li>
 				<li>Kurin_nanoedge</li>
+				<li>Milian_BishopScepter</li>
+				<li>Milian_PivotScepter</li>
+				<li>Milian_ParticleLongRangeSniper</li>
+				<li>Milian_KnightHalberd</li>
+				<li>Milian_KnightSword</li>
+				<li>Milian_KnightLance</li>
+				<li>Milian_KnightHammer</li>
+				<li>Milian_ParticleBeamGun</li>
+				<li>Milian_PulsedBeamGun</li>
+				<li>Milian_ParticleBeamBlaster</li>
+				<li>Milian_RookBlade</li>
+				<li>Milian_RookBladeII</li>
+				<li>Milira_Lance</li>
+				<li>Milira_Sickle</li>
+				<li>Milira_Hammer</li>
+				<li>Milira_TwoHandSword</li>
+				<li>Milira_Spear</li>
+				<li>Milira_PlasmaPistol</li>
+				<li>Milira_PlasmaRifle</li>
+				<li>Milira_PlasmaCannon</li>
+				<li>Milira_PlasmaMG</li>
+				<li>Milira_MagneticRailRifle</li>
+				<li>Milira_HandRailGun</li>
+				<li>YR_Red_wood</li>
+				<li>YR_WP_Bow</li>
+				<li>YR_WP_kunai</li>
+				<li>YR_WP_katana</li>
+				<li>YR_WP_Naginata</li>
+				<li>YR_WP_Spear</li>
+				<li>YR_WP_Gun</li>
+				<li>YR_WP_monokatana</li>
+				<li>YR_WP_MonoGun</li>
+				<li>YR_WP_Staff</li>
+				<li>YR_WP_Staff_Cooldown</li>
+				<li>YR_WP_StaffB</li>
+				<li>YR_WP_StaffC</li>
+				<li>YR_WP_Staff_BlackSnake</li>
+				<li>YR_WP_Staff_Cooldown_BlackSnake</li>
+				<li>YR_WP_StaffB_BlackSnake</li>
+				<li>YR_WP_StaffC_BlackSnake</li>
+				<li>MeleeWeapon_konkatana</li>
+				<li>MeleeWeapon_sirokatana</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -1094,6 +1136,48 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
 				<li>True</li>
 			</values>
 		</usableWithShieldsWeapons>

@@ -743,6 +743,13 @@
     </value>
   </li>
   <li>
+    <key>BetterPawnControlEmergency</key>
+    <value>
+      <keyBindingA>5</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -781,13 +788,6 @@
     <key>VF_DebugSettings</key>
     <value>
       <keyBindingA>Keypad3</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>BetterPawnControlEmergency</key>
-    <value>
-      <keyBindingA>5</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>

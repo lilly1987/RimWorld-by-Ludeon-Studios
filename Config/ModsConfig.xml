@@ -13,24 +13,58 @@
     <li>unlimitedhugs.hugslib</li>
     <li>mlie.blueprintmaterialdebt</li>
     <li>chippedchap.blueprinttotalstooltip</li>
+    <li>scorpio.resourcedictionary</li>
     <li>imranfish.xmlextensions</li>
-    <li>jp.perfectpathing</li>
+    <li>seekiworksmod.no18</li>
     <li>erdelf.humanoidalienraces</li>
+    <li>sm.mimikko</li>
+    <li>rooandgloomy.yuranracemod</li>
+    <li>ancot.ancotlibrary</li>
+    <li>ancot.milirarace</li>
+    <li>jp.perfectpathing</li>
+    <li>anthitei.athsretexturefemalapparel.retexture</li>
+    <li>petetimessix.compacthediffs</li>
+    <li>nals.realisticbody</li>
+    <li>anthitei.athsstylefemaledresses.style</li>
+    <li>zal.moretradeships</li>
+    <li>lwm.deepstorage</li>
+    <li>brrainz.rangefinder</li>
+    <li>oken.rebalanceddeepstorage</li>
+    <li>psyche.kemomimihouse</li>
+    <li>simplephysics.perishablespoiltimefilter</li>
+    <li>owlchemist.cherrypicker.tmpfix</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>rebuild.cotr.doorsandcorners</li>
+    <li>seioch.kurin.har</li>
+    <li>jaxe.bubbles</li>
+    <li>dhultgren.useminifiedbuildings</li>
+    <li>dark.jobinbar</li>
+    <li>mlie.animalharvestingspot</li>
+    <li>mlie.markthatpawn</li>
+    <li>frozensnowfox.betterspiketraps</li>
+    <li>sumghai.mousekinrace</li>
+    <li>hysteria82.lisasmousekinapparelvictorian</li>
+    <li>hysteria82.lisasmousekinmedieval</li>
+    <li>hysteria82.lisasmousekinapparelservantsandslaves</li>
+    <li>fxz.myafufu</li>
+    <li>lan.fufu</li>
     <li>syrchalis.metallicbatteries</li>
     <li>butterfish.hairmoddingplus</li>
+    <li>unagi.short.hair2</li>
+    <li>violue.yahmlol.hairs</li>
+    <li>unagi.a.d.coat</li>
     <li>gguake.ai.dsfi</li>
     <li>sarg.alphaprefabs</li>
     <li>nep.smallerturbines</li>
-    <li>owlchemist.cherrypicker.tmpfix</li>
-    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>timmyliang.tradehelper</li>
     <li>mrhydralisk.voeadditionaloutposts</li>
+    <li>nakomaru.shelfanything</li>
     <li>eoralmilk.faceaddonframework</li>
     <li>nals.facialanimation</li>
     <li>hentailoliteam.axolotl</li>
     <li>merthsoft.designatorshapes</li>
     <li>hentailoliteam.axolotl.fa</li>
     <li>miho.fortifiedoutremer</li>
-    <li>fxz.myafufu</li>
     <li>oels.multireinstall</li>
     <li>talos.miho.face.fa</li>
     <li>leafzxg.masterofcrafting</li>
@@ -38,7 +72,6 @@
     <li>zylle.mapdesigner</li>
     <li>lc.experimentalhair</li>
     <li>mlie.lessstupidromanceattempt</li>
-    <li>lwm.deepstorage</li>
     <li>automatic.startupimpact</li>
     <li>eoralmilk.kurinmeowedition</li>
     <li>lovetianyilove.kurin.ve.zhcn.lovetianyilove</li>
@@ -63,6 +96,7 @@
     <li>nercury.assignanimalfood</li>
     <li>nals.dynamicportraits</li>
     <li>seekiworksmod.no17</li>
+    <li>voult.betterpawncontrol</li>
     <li>brrainz.achtung</li>
     <li>mlie.syrmetallicbatteries</li>
     <li>bbis.maidproject</li>
@@ -136,11 +170,18 @@
     <li>brrainz.reversecommands</li>
     <li>elshender.stackablechunks</li>
     <li>scherub.stonecuttingextended</li>
+    <li>steve.betterquestrewards</li>
     <li>falconne.roomsense</li>
+    <li>irilis.uncap.tradepriceimprovement</li>
     <li>cedaro.devicestandby</li>
     <li>frozensnowfox.nodefaultshelfstorage</li>
     <li>m00nl1ght.geologicallandforms</li>
+    <li>heaven.colonymanagerfork</li>
+    <li>kapitanoczywisty.changemapedge</li>
+    <li>unagi.apparel.b.zibunyou</li>
     <li>flyfire2002.fieldmedic</li>
+    <li>mlie.pawnschooseresearch</li>
+    <li>unagi.kawaii.hair1</li>
     <li>dvs.norandomrelations</li>
     <li>fluffy.blueprints.fork</li>
     <li>m00nl1ght.unofficialupdates.preparelanding</li>
@@ -153,6 +194,7 @@
     <li>moonleaf.mistranslations</li>
     <li>blackcanvas.ayaracetranslations</li>
     <li>blackcanvas.korean.giverthecolonyhelper</li>
+    <li>destiny.rktm.mod</li>
     <li>krkr.rocketman</li>
   </activeMods>
   <knownExpansions>

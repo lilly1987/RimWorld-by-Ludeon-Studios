@@ -19,5 +19,6 @@
   </StackXXL>
   <BlueprintTotalsTooltip>
     <highlightOpacity>0.09999999</highlightOpacity>
+    <shouldDrawTooltip>True</shouldDrawTooltip>
   </BlueprintTotalsTooltip>
 </settings>

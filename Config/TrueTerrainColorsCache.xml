@@ -3384,4 +3384,40 @@
       <a>0</a>
     </Color>
   </CacheEntry>
+  <CacheEntry>
+    <DefName>YR_TatamiA</DefName>
+    <Color>
+      <r>0.6784314</r>
+      <g>0.619607866</g>
+      <b>0.4862745</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>YR_TatamiC</DefName>
+    <Color>
+      <r>0.6784314</r>
+      <g>0.619607866</g>
+      <b>0.4862745</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>YR_TatamiD</DefName>
+    <Color>
+      <r>0.6784314</r>
+      <g>0.619607866</g>
+      <b>0.4862745</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>YR_TatamiE</DefName>
+    <Color>
+      <r>0.6784314</r>
+      <g>0.619607866</g>
+      <b>0.4862745</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
 </ArrayOfCacheEntry>

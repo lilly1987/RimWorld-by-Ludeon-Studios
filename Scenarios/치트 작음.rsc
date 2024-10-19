@@ -14,24 +14,58 @@
 			<li>unlimitedhugs.hugslib</li>
 			<li>mlie.blueprintmaterialdebt</li>
 			<li>chippedchap.blueprinttotalstooltip</li>
+			<li>scorpio.resourcedictionary</li>
 			<li>imranfish.xmlextensions</li>
-			<li>jp.perfectpathing</li>
+			<li>seekiworksmod.no18</li>
 			<li>erdelf.humanoidalienraces</li>
+			<li>sm.mimikko</li>
+			<li>rooandgloomy.yuranracemod</li>
+			<li>ancot.ancotlibrary</li>
+			<li>ancot.milirarace</li>
+			<li>jp.perfectpathing</li>
+			<li>anthitei.athsretexturefemalapparel.retexture</li>
+			<li>petetimessix.compacthediffs</li>
+			<li>nals.realisticbody</li>
+			<li>anthitei.athsstylefemaledresses.style</li>
+			<li>zal.moretradeships</li>
+			<li>lwm.deepstorage</li>
+			<li>brrainz.rangefinder</li>
+			<li>oken.rebalanceddeepstorage</li>
+			<li>psyche.kemomimihouse</li>
+			<li>simplephysics.perishablespoiltimefilter</li>
+			<li>owlchemist.cherrypicker.tmpfix</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>rebuild.cotr.doorsandcorners</li>
+			<li>seioch.kurin.har</li>
+			<li>jaxe.bubbles</li>
+			<li>dhultgren.useminifiedbuildings</li>
+			<li>dark.jobinbar</li>
+			<li>mlie.animalharvestingspot</li>
+			<li>mlie.markthatpawn</li>
+			<li>frozensnowfox.betterspiketraps</li>
+			<li>sumghai.mousekinrace</li>
+			<li>hysteria82.lisasmousekinapparelvictorian</li>
+			<li>hysteria82.lisasmousekinmedieval</li>
+			<li>hysteria82.lisasmousekinapparelservantsandslaves</li>
+			<li>fxz.myafufu</li>
+			<li>lan.fufu</li>
 			<li>syrchalis.metallicbatteries</li>
 			<li>butterfish.hairmoddingplus</li>
+			<li>unagi.short.hair2</li>
+			<li>violue.yahmlol.hairs</li>
+			<li>unagi.a.d.coat</li>
 			<li>gguake.ai.dsfi</li>
 			<li>sarg.alphaprefabs</li>
 			<li>nep.smallerturbines</li>
-			<li>owlchemist.cherrypicker.tmpfix</li>
-			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>timmyliang.tradehelper</li>
 			<li>mrhydralisk.voeadditionaloutposts</li>
+			<li>nakomaru.shelfanything</li>
 			<li>eoralmilk.faceaddonframework</li>
 			<li>nals.facialanimation</li>
 			<li>hentailoliteam.axolotl</li>
 			<li>merthsoft.designatorshapes</li>
 			<li>hentailoliteam.axolotl.fa</li>
 			<li>miho.fortifiedoutremer</li>
-			<li>fxz.myafufu</li>
 			<li>oels.multireinstall</li>
 			<li>talos.miho.face.fa</li>
 			<li>leafzxg.masterofcrafting</li>
@@ -39,7 +73,6 @@
 			<li>zylle.mapdesigner</li>
 			<li>lc.experimentalhair</li>
 			<li>mlie.lessstupidromanceattempt</li>
-			<li>lwm.deepstorage</li>
 			<li>automatic.startupimpact</li>
 			<li>eoralmilk.kurinmeowedition</li>
 			<li>lovetianyilove.kurin.ve.zhcn.lovetianyilove</li>
@@ -64,6 +97,7 @@
 			<li>nercury.assignanimalfood</li>
 			<li>nals.dynamicportraits</li>
 			<li>seekiworksmod.no17</li>
+			<li>voult.betterpawncontrol</li>
 			<li>brrainz.achtung</li>
 			<li>mlie.syrmetallicbatteries</li>
 			<li>bbis.maidproject</li>
@@ -137,11 +171,18 @@
 			<li>brrainz.reversecommands</li>
 			<li>elshender.stackablechunks</li>
 			<li>scherub.stonecuttingextended</li>
+			<li>steve.betterquestrewards</li>
 			<li>falconne.roomsense</li>
+			<li>irilis.uncap.tradepriceimprovement</li>
 			<li>cedaro.devicestandby</li>
 			<li>frozensnowfox.nodefaultshelfstorage</li>
 			<li>m00nl1ght.geologicallandforms</li>
+			<li>heaven.colonymanagerfork</li>
+			<li>kapitanoczywisty.changemapedge</li>
+			<li>unagi.apparel.b.zibunyou</li>
 			<li>flyfire2002.fieldmedic</li>
+			<li>mlie.pawnschooseresearch</li>
+			<li>unagi.kawaii.hair1</li>
 			<li>dvs.norandomrelations</li>
 			<li>fluffy.blueprints.fork</li>
 			<li>m00nl1ght.unofficialupdates.preparelanding</li>
@@ -154,6 +195,7 @@
 			<li>moonleaf.mistranslations</li>
 			<li>blackcanvas.ayaracetranslations</li>
 			<li>blackcanvas.korean.giverthecolonyhelper</li>
+			<li>destiny.rktm.mod</li>
 			<li>krkr.rocketman</li>
 		</modIds>
 		<modSteamIds>
@@ -165,6 +207,40 @@
 			<li>1392840</li>
 			<li>1826140</li>
 			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -309,6 +385,14 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 		</modSteamIds>
 		<modNames>
 			<li>Harmony</li>
@@ -322,24 +406,58 @@
 			<li>HugsLib</li>
 			<li>Blueprint Material Debt (Continued)</li>
 			<li>Blueprint Totals Tooltip</li>
+			<li>Resource Dictionary</li>
 			<li>XML Extensions</li>
-			<li>Perfect Pathfinding</li>
+			<li>Forced Rearmament</li>
 			<li>Humanoid Alien Races</li>
+			<li>兽耳助手（Mimikko）</li>
+			<li>Yuran race</li>
+			<li>Ancot Library</li>
+			<li>Milira Race</li>
+			<li>Perfect Pathfinding</li>
+			<li>ATH's Retexture Female Apparel</li>
+			<li>Compact Hediffs</li>
+			<li>[NL] Realistic Body</li>
+			<li>ATH's Style Female Dresses</li>
+			<li>More Trade Ships (Continued)</li>
+			<li>LWM's Deep Storage</li>
+			<li>Range Finder</li>
+			<li>Integrated Deep Storage</li>
+			<li>kemomimihouse</li>
+			<li>Perishable Spoil Time Filter</li>
+			<li>Cherry Picker</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>ReBuild: Doors and Corners</li>
+			<li>Kurin HAR Edition</li>
+			<li>Interaction Bubbles</li>
+			<li>Use Minified Buildings</li>
+			<li>Job In Bar</li>
+			<li>AnimalHarvestingSpot (Continued)</li>
+			<li>Mark That Pawn</li>
+			<li>[FSF] Better Spike Traps</li>
+			<li>Mousekin Race</li>
+			<li>Lisa's Mousekin Apparel: Victorian</li>
+			<li>Lisa's Mousekin Apparel: Medieval</li>
+			<li>Lisa's Mousekin Apparel: Servants And Slaves</li>
+			<li>Mya's fufu</li>
+			<li>Xiaolan'fufu</li>
 			<li>[SYR] Metallic Batteries</li>
 			<li>Hair Modding Plus (continued)</li>
+			<li>UNAGI_Hair2</li>
+			<li>Yet Another Hair Mod: League of Legends Edition</li>
+			<li>UNAGI Another Duster Coat</li>
 			<li>Do Something for Idle</li>
 			<li>Alpha Prefabs</li>
 			<li>Aligned Turbines</li>
-			<li>Cherry Picker</li>
-			<li>Vanilla Expanded Framework</li>
+			<li>TradeHelper</li>
 			<li>Vanilla Outposts Expanded: Additional Outposts</li>
+			<li>Shelf Anything Continued</li>
 			<li>Face Addon Framework</li>
 			<li>[NL] Facial Animation - WIP</li>
 			<li>MoeLotl Race</li>
 			<li>Designator Shapes</li>
 			<li>MoeLotl Facial Animation</li>
 			<li>Miho, the celestial fox</li>
-			<li>Mya's fufu</li>
 			<li>Multi-Reinstall</li>
 			<li>Miho Facial Animation</li>
 			<li>Master of Crafting</li>
@@ -347,7 +465,6 @@
 			<li>Map Designer</li>
 			<li>LC-HairXXX</li>
 			<li>Less Stupid Romance Attempt (Continued)</li>
-			<li>LWM's Deep Storage</li>
 			<li>StartupImpact</li>
 			<li>Kurin Meow Edition</li>
 			<li>Kurin魅狐豪华版本体内置载具拓展内容简中汉化补丁</li>
@@ -372,6 +489,7 @@
 			<li>Assign Animal Food</li>
 			<li>[NL] Dynamic Portraits</li>
 			<li>AAAA(Allowed Area Automatic Adapter)</li>
+			<li>Better Pawn Control</li>
 			<li>Achtung!</li>
 			<li>[SYR] Metallic Batteries (Continued)</li>
 			<li>[SS]Maid Project</li>
@@ -445,11 +563,18 @@
 			<li>Reverse Commands</li>
 			<li>Stackable Chunks [1.5]</li>
 			<li>Stonecutting Extended</li>
+			<li>Better Quest Rewards</li>
 			<li>Room Sense</li>
+			<li>UnCap TradePriceImprovement</li>
 			<li>Device Standby</li>
 			<li>[FSF] No Default Shelf Storage</li>
 			<li>Geological Landforms</li>
+			<li>Colony Manager Fork</li>
+			<li>Change map edge limit</li>
+			<li>UNAGI_バニラ服</li>
 			<li>Field Medic [1.0-1.5]</li>
+			<li>PawnsChooseResearch (Continued)</li>
+			<li>UNAGI_Hair1</li>
 			<li>No Random Relations</li>
 			<li>Blueprints - Forked</li>
 			<li>Prepare Landing for 1.5</li>
@@ -462,11 +587,12 @@
 			<li>[MIS] - 명일방주 통합 한국어 번역모드</li>
 			<li>Ayameduki Race 통합 한국어 번역</li>
 			<li>Giver 한국어 번역</li>
+			<li>[RKTM] Mod</li>
 			<li>RocketMan - Performance Mod</li>
 		</modNames>
 	</meta>
 	<scenario>
-		<name>치트s</name>
+		<name>치트 작음</name>
 		<summary />
 		<description />
 		<playerFaction>
@@ -1428,48 +1554,8 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>Ability_CastingTime</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>Ability_DetectChancePerEntropy</stat>
 				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Ability_PsyfocusCost</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Ability_Range</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>AccuracyLong</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>AccuracyMedium</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>AccuracyShort</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>AccuracyTouch</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>AimingDelayFactor</stat>
-				<factor>0.01</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1493,11 +1579,6 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>ArmorRating_Sharp</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>ArrestSuccessChance</stat>
 				<factor>100</factor>
 			</li>
@@ -1508,23 +1589,8 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>BandwidthCost</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Beauty</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>Beauty</stat>
 				<factor>1</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>BeautyOutdoors</stat>
-				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1543,17 +1609,7 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>BiosculpterOccupantSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>BirthRitualQualityOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>BondAnimalChanceFactor</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -1584,17 +1640,7 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>Cleanliness</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Cleanliness</stat>
 				<factor>1</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Comfort</stat>
-				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1624,21 +1670,6 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>ConstructSuccessChance</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ContainmentStrength</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ControlTakingTime</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ConversionPower</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -1708,11 +1739,6 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>FoodPoisonChanceFixedHuman</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>ForagedNutritionPerDay</stat>
 				<factor>100</factor>
 			</li>
@@ -1743,8 +1769,8 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>HuntingStealth</stat>
-				<factor>100</factor>
+				<stat>Ability_GoodwillImpact</stat>
+				<factor>0.01</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -1788,16 +1814,6 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>Kiiro_DodgePostProcessFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>Kiiro_RangeDodgeChance</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>LearningRateFactor</stat>
 				<factor>100</factor>
 			</li>
@@ -1809,16 +1825,6 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>LifespanFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MarketValue</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MarketValueIgnoreHp</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -1838,11 +1844,6 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>MechBandwidth</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>MechEnergyLossPerHP</stat>
 				<factor>0.01</factor>
 			</li>
@@ -1854,26 +1855,6 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>MechFormingSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MechRemoteRepairDistance</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MechRemoteShieldDistance</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MechRemoteShieldEnergy</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MechRepairSpeed</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -1923,63 +1904,8 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>MeleeDodgeChance</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeDodgeChanceIndoorsDarkOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeDodgeChanceIndoorsLitOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeDodgeChanceOutdoorsDarkOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeDodgeChanceOutdoorsLitOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeHitChance</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeHitChanceIndoorsDarkOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeHitChanceIndoorsLitOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeHitChanceOutdoorsDarkOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MeleeHitChanceOutdoorsLitOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>MentalBreakThreshold</stat>
 				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>MinimumContainmentStrength</stat>
-				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
@@ -2058,36 +1984,6 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>PsychicSensitivity</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PsychicSensitivityFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>PsychicSensitivityOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>RangedCooldownFactor</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>RangedWeapon_Cooldown</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>RangedWeapon_DamageMultiplier</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>RawNutritionFactor</stat>
 				<factor>100</factor>
 			</li>
@@ -2128,61 +2024,6 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>SellPriceFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyFactor_Long</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyFactor_Medium</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyFactor_Short</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyFactor_Touch</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyIndoorsDarkOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyIndoorsLitOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyOutdoorsDarkOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyOutdoorsLitOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyPawn</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>ShootingAccuracyTurret</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>SlaveSuppressionFallRate</stat>
 				<factor>0.01</factor>
 			</li>
@@ -2198,62 +2039,7 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>SocialIdeoSpreadFrequencyFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>SocialImpact</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>StaggerDurationFactor</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>StuffEffectMultiplierArmor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>StuffEffectMultiplierInsulation_Cold</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>StuffEffectMultiplierInsulation_Heat</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>StuffPower_Armor_Blunt</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>StuffPower_Armor_Heat</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>StuffPower_Armor_Sharp</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>StyleDominance</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>SubcoreEncodingSpeed</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>SuppressionPower</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -2273,46 +2059,6 @@
 			</li>
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
-				<stat>TradePriceImprovement</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>TrapMeleeDamage</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_EnergyShieldEnergyMaxApparel</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_EnergyShieldEnergyMaxFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_EnergyShieldEnergyMaxOffset</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_EnergyShieldEnergyMaxPawn</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_EnergyShieldRadiusPawn</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_EnergyShieldRechargeRatePawn</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
 				<stat>VEF_FoodCapacityMultiplier</stat>
 				<factor>100</factor>
 			</li>
@@ -2324,41 +2070,6 @@
 			<li Class="ScenPart_StatFactor">
 				<def>StatFactor</def>
 				<stat>VEF_MassCarryCapacity</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_MeleeAttackDamageFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_MeleeAttackSpeedFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_RangeAttackDamageFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_RangeAttackSpeedFactor</stat>
-				<factor>100</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_RangedCooldownFactor</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_VerbCooldownFactor</stat>
-				<factor>0.01</factor>
-			</li>
-			<li Class="ScenPart_StatFactor">
-				<def>StatFactor</def>
-				<stat>VEF_VerbRangeFactor</stat>
 				<factor>100</factor>
 			</li>
 			<li Class="ScenPart_StatFactor">
@@ -2453,13 +2164,13 @@
 			</li>
 			<li Class="ScenPart_ScatterThingsNearPlayerStart">
 				<def>ScatterThingsNearPlayerStart</def>
-				<thingDef>ComponentSpacer</thingDef>
+				<thingDef>MedicineHerbal</thingDef>
 				<count>1000000</count>
 				<allowRoofed>True</allowRoofed>
 			</li>
 			<li Class="ScenPart_ScatterThingsNearPlayerStart">
 				<def>ScatterThingsNearPlayerStart</def>
-				<thingDef>MedicineHerbal</thingDef>
+				<thingDef>ComponentSpacer</thingDef>
 				<count>1000000</count>
 				<allowRoofed>True</allowRoofed>
 			</li>
@@ -2474,6 +2185,34 @@
 				<thingDef>Gold</thingDef>
 				<count>1000000</count>
 				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>Uranium</thingDef>
+				<count>1000000</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>Bioferrite</thingDef>
+				<count>1000000</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>IJade</thingDef>
+				<count>1000000</count>
+				<allowRoofed>True</allowRoofed>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MarketValue</stat>
+				<factor>0.01</factor>
+			</li>
+			<li Class="ScenPart_StatFactor">
+				<def>StatFactor</def>
+				<stat>MarketValueIgnoreHp</stat>
+				<factor>0.01</factor>
 			</li>
 		</parts>
 	</scenario>

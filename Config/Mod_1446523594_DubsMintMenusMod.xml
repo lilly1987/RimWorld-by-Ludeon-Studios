@@ -4412,35 +4412,6 @@
 						<includeGroup>null</includeGroup>
 					</li>
 					<li Class="Bill_Production">
-						<loadID>-84</loadID>
-						<recipe>Make_Penoxycyline</recipe>
-						<allowedSkillRange>0~20</allowedSkillRange>
-						<pawnRestriction>null</pawnRestriction>
-						<precept>null</precept>
-						<xenogerm>null</xenogerm>
-						<ingredientFilter>
-							<disallowedSpecialFilters>
-								<li>AllowCorpsesColonist</li>
-								<li>AllowCorpsesStranger</li>
-								<li>AllowCorpsesSlave</li>
-								<li>AllowCorpsesMechFriendly</li>
-								<li>AllowCorpsesMechEnemy</li>
-								<li>AllowCorpsesUnnatural</li>
-							</disallowedSpecialFilters>
-							<allowedDefs />
-							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-							<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
-						</ingredientFilter>
-						<repeatMode>Forever</repeatMode>
-						<repeatCount>1</repeatCount>
-						<storeMode>DropOnFloor</storeMode>
-						<targetCount>10</targetCount>
-						<unpauseWhenYouHave>5</unpauseWhenYouHave>
-						<storeGroup>null</storeGroup>
-						<includeGroup>null</includeGroup>
-					</li>
-					<li Class="Bill_Production">
 						<loadID>-85</loadID>
 						<recipe>Make_Flake</recipe>
 						<allowedSkillRange>0~20</allowedSkillRange>
