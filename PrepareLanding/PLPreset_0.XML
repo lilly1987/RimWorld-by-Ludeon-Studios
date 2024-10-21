@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset>
+  <Info>
+    <Version>1.0</Version>
+    <Author>elamigos</Author>
+    <Template>false</Template>
+    <Description>None</Description>
+  </Info>
+  <Filters>
+    <Terrain>
+      <Hilliness>Flat</Hilliness>
+      <Forageability>
+        <Use>true</Use>
+        <Min>10000</Min>
+        <Max>10000</Max>
+      </Forageability>
+      <Stones>
+        <FilterBooleanState>OrFiltering</FilterBooleanState>
+        <OffPartialNoSelect>true</OffPartialNoSelect>
+        <OrderedFiltering>false</OrderedFiltering>
+        <Stone>
+          <defName>Marble</defName>
+          <State>On</State>
+        </Stone>
+        <Stone>
+          <defName>Sandstone</defName>
+          <State>Off</State>
+        </Stone>
+        <Stone>
+          <defName>Limestone</defName>
+          <State>Off</State>
+        </Stone>
+        <Stone>
+          <defName>Slate</defName>
+          <State>Off</State>
+        </Stone>
+        <Stone>
+          <defName>Granite</defName>
+          <State>On</State>
+        </Stone>
+      </Stones>
+      <HasCave>
+        <State>On</State>
+      </HasCave>
+    </Terrain>
+    <Temperature>
+      <AnimalsCanGrazeNow>
+        <State>On</State>
+      </AnimalsCanGrazeNow>
+    </Temperature>
+  </Filters>
+  <Options />
+</Preset>

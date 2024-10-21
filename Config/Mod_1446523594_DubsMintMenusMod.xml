@@ -4789,6 +4789,135 @@
 					</li>
 				</FBills>
 			</li>
+			<li>
+				<BenchTemplateName>Thing_TableMachining72385</BenchTemplateName>
+				<BenchDef>TableMachining</BenchDef>
+				<FBills>
+					<li Class="Bill_Production">
+						<loadID>-81</loadID>
+						<recipe>Make_Shell_HighExplosive</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters>
+								<li>AllowCorpsesColonist</li>
+								<li>AllowCorpsesStranger</li>
+								<li>AllowCorpsesSlave</li>
+								<li>AllowCorpsesMechFriendly</li>
+								<li>AllowCorpsesMechEnemy</li>
+								<li>AllowCorpsesUnnatural</li>
+							</disallowedSpecialFilters>
+							<allowedDefs />
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>DropOnFloor</storeMode>
+						<targetCount>10</targetCount>
+						<unpauseWhenYouHave>5</unpauseWhenYouHave>
+						<storeGroup>null</storeGroup>
+						<includeGroup>null</includeGroup>
+					</li>
+					<li Class="Bill_Production">
+						<loadID>-82</loadID>
+						<recipe>Make_Shell_Incendiary</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters>
+								<li>AllowCorpsesColonist</li>
+								<li>AllowCorpsesStranger</li>
+								<li>AllowCorpsesSlave</li>
+								<li>AllowCorpsesMechFriendly</li>
+								<li>AllowCorpsesMechEnemy</li>
+								<li>AllowCorpsesUnnatural</li>
+							</disallowedSpecialFilters>
+							<allowedDefs />
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>DropOnFloor</storeMode>
+						<targetCount>10</targetCount>
+						<unpauseWhenYouHave>5</unpauseWhenYouHave>
+						<storeGroup>null</storeGroup>
+						<includeGroup>null</includeGroup>
+					</li>
+					<li Class="Bill_Production">
+						<loadID>-83</loadID>
+						<recipe>Make_Shell_Firefoam</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters>
+								<li>AllowCorpsesColonist</li>
+								<li>AllowCorpsesStranger</li>
+								<li>AllowCorpsesSlave</li>
+								<li>AllowCorpsesMechFriendly</li>
+								<li>AllowCorpsesMechEnemy</li>
+								<li>AllowCorpsesUnnatural</li>
+							</disallowedSpecialFilters>
+							<allowedDefs />
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>DropOnFloor</storeMode>
+						<targetCount>10</targetCount>
+						<unpauseWhenYouHave>5</unpauseWhenYouHave>
+						<storeGroup>null</storeGroup>
+						<includeGroup>null</includeGroup>
+					</li>
+				</FBills>
+			</li>
+			<li>
+				<BenchTemplateName>Thing_MaidCostumeCraftingTable71107</BenchTemplateName>
+				<BenchDef>MaidCostumeCraftingTable</BenchDef>
+				<FBills>
+					<li Class="Bill_ProductionWithUft">
+						<loadID>-91</loadID>
+						<recipe>Make_ChefMaid</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters>
+								<li>AllowCorpsesColonist</li>
+								<li>AllowCorpsesStranger</li>
+								<li>AllowCorpsesSlave</li>
+								<li>AllowCorpsesMechFriendly</li>
+								<li>AllowCorpsesMechEnemy</li>
+								<li>AllowCorpsesUnnatural</li>
+							</disallowedSpecialFilters>
+							<allowedDefs />
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>DropOnFloor</storeMode>
+						<targetCount>10</targetCount>
+						<unpauseWhenYouHave>5</unpauseWhenYouHave>
+						<storeGroup>null</storeGroup>
+						<includeGroup>null</includeGroup>
+						<boundUft>null</boundUft>
+					</li>
+				</FBills>
+			</li>
 		</FBenchTemplates>
 	</ModSettings>
 </SettingsBlock>

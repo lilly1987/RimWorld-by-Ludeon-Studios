@@ -15,16 +15,16 @@
 
 
 #
-금 0.008 10
-트럼보 가죽 0.03 14
-트럼보 뿔 3 800
-은 0.008 1
-플라스틸 0.25 9
-곤충옥
+금		0.008	10	 1,250 
+트럼보 가죽	0.03	14	 467 
+트럼보 뿔	3	800	 267 
+은		0.008	1	 125 
+플라스틸		0.25	9	 36 
 
-운기환 0.1 3000
-환단 0.025 2600
-개화 0.01 2099
+운기환		0.1	3000	 30,000 
+환단		0.025	2600	 104,000 
+개화		0.01	2099	 209,900 
+
 
 
 #
@@ -48,9 +48,15 @@
 #
 천
 <li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Cloth</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-
+#
 보존 식량
 <li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MealSurvivalPack</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+사료
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Kibble</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+건초
+<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Hay</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+
+#
 약품
 <li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MedicineIndustrial</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
 생약
@@ -60,6 +66,7 @@
 <li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ComponentIndustrial</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
 고급 부품
 <li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ComponentSpacer</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
+
 #
 화학연료
 <li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Chemfuel</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            

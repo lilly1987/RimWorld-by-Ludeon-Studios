@@ -25,7 +25,7 @@
 			<show>True</show>
 			<col>RGBA(1.000, 0.000, 0.000, 1.000)</col>
 		</Hostiles>
-		<StaticRectPos>(1418.0, 91.0)</StaticRectPos>
+		<StaticRectPos>(1415.0, 104.0)</StaticRectPos>
 		<AttackAlerts>True</AttackAlerts>
 		<ShowCorpses>True</ShowCorpses>
 		<multi21>200</multi21>

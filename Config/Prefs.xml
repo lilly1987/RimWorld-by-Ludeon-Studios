@@ -5,9 +5,9 @@
   <volumeMusic>0.4</volumeMusic>
   <volumeAmbient>1</volumeAmbient>
   <volumeUI>1</volumeUI>
-  <screenWidth>0</screenWidth>
-  <screenHeight>0</screenHeight>
-  <fullscreen>False</fullscreen>
+  <screenWidth>1920</screenWidth>
+  <screenHeight>1080</screenHeight>
+  <fullscreen>True</fullscreen>
   <uiScale>1</uiScale>
   <customCursorEnabled>True</customCursorEnabled>
   <hatsOnlyOnMap>False</hatsOnlyOnMap>
@@ -40,14 +40,14 @@
   <automaticPauseMode>MajorThreat</automaticPauseMode>
   <mapDragSensitivity>1.3</mapDragSensitivity>
   <smoothCameraJumps>True</smoothCameraJumps>
-  <autosavesCount>22</autosavesCount>
+  <autosavesCount>25</autosavesCount>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
   <devMode>True</devMode>
   <debugActionPalette />
   <devPalettePosition>
-    <x>0</x>
-    <y>0</y>
+    <x>120</x>
+    <y>151</y>
   </devPalettePosition>
   <langFolderName>Korean (한국어)</langFolderName>
   <logVerbose>False</logVerbose>
