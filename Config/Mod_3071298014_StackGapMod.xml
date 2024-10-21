@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="StorageUpperBound.StackGapSettings">
-		<EnableHardEjection>True</EnableHardEjection>
+		<EnableHardEjection>False</EnableHardEjection>
 		<DisplayLogFactor>1</DisplayLogFactor>
-		<GlobalMultistackMode>1</GlobalMultistackMode>
+		<GlobalMultistackMode>0</GlobalMultistackMode>
 		<PercentageMode>False</PercentageMode>
-		<GlobalSimilarStackEnabled>True</GlobalSimilarStackEnabled>
+		<GlobalSimilarStackEnabled>False</GlobalSimilarStackEnabled>
 		<MaxStackSliderLimit>10000</MaxStackSliderLimit>
 	</ModSettings>
 </SettingsBlock>

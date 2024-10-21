@@ -637,7 +637,7 @@
 		</modNames>
 	</meta>
 	<scenario>
-		<name>test</name>
+		<name>치트2</name>
 		<summary />
 		<description />
 		<playerFaction>
@@ -1210,6 +1210,356 @@
 				<def>StatFactor</def>
 				<stat>ResearchProject</stat>
 				<factor>0.01</factor>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>akame</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>aome</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Ariana</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>baier</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>buer</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Castariri</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Giwa</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>hana</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>jiaer</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>juer</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>kohime</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>kon</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>konf</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>kuoer</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>kuro</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Kurumi</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Maya</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>miko</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Miruko</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Miruku</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Momona</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Nemuri</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Nonona</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Ruri</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>siro</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>sirof</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_Allial</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_IA</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_KizunaAkari</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_KotonohaAkane</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_KotonohaAoi</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_KyomachiSeika</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_MeikaHime</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_MeikaMikoto</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_Millial</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_ONE</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_OtomachiUna</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_SatoSasara</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_SuzukiTsudumi</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_TohokuItako</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_TohokuKiritan</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_TohokuZunko</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_Tuina_chan</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_v_flower</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>VAA_YuzukiYukari</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>WB_Giver</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>yuki</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Yurika</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>Zero</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
+				<def>StartingAnimal</def>
+				<animalKind>zhuer</animalKind>
+				<count>1</count>
+				<pawnName IsNull="True" />
+				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
 			</li>
 			<li Class="ScenPart_ForcedTrait">
 				<def>ForcedTrait</def>
@@ -1897,571 +2247,137 @@
 				<def>StartingResearch</def>
 				<project>Xenogermination</project>
 			</li>
-			<li Class="KCSG.ScenPart_AddStartingStructure">
-				<def>VFEC_AddStartingStructure</def>
-				<spawnConduits>True</spawnConduits>
-				<preGenClear>True</preGenClear>
-				<structureLabel />
-				<chooseFrom>
-					<li>lilly</li>
-				</chooseFrom>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>akame</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>aome</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Ariana</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>baier</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>buer</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Castariri</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Giwa</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>hana</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>jiaer</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>juer</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>kohime</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>kon</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>konf</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>kuoer</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>kuro</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Kurumi</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Maya</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>miko</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Miruko</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Miruku</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Momona</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Nemuri</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Nonona</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Ruri</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>siro</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>sirof</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_Allial</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_IA</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_KizunaAkari</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_KotonohaAkane</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_KotonohaAoi</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_KyomachiSeika</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_MeikaHime</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_MeikaMikoto</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_Millial</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_ONE</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_OtomachiUna</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_SatoSasara</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_SuzukiTsudumi</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_TohokuItako</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_TohokuKiritan</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_TohokuZunko</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_Tuina_chan</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_v_flower</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_YuzukiYukari</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>WB_Giver</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>yuki</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Yurika</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Zero</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>zhuer</animalKind>
-				<count>1</count>
-				<pawnName Class="NameSingle">
-					<name />
-				</pawnName>
-				<bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
-			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Bioferrite</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>BlocksMarble</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>IJade</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Gold</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Silver</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Steel</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Uranium</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Plasteel</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Bioferrite</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Cloth</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>MealSurvivalPack</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Kibble</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Hay</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>MedicineIndustrial</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>MedicineHerbal</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>ComponentIndustrial</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>ComponentSpacer</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
+				<quality>Normal</quality>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Chemfuel</thingDef>
+				<count>100000</count>
+				<quality>Normal</quality>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>NanostructuringChip</thingDef>
+				<count>100000</count>
+				<quality>Normal</quality>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>PowerfocusChip</thingDef>
+				<count>100000</count>
+				<quality>Normal</quality>
+			</li>
+			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>HemogenPack</thingDef>
+				<count>100000</count>
 				<quality>Normal</quality>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Dye</thingDef>
-				<count>1000000</count>
+				<count>100000</count>
+				<quality>Normal</quality>
 			</li>
 		</parts>
 	</scenario>
