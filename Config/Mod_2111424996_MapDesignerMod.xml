@@ -6,6 +6,9 @@
 		<hillSize>0.1</hillSize>
 		<hillSmoothness>0</hillSmoothness>
 		<hillRadialAmt>1</hillRadialAmt>
+		<hillSplitSize>1.1</hillSplitSize>
+		<hillSideAmt>0.2</hillSideAmt>
+		<hillSideDir>160</hillSideDir>
 		<flagRockChunks>False</flagRockChunks>
 		<oreCommonality>
 			<keys>
@@ -46,6 +49,11 @@
 				<li>True</li>
 			</values>
 		</allowedRocks>
+		<sizeRiver>0.1</sizeRiver>
+		<flagRiverDir>True</flagRiverDir>
+		<riverDir>90</riverDir>
+		<flagRiverLoc>True</flagRiverLoc>
+		<riverCenterDisp>(-0.3, 0.0, -0.3)</riverCenterDisp>
 		<terrainFert>0.2</terrainFert>
 		<terrainWater>0.2</terrainWater>
 		<selectedFeature>NatIsland</selectedFeature>
@@ -54,6 +62,6 @@
 		<niRoundness>0</niRoundness>
 		<niShore>Ice</niShore>
 		<niStyle>Square</niStyle>
-		<niWaterDepth>0.4959649</niWaterDepth>
+		<niWaterDepth>-0.2</niWaterDepth>
 	</ModSettings>
 </SettingsBlock>

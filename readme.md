@@ -27,49 +27,5 @@
 
 
 
-#
-대리석 석재
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>BlocksMarble</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-곤충옥
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>IJade</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-#
-금
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Gold</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-은
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Silver</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-강철
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Steel</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-우라늄
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Uranium</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-플라스틸
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Plasteel</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-생체강
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Bioferrite</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-#
-천
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Cloth</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-#
-보존 식량
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MealSurvivalPack</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-사료
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Kibble</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-건초
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Hay</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-
-#
-약품
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MedicineIndustrial</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
-생약
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>MedicineHerbal</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-#
-부품
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ComponentIndustrial</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-고급 부품
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>ComponentSpacer</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>
-
-#
-화학연료
-<li Class="ScenPart_ScatterThingsNearPlayerStart"><def>ScatterThingsNearPlayerStart</def><thingDef>Chemfuel</thingDef><count>1000000</count><allowRoofed>True</allowRoofed></li>            
-
 login anonymous
 
