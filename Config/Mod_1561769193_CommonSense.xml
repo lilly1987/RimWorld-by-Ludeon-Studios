@@ -4,5 +4,6 @@
 		<hauling_over_bills>False</hauling_over_bills>
 		<adv_cleaning_ingest>True</adv_cleaning_ingest>
 		<safe_wander>True</safe_wander>
+		<optimal_patching>True</optimal_patching>
 	</ModSettings>
 </SettingsBlock>

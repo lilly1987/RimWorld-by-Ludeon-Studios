@@ -2742,6 +2742,431 @@
 				<li>곤충 옥 스파이크 코어 타일_terrain</li>
 				<li>토템 곤충 옥 타일_terrain</li>
 				<li>멋진 곤충옥 바닥_terrain</li>
+				<li>moelotl 따뜻한 겨울 가운_item</li>
+				<li>moelotl 팬더 하인 복장_item</li>
+				<li>모에로틀 보물주머니_item</li>
+				<li>모에로틀 보물박_item</li>
+				<li>moelotl 월계수 속옷_item</li>
+				<li>moelotl 보호 속옷_item</li>
+				<li>모에로틀 루미너스 의복_item</li>
+				<li>모에로틀 해일 로브_item</li>
+				<li>moelotl 드래곤 포춘 모자_item</li>
+				<li>moelotl 팬더 머리 장식_item</li>
+				<li>《꽃의 책 · 제1권》_item</li>
+				<li>《꽃의 책 · 제2권》_item</li>
+				<li>《꽃의 책 · 제3권》_item</li>
+				<li>《꽃의 책 · 제4권》_item</li>
+				<li>《꽃의 책 · 제5권》_item</li>
+				<li>《소드 패리 방식》_item</li>
+				<li>《원초기법》_item</li>
+				<li>전투파괴자 석궁_item</li>
+				<li>둥지 상자_building</li>
+				<li>상자_building</li>
+				<li>긴 선반_building</li>
+				<li>받침대_building</li>
+				<li>긴 받침대_building</li>
+				<li>자원용 받침대_building</li>
+				<li>자원용 긴 받침대_building</li>
+				<li>튼튼한 상자_building</li>
+				<li>크고 튼튼한 상자_building</li>
+				<li>튼튼한 선반_building</li>
+				<li>길고 튼튼한 선반_building</li>
+				<li>시체 보관함_building</li>
+				<li>청크 빈_building</li>
+				<li>포병 총_building</li>
+				<li>해양 장교용 의자_building</li>
+				<li>해양 회의 테이블_building</li>
+				<li>드레스 블루_item</li>
+				<li>드레스 화이트_item</li>
+				<li>사병용 정모_item</li>
+				<li>부사관용 드레스 블루_item</li>
+				<li>부사관용 드레스 화이트_item</li>
+				<li>부사관용 정모_item</li>
+				<li>장교용 드레스 블루_item</li>
+				<li>장교용 드레스 화이트_item</li>
+				<li>장교용 정모_item</li>
+				<li>여름 근무복_item</li>
+				<li>겨울 근무복_item</li>
+				<li>g-suit type a_item</li>
+				<li>해양 비행 헬멧_item</li>
+				<li>항공관제 장비_item</li>
+				<li>마로 테티스_pawn</li>
+				<li>불산 지뢰_building</li>
+				<li>헤파리_pawn</li>
+				<li>불산 화학탄_item</li>
+				<li>불산 중화제_item</li>
+				<li>형석_item</li>
+				<li>형석 광석_building</li>
+				<li>불산_item</li>
+				<li>해양 불산 분무기_item</li>
+				<li>무인기_pawn</li>
+				<li>정수기_building</li>
+				<li>해양 코어 배양기_building</li>
+				<li>해양 메크링크_item</li>
+				<li>해양-오염종_pawn</li>
+				<li>해양 통조림-담수종_item</li>
+				<li>해양 통조림-해수종_item</li>
+				<li>오염종 해양 코어_item</li>
+				<li>해양 통조림-오염종_item</li>
+				<li>오염수_item</li>
+				<li>기본 세일러복 a_item</li>
+				<li>기본 세일러복 b_item</li>
+				<li>기본 세일러복 c_item</li>
+				<li>세일러복 모자 a_item</li>
+				<li>세일러복 모자 b_item</li>
+				<li>기본 긴팔 세일러복 a_item</li>
+				<li>기본 긴팔 세일러복 b_item</li>
+				<li>기본 긴팔 세일러복 c_item</li>
+				<li>해양 드레스 a_item</li>
+				<li>해양 드레스 b_item</li>
+				<li>해양 망토 a_item</li>
+				<li>해양 망토 b_item</li>
+				<li>해양 망토 c_item</li>
+				<li>해양 수영복 a_item</li>
+				<li>해양 수영복 b_item</li>
+				<li>해양 수영복 c_item</li>
+				<li>해양 원피스 a_item</li>
+				<li>해양 원피스 b_item</li>
+				<li>해양 평상복 a_item</li>
+				<li>해양 평상복 b_item</li>
+				<li>해양 줄무늬 비키니 a_item</li>
+				<li>해양 방탄조끼_item</li>
+				<li>해양 전투 슈트_item</li>
+				<li>해양 전투 재킷_item</li>
+				<li>해양 전투 헬멧_item</li>
+				<li>이국적인 세일러복(동정복)_item</li>
+				<li>이국적인 세일러복(하정복)_item</li>
+				<li>이국적인 세일러복 코트_item</li>
+				<li>마그나 기본 갑옷_item</li>
+				<li>마그나 근접 갑옷_item</li>
+				<li>마그나 기본 헬멧_item</li>
+				<li>마그나 근접 헬멧_item</li>
+				<li>마그나 사격 헬멧_item</li>
+				<li>보호 목걸이_item</li>
+				<li>치유 목걸이_item</li>
+				<li>행운 목걸이_item</li>
+				<li>초능력 목걸이_item</li>
+				<li>물은 답을 알고 있다_item</li>
+				<li>해양 57mm 함포_building</li>
+				<li>해양 미사일 발사대_building</li>
+				<li>레이더_building</li>
+				<li>간단한 수중 재배장_building</li>
+				<li>해부 작업대_building</li>
+				<li>해양 제작대_building</li>
+				<li>바닥 수족관_building</li>
+				<li>아쿠아 추출기_building</li>
+				<li>해양등_building</li>
+				<li>해양 벽등_building</li>
+				<li>물먹는 해양_building</li>
+				<li>유리병_building</li>
+				<li>해양 통조림 포장기_building</li>
+				<li>해양 캔따개_building</li>
+				<li>마리모 배양기_building</li>
+				<li>마리모 어항_building</li>
+				<li>담수 긷는 곳_building</li>
+				<li>해수 긷는 곳_building</li>
+				<li>물펌프_building</li>
+				<li>자동 물펌프_building</li>
+				<li>탈염 정제_item</li>
+				<li>정화 정제_item</li>
+				<li>럼_item</li>
+				<li>진_item</li>
+				<li>수국_plant</li>
+				<li>수국_item</li>
+				<li>함초_plant</li>
+				<li>사암 다리_terrain</li>
+				<li>화강암 다리_terrain</li>
+				<li>석회암 다리_terrain</li>
+				<li>점판암 다리_terrain</li>
+				<li>대리석 다리_terrain</li>
+				<li>사암 단단한 다리_terrain</li>
+				<li>화강암 단단한 다리_terrain</li>
+				<li>석회암 단단한 다리_terrain</li>
+				<li>점판암 단단한 다리_terrain</li>
+				<li>대리석 단단한 다리_terrain</li>
+				<li>ecmo_item</li>
+				<li>마그나 쿠키 클리커_item</li>
+				<li>마그나 sbd_item</li>
+				<li>마그나 다빈치_item</li>
+				<li>해양 점도 증진제_item</li>
+				<li>해양 점도 감소제_item</li>
+				<li>방향해양 기능성 약제_item</li>
+				<li>소독해양 기능성 약제_item</li>
+				<li>청소의 흔적_building</li>
+				<li>보온해양 기능성 약제_item</li>
+				<li>수국차_item</li>
+				<li>생리식염수_item</li>
+				<li>자가면역 억제 수액_item</li>
+				<li>루시페륨 억제 수액_item</li>
+				<li>각성제_item</li>
+				<li>인간 파편_item</li>
+				<li>인간 분말_item</li>
+				<li>jp8_item</li>
+				<li>담수종 해양 코어_item</li>
+				<li>해수종 해양 코어_item</li>
+				<li>정제 나트륨_item</li>
+				<li>나트륨 냉각 장치_item</li>
+				<li>방수천_item</li>
+				<li>마리모 섬유_item</li>
+				<li>베리 아이스크림_item</li>
+				<li>초코 아이스크림_item</li>
+				<li>아이스크림_item</li>
+				<li>나폴리탄_item</li>
+				<li>고기 통조림_item</li>
+				<li>채소 병조림_item</li>
+				<li>mre_item</li>
+				<li>레이션 d_item</li>
+				<li>캐러멜 사탕_item</li>
+				<li>소금_item</li>
+				<li>마리모_item</li>
+				<li>정제되지 않은 아쿠아_item</li>
+				<li>아쿠아_item</li>
+				<li>해무 분말강_item</li>
+				<li>담수_item</li>
+				<li>해수_item</li>
+				<li>해양-담수종_pawn</li>
+				<li>해양-해수종_pawn</li>
+				<li>워터제트_item</li>
+				<li>해양 총검_item</li>
+				<li>해양 생존 나이프_item</li>
+				<li>낫_item</li>
+				<li>해양 권총_item</li>
+				<li>해양 소총_item</li>
+				<li>해양 기관포_item</li>
+				<li>해양기관포_item</li>
+				<li>해양 기관단총_item</li>
+				<li>해양 emp_item</li>
+				<li>수증기 포_item</li>
+				<li>거대한 닻 조각상_building</li>
+				<li>과학 연구 데이터베이스_building</li>
+				<li>정보 조작 안테나_building</li>
+				<li>수상한 자판기_building</li>
+				<li>석유 시추_building</li>
+				<li>가스 발전소_building</li>
+				<li>행성 심층 채굴소_building</li>
+				<li>기계 가공 공장_building</li>
+				<li>장갑강 주조 공장_building</li>
+				<li>알루미늄 합금 주조 공장_building</li>
+				<li>유리 섬유 주조 공장_building</li>
+				<li>사무용 의자_building</li>
+				<li>검은 벨벳 소파_building</li>
+				<li>간이 침대_building</li>
+				<li>파란 수정 스탠드 협탁_building</li>
+				<li>검은색 티테이블_building</li>
+				<li>검은색 의자_building</li>
+				<li>고급 조합 소파_building</li>
+				<li>고급 조합 소파 (단품)_building</li>
+				<li>천체 망원경_building</li>
+				<li>galo 인형 뽑기 기계_building</li>
+				<li>보크사이트 광산_building</li>
+				<li>일반 선반_building</li>
+				<li>cnc 선반_building</li>
+				<li>나노 프린터_building</li>
+				<li>오리콘 20mm 자동포탑_building</li>
+				<li>보포스 40mm 고사포_building</li>
+				<li>ak630 30mm 근접 방어포_building</li>
+				<li>갑판 벽지_building</li>
+				<li>함선 문_building</li>
+				<li>런천미트 통조림_item</li>
+				<li>업그레이드 부품 고급형 화력 통제 레이더_item</li>
+				<li>펄스 추진기 업그레이드 부품 _item</li>
+				<li>수정 도금선 업그레이드 부품_item</li>
+				<li>고급형 전투 컴퓨터 업그레이드 부품 _item</li>
+				<li>지능형 전투 컴퓨터 업그레이드 부품_item</li>
+				<li>전함소녀 유치원 외투_item</li>
+				<li>아동 안전 모자_item</li>
+				<li>세일러복 a형_item</li>
+				<li>세일러복 b형_item</li>
+				<li>세일러복 c형_item</li>
+				<li>긴 치마 메이드복_item</li>
+				<li>짧은 치마 메이드복_item</li>
+				<li>회사원 복장_item</li>
+				<li>밀착 플리츠 스커트_item</li>
+				<li>넥타이 셔츠_item</li>
+				<li>메이드 헤드드레스_item</li>
+				<li>심해 안대_item</li>
+				<li>빨간 테 안경_item</li>
+				<li>검은 테 안경_item</li>
+				<li>소박한 속옷_item</li>
+				<li>스쿨미즈_item</li>
+				<li>흰색 니삭스_item</li>
+				<li>검은색 니삭스_item</li>
+				<li>염색 가능한 니삭스_item</li>
+				<li>니트 조끼_item</li>
+				<li>jpc2.0 전술 조끼_item</li>
+				<li>타이트 전투복 a형_item</li>
+				<li>타이트 전투복 b형_item</li>
+				<li>후부키의 옷_item</li>
+				<li>후부키의 옷(스카프)_item</li>
+				<li>후부키의 머리핀_item</li>
+				<li>글로우웜의 옷_item</li>
+				<li>유키카제의 옷_item</li>
+				<li>유키카제의 모자_item</li>
+				<li>나가타의 옷_item</li>
+				<li>리슐리외의 옷_item</li>
+				<li>렉싱턴의 옷_item</li>
+				<li>렉싱턴의 모자_item</li>
+				<li>렉싱턴의 반바지_item</li>
+				<li>레쉬텔니의 옷_item</li>
+				<li>레쉬텔니의 모자_item</li>
+				<li>체이서의 옷_item</li>
+				<li>체이서의 모자_item</li>
+				<li>비토리오 베네토의 옷_item</li>
+				<li>비토리오 베네토의 모자_item</li>
+				<li>애틀랜타의 헤드드레스_item</li>
+				<li>주노의 헤드드레스_item</li>
+				<li>구축함 1934형_item</li>
+				<li>구축함 후부키형_item</li>
+				<li>경순양함 오마하급_item</li>
+				<li>중순양함 노스햄프턴급_item</li>
+				<li>중순양함 어드미럴 히퍼급_item</li>
+				<li>전함 퀸 엘리자베스급_item</li>
+				<li>미사일 구축함 051형 스타쉽 장비_item</li>
+				<li>중순양함 아오바형 스타쉽 장비_item</li>
+				<li>순양전함 공고형 스타쉽 장비_item</li>
+				<li>전함 아이오와급 스타쉽 장비_item</li>
+				<li>부착 장갑 업그레이드 부품_item</li>
+				<li>발연통 업그레이드 부품_item</li>
+				<li>동력 시스템 업그레이드 부품_item</li>
+				<li>표준형 화력 통제 레이더 업그레이드 부품_item</li>
+				<li>개선형 화력 통제 레이더 업그레이드 부품_item</li>
+				<li>편사 방패 업그레이드 부품_item</li>
+				<li>해군 탄약_item</li>
+				<li>장갑강_item</li>
+				<li>알루미늄 합금_item</li>
+				<li>전리품_item</li>
+				<li>함선 장비 청사진_item</li>
+				<li>장비 청사진_item</li>
+				<li>수리 도구_item</li>
+				<li>알루미늄 광석_item</li>
+				<li>심해 소형 포탑_item</li>
+				<li>심해 중형 단장포_item</li>
+				<li>심해 소형 단장포_item</li>
+				<li>심해 항공기총_item</li>
+				<li>60kg 공중폭탄_item</li>
+				<li>에를리콘 20mm 경기관총_item</li>
+				<li>보포스 40mm 중기관총_item</li>
+				<li>ak630 30mm 중기관총_item</li>
+				<li>mk1 이중 15인치 포_item</li>
+				<li>m1934형 삼연장 381mm 포_item</li>
+				<li>skc34 이중 380mm 포_item</li>
+				<li>35.6cm 이중 전자기 가속포_item</li>
+				<li>삼연장 16인치 기가 가속포_item</li>
+				<li>k46 타키온 랜스_item</li>
+				<li>mk16 삼연장 6인치 포_item</li>
+				<li>skc25 삼연장 150mm 포_item</li>
+				<li>mk9 삼연장 8인치 포_item</li>
+				<li>mk16 삼연장 8인치 자동포_item</li>
+				<li>mk9 삼연장 8인치 플라즈마포_item</li>
+				<li>20.3cm 연장 플라즈마포_item</li>
+				<li>t34/85 포탑_item</li>
+				<li>12.7cm 연장포_item</li>
+				<li>스페크 앵커_item</li>
+				<li>기병 군도_item</li>
+				<li>기병 군도 (단분자 날)_item</li>
+				<li>메카노이드 galo_pawn</li>
+				<li>심해 경순양함_pawn</li>
+				<li>심해 구축함_pawn</li>
+				<li>심해 보급함_pawn</li>
+				<li>심해 항공모함_pawn</li>
+				<li>심해 항공모함 항공기_pawn</li>
+				<li>전함 소녀_pawn</li>
+				<li>쉐이핑 알고리즘 칩_item</li>
+				<li>효율성 알고리즘 칩_item</li>
+				<li>광대역 알고리즘 칩_item</li>
+				<li>파비아 퍼스널리티 코어_item</li>
+				<li>전자기 크리스탈_item</li>
+				<li>pb-900 항공폭탄_item</li>
+				<li>pb-250 항공폭탄_item</li>
+				<li>지혈젤 캡슐_item</li>
+				<li>블레이드 서버_item</li>
+				<li>pm423-수류탄_item</li>
+				<li>pm629-세열수류탄_item</li>
+				<li>pt1-중기관총_item</li>
+				<li>p1-돌격소총_item</li>
+				<li>p1-돌격소총 (유탄 발사기)_item</li>
+				<li>p2a1-저격소총_item</li>
+				<li>p2a3-경기관총_item</li>
+				<li>p60-기관단총_item</li>
+				<li>휴대용 p78-이온 캐논_item</li>
+				<li>p6b-전투소총_item</li>
+				<li>p23-대물 소총_item</li>
+				<li>크리스탈 메스_item</li>
+				<li>크리스탈 도검_item</li>
+				<li>쌍두검_item</li>
+				<li>폐기물 입자용해기_building</li>
+				<li>서버 캐비닛_building</li>
+				<li>파비아 휴머노이드 배양기_building</li>
+				<li>파비아 충전기 (일체형)_building</li>
+				<li>파비아 충전기 (연결형)_building</li>
+				<li>pm503-대인지뢰_building</li>
+				<li>pt-1 기관총 타워_building</li>
+				<li>防爆墙_building</li>
+				<li>파비아 메이드_pawn</li>
+				<li>파비아 셰프_pawn</li>
+				<li>파비아 머시니스트_pawn</li>
+				<li>파비아 - 가정부_pawn</li>
+				<li>파비아 후부키_pawn</li>
+				<li>해킹된 휴머노이드_pawn</li>
+				<li>파비아 아이딜_pawn</li>
+				<li>파비아-요정전술중대-미아_pawn</li>
+				<li>파비아 - urban assault company - 소총수_pawn</li>
+				<li>파비아 - urban assault company - raiders_pawn</li>
+				<li>파비아 - 도시 폭행 중대 - 중위_pawn</li>
+				<li>파비아 - 산악 보병 중대 - 소총수_pawn</li>
+				<li>파비아 - 산악보병중대 - 저격수_pawn</li>
+				<li>파비아 - 산악 보병 중대 - 기관총 사수_pawn</li>
+				<li>파비아 - 산악 보병 중대 - 중위_pawn</li>
+				<li>파비아 페어리_pawn</li>
+				<li>파비아 - 고블린 전술중대 - 기관총 사수_pawn</li>
+				<li>파비아 솔저_pawn</li>
+				<li>파비아 센티널_pawn</li>
+				<li>파비아 샤프슈터_pawn</li>
+				<li>파비아 서전트_pawn</li>
+				<li>파비아 루테넌트_pawn</li>
+				<li>파비아 캡틴_pawn</li>
+				<li>파비아 메이저_pawn</li>
+				<li>파비아 엔지니어_pawn</li>
+				<li>파비아 메딕_pawn</li>
+				<li>요리사메이드 복장_item</li>
+				<li>클리너메이드 코스튬_item</li>
+				<li>크래프터메이드 의상_item</li>
+				<li>파이트메이드 의상_item</li>
+				<li>헤더메이드 의상_item</li>
+				<li>간호사메이드 의상_item</li>
+				<li>일하는 메이드 모자_item</li>
+				<li>파이트 메이드 모자_item</li>
+				<li>의식용 하녀 모자_item</li>
+				<li>모르타르_building</li>
+				<li>메이드 복장 제작 작업대_building</li>
+				<li>우라늄 슬러그 포탑_building</li>
+				<li>(우마무스메) 사토노 다이아몬드 의상_item</li>
+				<li>(우마무스메) 키타산 블랙 의상_item</li>
+				<li>(우마무스메) 파인 모션 의상_item</li>
+				<li>(우마무스메) 카렌짱 의상_item</li>
+				<li>(우마무스메) 에이신 플래시 의상_item</li>
+				<li>(우마무스메) 메지로 아르당 의상_item</li>
+				<li>(우마무스메) 맨하탄 카페 의상_item</li>
+				<li>(우마무스메) 메지로 맥퀸 의상_item</li>
+				<li>(우마무스메) 다이와 스칼렛 의상_item</li>
+				<li>(우마무스메) 마루젠스키 의상_item</li>
+				<li>(우마무스메) 스페셜 위크 의상_item</li>
+				<li>(우마무스메) 사일런스 스즈카 의상_item</li>
+				<li>(우마무스메) 토카이 테이오 의상_item</li>
+				<li>(우마무스메) 그래스 원더 의상_item</li>
+				<li>(우마무스메) 미스터 시비 의상_item</li>
+				<li>(우마무스메) 라이스 샤워 의상_item</li>
+				<li>(우마무스메) 심볼리 루돌프 의상_item</li>
+				<li>(우마무스메) 골드 쉽 의상_item</li>
+				<li>(우마무스메) 아그네스 타키온 의상_item</li>
+				<li>(우마무스메) 애스턴 마짱 의상_item</li>
+				<li>(우마무스메) 비블로스 의상_item</li>
+				<li>(우마무스메) 코파노 리키 의상_item</li>
+				<li>(우마무스메) 트윈 터보 의상_item</li>
+				<li>(우마무스메) 미호노 부르봉 의상_item</li>
+				<li>(우마무스메) 젠틸돈나 의상_item</li>
+				<li>(우마무스메) 정글 포켓 의상_item</li>
+				<li>(우마무스메) 어드마이어 베가 의상_item</li>
 			</keys>
 			<values>
 				<li>
@@ -3718,6 +4143,7 @@
 					<mainThingDefName>Shelf</mainThingDefName>
 					<thingDefs>
 						<li>Shelf</li>
+						<li>CCPSS_Shelf</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -4223,6 +4649,7 @@
 					<mainThingDefName>HandTailoringBench</mainThingDefName>
 					<thingDefs>
 						<li>HandTailoringBench</li>
+						<li>WSGR_ElectricTailoringBench</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -7621,6 +8048,7 @@
 					<mainThingDefName>Turret_AutoMortar</mainThingDefName>
 					<thingDefs>
 						<li>Turret_AutoMortar</li>
+						<li>Turret_Auto_Mortar</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -16931,6 +17359,7 @@
 					<mainThingDefName>UNAGIribbonshirt</mainThingDefName>
 					<thingDefs>
 						<li>UNAGIribbonshirt</li>
+						<li>WSGR_Rshirt_Ribbonbowtie</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -24470,6 +24899,7 @@
 					<mainThingDefName>LWM_Medicine_Cabinet</mainThingDefName>
 					<thingDefs>
 						<li>LWM_Medicine_Cabinet</li>
+						<li>CCPSS_MedicineCabinet</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -24784,6 +25214,3412 @@
 					<mainThingDefName>FineTileIJade</mainThingDefName>
 					<thingDefs>
 						<li>FineTileIJade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>moelotl 따뜻한 겨울 가운_item</thingKey>
+					<mainThingDefName>Axolotl_WarmWinterRobe</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_WarmWinterRobe</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>moelotl 팬더 하인 복장_item</thingKey>
+					<mainThingDefName>Axolotl_PandaServantAttire</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_PandaServantAttire</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>모에로틀 보물주머니_item</thingKey>
+					<mainThingDefName>Axolotl_TreasurePouch</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_TreasurePouch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>모에로틀 보물박_item</thingKey>
+					<mainThingDefName>Axolotl_TreasureGourd</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_TreasureGourd</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>moelotl 월계수 속옷_item</thingKey>
+					<mainThingDefName>Axolotl_LaurelUnderwear</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_LaurelUnderwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>moelotl 보호 속옷_item</thingKey>
+					<mainThingDefName>Axolotl_ProtectiveUnderwear</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_ProtectiveUnderwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>모에로틀 루미너스 의복_item</thingKey>
+					<mainThingDefName>Axolotl_LuminousGarment</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_LuminousGarment</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>모에로틀 해일 로브_item</thingKey>
+					<mainThingDefName>Axolotl_TidalWaveRobe</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_TidalWaveRobe</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>moelotl 드래곤 포춘 모자_item</thingKey>
+					<mainThingDefName>Axolotl_DragonFortuneHat</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_DragonFortuneHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>moelotl 팬더 머리 장식_item</thingKey>
+					<mainThingDefName>Axolotl_PandaHeaddress</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_PandaHeaddress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>《꽃의 책 · 제1권》_item</thingKey>
+					<mainThingDefName>Axolotl_BookFlower_1Level</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_BookFlower_1Level</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>《꽃의 책 · 제2권》_item</thingKey>
+					<mainThingDefName>Axolotl_BookFlower_2Level</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_BookFlower_2Level</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>《꽃의 책 · 제3권》_item</thingKey>
+					<mainThingDefName>Axolotl_BookFlower_3Level</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_BookFlower_3Level</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>《꽃의 책 · 제4권》_item</thingKey>
+					<mainThingDefName>Axolotl_BookFlower_4Level</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_BookFlower_4Level</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>《꽃의 책 · 제5권》_item</thingKey>
+					<mainThingDefName>Axolotl_BookFlower_5Level</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_BookFlower_5Level</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>《소드 패리 방식》_item</thingKey>
+					<mainThingDefName>Axolotl_Book_SwordPlay</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_Book_SwordPlay</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>《원초기법》_item</thingKey>
+					<mainThingDefName>Axolotl_Book_PrimalQiMethod</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_Book_PrimalQiMethod</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>전투파괴자 석궁_item</thingKey>
+					<mainThingDefName>Axolotl_BattlebreakerCrossbow</mainThingDefName>
+					<thingDefs>
+						<li>Axolotl_BattlebreakerCrossbow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>둥지 상자_building</thingKey>
+					<mainThingDefName>CCPSS_NestingBox</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_NestingBox</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>상자_building</thingKey>
+					<mainThingDefName>CCPSS_Crate</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_Crate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>긴 선반_building</thingKey>
+					<mainThingDefName>CCPSS_LongShelf</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_LongShelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>받침대_building</thingKey>
+					<mainThingDefName>CCPSS_Rack</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_Rack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>긴 받침대_building</thingKey>
+					<mainThingDefName>CCPSS_LongRack</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_LongRack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>자원용 받침대_building</thingKey>
+					<mainThingDefName>CCPSS_ResourceRack</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_ResourceRack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>자원용 긴 받침대_building</thingKey>
+					<mainThingDefName>CCPSS_LongResourceRack</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_LongResourceRack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>튼튼한 상자_building</thingKey>
+					<mainThingDefName>CCPSS_Strongbox</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_Strongbox</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>크고 튼튼한 상자_building</thingKey>
+					<mainThingDefName>CCPSS_LargeStrongbox</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_LargeStrongbox</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>튼튼한 선반_building</thingKey>
+					<mainThingDefName>CCPSS_HDShelf</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_HDShelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>길고 튼튼한 선반_building</thingKey>
+					<mainThingDefName>CCPSS_HDLongShelf</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_HDLongShelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>시체 보관함_building</thingKey>
+					<mainThingDefName>CCPSS_CorpseLocker</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_CorpseLocker</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>청크 빈_building</thingKey>
+					<mainThingDefName>CCPSS_ChunkBin</mainThingDefName>
+					<thingDefs>
+						<li>CCPSS_ChunkBin</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>포병 총_building</thingKey>
+					<mainThingDefName>Turret_ArtilleryGun</mainThingDefName>
+					<thingDefs>
+						<li>Turret_ArtilleryGun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 장교용 의자_building</thingKey>
+					<mainThingDefName>HY_ChairA</mainThingDefName>
+					<thingDefs>
+						<li>HY_ChairA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 회의 테이블_building</thingKey>
+					<mainThingDefName>HYTable1x3c</mainThingDefName>
+					<thingDefs>
+						<li>HYTable1x3c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>드레스 블루_item</thingKey>
+					<mainThingDefName>HY_DressBluePO</mainThingDefName>
+					<thingDefs>
+						<li>HY_DressBluePO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>드레스 화이트_item</thingKey>
+					<mainThingDefName>HY_DressWhitePO</mainThingDefName>
+					<thingDefs>
+						<li>HY_DressWhitePO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>사병용 정모_item</thingKey>
+					<mainThingDefName>HY_HatPO</mainThingDefName>
+					<thingDefs>
+						<li>HY_HatPO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>부사관용 드레스 블루_item</thingKey>
+					<mainThingDefName>HY_DressBlueCPO</mainThingDefName>
+					<thingDefs>
+						<li>HY_DressBlueCPO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>부사관용 드레스 화이트_item</thingKey>
+					<mainThingDefName>HY_DressWhiteCPO</mainThingDefName>
+					<thingDefs>
+						<li>HY_DressWhiteCPO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>부사관용 정모_item</thingKey>
+					<mainThingDefName>HY_HatCPO</mainThingDefName>
+					<thingDefs>
+						<li>HY_HatCPO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>장교용 드레스 블루_item</thingKey>
+					<mainThingDefName>HY_DressBlueCO</mainThingDefName>
+					<thingDefs>
+						<li>HY_DressBlueCO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>장교용 드레스 화이트_item</thingKey>
+					<mainThingDefName>HY_DressWhiteCO</mainThingDefName>
+					<thingDefs>
+						<li>HY_DressWhiteCO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>장교용 정모_item</thingKey>
+					<mainThingDefName>HY_HatCO</mainThingDefName>
+					<thingDefs>
+						<li>HY_HatCO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>여름 근무복_item</thingKey>
+					<mainThingDefName>HY_SummerWhite</mainThingDefName>
+					<thingDefs>
+						<li>HY_SummerWhite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>겨울 근무복_item</thingKey>
+					<mainThingDefName>HY_WBU</mainThingDefName>
+					<thingDefs>
+						<li>HY_WBU</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>g-suit type a_item</thingKey>
+					<mainThingDefName>HY_GSuitA</mainThingDefName>
+					<thingDefs>
+						<li>HY_GSuitA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 비행 헬멧_item</thingKey>
+					<mainThingDefName>HY_HMD</mainThingDefName>
+					<thingDefs>
+						<li>HY_HMD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>항공관제 장비_item</thingKey>
+					<mainThingDefName>HY_Controller</mainThingDefName>
+					<thingDefs>
+						<li>HY_Controller</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마로 테티스_pawn</thingKey>
+					<mainThingDefName>HY_Tethys</mainThingDefName>
+					<thingDefs>
+						<li>HY_Tethys</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>불산 지뢰_building</thingKey>
+					<mainThingDefName>HYTrapIED_HF</mainThingDefName>
+					<thingDefs>
+						<li>HYTrapIED_HF</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>헤파리_pawn</thingKey>
+					<mainThingDefName>HepariBig</mainThingDefName>
+					<thingDefs>
+						<li>HepariBig</li>
+						<li>HepariMiddle</li>
+						<li>HepariSmall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>불산 화학탄_item</thingKey>
+					<mainThingDefName>Shell_HF</mainThingDefName>
+					<thingDefs>
+						<li>Shell_HF</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>불산 중화제_item</thingKey>
+					<mainThingDefName>HY_HFCure</mainThingDefName>
+					<thingDefs>
+						<li>HY_HFCure</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>형석_item</thingKey>
+					<mainThingDefName>HY_Fluorite</mainThingDefName>
+					<thingDefs>
+						<li>HY_Fluorite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>형석 광석_building</thingKey>
+					<mainThingDefName>MineableFluorite</mainThingDefName>
+					<thingDefs>
+						<li>MineableFluorite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>불산_item</thingKey>
+					<mainThingDefName>HY_HydrogenFluorite</mainThingDefName>
+					<thingDefs>
+						<li>HY_HydrogenFluorite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 불산 분무기_item</thingKey>
+					<mainThingDefName>Gun_HYHFSpray</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HYHFSpray</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>무인기_pawn</thingKey>
+					<mainThingDefName>HYMech_UAV</mainThingDefName>
+					<thingDefs>
+						<li>HYMech_UAV</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>정수기_building</thingKey>
+					<mainThingDefName>HYPurifier</mainThingDefName>
+					<thingDefs>
+						<li>HYPurifier</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 코어 배양기_building</thingKey>
+					<mainThingDefName>HYGestator</mainThingDefName>
+					<thingDefs>
+						<li>HYGestator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 메크링크_item</thingKey>
+					<mainThingDefName>HYMechlink</mainThingDefName>
+					<thingDefs>
+						<li>HYMechlink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양-오염종_pawn</thingKey>
+					<mainThingDefName>HY_Polluted_Race</mainThingDefName>
+					<thingDefs>
+						<li>HY_Polluted_Race</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 통조림-담수종_item</thingKey>
+					<mainThingDefName>FreshHYCan</mainThingDefName>
+					<thingDefs>
+						<li>FreshHYCan</li>
+						<li>FreshHYCan_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 통조림-해수종_item</thingKey>
+					<mainThingDefName>SalineHYCan</mainThingDefName>
+					<thingDefs>
+						<li>SalineHYCan</li>
+						<li>SalineHYCan_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>오염종 해양 코어_item</thingKey>
+					<mainThingDefName>PollutedHYCore</mainThingDefName>
+					<thingDefs>
+						<li>PollutedHYCore</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 통조림-오염종_item</thingKey>
+					<mainThingDefName>PollutedHYCan</mainThingDefName>
+					<thingDefs>
+						<li>PollutedHYCan</li>
+						<li>PollutedHYCan_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>오염수_item</thingKey>
+					<mainThingDefName>WaterPolluted</mainThingDefName>
+					<thingDefs>
+						<li>WaterPolluted</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기본 세일러복 a_item</thingKey>
+					<mainThingDefName>HY_SailorA</mainThingDefName>
+					<thingDefs>
+						<li>HY_SailorA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기본 세일러복 b_item</thingKey>
+					<mainThingDefName>HY_SailorB</mainThingDefName>
+					<thingDefs>
+						<li>HY_SailorB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기본 세일러복 c_item</thingKey>
+					<mainThingDefName>HY_SailorC</mainThingDefName>
+					<thingDefs>
+						<li>HY_SailorC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>세일러복 모자 a_item</thingKey>
+					<mainThingDefName>HY_SailorHatA</mainThingDefName>
+					<thingDefs>
+						<li>HY_SailorHatA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>세일러복 모자 b_item</thingKey>
+					<mainThingDefName>HY_SailorHatB</mainThingDefName>
+					<thingDefs>
+						<li>HY_SailorHatB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기본 긴팔 세일러복 a_item</thingKey>
+					<mainThingDefName>HY_LongSailorA</mainThingDefName>
+					<thingDefs>
+						<li>HY_LongSailorA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기본 긴팔 세일러복 b_item</thingKey>
+					<mainThingDefName>HY_LongSailorB</mainThingDefName>
+					<thingDefs>
+						<li>HY_LongSailorB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기본 긴팔 세일러복 c_item</thingKey>
+					<mainThingDefName>HY_LongSailorC</mainThingDefName>
+					<thingDefs>
+						<li>HY_LongSailorC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 드레스 a_item</thingKey>
+					<mainThingDefName>HY_DressA</mainThingDefName>
+					<thingDefs>
+						<li>HY_DressA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 드레스 b_item</thingKey>
+					<mainThingDefName>HY_DressB</mainThingDefName>
+					<thingDefs>
+						<li>HY_DressB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 망토 a_item</thingKey>
+					<mainThingDefName>HY_CapeA</mainThingDefName>
+					<thingDefs>
+						<li>HY_CapeA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 망토 b_item</thingKey>
+					<mainThingDefName>HY_CapeB</mainThingDefName>
+					<thingDefs>
+						<li>HY_CapeB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 망토 c_item</thingKey>
+					<mainThingDefName>HY_CapeC</mainThingDefName>
+					<thingDefs>
+						<li>HY_CapeC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 수영복 a_item</thingKey>
+					<mainThingDefName>HY_SwimSuitA</mainThingDefName>
+					<thingDefs>
+						<li>HY_SwimSuitA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 수영복 b_item</thingKey>
+					<mainThingDefName>HY_SwimSuitB</mainThingDefName>
+					<thingDefs>
+						<li>HY_SwimSuitB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 수영복 c_item</thingKey>
+					<mainThingDefName>HY_SwimSuitC</mainThingDefName>
+					<thingDefs>
+						<li>HY_SwimSuitC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 원피스 a_item</thingKey>
+					<mainThingDefName>HY_OnepieceA</mainThingDefName>
+					<thingDefs>
+						<li>HY_OnepieceA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 원피스 b_item</thingKey>
+					<mainThingDefName>HY_OnepieceB</mainThingDefName>
+					<thingDefs>
+						<li>HY_OnepieceB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 평상복 a_item</thingKey>
+					<mainThingDefName>HY_ShirtA</mainThingDefName>
+					<thingDefs>
+						<li>HY_ShirtA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 평상복 b_item</thingKey>
+					<mainThingDefName>HY_ShirtB</mainThingDefName>
+					<thingDefs>
+						<li>HY_ShirtB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 줄무늬 비키니 a_item</thingKey>
+					<mainThingDefName>HY_StripeA</mainThingDefName>
+					<thingDefs>
+						<li>HY_StripeA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 방탄조끼_item</thingKey>
+					<mainThingDefName>HY_FlakVest</mainThingDefName>
+					<thingDefs>
+						<li>HY_FlakVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 전투 슈트_item</thingKey>
+					<mainThingDefName>HY_SealSuit</mainThingDefName>
+					<thingDefs>
+						<li>HY_SealSuit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 전투 재킷_item</thingKey>
+					<mainThingDefName>HY_SealJacket</mainThingDefName>
+					<thingDefs>
+						<li>HY_SealJacket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 전투 헬멧_item</thingKey>
+					<mainThingDefName>HY_Helmet</mainThingDefName>
+					<thingDefs>
+						<li>HY_Helmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>이국적인 세일러복(동정복)_item</thingKey>
+					<mainThingDefName>HY_KSailorA</mainThingDefName>
+					<thingDefs>
+						<li>HY_KSailorA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>이국적인 세일러복(하정복)_item</thingKey>
+					<mainThingDefName>HY_KSailorB</mainThingDefName>
+					<thingDefs>
+						<li>HY_KSailorB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>이국적인 세일러복 코트_item</thingKey>
+					<mainThingDefName>HY_KSailorCoat</mainThingDefName>
+					<thingDefs>
+						<li>HY_KSailorCoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마그나 기본 갑옷_item</thingKey>
+					<mainThingDefName>HY_MagnaBase</mainThingDefName>
+					<thingDefs>
+						<li>HY_MagnaBase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마그나 근접 갑옷_item</thingKey>
+					<mainThingDefName>HY_MagnaMelee</mainThingDefName>
+					<thingDefs>
+						<li>HY_MagnaMelee</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마그나 기본 헬멧_item</thingKey>
+					<mainThingDefName>HY_MagnaHelmetBase</mainThingDefName>
+					<thingDefs>
+						<li>HY_MagnaHelmetBase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마그나 근접 헬멧_item</thingKey>
+					<mainThingDefName>HY_MagnaHelmetMelee</mainThingDefName>
+					<thingDefs>
+						<li>HY_MagnaHelmetMelee</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마그나 사격 헬멧_item</thingKey>
+					<mainThingDefName>HY_MagnaHelmetShoot</mainThingDefName>
+					<thingDefs>
+						<li>HY_MagnaHelmetShoot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>보호 목걸이_item</thingKey>
+					<mainThingDefName>HY_ShieldNecklace</mainThingDefName>
+					<thingDefs>
+						<li>HY_ShieldNecklace</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>치유 목걸이_item</thingKey>
+					<mainThingDefName>HY_HealingNecklace</mainThingDefName>
+					<thingDefs>
+						<li>HY_HealingNecklace</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>행운 목걸이_item</thingKey>
+					<mainThingDefName>HY_FortuneNecklace</mainThingDefName>
+					<thingDefs>
+						<li>HY_FortuneNecklace</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>초능력 목걸이_item</thingKey>
+					<mainThingDefName>HY_PsychicNecklace</mainThingDefName>
+					<thingDefs>
+						<li>HY_PsychicNecklace</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>물은 답을 알고 있다_item</thingKey>
+					<mainThingDefName>WaterKnows_Book</mainThingDefName>
+					<thingDefs>
+						<li>WaterKnows_Book</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 57mm 함포_building</thingKey>
+					<mainThingDefName>HYTurret_Bofors</mainThingDefName>
+					<thingDefs>
+						<li>HYTurret_Bofors</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 미사일 발사대_building</thingKey>
+					<mainThingDefName>HYTurret_RIM</mainThingDefName>
+					<thingDefs>
+						<li>HYTurret_RIM</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>레이더_building</thingKey>
+					<mainThingDefName>HY_Radar</mainThingDefName>
+					<thingDefs>
+						<li>HY_Radar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>간단한 수중 재배장_building</thingKey>
+					<mainThingDefName>HYSimpleHydroponics</mainThingDefName>
+					<thingDefs>
+						<li>HYSimpleHydroponics</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해부 작업대_building</thingKey>
+					<mainThingDefName>HYTableAnatomy</mainThingDefName>
+					<thingDefs>
+						<li>HYTableAnatomy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 제작대_building</thingKey>
+					<mainThingDefName>HYWorkBench</mainThingDefName>
+					<thingDefs>
+						<li>HYWorkBench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>바닥 수족관_building</thingKey>
+					<mainThingDefName>HYFloorAquarium</mainThingDefName>
+					<thingDefs>
+						<li>HYFloorAquarium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>아쿠아 추출기_building</thingKey>
+					<mainThingDefName>HYAquaProcessor</mainThingDefName>
+					<thingDefs>
+						<li>HYAquaProcessor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양등_building</thingKey>
+					<mainThingDefName>HYLamp</mainThingDefName>
+					<thingDefs>
+						<li>HYLamp</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 벽등_building</thingKey>
+					<mainThingDefName>HYWallLamp</mainThingDefName>
+					<thingDefs>
+						<li>HYWallLamp</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>물먹는 해양_building</thingKey>
+					<mainThingDefName>HYMoistureAbsorber</mainThingDefName>
+					<thingDefs>
+						<li>HYMoistureAbsorber</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>유리병_building</thingKey>
+					<mainThingDefName>HYBottle</mainThingDefName>
+					<thingDefs>
+						<li>HYBottle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 통조림 포장기_building</thingKey>
+					<mainThingDefName>HYCannery</mainThingDefName>
+					<thingDefs>
+						<li>HYCannery</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 캔따개_building</thingKey>
+					<mainThingDefName>HYTinOpener</mainThingDefName>
+					<thingDefs>
+						<li>HYTinOpener</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마리모 배양기_building</thingKey>
+					<mainThingDefName>HYMarimoGestator</mainThingDefName>
+					<thingDefs>
+						<li>HYMarimoGestator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마리모 어항_building</thingKey>
+					<mainThingDefName>HYMarimoBowl</mainThingDefName>
+					<thingDefs>
+						<li>HYMarimoBowl</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>담수 긷는 곳_building</thingKey>
+					<mainThingDefName>HYWaterFreshSpot</mainThingDefName>
+					<thingDefs>
+						<li>HYWaterFreshSpot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해수 긷는 곳_building</thingKey>
+					<mainThingDefName>HYWaterSaltSpot</mainThingDefName>
+					<thingDefs>
+						<li>HYWaterSaltSpot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>물펌프_building</thingKey>
+					<mainThingDefName>HYWaterPump</mainThingDefName>
+					<thingDefs>
+						<li>HYWaterPump</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>자동 물펌프_building</thingKey>
+					<mainThingDefName>HYAutoWaterPump</mainThingDefName>
+					<thingDefs>
+						<li>HYAutoWaterPump</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>탈염 정제_item</thingKey>
+					<mainThingDefName>D_pill</mainThingDefName>
+					<thingDefs>
+						<li>D_pill</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>정화 정제_item</thingKey>
+					<mainThingDefName>P_pill</mainThingDefName>
+					<thingDefs>
+						<li>P_pill</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>럼_item</thingKey>
+					<mainThingDefName>CptQ</mainThingDefName>
+					<thingDefs>
+						<li>CptQ</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>진_item</thingKey>
+					<mainThingDefName>HY_Sapphire</mainThingDefName>
+					<thingDefs>
+						<li>HY_Sapphire</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>수국_plant</thingKey>
+					<mainThingDefName>Plant_HYHydrangea</mainThingDefName>
+					<thingDefs>
+						<li>Plant_HYHydrangea</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>수국_item</thingKey>
+					<mainThingDefName>HYHydrangea</mainThingDefName>
+					<thingDefs>
+						<li>HYHydrangea</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>함초_plant</thingKey>
+					<mainThingDefName>Plant_HYGlasswort</mainThingDefName>
+					<thingDefs>
+						<li>Plant_HYGlasswort</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>사암 다리_terrain</thingKey>
+					<mainThingDefName>HYBridgeSandstone</mainThingDefName>
+					<thingDefs>
+						<li>HYBridgeSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>화강암 다리_terrain</thingKey>
+					<mainThingDefName>HYBridgeGranite</mainThingDefName>
+					<thingDefs>
+						<li>HYBridgeGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>석회암 다리_terrain</thingKey>
+					<mainThingDefName>HYBridgeLimestone</mainThingDefName>
+					<thingDefs>
+						<li>HYBridgeLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>점판암 다리_terrain</thingKey>
+					<mainThingDefName>HYBridgeSlate</mainThingDefName>
+					<thingDefs>
+						<li>HYBridgeSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>대리석 다리_terrain</thingKey>
+					<mainThingDefName>HYBridgeMarble</mainThingDefName>
+					<thingDefs>
+						<li>HYBridgeMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>사암 단단한 다리_terrain</thingKey>
+					<mainThingDefName>HYHeavyBridgeSandstone</mainThingDefName>
+					<thingDefs>
+						<li>HYHeavyBridgeSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>화강암 단단한 다리_terrain</thingKey>
+					<mainThingDefName>HYHeavyBridgeGranite</mainThingDefName>
+					<thingDefs>
+						<li>HYHeavyBridgeGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>석회암 단단한 다리_terrain</thingKey>
+					<mainThingDefName>HYHeavyBridgeLimestone</mainThingDefName>
+					<thingDefs>
+						<li>HYHeavyBridgeLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>점판암 단단한 다리_terrain</thingKey>
+					<mainThingDefName>HYHeavyBridgeSlate</mainThingDefName>
+					<thingDefs>
+						<li>HYHeavyBridgeSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>대리석 단단한 다리_terrain</thingKey>
+					<mainThingDefName>HYHeavyBridgeMarble</mainThingDefName>
+					<thingDefs>
+						<li>HYHeavyBridgeMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ecmo_item</thingKey>
+					<mainThingDefName>HY_ECMO</mainThingDefName>
+					<thingDefs>
+						<li>HY_ECMO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마그나 쿠키 클리커_item</thingKey>
+					<mainThingDefName>HY_MagnaCookieClicker</mainThingDefName>
+					<thingDefs>
+						<li>HY_MagnaCookieClicker</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마그나 sbd_item</thingKey>
+					<mainThingDefName>HY_MagnaMastery</mainThingDefName>
+					<thingDefs>
+						<li>HY_MagnaMastery</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마그나 다빈치_item</thingKey>
+					<mainThingDefName>HY_MagnaDaVinci</mainThingDefName>
+					<thingDefs>
+						<li>HY_MagnaDaVinci</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 점도 증진제_item</thingKey>
+					<mainThingDefName>HY_Thickener</mainThingDefName>
+					<thingDefs>
+						<li>HY_Thickener</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 점도 감소제_item</thingKey>
+					<mainThingDefName>HY_ViscosityReducer</mainThingDefName>
+					<thingDefs>
+						<li>HY_ViscosityReducer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>방향해양 기능성 약제_item</thingKey>
+					<mainThingDefName>HY_PerfumeMod</mainThingDefName>
+					<thingDefs>
+						<li>HY_PerfumeMod</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>소독해양 기능성 약제_item</thingKey>
+					<mainThingDefName>HY_DisinfectionMod</mainThingDefName>
+					<thingDefs>
+						<li>HY_DisinfectionMod</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>청소의 흔적_building</thingKey>
+					<mainThingDefName>HY_Cleaner</mainThingDefName>
+					<thingDefs>
+						<li>HY_Cleaner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>보온해양 기능성 약제_item</thingKey>
+					<mainThingDefName>HY_TemperatureMod</mainThingDefName>
+					<thingDefs>
+						<li>HY_TemperatureMod</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>수국차_item</thingKey>
+					<mainThingDefName>HY_HydrangeaTea</mainThingDefName>
+					<thingDefs>
+						<li>HY_HydrangeaTea</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>생리식염수_item</thingKey>
+					<mainThingDefName>SalineSolution</mainThingDefName>
+					<thingDefs>
+						<li>SalineSolution</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>자가면역 억제 수액_item</thingKey>
+					<mainThingDefName>HalofuginoneSolution</mainThingDefName>
+					<thingDefs>
+						<li>HalofuginoneSolution</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>루시페륨 억제 수액_item</thingKey>
+					<mainThingDefName>LuciferiumSolution</mainThingDefName>
+					<thingDefs>
+						<li>LuciferiumSolution</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>각성제_item</thingKey>
+					<mainThingDefName>HYStimPack</mainThingDefName>
+					<thingDefs>
+						<li>HYStimPack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>인간 파편_item</thingKey>
+					<mainThingDefName>HumanDebris</mainThingDefName>
+					<thingDefs>
+						<li>HumanDebris</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>인간 분말_item</thingKey>
+					<mainThingDefName>HumanPowder</mainThingDefName>
+					<thingDefs>
+						<li>HumanPowder</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jp8_item</thingKey>
+					<mainThingDefName>HY_JP</mainThingDefName>
+					<thingDefs>
+						<li>HY_JP</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>담수종 해양 코어_item</thingKey>
+					<mainThingDefName>FreshHYCore</mainThingDefName>
+					<thingDefs>
+						<li>FreshHYCore</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해수종 해양 코어_item</thingKey>
+					<mainThingDefName>SalineHYCore</mainThingDefName>
+					<thingDefs>
+						<li>SalineHYCore</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>정제 나트륨_item</thingKey>
+					<mainThingDefName>HY_Sodium</mainThingDefName>
+					<thingDefs>
+						<li>HY_Sodium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>나트륨 냉각 장치_item</thingKey>
+					<mainThingDefName>HY_SodiumCoolerModule</mainThingDefName>
+					<thingDefs>
+						<li>HY_SodiumCoolerModule</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>방수천_item</thingKey>
+					<mainThingDefName>WaterproofCloth</mainThingDefName>
+					<thingDefs>
+						<li>WaterproofCloth</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마리모 섬유_item</thingKey>
+					<mainThingDefName>HY_MarimoFabric</mainThingDefName>
+					<thingDefs>
+						<li>HY_MarimoFabric</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>베리 아이스크림_item</thingKey>
+					<mainThingDefName>IcecreamBerry</mainThingDefName>
+					<thingDefs>
+						<li>IcecreamBerry</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>초코 아이스크림_item</thingKey>
+					<mainThingDefName>IcecreamChoco</mainThingDefName>
+					<thingDefs>
+						<li>IcecreamChoco</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>아이스크림_item</thingKey>
+					<mainThingDefName>IcecreamVanila</mainThingDefName>
+					<thingDefs>
+						<li>IcecreamVanila</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>나폴리탄_item</thingKey>
+					<mainThingDefName>IcecreamNeapolitan</mainThingDefName>
+					<thingDefs>
+						<li>IcecreamNeapolitan</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>고기 통조림_item</thingKey>
+					<mainThingDefName>HYMealSpam</mainThingDefName>
+					<thingDefs>
+						<li>HYMealSpam</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>채소 병조림_item</thingKey>
+					<mainThingDefName>HYMealBottle</mainThingDefName>
+					<thingDefs>
+						<li>HYMealBottle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mre_item</thingKey>
+					<mainThingDefName>HYMealMRE</mainThingDefName>
+					<thingDefs>
+						<li>HYMealMRE</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>레이션 d_item</thingKey>
+					<mainThingDefName>HYChoco</mainThingDefName>
+					<thingDefs>
+						<li>HYChoco</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>캐러멜 사탕_item</thingKey>
+					<mainThingDefName>HYTootsie</mainThingDefName>
+					<thingDefs>
+						<li>HYTootsie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>소금_item</thingKey>
+					<mainThingDefName>HYSalt</mainThingDefName>
+					<thingDefs>
+						<li>HYSalt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>마리모_item</thingKey>
+					<mainThingDefName>HYMarimo</mainThingDefName>
+					<thingDefs>
+						<li>HYMarimo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>정제되지 않은 아쿠아_item</thingKey>
+					<mainThingDefName>HYRawAqua</mainThingDefName>
+					<thingDefs>
+						<li>HYRawAqua</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>아쿠아_item</thingKey>
+					<mainThingDefName>HYAquaStone</mainThingDefName>
+					<thingDefs>
+						<li>HYAquaStone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해무 분말강_item</thingKey>
+					<mainThingDefName>HYHemuAlloy</mainThingDefName>
+					<thingDefs>
+						<li>HYHemuAlloy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>담수_item</thingKey>
+					<mainThingDefName>WaterFresh</mainThingDefName>
+					<thingDefs>
+						<li>WaterFresh</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해수_item</thingKey>
+					<mainThingDefName>WaterSalt</mainThingDefName>
+					<thingDefs>
+						<li>WaterSalt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양-담수종_pawn</thingKey>
+					<mainThingDefName>HY_Fresh_Race</mainThingDefName>
+					<thingDefs>
+						<li>HY_Fresh_Race</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양-해수종_pawn</thingKey>
+					<mainThingDefName>HY_Saline_Race</mainThingDefName>
+					<thingDefs>
+						<li>HY_Saline_Race</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>워터제트_item</thingKey>
+					<mainThingDefName>HYCutter</mainThingDefName>
+					<thingDefs>
+						<li>HYCutter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 총검_item</thingKey>
+					<mainThingDefName>HYBayonet</mainThingDefName>
+					<thingDefs>
+						<li>HYBayonet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 생존 나이프_item</thingKey>
+					<mainThingDefName>HYASEK</mainThingDefName>
+					<thingDefs>
+						<li>HYASEK</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>낫_item</thingKey>
+					<mainThingDefName>HYSickle</mainThingDefName>
+					<thingDefs>
+						<li>HYSickle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 권총_item</thingKey>
+					<mainThingDefName>Gun_HYPistol</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HYPistol</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 소총_item</thingKey>
+					<mainThingDefName>Gun_HYRifle</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HYRifle</li>
+						<li>Gun_HYAssaultRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 기관포_item</thingKey>
+					<mainThingDefName>Gun_HYVulcan</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HYVulcan</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양기관포_item</thingKey>
+					<mainThingDefName>Gun_HYBrrrt</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HYBrrrt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 기관단총_item</thingKey>
+					<mainThingDefName>Gun_HYSMG</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HYSMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해양 emp_item</thingKey>
+					<mainThingDefName>Gun_HYEMP</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HYEMP</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>수증기 포_item</thingKey>
+					<mainThingDefName>Gun_HYVapor</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HYVapor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>거대한 닻 조각상_building</thingKey>
+					<mainThingDefName>WSGR_Statue_Anchor</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Statue_Anchor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>과학 연구 데이터베이스_building</thingKey>
+					<mainThingDefName>WSGR_DataLibrary</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_DataLibrary</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>정보 조작 안테나_building</thingKey>
+					<mainThingDefName>WSGR_Indicating_Antenna</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Indicating_Antenna</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>수상한 자판기_building</thingKey>
+					<mainThingDefName>WSGR_Vendingmachine</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Vendingmachine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>석유 시추_building</thingKey>
+					<mainThingDefName>WSGR_OilWell</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_OilWell</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>가스 발전소_building</thingKey>
+					<mainThingDefName>WSGR_GasPower_Plant</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_GasPower_Plant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>행성 심층 채굴소_building</thingKey>
+					<mainThingDefName>WSGR_DeepCoreMining_Plant</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_DeepCoreMining_Plant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기계 가공 공장_building</thingKey>
+					<mainThingDefName>WSGR_Fabricators_Plant</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Fabricators_Plant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>장갑강 주조 공장_building</thingKey>
+					<mainThingDefName>WSGR_Alloy_A_Plant</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Alloy_A_Plant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>알루미늄 합금 주조 공장_building</thingKey>
+					<mainThingDefName>WSGR_Alloy_B_Plant</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Alloy_B_Plant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>유리 섬유 주조 공장_building</thingKey>
+					<mainThingDefName>WSGR_Alloy_C_Plant</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Alloy_C_Plant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>사무용 의자_building</thingKey>
+					<mainThingDefName>R_chairA</mainThingDefName>
+					<thingDefs>
+						<li>R_chairA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>검은 벨벳 소파_building</thingKey>
+					<mainThingDefName>R_chairB</mainThingDefName>
+					<thingDefs>
+						<li>R_chairB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>간이 침대_building</thingKey>
+					<mainThingDefName>R_Bed-A</mainThingDefName>
+					<thingDefs>
+						<li>R_Bed-A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파란 수정 스탠드 협탁_building</thingKey>
+					<mainThingDefName>R_Bedside_table</mainThingDefName>
+					<thingDefs>
+						<li>R_Bedside_table</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>검은색 티테이블_building</thingKey>
+					<mainThingDefName>R_TableB</mainThingDefName>
+					<thingDefs>
+						<li>R_TableB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>검은색 의자_building</thingKey>
+					<mainThingDefName>R_chairC</mainThingDefName>
+					<thingDefs>
+						<li>R_chairC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>고급 조합 소파_building</thingKey>
+					<mainThingDefName>R_chairD</mainThingDefName>
+					<thingDefs>
+						<li>R_chairD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>고급 조합 소파 (단품)_building</thingKey>
+					<mainThingDefName>R_chairE</mainThingDefName>
+					<thingDefs>
+						<li>R_chairE</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>천체 망원경_building</thingKey>
+					<mainThingDefName>R_Telescope</mainThingDefName>
+					<thingDefs>
+						<li>R_Telescope</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>galo 인형 뽑기 기계_building</thingKey>
+					<mainThingDefName>WSGR_Galo_CATCHER</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Galo_CATCHER</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>보크사이트 광산_building</thingKey>
+					<mainThingDefName>WSGR_MineableAluminium</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_MineableAluminium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>일반 선반_building</thingKey>
+					<mainThingDefName>WSGR_Lathe</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Lathe</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cnc 선반_building</thingKey>
+					<mainThingDefName>WSGR_CNC</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_CNC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>나노 프린터_building</thingKey>
+					<mainThingDefName>WSGR_Nanoprinter</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Nanoprinter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>오리콘 20mm 자동포탑_building</thingKey>
+					<mainThingDefName>USN_Oerlikon_20mm</mainThingDefName>
+					<thingDefs>
+						<li>USN_Oerlikon_20mm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>보포스 40mm 고사포_building</thingKey>
+					<mainThingDefName>USN_Bofors_40mm</mainThingDefName>
+					<thingDefs>
+						<li>USN_Bofors_40mm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ak630 30mm 근접 방어포_building</thingKey>
+					<mainThingDefName>Soviet_AK630_30mm</mainThingDefName>
+					<thingDefs>
+						<li>Soviet_AK630_30mm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>갑판 벽지_building</thingKey>
+					<mainThingDefName>WSGR_DeckWall</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_DeckWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>함선 문_building</thingKey>
+					<mainThingDefName>WSGR_CangMen</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_CangMen</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>런천미트 통조림_item</thingKey>
+					<mainThingDefName>haixing_Canned</mainThingDefName>
+					<thingDefs>
+						<li>haixing_Canned</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>업그레이드 부품 고급형 화력 통제 레이더_item</thingKey>
+					<mainThingDefName>WSGR_Implant_FCR_Advanced</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Implant_FCR_Advanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>펄스 추진기 업그레이드 부품 _item</thingKey>
+					<mainThingDefName>WSGR_Implant_ImpulseThruster</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Implant_ImpulseThruster</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>수정 도금선 업그레이드 부품_item</thingKey>
+					<mainThingDefName>WSGR_Implant_CrystalInfused_Gland</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Implant_CrystalInfused_Gland</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>고급형 전투 컴퓨터 업그레이드 부품 _item</thingKey>
+					<mainThingDefName>WSGR_Implant_CombatComputer_Advanced</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Implant_CombatComputer_Advanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>지능형 전투 컴퓨터 업그레이드 부품_item</thingKey>
+					<mainThingDefName>WSGR_Implant_CombatComputer_Sapient</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Implant_CombatComputer_Sapient</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>전함소녀 유치원 외투_item</thingKey>
+					<mainThingDefName>WSGR_Child_Uniform</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Child_Uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>아동 안전 모자_item</thingKey>
+					<mainThingDefName>WSGR_Child_MK2_hat</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Child_MK2_hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>세일러복 a형_item</thingKey>
+					<mainThingDefName>WSGR_SailorUniform_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_SailorUniform_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>세일러복 b형_item</thingKey>
+					<mainThingDefName>WSGR_SailorUniform_B</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_SailorUniform_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>세일러복 c형_item</thingKey>
+					<mainThingDefName>WSGR_SailorUniform_C</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_SailorUniform_C</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>긴 치마 메이드복_item</thingKey>
+					<mainThingDefName>WSGR_MaidOutfit_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_MaidOutfit_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>짧은 치마 메이드복_item</thingKey>
+					<mainThingDefName>WSGR_MaidOutfit_B</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_MaidOutfit_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>회사원 복장_item</thingKey>
+					<mainThingDefName>WSGR_suit</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_suit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>밀착 플리츠 스커트_item</thingKey>
+					<mainThingDefName>WSGR_RSkirt</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_RSkirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>넥타이 셔츠_item</thingKey>
+					<mainThingDefName>WSGR_Rshirt</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Rshirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>메이드 헤드드레스_item</thingKey>
+					<mainThingDefName>WSGR_MaidHeadDress</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_MaidHeadDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 안대_item</thingKey>
+					<mainThingDefName>WSGR_Abyssal_EyeCover</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_EyeCover</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>빨간 테 안경_item</thingKey>
+					<mainThingDefName>WSGR_Glasses_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Glasses_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>검은 테 안경_item</thingKey>
+					<mainThingDefName>WSGR_Glasses_B</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Glasses_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>소박한 속옷_item</thingKey>
+					<mainThingDefName>WSGR_Lingerie</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Lingerie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>스쿨미즈_item</thingKey>
+					<mainThingDefName>WSGR_school_swimsuit</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_school_swimsuit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>흰색 니삭스_item</thingKey>
+					<mainThingDefName>WSGR_stocking_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_stocking_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>검은색 니삭스_item</thingKey>
+					<mainThingDefName>WSGR_stocking_B</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_stocking_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>염색 가능한 니삭스_item</thingKey>
+					<mainThingDefName>WSGR_stocking_C</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_stocking_C</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>니트 조끼_item</thingKey>
+					<mainThingDefName>WSGR_vest</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_vest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jpc2.0 전술 조끼_item</thingKey>
+					<mainThingDefName>WSGR_TacticalVest</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_TacticalVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>타이트 전투복 a형_item</thingKey>
+					<mainThingDefName>WSGR_TightCombatSuit_a</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_TightCombatSuit_a</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>타이트 전투복 b형_item</thingKey>
+					<mainThingDefName>WSGR_TightCombatSuit_b</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_TightCombatSuit_b</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>후부키의 옷_item</thingKey>
+					<mainThingDefName>WSGR_Fubuki_Uniform</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Fubuki_Uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>후부키의 옷(스카프)_item</thingKey>
+					<mainThingDefName>WSGR_Fubuki_Uniform_B</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Fubuki_Uniform_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>후부키의 머리핀_item</thingKey>
+					<mainThingDefName>WSGR_Fubuki_Hairpin</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Fubuki_Hairpin</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>글로우웜의 옷_item</thingKey>
+					<mainThingDefName>WSGR_Glowworm_Uniform</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Glowworm_Uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>유키카제의 옷_item</thingKey>
+					<mainThingDefName>WSGR_Yukikaze_Uniform</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Yukikaze_Uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>유키카제의 모자_item</thingKey>
+					<mainThingDefName>WSGR_Yukikaze_Hat</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Yukikaze_Hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>나가타의 옷_item</thingKey>
+					<mainThingDefName>WSGR_Nagata_Uniform</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Nagata_Uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>리슐리외의 옷_item</thingKey>
+					<mainThingDefName>WSGR_Richelieu_HorseGuardGrenadier_Uniform</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Richelieu_HorseGuardGrenadier_Uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>렉싱턴의 옷_item</thingKey>
+					<mainThingDefName>WSGR_Lexington_Uniform</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Lexington_Uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>렉싱턴의 모자_item</thingKey>
+					<mainThingDefName>WSGR_Lexington_Hat</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Lexington_Hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>렉싱턴의 반바지_item</thingKey>
+					<mainThingDefName>WSGR_Lexington_Shorts</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Lexington_Shorts</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>레쉬텔니의 옷_item</thingKey>
+					<mainThingDefName>WSGR_changchun_suit</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_changchun_suit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>레쉬텔니의 모자_item</thingKey>
+					<mainThingDefName>WSGR_changchun_SailorHat</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_changchun_SailorHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>체이서의 옷_item</thingKey>
+					<mainThingDefName>WSGR_Chaser_suit</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Chaser_suit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>체이서의 모자_item</thingKey>
+					<mainThingDefName>WSGR_Chaser_Hat</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Chaser_Hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>비토리오 베네토의 옷_item</thingKey>
+					<mainThingDefName>WSGR_vv_coat</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_vv_coat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>비토리오 베네토의 모자_item</thingKey>
+					<mainThingDefName>WSGR_vv_Hat</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_vv_Hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>애틀랜타의 헤드드레스_item</thingKey>
+					<mainThingDefName>WSGR_Atlanta_gear</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Atlanta_gear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>주노의 헤드드레스_item</thingKey>
+					<mainThingDefName>WSGR_Juneau_gear</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Juneau_gear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>구축함 1934형_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_DD_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_DD_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>구축함 후부키형_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_DD_B</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_DD_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>경순양함 오마하급_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_CL_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_CL_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>중순양함 노스햄프턴급_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_CA_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_CA_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>중순양함 어드미럴 히퍼급_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_CA_B</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_CA_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>전함 퀸 엘리자베스급_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_BB_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_BB_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>미사일 구축함 051형 스타쉽 장비_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_ASDG_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_ASDG_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>중순양함 아오바형 스타쉽 장비_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_CA_C</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_CA_C</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>순양전함 공고형 스타쉽 장비_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_BC_A</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_BC_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>전함 아이오와급 스타쉽 장비_item</thingKey>
+					<mainThingDefName>WSGR_ShipArmor_BB_B</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_ShipArmor_BB_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>부착 장갑 업그레이드 부품_item</thingKey>
+					<mainThingDefName>WSGR_Equipment_ArmorPlate</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Equipment_ArmorPlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>발연통 업그레이드 부품_item</thingKey>
+					<mainThingDefName>WSGR_Equipment_Smokestack</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Equipment_Smokestack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>동력 시스템 업그레이드 부품_item</thingKey>
+					<mainThingDefName>WSGR_Equipment_DynamicSystem</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Equipment_DynamicSystem</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>표준형 화력 통제 레이더 업그레이드 부품_item</thingKey>
+					<mainThingDefName>WSGR_Equipment_FCR_Standard</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Equipment_FCR_Standard</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>개선형 화력 통제 레이더 업그레이드 부품_item</thingKey>
+					<mainThingDefName>WSGR_Equipment_FCR_Improved</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Equipment_FCR_Improved</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>편사 방패 업그레이드 부품_item</thingKey>
+					<mainThingDefName>WSGR_Equipment_Deflectors</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Equipment_Deflectors</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해군 탄약_item</thingKey>
+					<mainThingDefName>WSGR_Ammunition</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Ammunition</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>장갑강_item</thingKey>
+					<mainThingDefName>WSGR_Armorsteel</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Armorsteel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>알루미늄 합금_item</thingKey>
+					<mainThingDefName>WSGR_Aluminium_Alloy</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Aluminium_Alloy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>전리품_item</thingKey>
+					<mainThingDefName>WSGR_Spoils</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Spoils</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>함선 장비 청사진_item</thingKey>
+					<mainThingDefName>WSGR_Ship_Blueprint</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Ship_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>장비 청사진_item</thingKey>
+					<mainThingDefName>WSGR_Equipment_Blueprint</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Equipment_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>수리 도구_item</thingKey>
+					<mainThingDefName>WSGR_Repair_Tool</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Repair_Tool</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>알루미늄 광석_item</thingKey>
+					<mainThingDefName>WSGR_Aluminium</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Aluminium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 소형 포탑_item</thingKey>
+					<mainThingDefName>WSGR_Abyssal_DD_Gun</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_DD_Gun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 중형 단장포_item</thingKey>
+					<mainThingDefName>WSGR_Abyssal_CL_Gun</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_CL_Gun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 소형 단장포_item</thingKey>
+					<mainThingDefName>WSGR_Abyssal_AP_Gun</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_AP_Gun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 항공기총_item</thingKey>
+					<mainThingDefName>WSGR_Abyssal_AircraftGun</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_AircraftGun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>60kg 공중폭탄_item</thingKey>
+					<mainThingDefName>WSGR_Abyssal_60kg_bomb</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_60kg_bomb</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>에를리콘 20mm 경기관총_item</thingKey>
+					<mainThingDefName>WSGR_Oerlikon_20mm_LMG</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Oerlikon_20mm_LMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>보포스 40mm 중기관총_item</thingKey>
+					<mainThingDefName>WSGR_Bofors_40mm_HMG</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Bofors_40mm_HMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ak630 30mm 중기관총_item</thingKey>
+					<mainThingDefName>WSGR_AK630_30mm_HMG</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_AK630_30mm_HMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mk1 이중 15인치 포_item</thingKey>
+					<mainThingDefName>WSGR_RN_MK1_15inch</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_RN_MK1_15inch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m1934형 삼연장 381mm 포_item</thingKey>
+					<mainThingDefName>WSGR_Italian_1934_381mm</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Italian_1934_381mm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>skc34 이중 380mm 포_item</thingKey>
+					<mainThingDefName>WSGR_Kriegsmarine_SKC34_380mm</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Kriegsmarine_SKC34_380mm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>35.6cm 이중 전자기 가속포_item</thingKey>
+					<mainThingDefName>WSGR_IJN_43rdYearType_14inch_S</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_IJN_43rdYearType_14inch_S</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>삼연장 16인치 기가 가속포_item</thingKey>
+					<mainThingDefName>WSGR_USN_MK7_16inch_S</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_USN_MK7_16inch_S</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>k46 타키온 랜스_item</thingKey>
+					<mainThingDefName>Kyon_Tachyon_Lance</mainThingDefName>
+					<thingDefs>
+						<li>Kyon_Tachyon_Lance</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mk16 삼연장 6인치 포_item</thingKey>
+					<mainThingDefName>WSGR_USN_MK16_6inch</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_USN_MK16_6inch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>skc25 삼연장 150mm 포_item</thingKey>
+					<mainThingDefName>WSGR_Kriegsmarine_SKC25_150mm</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Kriegsmarine_SKC25_150mm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mk9 삼연장 8인치 포_item</thingKey>
+					<mainThingDefName>WSGR_USN_MK9_8inch</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_USN_MK9_8inch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mk16 삼연장 8인치 자동포_item</thingKey>
+					<mainThingDefName>WSGR_USN_MK16_8inch</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_USN_MK16_8inch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mk9 삼연장 8인치 플라즈마포_item</thingKey>
+					<mainThingDefName>WSGR_USN_MK9_8inch_S</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_USN_MK9_8inch_S</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>20.3cm 연장 플라즈마포_item</thingKey>
+					<mainThingDefName>WSGR_IJN_3rdYearType_8inch_S</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_IJN_3rdYearType_8inch_S</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>t34/85 포탑_item</thingKey>
+					<mainThingDefName>WSGR_Soviet_T3485_Turret</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Soviet_T3485_Turret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>12.7cm 연장포_item</thingKey>
+					<mainThingDefName>WSGR_IJN_3rdYearType_5inch</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_IJN_3rdYearType_5inch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>스페크 앵커_item</thingKey>
+					<mainThingDefName>WSGR_Speke_anchor</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Speke_anchor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기병 군도_item</thingKey>
+					<mainThingDefName>WSGR_CavalrySword_a</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_CavalrySword_a</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>기병 군도 (단분자 날)_item</thingKey>
+					<mainThingDefName>WSGR_CavalrySword_b</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_CavalrySword_b</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>메카노이드 galo_pawn</thingKey>
+					<mainThingDefName>WSGR_Mechanoid_GALO</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Mechanoid_GALO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 경순양함_pawn</thingKey>
+					<mainThingDefName>WSGR_Abyssal_CL</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_CL</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 구축함_pawn</thingKey>
+					<mainThingDefName>WSGR_Abyssal_DD</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_DD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 보급함_pawn</thingKey>
+					<mainThingDefName>WSGR_Abyssal_AP</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_AP</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 항공모함_pawn</thingKey>
+					<mainThingDefName>WSGR_Abyssal_CV</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_CV</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심해 항공모함 항공기_pawn</thingKey>
+					<mainThingDefName>WSGR_Abyssal_Aircraft</mainThingDefName>
+					<thingDefs>
+						<li>WSGR_Abyssal_Aircraft</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>전함 소녀_pawn</thingKey>
+					<mainThingDefName>WarshipGirl</mainThingDefName>
+					<thingDefs>
+						<li>WarshipGirl</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>쉐이핑 알고리즘 칩_item</thingKey>
+					<mainThingDefName>RogueServitor_MechChip_Formfeeder</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_MechChip_Formfeeder</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>효율성 알고리즘 칩_item</thingKey>
+					<mainThingDefName>RogueServitor_MechChip_WorkSpeed</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_MechChip_WorkSpeed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>광대역 알고리즘 칩_item</thingKey>
+					<mainThingDefName>RogueServitor_MechChip_Band</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_MechChip_Band</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 퍼스널리티 코어_item</thingKey>
+					<mainThingDefName>Subcore_Pavia</mainThingDefName>
+					<thingDefs>
+						<li>Subcore_Pavia</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>전자기 크리스탈_item</thingKey>
+					<mainThingDefName>RogueServitor_ParalyzingCrystals</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_ParalyzingCrystals</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pb-900 항공폭탄_item</thingKey>
+					<mainThingDefName>RogueServitor_900KG_Bomb</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_900KG_Bomb</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pb-250 항공폭탄_item</thingKey>
+					<mainThingDefName>RogueServitor_250KG_Bomb</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_250KG_Bomb</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>지혈젤 캡슐_item</thingKey>
+					<mainThingDefName>RogueServitor_HemostaticGel</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_HemostaticGel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>블레이드 서버_item</thingKey>
+					<mainThingDefName>RogueServitor_BladeServer</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_BladeServer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pm423-수류탄_item</thingKey>
+					<mainThingDefName>RogueServitor_PM423_Grenade_Weapon</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_PM423_Grenade_Weapon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pm629-세열수류탄_item</thingKey>
+					<mainThingDefName>RogueServitor_PM629_Grenade_Weapon</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_PM629_Grenade_Weapon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pt1-중기관총_item</thingKey>
+					<mainThingDefName>RogueServitor_HI_HMG</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_HI_HMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>p1-돌격소총_item</thingKey>
+					<mainThingDefName>RogueServitor_AR</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_AR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>p1-돌격소총 (유탄 발사기)_item</thingKey>
+					<mainThingDefName>RogueServitor_AR_GrenadeLauncher</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_AR_GrenadeLauncher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>p2a1-저격소총_item</thingKey>
+					<mainThingDefName>RogueServitor_DMR</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_DMR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>p2a3-경기관총_item</thingKey>
+					<mainThingDefName>RogueServitor_LMG</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_LMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>p60-기관단총_item</thingKey>
+					<mainThingDefName>RogueServitor_SMG</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_SMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>휴대용 p78-이온 캐논_item</thingKey>
+					<mainThingDefName>RogueServitor_PortablePlasmaCannon</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_PortablePlasmaCannon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>p6b-전투소총_item</thingKey>
+					<mainThingDefName>RogueServitor_BR</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_BR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>p23-대물 소총_item</thingKey>
+					<mainThingDefName>RogueServitor_AMR</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_AMR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>크리스탈 메스_item</thingKey>
+					<mainThingDefName>RogueServitor_Scalpel</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_Scalpel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>크리스탈 도검_item</thingKey>
+					<mainThingDefName>RogueServitor_Long_Sword</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_Long_Sword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>쌍두검_item</thingKey>
+					<mainThingDefName>RogueServitor_Twinblade</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_Twinblade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>폐기물 입자용해기_building</thingKey>
+					<mainThingDefName>RogueServitor_WastepackDisruptors</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_WastepackDisruptors</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>서버 캐비닛_building</thingKey>
+					<mainThingDefName>RogueServitor_BladeCenter_BandNode</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_BladeCenter_BandNode</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 휴머노이드 배양기_building</thingKey>
+					<mainThingDefName>RogueServitor_MechGestator</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_MechGestator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 충전기 (일체형)_building</thingKey>
+					<mainThingDefName>RogueServitor_Recharger_a</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_Recharger_a</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 충전기 (연결형)_building</thingKey>
+					<mainThingDefName>RogueServitor_Recharger_b</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_Recharger_b</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pm503-대인지뢰_building</thingKey>
+					<mainThingDefName>RogueServitor_PM503_AntiPersonnel_landmine</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_PM503_AntiPersonnel_landmine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pt-1 기관총 타워_building</thingKey>
+					<mainThingDefName>RogueServitor_PT1_Base</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_PT1_Base</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>防爆墙_building</thingKey>
+					<mainThingDefName>RogueServitor_BlastWall</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_BlastWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 메이드_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Maid_A</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Maid_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 셰프_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Chef</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Chef</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 머시니스트_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Machinist</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Machinist</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - 가정부_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Maid_B</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Maid_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 후부키_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Fubuki</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Fubuki</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>해킹된 휴머노이드_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_corrupted_Mechanoid</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_corrupted_Mechanoid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 아이딜_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Aideal</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Aideal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아-요정전술중대-미아_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Fairy_Mia</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Fairy_Mia</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - urban assault company - 소총수_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_JK_Rifle</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_JK_Rifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - urban assault company - raiders_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_JK_Fighter</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_JK_Fighter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - 도시 폭행 중대 - 중위_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_JK_Lieutenant</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_JK_Lieutenant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - 산악 보병 중대 - 소총수_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Maid_Rifle</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Maid_Rifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - 산악보병중대 - 저격수_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Maid_Sniper</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Maid_Sniper</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - 산악 보병 중대 - 기관총 사수_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Maid_MG</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Maid_MG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - 산악 보병 중대 - 중위_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Maid_Lieutenant</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Maid_Lieutenant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 페어리_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Fairy</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Fairy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 - 고블린 전술중대 - 기관총 사수_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Fairy_HMG</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Fairy_HMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 솔저_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Rifle</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Rifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 센티널_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_MG</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_MG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 샤프슈터_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_DMR</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_DMR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 서전트_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Sergeant</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Sergeant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 루테넌트_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Lieutenant</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Lieutenant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 캡틴_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Captain</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Captain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 메이저_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Major</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Major</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 엔지니어_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_CombatEngineer</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_CombatEngineer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파비아 메딕_pawn</thingKey>
+					<mainThingDefName>PaviaMechanoid_Medic</mainThingDefName>
+					<thingDefs>
+						<li>PaviaMechanoid_Medic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>요리사메이드 복장_item</thingKey>
+					<mainThingDefName>ChefMaid</mainThingDefName>
+					<thingDefs>
+						<li>ChefMaid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>클리너메이드 코스튬_item</thingKey>
+					<mainThingDefName>CleanerMaid</mainThingDefName>
+					<thingDefs>
+						<li>CleanerMaid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>크래프터메이드 의상_item</thingKey>
+					<mainThingDefName>CrafterMaid</mainThingDefName>
+					<thingDefs>
+						<li>CrafterMaid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파이트메이드 의상_item</thingKey>
+					<mainThingDefName>FightMaid</mainThingDefName>
+					<thingDefs>
+						<li>FightMaid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>헤더메이드 의상_item</thingKey>
+					<mainThingDefName>HeaderMaid</mainThingDefName>
+					<thingDefs>
+						<li>HeaderMaid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>간호사메이드 의상_item</thingKey>
+					<mainThingDefName>NurseMaid</mainThingDefName>
+					<thingDefs>
+						<li>NurseMaid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>일하는 메이드 모자_item</thingKey>
+					<mainThingDefName>MaidHatNA</mainThingDefName>
+					<thingDefs>
+						<li>MaidHatNA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>파이트 메이드 모자_item</thingKey>
+					<mainThingDefName>MaidHatNB</mainThingDefName>
+					<thingDefs>
+						<li>MaidHatNB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>의식용 하녀 모자_item</thingKey>
+					<mainThingDefName>MaidHatNC</mainThingDefName>
+					<thingDefs>
+						<li>MaidHatNC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>모르타르_building</thingKey>
+					<mainThingDefName>Turret_Mortar_Lilly</mainThingDefName>
+					<thingDefs>
+						<li>Turret_Mortar_Lilly</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>메이드 복장 제작 작업대_building</thingKey>
+					<mainThingDefName>MaidCostumeCraftingTable</mainThingDefName>
+					<thingDefs>
+						<li>MaidCostumeCraftingTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>우라늄 슬러그 포탑_building</thingKey>
+					<mainThingDefName>Turret_Sniper_Lilly</mainThingDefName>
+					<thingDefs>
+						<li>Turret_Sniper_Lilly</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 사토노 다이아몬드 의상_item</thingKey>
+					<mainThingDefName>Satono_diamond_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Satono_diamond_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 키타산 블랙 의상_item</thingKey>
+					<mainThingDefName>Kirasan_black_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Kirasan_black_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 파인 모션 의상_item</thingKey>
+					<mainThingDefName>Fine_mortion_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Fine_mortion_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 카렌짱 의상_item</thingKey>
+					<mainThingDefName>Curren_chan_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Curren_chan_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 에이신 플래시 의상_item</thingKey>
+					<mainThingDefName>Eishin_flash_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Eishin_flash_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 메지로 아르당 의상_item</thingKey>
+					<mainThingDefName>Mejiro_ardan_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Mejiro_ardan_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 맨하탄 카페 의상_item</thingKey>
+					<mainThingDefName>Manhattan_cafe_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Manhattan_cafe_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 메지로 맥퀸 의상_item</thingKey>
+					<mainThingDefName>Mejiro_mcqueen_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Mejiro_mcqueen_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 다이와 스칼렛 의상_item</thingKey>
+					<mainThingDefName>Daiwa_scarlet_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Daiwa_scarlet_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 마루젠스키 의상_item</thingKey>
+					<mainThingDefName>Maruzensky_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Maruzensky_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 스페셜 위크 의상_item</thingKey>
+					<mainThingDefName>Special_week_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Special_week_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 사일런스 스즈카 의상_item</thingKey>
+					<mainThingDefName>Silence_suzuka_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Silence_suzuka_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 토카이 테이오 의상_item</thingKey>
+					<mainThingDefName>Tokai_teio_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Tokai_teio_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 그래스 원더 의상_item</thingKey>
+					<mainThingDefName>Grass_wander_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Grass_wander_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 미스터 시비 의상_item</thingKey>
+					<mainThingDefName>Mr_CB_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Mr_CB_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 라이스 샤워 의상_item</thingKey>
+					<mainThingDefName>Rice_shower_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Rice_shower_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 심볼리 루돌프 의상_item</thingKey>
+					<mainThingDefName>Symboli_rudolf_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Symboli_rudolf_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 골드 쉽 의상_item</thingKey>
+					<mainThingDefName>Gold_ship_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Gold_ship_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 아그네스 타키온 의상_item</thingKey>
+					<mainThingDefName>Agens_tachyon_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Agens_tachyon_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 애스턴 마짱 의상_item</thingKey>
+					<mainThingDefName>Aston_machan_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Aston_machan_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 비블로스 의상_item</thingKey>
+					<mainThingDefName>Vivlos_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Vivlos_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 코파노 리키 의상_item</thingKey>
+					<mainThingDefName>Copano_rickey_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Copano_rickey_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 트윈 터보 의상_item</thingKey>
+					<mainThingDefName>Twin_turbo_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Twin_turbo_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 미호노 부르봉 의상_item</thingKey>
+					<mainThingDefName>Mihono_bourbon_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Mihono_bourbon_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 젠틸돈나 의상_item</thingKey>
+					<mainThingDefName>Gentildonna_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Gentildonna_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 정글 포켓 의상_item</thingKey>
+					<mainThingDefName>Jungle_pocket_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Jungle_pocket_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(우마무스메) 어드마이어 베가 의상_item</thingKey>
+					<mainThingDefName>Admire_vega_uniform</mainThingDefName>
+					<thingDefs>
+						<li>Admire_vega_uniform</li>
 					</thingDefs>
 					<removedDefs />
 				</li>

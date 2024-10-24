@@ -167,7 +167,7 @@
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Deterioration</key>
@@ -191,7 +191,7 @@
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0</value>
+      <value>0.5102701</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
@@ -207,7 +207,7 @@
     </li>
     <li>
       <key>FirePreparation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HistoryTab</key>

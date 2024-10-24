@@ -5,5 +5,5 @@ None|None|
 
 
 
-NurseMaid,간호사메이드 의상,5,1,True,0,,MaxHitPoints!250|Flammability!0.4|DeteriorationRate!0|Beauty!16|Mass!0.8|WorkToMake!24000|MarketValue!2925|Insulation_Cold!55|Insulation_Heat!55|EquipDelay!5|ArmorRating_Blunt!0.6|ArmorRating_Sharp!0.9|ArmorRating_Heat!0.6|FilthRate!0,MoveSpeed!2|MedicalOperationSpeed!0.5|MedicalTendSpeed!0.5|MedicalTendQuality!0.5|MedicalSurgerySuccessChance!0.5|Flammability!-1|MentalBreakThreshold!-0.1,ComponentSpacer!2|Plasteel!75|Cloth!120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,,,,,,,,,,,,,MaidTech,,0,0,Shell,Arms|Beak|Eyes|Feet|FrontLeftClaws|FrontLeftLeg|FrontLeftPaw|FrontRightClaws|FrontRightLeg|FrontRightPaw|Hands|HeadAttackTool|HeadClaw|HornAttackTool|LeftBlade|LeftHand|Legs|MiddleFingers|Mouth|Neck|RightBlade|RightHand|Shoulders|Teeth|Torso|TurtleBeakAttackTool|TuskAttackTool|Waist,,Worker,1;
+
 

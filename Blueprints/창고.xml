@@ -201,7 +201,13 @@
 			<li>m00nl1ght.mappreview</li>
 			<li>funkyshit.mods.worldedit</li>
 			<li>uuugggg.usebedrolls</li>
+			<li>xercaine.industrialage.artillery</li>
+			<li>sanoo6.haeyangracemod</li>
+			<li>mlie.capturethem</li>
+			<li>moistestwhale.stuffontablesforked</li>
+			<li>46hhhh.yuranfurshavedfix</li>
 			<li>lilly.maidproject</li>
+			<li>mlmlmlm.cosplayapparelumamusumeprettyderby</li>
 			<li>blackcanvas.korean.voiceroidasanimal</li>
 			<li>blackcanvas.ayabosstranslations</li>
 			<li>blackcanvas.korean.myafufu</li>
@@ -377,6 +383,12 @@
 			<li>0</li>
 			<li>0</li>
 			<li>858744731</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -619,7 +631,13 @@
 			<li>Map Preview</li>
 			<li>WorldEdit 2.0</li>
 			<li>Use Bedrolls</li>
+			<li>Artillery Gun</li>
+			<li>Haeyang Race</li>
+			<li>Capture Them (Continued)</li>
+			<li>Stuff on Tables Forked</li>
+			<li>YuranFurshavedFix</li>
 			<li>[SS]Maid Project - lilly</li>
+			<li>[Cosplay apparel]Umamusume Pretty Derby</li>
 			<li>VoiceroidAsAnimal 한국어 번역</li>
 			<li>Ayameduki Boss 통합 한국어 번역</li>
 			<li>Mya's fufu 한국어 번역</li>
@@ -633,108 +651,276 @@
 	<Blueprint>
 		<BuildableThings>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -10)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 10)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-12, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -11)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, -11)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(-11, 0, -10)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -10)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -9)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -9)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-11, 0, -8)</Position>
-				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -7)</Position>
 			</li>
 			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -6)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-11, 0, -4)</Position>
-				<Rotation>1</Rotation>
+				<Position>(-11, 0, -5)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -5)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -4)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -3)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -3)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -2)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-11, 0, 0)</Position>
-				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, -1)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, 1)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 1)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, 2)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 2)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>Autodoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-11, 0, 4)</Position>
+				<Position>(-11, 0, 3)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
@@ -746,7 +932,17 @@
 				<Position>(-11, 0, 4)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, 4)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-11, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-11, 0, 5)</Position>
 			</li>
 			<li>
@@ -754,14 +950,9 @@
 				<Position>(-11, 0, 6)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-11, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>Autodoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-11, 0, 8)</Position>
+				<Position>(-11, 0, 6)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
@@ -769,7 +960,17 @@
 				<Position>(-11, 0, 7)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, 7)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-11, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-11, 0, 8)</Position>
 			</li>
 			<li>
@@ -777,12 +978,18 @@
 				<Position>(-11, 0, 9)</Position>
 			</li>
 			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, 9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-11, 0, 10)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(-11, 0, 10)</Position>
 			</li>
 			<li>
@@ -791,230 +998,248 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(-11, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-10, 0, -11)</Position>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-11, 0, 12)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
+				<Position>(-10, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-10, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-10, 0, -9)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-10, 0, -7)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-10, 0, -5)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-10, 0, -3)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-10, 0, -1)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-10, 0, 0)</Position>
+				<Position>(-10, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, 0)</Position>
+				<Position>(-9, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-9, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-10, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, 3)</Position>
+				<Position>(-9, 0, 2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-9, 0, 4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-10, 0, 5)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, 6)</Position>
+				<Position>(-9, 0, 5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-9, 0, 7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-10, 0, 8)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, 9)</Position>
+				<Position>(-9, 0, 8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-9, 0, 10)</Position>
 				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-10, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-10, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-8, 0, -11)</Position>
-				<Rotation>2</Rotation>
+				<Position>(-10, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-10, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-9, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, -9)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, -7)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, -5)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, -3)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-9, 0, -1)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-9, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-8, 0, 11)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-9, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-8, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-8, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-8, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-8, 0, -10)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, 0)</Position>
+				<Position>(-7, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-8, 0, 0)</Position>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -8)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-7, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, 3)</Position>
+				<Position>(-7, 0, 2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-7, 0, 4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, 6)</Position>
+				<Position>(-7, 0, 5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-7, 0, 7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, 9)</Position>
+				<Position>(-7, 0, 8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-7, 0, 10)</Position>
 				<Rotation>2</Rotation>
@@ -1024,256 +1249,277 @@
 				<Position>(-8, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-8, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-8, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-7, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, -9)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, -7)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, -5)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, -3)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-7, 0, -1)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-7, 0, 0)</Position>
+				<Position>(-7, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-7, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, -11)</Position>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-6, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-6, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -9)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -7)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -5)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -3)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -1)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 0)</Position>
+				<Position>(-6, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-5, 0, 0)</Position>
+				<Position>(-5, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-5, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-5, 0, 3)</Position>
+				<Position>(-5, 0, 2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-5, 0, 4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-5, 0, 6)</Position>
+				<Position>(-5, 0, 5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-5, 0, 7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-5, 0, 9)</Position>
+				<Position>(-5, 0, 8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-5, 0, 10)</Position>
 				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(-6, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-6, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-4, 0, -11)</Position>
-				<Rotation>2</Rotation>
+				<Position>(-6, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-6, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-5, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-5, 0, -10)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-5, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-4, 0, 11)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-5, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-4, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-4, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-4, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-4, 0, -9)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-4, 0, -7)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-4, 0, -5)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-4, 0, -3)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-4, 0, -1)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-4, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, 0)</Position>
+				<Position>(-3, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-3, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, 3)</Position>
+				<Position>(-3, 0, 2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-3, 0, 4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, 6)</Position>
+				<Position>(-3, 0, 5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-3, 0, 7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, 9)</Position>
+				<Position>(-3, 0, 8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-3, 0, 10)</Position>
 				<Rotation>2</Rotation>
@@ -1283,176 +1529,195 @@
 				<Position>(-4, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-4, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-4, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-3, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, -9)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, -7)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, -5)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, -3)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, -1)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-3, 0, 0)</Position>
+				<Position>(-3, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-3, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-2, 0, -11)</Position>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-2, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(-2, 0, -10)</Position>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-2, 0, 0)</Position>
+				<Position>(-2, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, 0)</Position>
+				<Position>(-1, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-1, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, 3)</Position>
+				<Position>(-1, 0, 2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-1, 0, 4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, 6)</Position>
+				<Position>(-1, 0, 5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-1, 0, 7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, 9)</Position>
+				<Position>(-1, 0, 8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-1, 0, 10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-2, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-2, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-1, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(0, 0, -11)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, -9)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, -7)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, -5)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, -3)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, -1)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-1, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, 11)</Position>
+				<Position>(-1, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(-1, 0, 11)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, -12)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(0, 0, -11)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(0, 0, -11)</Position>
 			</li>
 			<li>
@@ -1460,24 +1725,16 @@
 				<Position>(0, 0, -10)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(0, 0, -9)</Position>
-				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>IceColumnMod</ThingDef>
 				<Position>(0, 0, -9)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(0, 0, -8)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, -7)</Position>
-				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1488,10 +1745,8 @@
 				<Position>(0, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, -5)</Position>
-				<Rotation>1</Rotation>
+				<ThingDef>IceColumnMod</ThingDef>
+				<Position>(0, 0, -6)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1502,13 +1757,11 @@
 				<Position>(0, 0, -4)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(0, 0, -3)</Position>
-				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>IceColumnMod</ThingDef>
 				<Position>(0, 0, -3)</Position>
 			</li>
 			<li>
@@ -1516,26 +1769,14 @@
 				<Position>(0, 0, -2)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, -1)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(0, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
 			</li>
 			<li>
 				<ThingDef>IceColumnMod</ThingDef>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, 1)</Position>
-				<Rotation>3</Rotation>
+				<ThingDef>HiddenConduit</ThingDef>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1546,14 +1787,12 @@
 				<Position>(0, 0, 2)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>IceColumnMod</ThingDef>
 				<Position>(0, 0, 3)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
+				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(0, 0, 3)</Position>
-				<Rotation>3</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1564,24 +1803,16 @@
 				<Position>(0, 0, 5)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, 5)</Position>
-				<Rotation>3</Rotation>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(0, 0, 6)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>IceColumnMod</ThingDef>
 				<Position>(0, 0, 6)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(0, 0, 7)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, 7)</Position>
-				<Rotation>3</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1592,10 +1823,8 @@
 				<Position>(0, 0, 9)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
+				<ThingDef>IceColumnMod</ThingDef>
 				<Position>(0, 0, 9)</Position>
-				<Rotation>3</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1606,111 +1835,145 @@
 				<Position>(0, 0, 11)</Position>
 			</li>
 			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -12)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(1, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -11)</Position>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(2, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(2, 0, -9)</Position>
+				<Position>(2, 0, -8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(2, 0, -7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(2, 0, -6)</Position>
+				<Position>(2, 0, -5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(2, 0, -4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(2, 0, -3)</Position>
+				<Position>(2, 0, -2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(2, 0, -1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(1, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(2, 0, 0)</Position>
+				<Position>(2, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(1, 0, 1)</Position>
-				<Rotation>3</Rotation>
+				<Position>(2, 0, 2)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(1, 0, 3)</Position>
-				<Rotation>3</Rotation>
+				<Position>(2, 0, 4)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(1, 0, 5)</Position>
-				<Rotation>3</Rotation>
+				<Position>(2, 0, 5)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(1, 0, 7)</Position>
-				<Rotation>3</Rotation>
+				<Position>(2, 0, 7)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(1, 0, 9)</Position>
-				<Rotation>3</Rotation>
+				<Position>(2, 0, 8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, 10)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(1, 0, 11)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, -12)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(2, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(2, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(2, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(2, 0, 10)</Position>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1718,258 +1981,274 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(2, 0, 11)</Position>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -12)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(3, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, -11)</Position>
-				<Rotation>2</Rotation>
+				<Position>(3, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(4, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, -9)</Position>
+				<Position>(4, 0, -8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(4, 0, -7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, -6)</Position>
+				<Position>(4, 0, -5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(4, 0, -4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, -3)</Position>
+				<Position>(4, 0, -2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(4, 0, -1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(3, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, 0)</Position>
+				<Position>(4, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(3, 0, 1)</Position>
-				<Rotation>3</Rotation>
+				<Position>(4, 0, 2)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(3, 0, 3)</Position>
-				<Rotation>3</Rotation>
+				<Position>(4, 0, 4)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(3, 0, 5)</Position>
-				<Rotation>3</Rotation>
+				<Position>(4, 0, 5)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(3, 0, 7)</Position>
-				<Rotation>3</Rotation>
+				<Position>(4, 0, 7)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(3, 0, 9)</Position>
-				<Rotation>3</Rotation>
+				<Position>(4, 0, 8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 10)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, 11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(3, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, 11)</Position>
+				<Position>(3, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -12)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(4, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(4, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, 1)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(4, 0, 3)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(4, 0, 5)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(4, 0, 7)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(4, 0, 9)</Position>
-				<Rotation>3</Rotation>
+				<Position>(4, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(4, 0, 11)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(5, 0, -12)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(5, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(5, 0, -11)</Position>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(6, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(6, 0, -9)</Position>
+				<Position>(6, 0, -8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(6, 0, -7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(6, 0, -6)</Position>
+				<Position>(6, 0, -5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(6, 0, -4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(6, 0, -3)</Position>
+				<Position>(6, 0, -2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(6, 0, -1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(5, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(6, 0, 0)</Position>
+				<Position>(6, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(5, 0, 10)</Position>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, 2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, 4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, 5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, 7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, 8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, 10)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(5, 0, 11)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(5, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(5, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, -12)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(6, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(6, 0, -11)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(6, 0, 1)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(6, 0, 3)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(6, 0, 5)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(6, 0, 7)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(6, 0, 9)</Position>
-				<Rotation>3</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -1977,270 +2256,279 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(6, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, -12)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(7, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(8, 0, -11)</Position>
-				<Rotation>2</Rotation>
+				<Position>(7, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(8, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(8, 0, -9)</Position>
+				<Position>(8, 0, -8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(8, 0, -7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(8, 0, -6)</Position>
+				<Position>(8, 0, -5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(8, 0, -4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(8, 0, -3)</Position>
+				<Position>(8, 0, -2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(8, 0, -1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(7, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(8, 0, 0)</Position>
+				<Position>(8, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(7, 0, 1)</Position>
-				<Rotation>3</Rotation>
+				<Position>(8, 0, 2)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(7, 0, 3)</Position>
-				<Rotation>3</Rotation>
+				<Position>(8, 0, 4)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(7, 0, 5)</Position>
-				<Rotation>3</Rotation>
+				<Position>(8, 0, 5)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(7, 0, 7)</Position>
-				<Rotation>3</Rotation>
+				<Position>(8, 0, 7)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(7, 0, 9)</Position>
-				<Rotation>3</Rotation>
+				<Position>(8, 0, 8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(8, 0, 10)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(7, 0, 11)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(8, 0, 11)</Position>
+				<Position>(7, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(8, 0, -12)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(8, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(8, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(8, 0, 10)</Position>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(8, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(8, 0, 11)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(8, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(8, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -12)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(9, 0, -11)</Position>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -11)</Position>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(10, 0, -10)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(10, 0, -9)</Position>
+				<Position>(10, 0, -8)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(10, 0, -7)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(10, 0, -6)</Position>
+				<Position>(10, 0, -5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(10, 0, -4)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(10, 0, -3)</Position>
+				<Position>(10, 0, -2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(10, 0, -1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(9, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(10, 0, 0)</Position>
+				<Position>(10, 0, 1)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(9, 0, 1)</Position>
-				<Rotation>3</Rotation>
+				<Position>(10, 0, 2)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(9, 0, 3)</Position>
-				<Rotation>3</Rotation>
+				<Position>(10, 0, 4)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(9, 0, 5)</Position>
-				<Rotation>3</Rotation>
+				<Position>(10, 0, 5)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(9, 0, 7)</Position>
-				<Rotation>3</Rotation>
+				<Position>(10, 0, 7)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
+				<ThingDef>LWM_BigShelf</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(9, 0, 9)</Position>
-				<Rotation>3</Rotation>
+				<Position>(10, 0, 8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>LWM_BigShelf</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(10, 0, 10)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(9, 0, 11)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(10, 0, -12)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(10, 0, -11)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(10, 0, -11)</Position>
-			</li>
-			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(10, 0, -8)</Position>
-			</li>
-			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(10, 0, -5)</Position>
-			</li>
-			<li>
-				<ThingDef>IceColumnMod</ThingDef>
-				<Position>(10, 0, -2)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(10, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(10, 0, 1)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(10, 0, 3)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(10, 0, 5)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(10, 0, 7)</Position>
-				<Rotation>3</Rotation>
-			</li>
-			<li>
-				<ThingDef>LWM_VeryBigShelf</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(10, 0, 9)</Position>
-				<Rotation>3</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -2248,8 +2536,18 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(10, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(10, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, -12)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
@@ -2257,7 +2555,7 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, -11)</Position>
 			</li>
 			<li>
@@ -2266,21 +2564,26 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(11, 0, -10)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(11, 0, -8)</Position>
-				<Rotation>1</Rotation>
+				<Position>(11, 0, -10)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, -9)</Position>
 			</li>
 			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, -8)</Position>
 			</li>
 			<li>
@@ -2289,17 +2592,17 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(11, 0, -6)</Position>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, -7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>Autodoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(11, 0, -4)</Position>
+				<Position>(11, 0, -6)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
@@ -2307,7 +2610,17 @@
 				<Position>(11, 0, -5)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, -5)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, -4)</Position>
 			</li>
 			<li>
@@ -2315,22 +2628,27 @@
 				<Position>(11, 0, -3)</Position>
 			</li>
 			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, -2)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, -2)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(11, 0, 0)</Position>
-				<Rotation>1</Rotation>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, -1)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, -1)</Position>
 			</li>
 			<li>
@@ -2338,7 +2656,18 @@
 				<Position>(11, 0, 0)</Position>
 			</li>
 			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, 1)</Position>
 			</li>
 			<li>
@@ -2347,21 +2676,26 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(11, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(11, 0, 4)</Position>
-				<Rotation>1</Rotation>
+				<Position>(11, 0, 2)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, 3)</Position>
 			</li>
 			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, 3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, 4)</Position>
 			</li>
 			<li>
@@ -2369,18 +2703,18 @@
 				<Position>(11, 0, 5)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, 5)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, 6)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
-				<Position>(11, 0, 6)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>Autodoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(11, 0, 8)</Position>
+				<Position>(11, 0, 6)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
@@ -2388,7 +2722,17 @@
 				<Position>(11, 0, 7)</Position>
 			</li>
 			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, 7)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(11, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, 8)</Position>
 			</li>
 			<li>
@@ -2396,12 +2740,18 @@
 				<Position>(11, 0, 9)</Position>
 			</li>
 			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, 9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(11, 0, 10)</Position>
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, 10)</Position>
 			</li>
 			<li>
@@ -2410,2515 +2760,2436 @@
 			</li>
 			<li>
 				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>BlocksMarble</Stuff>
+				<Stuff>Gold</Stuff>
 				<Position>(11, 0, 11)</Position>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(11, 0, 12)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -12)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(12, 0, -11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -10)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>Autodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 10)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 11)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OrnateWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(12, 0, 12)</Position>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-11, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, -8)</Position>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-11, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, -7)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, -5)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, -4)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-11, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, -1)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-11, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, 1)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-11, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, 4)</Position>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-11, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, 5)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, 7)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-11, 0, 8)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-11, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-10, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-9, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-9, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-9, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-8, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-8, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-8, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-7, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-7, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-7, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-6, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-5, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-5, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-4, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-4, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-3, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-3, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-3, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-1, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-1, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(-1, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -11)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 11)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(1, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(1, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(1, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(3, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(3, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(3, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(4, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(4, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(5, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(5, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(5, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(7, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(7, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(8, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(8, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(8, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(9, 0, -11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(9, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(9, 0, 11)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, -1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 2)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 4)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 5)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 8)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(10, 0, 10)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(11, 0, -9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, -8)</Position>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(11, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, -7)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, -5)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, -4)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(11, 0, -3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, -1)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(11, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, 1)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(11, 0, 3)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, 4)</Position>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(11, 0, 6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, 5)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, 7)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
-				<Position>(11, 0, 8)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>FineTileMarble</TerrainDef>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(11, 0, 9)</Position>
 				<Rotation>200</Rotation>
 			</li>
 		</BuildableThings>
 		<Name>창고</Name>
-		<Size>(23, 23)</Size>
+		<Size>(25, 25)</Size>
 	</Blueprint>
 </Blueprint>

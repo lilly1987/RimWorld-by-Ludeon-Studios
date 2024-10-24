@@ -590,6 +590,22 @@
 				<li>YR_WP_StaffC_BlackSnake</li>
 				<li>MeleeWeapon_konkatana</li>
 				<li>MeleeWeapon_sirokatana</li>
+				<li>Axolotl_BattlebreakerCrossbow</li>
+				<li>Gun_HYHFSpray</li>
+				<li>CptQ</li>
+				<li>HY_Sapphire</li>
+				<li>HYCutter</li>
+				<li>HYBayonet</li>
+				<li>HYASEK</li>
+				<li>HYSickle</li>
+				<li>Gun_HYPistol</li>
+				<li>Gun_HYRifle</li>
+				<li>Gun_HYVulcan</li>
+				<li>Gun_HYBrrrt</li>
+				<li>Gun_HYSMG</li>
+				<li>Gun_HYAssaultRifle</li>
+				<li>Gun_HYEMP</li>
+				<li>Gun_HYVapor</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -1179,6 +1195,22 @@
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
 			</values>
 		</usableWithShieldsWeapons>
 	</ModSettings>

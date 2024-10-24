@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="FixedPawnGenerate.ModSetting_FixedPawnGenerate">
+		<allowNaturalRelationGenerate>False</allowNaturalRelationGenerate>
 		<maxGenerateRate_Starting>0.49995</maxGenerateRate_Starting>
 	</ModSettings>
 </SettingsBlock>

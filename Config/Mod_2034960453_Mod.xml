@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="WhileYoureUp.Mod+Settings">
+		<DrawSpecialHauls>True</DrawSpecialHauls>
 		<HaulBeforeCarry_Bills_NeedsInitForCs>False</HaulBeforeCarry_Bills_NeedsInitForCs>
 		<hbcBuildingFilter>
 			<disallowedSpecialFilters />
