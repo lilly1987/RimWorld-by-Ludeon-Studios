@@ -1,0 +1,55 @@
+// update_csgo_ds.txt
+//
+//@ShutdownOnFailedCommand 1 //set to 0 if updating multiple servers at once
+@NoPromptForPassword 1
+//login <username> <password>
+//for servers which don't need a login
+login anonymous 
+//force_install_dir ../csgo_ds
+//app_update 740 validate
+workshop_download_item 294100 2054073477
+workshop_download_item 294100 3202046258
+workshop_download_item 294100 2566120724
+workshop_download_item 294100 2026595894
+workshop_download_item 294100 2203542817
+workshop_download_item 294100 3252220145
+workshop_download_item 294100 2007268173
+workshop_download_item 294100 2833580512
+workshop_download_item 294100 3253300748
+workshop_download_item 294100 3050289249
+workshop_download_item 294100 2357236468
+workshop_download_item 294100 2073559411
+
+workshop_download_item 294100 2999614450
+workshop_download_item 294100 3034077531
+workshop_download_item 294100 3034077531
+workshop_download_item 294100 3034078602
+workshop_download_item 294100 3124872587
+workshop_download_item 294100 3034078059
+workshop_download_item 294100 3034079349
+workshop_download_item 294100 2574315206
+workshop_download_item 294100 1896806569
+workshop_download_item 294100 2664723367
+workshop_download_item 294100 2479389928
+workshop_download_item 294100 2038874626
+workshop_download_item 294100 3234938357
+workshop_download_item 294100 2879963161
+workshop_download_item 294100 3234872374
+workshop_download_item 294100 2153065191
+workshop_download_item 294100 1649368867
+workshop_download_item 294100 2423311270
+
+workshop_download_item 294100 1999454301
+workshop_download_item 294100 2801742438
+workshop_download_item 294100 2844129100
+workshop_download_item 294100 2909923795
+workshop_download_item 294100 3008131331
+workshop_download_item 294100 3009608965
+workshop_download_item 294100 3245977854
+workshop_download_item 294100 3292351432
+workshop_download_item 294100 3293530552
+workshop_download_item 294100 3343888138
+workshop_download_item 294100 839005762
+workshop_download_item 294100 3143396239
+
+quit

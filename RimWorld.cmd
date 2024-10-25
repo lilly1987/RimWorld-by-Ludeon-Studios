@@ -1,0 +1,1 @@
+steamcmd +runscript RimWorld.txt

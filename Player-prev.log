@@ -10,12 +10,12 @@ Direct3D:
     VRAM:     8146 MB
     Driver:   32.0.11037.4004
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.044 seconds
+- Completed reload, in  0.045 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.750100 ms
+UnloadTime: 0.644300 ms
 RimWorld 1.5.4241 rev599
 Mod RIMMSLoadUp is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -116,15 +116,15 @@ Mod  is missing supported versions list in About.xml! (example: <supportedVersio
 Mod 708455313 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A497573010.dll
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A6A011E100.dll
-[10/25/2024 12:17:38 AM] [BetterLoading] Verifying all mods loaded properly...
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023A09C57630.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023A0A5BB250.dll
+[10/25/2024 12:31:05 AM] [BetterLoading] Verifying all mods loaded properly...
 [BetterLoading] Read tip cache of 184 tips from config.
 [BetterLoading] Injecting into main UI.
 [BetterLoading] Injected into main UI.
 [HugsLib] version 11.0.4
 [HugsLib] early-initializing AllowTool
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A6A18F2010.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023C22D96010.dll
 [Dark.JobInBar] loaded
 MousekinRace :: LWM's Deep Storage detected!
 <color=#34e2eb>AutoTranslation</color>: Harmony patches are applied!
@@ -148,20 +148,63 @@ DubsMintMenus v1.3.1086
 [MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
 [MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
 [MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A6A70800A0.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023C27C79020.dll
 Compat patch with Toggleable Readouts
-[BetterLoading] Finished stage Initializing Mods at 12:17:43 AM.
+[BetterLoading] Finished stage Initializing Mods at 12:31:10 AM.
 [BetterLoading] HugsLib detected, adding HugsLib support.
 [BetterLoading:HugsLib Compat] Resolved required HugsLib types as follows: Controller: HugsLib.HugsLibController / Mod Identifier (Property): ModIdentifier
 [BetterLoading:HugsLib Compat] Successfully blind-patched HugsLib.
 [BetterLoading] Starting stage Reading Mod Content Files.
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A6A75EF020.dll
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A6A7607A60.dll
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A6A7612A70.dll
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A6A761FA80.dll
-Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000002A6A7627290.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023C298E71C0.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023C298FFC00.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023C2990AC10.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023C29917C20.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-0000023C2991F430.dll
 GAGARIN: <color=green>StartUpStarted called!</color>
 GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=yello>Cache disabled from</color>
+Gagarin.StartupHelper:StartUpStarted():0
+System.Reflection.MonoMethod:InternalInvoke():0
+System.Reflection.MonoMethod:Invoke():0
+System.Reflection.MethodBase:Invoke():0
+RocketMan.FunctionsUtility+<>c__DisplayClass1_0`1[[RocketMan.Main+OnInitialization, Cosmodrome, Version=0.6.3.2421, Culture=neutral, PublicKeyToken=null]]:<GetActions>b__3():0
+RocketMan.RocketMod:.ctor():0
+System.Reflection.MonoCMethod:InternalInvoke():0
+System.Reflection.MonoCMethod:InternalInvoke():0
+System.Reflection.MonoCMethod:DoInvoke():0
+System.Reflection.MonoCMethod:Invoke():0
+System.RuntimeType:CreateInstanceImpl():0
+System.Activator:CreateInstance():0
+MonoMod.Utils.DynamicMethodDefinition:System.Activator.CreateInstance_Patch1():0
+StartupImpact.ModConstructor:Create():0
+StartupImpact.StartupImpact:.ctor():0
+System.Reflection.MonoCMethod:InternalInvoke():0
+System.Reflection.MonoCMethod:InternalInvoke():0
+System.Reflection.MonoCMethod:DoInvoke():0
+System.Reflection.MonoCMethod:Invoke():0
+System.RuntimeType:CreateInstanceImpl():0
+System.Activator:CreateInstance():0
+MonoMod.Utils.DynamicMethodDefinition:System.Activator.CreateInstance_Patch1():0
+Verse.LoadedModManager:CreateModClasses():0
+Verse.LoadedModManager:LoadAllActiveMods():0
+Verse.PlayDataLoader:DoPlayLoad():0
+Verse.PlayDataLoader:LoadAllPlayData():0
+Verse.Root+<>c:<Start>b__6_1():0
+Verse.LongEventHandler:RunEventFromAnotherThread():0
+Verse.LongEventHandler+<>c:<UpdateCurrentAsynchronousEvent>b__28_0():0
+System.Threading.ThreadHelper:ThreadStart_Context():0
+System.Threading.ExecutionContext:RunInternal():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ThreadHelper:ThreadStart():0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: Mod list changed! Deleting cache 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Cache not found or got purged!</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 b.4241:10/7/2024 12:00:00 AM:1.5.4241 rev599
@@ -171,34 +214,18 @@ b.4241:10/7/2024 12:00:00 AM:1.5.4241 rev599
 ROCKETMAN:No more RocketMan <color=gray>"Log spam"</color>...
 I hope you're fucking satisfied.
 ReBuild: Doors and Corners 1.2-Miller-rev3
-GAGARIN: Asset changed!<color=red>Gun_SniperRifle_Lilly.xml</color>:<color=red>Unknown</color> in S:\games\RimWorld\Mods\lilly\1.5\Defs\ThingDefs 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-GAGARIN: <color=yello>Cache disabled from</color>
-Gagarin.LoadableXmlAsset_Constructor_Patch:Postfix():0
-MonoMod.Utils.DynamicMethodDefinition:Verse.LoadableXmlAsset..ctor_Patch1():0
-Verse.DirectXmlLoader+<>c__DisplayClass1_0:<XmlAssetsInModFolder>b__0():0
-Verse.GenThreading+<>c__DisplayClass8_1:<ParallelFor>b__0():0
-System.Threading.QueueUserWorkItemCallback:WaitCallback_Context():0
-System.Threading.ExecutionContext:RunInternal():0
-System.Threading.ExecutionContext:Run():0
-System.Threading.QueueUserWorkItemCallback:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem():0
-System.Threading.ThreadPoolWorkQueue:Dispatch():0
-System.Threading._ThreadPoolWaitCallback:PerformWaitCallback():0 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 [BetterLoading] [Enhanced XML Load] Loaded 2929 loadable assets.
-[BetterLoading] Finished stage Reading Mod Content Files at 12:17:45 AM.
+[BetterLoading] Finished stage Reading Mod Content Files at 12:31:12 AM.
 [BetterLoading] Starting stage Injecting Mod XML.
-GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>1.423</color> seconds 
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>1.221</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-[BetterLoading] Finished stage Injecting Mod XML at 12:17:46 AM.
+[BetterLoading] Finished stage Injecting Mod XML at 12:31:12 AM.
 [BetterLoading] Starting stage Applying Patches.
-GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>0.984</color> seconds 
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>0.927</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.002</color> seconds 
@@ -212,14 +239,14 @@ Removed IS_TechnologicalStorage. 1
 Removed IS_CardboardStorage. 1
 Removed IS_IndustrialStorage. 1
 Removed IS_BoxesStorage. 1
-[BetterLoading] Finished stage Applying Patches at 12:17:49 AM.
+[BetterLoading] Finished stage Applying Patches at 12:31:16 AM.
 [BetterLoading] Starting stage Registering Defs.
-GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>2.677</color> seconds 
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>2.627</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-[BetterLoading] Finished stage Registering Defs at 12:17:49 AM.
+[BetterLoading] Finished stage Registering Defs at 12:31:16 AM.
 [BetterLoading] Starting stage Constructing Defs.
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.308</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.283</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 [DSFI] Initialized
@@ -263,12 +290,12 @@ Parsed 1145141919810 as int.
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 b.4241:10/7/2024 12:00:00 AM:1.5.4241 rev599
-[BetterLoading] Finished stage Constructing Defs at 12:17:58 AM.
+[BetterLoading] Finished stage Constructing Defs at 12:31:24 AM.
 [BetterLoading] Starting stage Reloading Def Databases.
 GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>0 seconds</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>9.072</color> seconds 
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>9.54</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0</color> seconds 
@@ -474,9 +501,9 @@ Could not resolve cross-reference: No RimWorld.StatDef named PainShockThreshold.
 Could not resolve cross-reference: No RimWorld.StatDef named ResearchProject found to give to RimWorld.StatModifier (null stat) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-[BetterLoading] Finished stage Reloading Def Databases at 12:18:14 AM.
-[BetterLoading] Tips should now be available. Showing...
 [MadSkills]: changed behavior of Great Memory trait.
+[BetterLoading] Finished stage Reloading Def Databases at 12:31:41 AM.
+[BetterLoading] Tips should now be available. Showing...
 [BetterLoading] Starting stage Running Pre-Static-Constructor Long Events.
 Config error in AP_Prefab_Bedroom_CircleOfBedrooms: description has trailing whitespace 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -545,7 +572,7 @@ Mod Ayameduki Race 통합 한국어 번역 did not load any content. Following l
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.309</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.283</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Quarry:: Total 5 quarryable terrain found, processed: 사암, 화강암, 석회암, 점판암, 대리석
@@ -558,7 +585,7 @@ Texture RainBoots has dimensions of 320 x 320, but its mask has 256 x 256. This 
 Texture AttackBoots has dimensions of 320 x 320, but its mask has 256 x 256. This is not supported, texture will be excluded from atlas 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.309</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.283</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Translation data for language Korean has 45682 errors. Generate translation report for more info. 
@@ -588,47 +615,47 @@ ROCKETRULES: IgnoreMeRule for neronix17.outerrim.galaxies
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.drones
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
-[0.001656 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
-ROCKETRULES: IgnoreMe add def by name: Corpse_Bear_Grizzly
+[0.001568 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
 ROCKETRULES: IgnoreMe add def by name: VAA_NineTailBunshin
-ROCKETRULES: IgnoreMe add def by name: Corpse_Bear_Polar
+ROCKETRULES: IgnoreMe add def by name: Corpse_Bear_Grizzly
 ROCKETRULES: IgnoreMe add def by name: VAA_Tuina_chan
-ROCKETRULES: IgnoreMe add def by name: Corpse_Ostrich
+ROCKETRULES: IgnoreMe add def by name: Corpse_Bear_Polar
 ROCKETRULES: IgnoreMe add def by name: VAA_MeikaHime
-ROCKETRULES: IgnoreMe add def by name: Corpse_Emu
+ROCKETRULES: IgnoreMe add def by name: Corpse_Ostrich
 ROCKETRULES: IgnoreMe add def by name: VAA_MeikaMikoto
-ROCKETRULES: IgnoreMe add def by name: Corpse_Cassowary
+ROCKETRULES: IgnoreMe add def by name: Corpse_Emu
 ROCKETRULES: IgnoreMe add def by name: VAA_TohokuZunko
-ROCKETRULES: IgnoreMe add def by name: Corpse_Cougar
+ROCKETRULES: IgnoreMe add def by name: Corpse_Cassowary
 ROCKETRULES: IgnoreMe add def by name: VAA_TohokuKiritan
-ROCKETRULES: IgnoreMe add def by name: Corpse_Panther
+ROCKETRULES: IgnoreMe add def by name: Corpse_Cougar
 ROCKETRULES: IgnoreMe add def by name: VAA_v_flower
-ROCKETRULES: IgnoreMe add def by name: Corpse_Lynx
+ROCKETRULES: IgnoreMe add def by name: Corpse_Panther
 ROCKETRULES: IgnoreMe add def by name: VAA_YuzukiYukari
-ROCKETRULES: IgnoreMe add def by name: Corpse_Cat
+ROCKETRULES: IgnoreMe add def by name: Corpse_Lynx
 ROCKETRULES: IgnoreMe add def by name: VAA_KizunaAkari
-ROCKETRULES: IgnoreMe add def by name: Corpse_YorkshireTerrier
+ROCKETRULES: IgnoreMe add def by name: Corpse_Cat
 ROCKETRULES: IgnoreMe add def by name: VAA_KyomachiSeika
-ROCKETRULES: IgnoreMe add def by name: Corpse_GuineaPig
+ROCKETRULES: IgnoreMe add def by name: Corpse_YorkshireTerrier
 ROCKETRULES: IgnoreMe add def by name: VAA_Allial
-ROCKETRULES: IgnoreMe add def by name: Corpse_LabradorRetriever
+ROCKETRULES: IgnoreMe add def by name: Corpse_GuineaPig
 ROCKETRULES: IgnoreMe add def by name: VAA_Millial
-ROCKETRULES: IgnoreMe add def by name: Corpse_Husky
+ROCKETRULES: IgnoreMe add def by name: Corpse_LabradorRetriever
 ROCKETRULES: IgnoreMe add def by name: VAA_KotonohaAkane
-ROCKETRULES: IgnoreMe add def by name: Corpse_Monkey
+ROCKETRULES: IgnoreMe add def by name: Corpse_Husky
 ROCKETRULES: IgnoreMe add def by name: VAA_KotonohaAoi
-ROCKETRULES: IgnoreMe add def by name: Corpse_Chicken
+ROCKETRULES: IgnoreMe add def by name: Corpse_Monkey
 ROCKETRULES: IgnoreMe add def by name: VAA_SatoSasara
-ROCKETRULES: IgnoreMe add def by name: Corpse_Duck
+ROCKETRULES: IgnoreMe add def by name: Corpse_Chicken
 ROCKETRULES: IgnoreMe add def by name: VAA_SuzukiTsudumi
-ROCKETRULES: IgnoreMe add def by name: Corpse_Turkey
+ROCKETRULES: IgnoreMe add def by name: Corpse_Duck
 ROCKETRULES: IgnoreMe add def by name: VAA_IA
-ROCKETRULES: IgnoreMe add def by name: Corpse_Goose
+ROCKETRULES: IgnoreMe add def by name: Corpse_Turkey
 ROCKETRULES: IgnoreMe add def by name: VAA_ONE
-ROCKETRULES: IgnoreMe add def by name: Corpse_Cow
+ROCKETRULES: IgnoreMe add def by name: Corpse_Goose
 ROCKETRULES: IgnoreMe add def by name: VAA_TohokuItako
-ROCKETRULES: IgnoreMe add def by name: Corpse_Boomalope
+ROCKETRULES: IgnoreMe add def by name: Corpse_Cow
 ROCKETRULES: IgnoreMe add def by name: VAA_OtomachiUna
+ROCKETRULES: IgnoreMe add def by name: Corpse_Boomalope
 ROCKETRULES: IgnoreMe add def by name: Corpse_Muffalo
 ROCKETRULES: IgnoreMe add def by name: Corpse_Bison
 ROCKETRULES: IgnoreMe add def by name: Corpse_Dromedary
@@ -869,13 +896,13 @@ ROCKETMAN: Found patch in RocketMan.Patches.Pawn_Notify_Dirty+Pawn_HediffSet_Dir
 ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
 ROCKETMAN: Patching finished
 GAGARIN: Lock removed!
-[RMK.NamesInYourLanguage] 번역된 이름: 21421 | 번역되지 않은 이름: 0 | 소요 시간: 178ms
+[RMK.NamesInYourLanguage] 번역된 이름: 21421 | 번역되지 않은 이름: 0 | 소요 시간: 150ms
 [BetterLoading] Obtained synclock, assuming post-load actions are complete and starting static constructors.
 [BetterLoading] Starting StaticConstructAll() to run class constructors without freezing the game...
-[BetterLoading] Finished stage Running Pre-Static-Constructor Long Events at 12:19:53 AM.
+[BetterLoading] Finished stage Running Pre-Static-Constructor Long Events at 12:33:20 AM.
 [BetterLoading] Starting stage Executing Static Constructors.
 [XML Extensions] Initialized 1 SettingsMenuDef(s) and found 0 unused key(s) from 0 mod(s)
-[XML Extensions] 2547 total patches run in 2505ms, 0 failed
+[XML Extensions] 2547 total patches run in 2464ms, 0 failed
 Alien race successfully completed 258 patches with harmony.
 JP_PP: v.1.4.0 Loading..
 JP_PP: Environment Patch Enabled
@@ -916,13 +943,13 @@ Mousekin Race :: Removed LWM.DeepStorage.ITab_DeepStorage_Inventory from Mouseki
  at HarmonyLib.PatchClassProcessor.PatchWithAttributes (System.Reflection.MethodBase& lastOriginal, System.Boolean unpatch) [0x00047] in <abec11463bc04855a5322a0a868aeb22>:0 
  at HarmonyLib.PatchClassProcessor.Patch () [0x0006e] in <abec11463bc04855a5322a0a868aeb22>:0 
    --- End of inner exception stack trace ---
-[Ref C696C529]
+[Ref 8629C547]
  at HarmonyLib.PatchClassProcessor.ReportException (System.Exception exception, System.Reflection.MethodBase original) [0x00154] in <abec11463bc04855a5322a0a868aeb22>:0 
  at HarmonyLib.PatchClassProcessor.Patch () [0x000a0] in <abec11463bc04855a5322a0a868aeb22>:0 
  at HarmonyLib.Harmony.<PatchAll>b__10_0 (System.Type type) [0x00007] in <abec11463bc04855a5322a0a868aeb22>:0 
  at HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <abec11463bc04855a5322a0a868aeb22>:0 
  at HarmonyLib.Harmony.PatchAll (System.Reflection.Assembly assembly) [0x00006] in <abec11463bc04855a5322a0a868aeb22>:0 
- at <0x2a911e0c340 + 0x00072> <unknown method>
+ at <0x23c280b0ab0 + 0x00072> <unknown method>
    --- End of inner exception stack trace ---
 [Ref 471D2E20]
  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
@@ -946,7 +973,7 @@ checking Pawn.TickRare for other harmony patches
 TKS_PriorityTreatment: Patching finished
 [Assign Animal Food v1.5.1] Initialized
 <color=#34e2eb>AutoTranslation</color>: Translator test: Hello, World! => 안녕하세요, 월드!
-<color=#34e2eb>AutoTranslation</color>: Elapsed time during loading: 7873ms, untranslated defInjections: 6416, untranslated keyeds: 907
+<color=#34e2eb>AutoTranslation</color>: Elapsed time during loading: 8290ms, untranslated defInjections: 6416, untranslated keyeds: 907
 Table Diner did not find Common Sense.
 [Utility Columns] - Patching...
 Wall Light: v1.5.8874.26767
@@ -976,13 +1003,13 @@ Medical Tab :: Tag SurivalUse is not associated with any pawnCapacity. This may 
 [PrepareLanding] WorldLayerBehaviour Start
 [katana.scenarioamender] Loaded
 GAGARIN: <color=green>StartUpFinished called!</color>
-[BetterLoading] Finished calling static constructors at 12:20:15 AM.
-[BetterLoading] Finished stage Executing Static Constructors at 12:20:24 AM.
+[BetterLoading] Finished calling static constructors at 12:33:43 AM.
+[BetterLoading] Finished stage Executing Static Constructors at 12:33:54 AM.
 [BetterLoading] Starting stage Running Post-Static-Constructor Long Events.
 [BetterLoading] Processing 640 post-finalize tasks.
 [Geological Landforms v1.7] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[BetterLoading] Finished stage Running Post-Static-Constructor Long Events at 12:20:31 AM.
+[BetterLoading] Finished stage Running Post-Static-Constructor Long Events at 12:34:01 AM.
 [BetterLoading] Starting stage Initializing HugsLib.
 [HugsLib][ERR] Quickstart aborted: errors detected in log 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -995,12 +1022,12 @@ GAGARIN: <color=green>StartUpFinished called!</color>
 [BetterLoading:HugsLib Compat] HugsLib has Loaded, Reloaded, and Initialized. Marking as done.
 [BetterLoading] Finished processing load list, hiding.
 [BetterLoading] Game load has finished. Timing data follows:
-Spent 11010.9347ms reading, building, and patching XML tree.
-Spent 8774.8531ms turning XML into def instances.
-Spent 115136.9926ms resolving cross-references and running post-load, pre-finalize callbacks.
-Spent 33240.964ms running static constructors (initializing mods).
-Spent 4545.8507ms running post-finalize callbacks.
-In total, spent 173035.778ms launching the game.
+Spent 10827.8074ms reading, building, and patching XML tree.
+Spent 8842.2677ms turning XML into def instances.
+Spent 116130.5053ms resolving cross-references and running post-load, pre-finalize callbacks.
+Spent 35220.4383ms running static constructors (initializing mods).
+Spent 5036.5708ms running post-finalize callbacks.
+In total, spent 176439.2022ms launching the game.
 [BetterLoading] Obtained lock, assuming we're done with post-finalize.
 CE is trying to create default parameter lists ...
 creating default parameter list for genes...
@@ -1015,129 +1042,127 @@ no modifications for genes
 no modifications for objects
 no modifications for lifestages
 ...done
+Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseResearch 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseSmith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedSmith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Alchemy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Plant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Textile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedTextile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseResearch 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseSmith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedSmith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Alchemy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Plant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Textile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedTextile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseResearch 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseSmith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedSmith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Alchemy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Plant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Textile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedTextile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseResearch 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseSmith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedSmith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Alchemy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Plant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_Textile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedTextile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
 <color=#34e2eb>AutoTranslation</color>: Translation cache saved to your disk. translated: 8037
-Starting patches: 2289 - 10/25/2024 12:20:43 AM
-Finished transpiling 2289 methods - 10/25/2024 12:21:11 AM
-Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseResearch 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseSmith 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedSmith 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Alchemy 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Plant 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Textile 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedTextile 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Some ScenParts had null defs. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseResearch 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseSmith 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedSmith 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Alchemy 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Plant 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Textile 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedTextile 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Some ScenParts had null defs. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseResearch 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseSmith 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedSmith 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Alchemy 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Plant 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Textile 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedTextile 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Some ScenParts had null defs. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseResearch 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_BaseSmith 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedSmith 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Alchemy 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Plant 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_Textile 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_AdvancedTextile 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Some ScenParts had null defs. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Some ScenParts had null defs. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not load reference to Verse.ResearchProjectDef named Axolotl_HeavenlyTopArmor 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Some ScenParts had null defs. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 BA_Athletic found no data at degree 2, returning first defined. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -3680,19 +3705,507 @@ BA_Gourmet found no data at degree 2, returning first defined.
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 BA_HealthConscious found no data at degree 2, returning first defined. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BA_Mascot found no data at degree 2, returning first defined. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BA_MathGenius found no data at degree 2, returning first defined. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Reached max messages limit. Stopping logging to avoid spam. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-BA_Mascot found no data at degree 2, returning first defined. 
+BA_Motivate found no data at degree 2, returning first defined. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 5)
 
-Unloading 1568 unused Assets to reduce memory usage. Loaded Objects now: 66153.
-Total: 901.689200 ms (FindLiveObjects: 2.516900 ms CreateObjectMapping: 0.942500 ms MarkObjects: 896.844900 ms  DeleteObjects: 1.384400 ms)
+Unloading 1568 unused Assets to reduce memory usage. Loaded Objects now: 66151.
+Total: 894.476900 ms (FindLiveObjects: 2.436500 ms CreateObjectMapping: 1.134600 ms MarkObjects: 889.623000 ms  DeleteObjects: 1.282300 ms)
 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 5)
+UnloadTime: 0.138900 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 67542.
+Total: 891.518000 ms (FindLiveObjects: 2.444300 ms CreateObjectMapping: 1.370700 ms MarkObjects: 887.619100 ms  DeleteObjects: 0.083700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72106.
+Total: 934.304800 ms (FindLiveObjects: 2.743400 ms CreateObjectMapping: 2.005800 ms MarkObjects: 929.491400 ms  DeleteObjects: 0.063600 ms)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
 GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
 (Filename:  Line: 580)
 
@@ -4578,16 +5091,3 @@ GUI Error: You are pushing more GUIClips than you are popping. Make sure they ar
 GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
 (Filename:  Line: 580)
 
-Setting up 12 worker threads for Enlighten.
-  Thread -> id: 6954 -> priority: 1 
-  Thread -> id: 4eb0 -> priority: 1 
-  Thread -> id: 4bb0 -> priority: 1 
-  Thread -> id: 53cc -> priority: 1 
-  Thread -> id: 6534 -> priority: 1 
-  Thread -> id: 1b1c -> priority: 1 
-  Thread -> id: 56c4 -> priority: 1 
-  Thread -> id: 2cb8 -> priority: 1 
-  Thread -> id: 5508 -> priority: 1 
-  Thread -> id: 2e3c -> priority: 1 
-  Thread -> id: f0 -> priority: 1 
-  Thread -> id: 3754 -> priority: 1 

@@ -135,11 +135,11 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FormCaravan</key>
@@ -151,7 +151,7 @@
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InfoCard</key>
@@ -171,11 +171,11 @@
     </li>
     <li>
       <key>Deterioration</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HostilityResponse</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AllowedAreas</key>
@@ -191,7 +191,7 @@
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0.429174</value>
+      <value>0</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
@@ -235,7 +235,7 @@
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MaxNumberOfPlayerSettlements</key>

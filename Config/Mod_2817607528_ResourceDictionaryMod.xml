@@ -3167,6 +3167,596 @@
 				<li>(우마무스메) 젠틸돈나 의상_item</li>
 				<li>(우마무스메) 정글 포켓 의상_item</li>
 				<li>(우마무스메) 어드마이어 베가 의상_item</li>
+				<li>백선 유충_pawn</li>
+				<li>안네리트리스_pawn</li>
+				<li>(안넬리)4_갑옷_바닐라_item</li>
+				<li>(아넬리)4_방어구_강화_item</li>
+				<li>(아넬리)4_armor_op_item</li>
+				<li>(안넬리)6abc_헬멧_바닐라_item</li>
+				<li>(안넬리)6abc_헬멧_강화_item</li>
+				<li>(안넬리)6abc_helmet_op_item</li>
+				<li>(안넬리)쉴드벨트_바닐라_item</li>
+				<li>(아넬리)shieldbelt_enhanced_item</li>
+				<li>(anneli) shieldbelt_op_item</li>
+				<li>안넬리 인형극장_building</li>
+				<li>안네리트리스 분수_building</li>
+				<li>안네리트리스 구충제_item</li>
+				<li>식민지 주민의 달걀_item</li>
+				<li>아웃사이더 달걀_item</li>
+				<li>안네리트리스 영양액_item</li>
+				<li>(jurnizia)1a_비키니브라_item</li>
+				<li>(jurnizia)1a_camo비키니브라_item</li>
+				<li>(주르니지아)1a_lacebraa_item</li>
+				<li>(jurnizia)1a_lacebrab_item</li>
+				<li>(jurnizia)1a_sportsbra_item</li>
+				<li>(주르니치아)1ab_lingerie_item</li>
+				<li>(jernizia)1ab_lacelingerie_item</li>
+				<li>(jernizia)1b_비키니속옷_item</li>
+				<li>(jurnizia)1b_camo비키니속옷_item</li>
+				<li>(jernizia)1b_레이스속옷a_item</li>
+				<li>(주르니지아)1b_레이스속옷b_item</li>
+				<li>(jurnizia)1b_스포츠속옷_item</li>
+				<li>(쥬르니지아)1c_스타킹a_item</li>
+				<li>(주르니치아)1c_스타킹b_item</li>
+				<li>(jurnizia)1c_garter스타킹a_item</li>
+				<li>(jurnizia)1c_가터스타킹b_item</li>
+				<li>(jurnizia)1c_풋랩_item</li>
+				<li>(쥬르니지아)1c_양말_item</li>
+				<li>(jurnizia)1c_camosocks_item</li>
+				<li>(jurnizia)2a_민소매셔츠_item</li>
+				<li>(jurnizia)2a_plaidsleevelessshirt_item</li>
+				<li>(jernizia)2a_셔츠넥타이_item</li>
+				<li>(jurnizia)2a_t셔츠_item</li>
+				<li>(jurnizia)2a_tshirt_item</li>
+				<li>(jernizia)2a_오버사이즈셔츠_item</li>
+				<li>(jurnizia)2a_openchestshirt_item</li>
+				<li>(jurnizia)2a_haltertop_item</li>
+				<li>(요르니치아)2a_탱크탑_item</li>
+				<li>(jurnizia)2a_camotanktop_item</li>
+				<li>(jurnizia)2a_telnyashka_item</li>
+				<li>(주르니치아)2ab_드레스_item</li>
+				<li>(주르니치아)2ab_sundress_item</li>
+				<li>(jurnizia)2ab_sheath드레스_item</li>
+				<li>(주르니치아)2b_청바지_item</li>
+				<li>(jurnizia)2b_데님반바지_item</li>
+				<li>(주르니치아)2b_레깅스_item</li>
+				<li>(쥬르니치아)2b_스커트_item</li>
+				<li>(쥬르니치아)2b_가죽스커트_item</li>
+				<li>(쥬르니치아)2b_스포츠팬츠_item</li>
+				<li>(주르니치아)2b_배기팬츠_item</li>
+				<li>(쥬르니치아)2b_카모팬츠_item</li>
+				<li>(journizia) 2b_고르카팬츠_item</li>
+				<li>(주르니치아)2c_heels_item</li>
+				<li>(jurnizia)2c_tielegheels_item</li>
+				<li>(주르니치아)2c_샌들_item</li>
+				<li>(jurnizia)2c_mockba스니커즈_item</li>
+				<li>(jurnizia)2c_hikingboots_item</li>
+				<li>(jurnizia)2c_winterboots_item</li>
+				<li>(jurnizia)2c_tacticalboots_item</li>
+				<li>(jurnizia)2c_ridingboots_item</li>
+				<li>(주르니치아)3_후디_item</li>
+				<li>(jurnizia)3_트렌치코트_item</li>
+				<li>(주르니치아)3_아디다스재킷_item</li>
+				<li>(주르니치아)3_파카_item</li>
+				<li>(jurnizia) 3_고르카파카_item</li>
+				<li>(쥬르니지아)3_camoparka_item</li>
+				<li>(쥬르니치아)3_푸퍼조끼_item</li>
+				<li>(jurnizia)3_furcoat_item</li>
+				<li>(jurnizia)4_6b2bodyarmor_item</li>
+				<li>(jurnizia)4_camo6b2bodyarmor_item</li>
+				<li>(jurnizia)4_6b3bodyarmor_item</li>
+				<li>(jurnizia)4_camo6b3bodyarmor_item</li>
+				<li>(jurnizia)4_6b13bodyarmor_item</li>
+				<li>(jurnizia)4_camo6b13bodyarmor_item</li>
+				<li>(jurnizia)5a_lifchik_item</li>
+				<li>(jurnizia)5a_camolifchik_item</li>
+				<li>(jurnizia)5a_tacticalbelt_item</li>
+				<li>(jurnizia)5a_camotacticalbelt_item</li>
+				<li>(jurnizia)5a_bandolier_item</li>
+				<li>(조르니치아)5a_ghilliesuit_item</li>
+				<li>(jernizia)5b_니패드_item</li>
+				<li>(jurnizia)5b_kneepads_item</li>
+				<li>(jurnizia)6a_peakcap_item</li>
+				<li>(jurnizia)6a_shlemofon_item</li>
+				<li>(jurnizia)6a_beanie_item</li>
+				<li>(jurnizia)6a_flatcap_item</li>
+				<li>(jurnizia)6a_bandana_item</li>
+				<li>(jurnizia)6a_camobandana_item</li>
+				<li>(jurnizia)6a_hood_item</li>
+				<li>(jurnizia)6a_camohood_item</li>
+				<li>(jurnizia)6a_gorkahood_item</li>
+				<li>(jurnizia)6a_ghilliehood_item</li>
+				<li>(jurnizia)6a_patrolcap_item</li>
+				<li>(jurnizia)6a_camopatrolcap_item</li>
+				<li>(jurnizia)6a_ushanka_item</li>
+				<li>(jurnizia)6a_shapkaushanka_item</li>
+				<li>(jurnizia)6a_ssh68helmet_item</li>
+				<li>(jurnizia)6a_camossh68helmet_item</li>
+				<li>(jurnizia)6a_maskahelmet_item</li>
+				<li>(jurnizia)6a_camomaskahelmet_item</li>
+				<li>(jurnizia)6abc_maskaslit_item</li>
+				<li>(jurnizia)6abc_maskavisor_item</li>
+				<li>(jurnizia)6b_goggles_item</li>
+				<li>(jurnizia)6b_sunglasses_item</li>
+				<li>(jurnizia)6b_eyepatcha_item</li>
+				<li>(jurnizia)6b_eyepatchb_item</li>
+				<li>(jurnizia)6bc_gp5gasmaska_item</li>
+				<li>(jurnizia)6bc_gp5gasmaskb_item</li>
+				<li>(jurnizia)6bc_pmk1gasmaska_item</li>
+				<li>(jurnizia)6bc_pmk1gasmaskb_item</li>
+				<li>(jurnizia)6c_balaclava_item</li>
+				<li>(jurnizia)6c_camomask_item</li>
+				<li>(jurnizia)6c_cigar_item</li>
+				<li>(jurnizia)7_ataka_item</li>
+				<li>(jurnizia)7_camoataka_item</li>
+				<li>(jurnizia)7_backpack_item</li>
+				<li>(jurnizia)7_sack_item</li>
+				<li>(jurnizia)8a_guitar_item</li>
+				<li>(jurnizia)8a_accordion_item</li>
+				<li>(jurnizia)8b_laserdesignator_item</li>
+				<li>(jurnizia)8c_bzt75shield_item</li>
+				<li>(jurnizia)8c_camobzt75shield_item</li>
+				<li>(jurnizia)8c_vantvmshield_item</li>
+				<li>(jurnizia)8c_camovantvmshield_item</li>
+				<li>anneli jurnizia workbench_building</li>
+				<li>(yorha)1a_curtaina_item</li>
+				<li>(yorha)1a_curtainb_item</li>
+				<li>(yorha)1a_curtainc_item</li>
+				<li>(yorha)1ab_bodysuita_item</li>
+				<li>(yorha)1ab_bodysuitb_item</li>
+				<li>(yorha)1ab_bodysuitc_item</li>
+				<li>(yorha)1ab_lingeriea_item</li>
+				<li>(yorha)1ab_lingerieb_item</li>
+				<li>(yorha)1abc_zantai_item</li>
+				<li>(yorha)1b_underwear_item</li>
+				<li>(yorha)1b_thong_item</li>
+				<li>(yorha)1b_hipster_item</li>
+				<li>(yorha)1c_bandage_item</li>
+				<li>(yorha)1c_socks_item</li>
+				<li>(yorha)1c_tighta_item</li>
+				<li>(yorha)1c_tightb_item</li>
+				<li>(yorha)1c_stockingsa_item</li>
+				<li>(yorha)1c_stockingsb_item</li>
+				<li>(yorha)2a_topa_item</li>
+				<li>(yorha)2a_topb_item</li>
+				<li>(yorha)2a_topc_item</li>
+				<li>(yorha)2a_topd_item</li>
+				<li>(yorha)2a_halfrobea_item</li>
+				<li>(yorha)2a_halfrobeb_item</li>
+				<li>(yorha)2ab_dressa_item</li>
+				<li>(yorha)2ab_dressb_item</li>
+				<li>(yorha)2ab_dressc_item</li>
+				<li>(yorha)2ab_dressd_item</li>
+				<li>(yorha)2ab_longdressa_item</li>
+				<li>(yorha)2ab_longdressb_item</li>
+				<li>(yorha)2ab_longdressc_item</li>
+				<li>(yorha)2ab_combatsuit_item</li>
+				<li>(yorha)2b_pants_item</li>
+				<li>(yorha)2b_shorts_item</li>
+				<li>(yorha)2b_skirta_item</li>
+				<li>(yorha)2b_skirtb_item</li>
+				<li>(yorha)2b_miniskirt_item</li>
+				<li>(yorha)2c_heelsa_item</li>
+				<li>(yorha)2c_heelsb_item</li>
+				<li>(yorha)2c_heelsc_item</li>
+				<li>(yorha)2c_dressshoes_item</li>
+				<li>(yorha)2c_longbootsa_item</li>
+				<li>(yorha)2c_longbootsb_item</li>
+				<li>(yorha)2c_longbootsc_item</li>
+				<li>(yorha)2c_bootsa_item</li>
+				<li>(yorha)2c_bootsb_item</li>
+				<li>(yorha)2c_destroyerboots_item</li>
+				<li>(yorha)2c_sollerets_item</li>
+				<li>(yorha)3_destroyercoat_item</li>
+				<li>(yorha)3_blazera_item</li>
+				<li>(yorha)3_blazerb_item</li>
+				<li>(yorha)3_vest_item</li>
+				<li>(yorha)3_trenchcoat_item</li>
+				<li>(yorha)3_coata_item</li>
+				<li>(yorha)3_coatb_item</li>
+				<li>(yorha)3_coatc_item</li>
+				<li>(yorha)34_heavyarmor_item</li>
+				<li>(yorha)4_destroyerarmor_item</li>
+				<li>(yorha)4_armorvest_item</li>
+				<li>(yorha)5a_cloaka_item</li>
+				<li>(yorha)5a_cloakb_item</li>
+				<li>(yorha)5b_kneeplates_item</li>
+				<li>(yorha)6a_flatcap_item</li>
+				<li>(yorha)6a_beret_item</li>
+				<li>(yorha)6a_sidecap_item</li>
+				<li>(yorha)6a_hood_item</li>
+				<li>(yorha)6a_ribbonedhat_item</li>
+				<li>(yorha)6a_ribbonhairband_item</li>
+				<li>(yorha)6a_headband_item</li>
+				<li>(yorha)6a_hairband_item</li>
+				<li>(yorha)6a_floweraccessory_item</li>
+				<li>(yorha)6a_headwear_item</li>
+				<li>(yorha)6a_conicalhat_item</li>
+				<li>(yorha)6abc_heavyhelmeta_item</li>
+				<li>(yorha)6abc_heavyhelmetb_item</li>
+				<li>(yorha)6b_eyemaska_item</li>
+				<li>(yorha)6b_eyemaskb_item</li>
+				<li>(yorha)6b_eyemaskc_item</li>
+				<li>(yorha)6b_flower_item</li>
+				<li>(yorha)6b_squreglasses_item</li>
+				<li>(yorha)6bc_latexmask_item</li>
+				<li>(yorha)6c_maska_item</li>
+				<li>(yorha)6c_maskb_item</li>
+				<li>(yorha)6c_veil_item</li>
+				<li>(yorha)7_bag_item</li>
+				<li>(yorha)7_oxidanttank_item</li>
+				<li>(yorha)8a_musicbox_item</li>
+				<li>(yorha)8a_weaponset_item</li>
+				<li>(yorha)8b_pod_item</li>
+				<li>(yorha)8b_grimore_item</li>
+				<li>(yorha)8b_machine_item</li>
+				<li>anneli yorha bench_building</li>
+				<li>anneli ahmislan bench_building</li>
+				<li>(ahmislan)1a_chestwrap_item</li>
+				<li>(ahmislan)1a_straplessbra_item</li>
+				<li>(ahmislan)1ab_bodysuit_item</li>
+				<li>(ahmislan)1ab_lingerie_item</li>
+				<li>(ahmislan)1abc_bodystockings_item</li>
+				<li>(ahmislan)1b_underwear_item</li>
+				<li>(ahmislan)1b_laceunderwear_item</li>
+				<li>(ahmislan)1c_socks_item</li>
+				<li>(ahmislan)1c_stockings_item</li>
+				<li>(ahmislan)1c_ruffledstockings_item</li>
+				<li>(ahmislan)1c_leggarter_item</li>
+				<li>(ahmislan)1c_toelesssocks_item</li>
+				<li>(ahmislan)2a_bodicea_item</li>
+				<li>(ahmislan)2a_bodiceb_item</li>
+				<li>(ahmislan)2a_shirta_item</li>
+				<li>(ahmislan)2a_shirtb_item</li>
+				<li>(ahmislan)2ab_chemise_item</li>
+				<li>(ahmislan)2ab_squireuniforma_item</li>
+				<li>(ahmislan)2ab_squireuniformb_item</li>
+				<li>(ahmislan)2ab_dressa_item</li>
+				<li>(ahmislan)2ab_dressb_item</li>
+				<li>(ahmislan)2ab_dressc_item</li>
+				<li>(ahmislan)2ab_longdressa_item</li>
+				<li>(ahmislan)2ab_longdressb_item</li>
+				<li>(ahmislan)2ab_maiddressa_item</li>
+				<li>(ahmislan)2ab_maiddressb_item</li>
+				<li>(ahmislan)2ab_nunattirea_item</li>
+				<li>(ahmislan)2ab_nunattireb_item</li>
+				<li>(ahmislan)2b_skirta_item</li>
+				<li>(ahmislan)2b_skirtb_item</li>
+				<li>(ahmislan)2b_pants_item</li>
+				<li>(ahmislan)2b_shorts_item</li>
+				<li>(ahmislan)2c_moccasins_item</li>
+				<li>(ahmislan)2c_boots_item</li>
+				<li>(ahmislan)2c_heels_item</li>
+				<li>(ahmislan)2c_maryjane_item</li>
+				<li>(ahmislan)2c_longbootsa_item</li>
+				<li>(ahmislan)2c_longbootsb_item</li>
+				<li>(ahmislan)2c_ridingboots_item</li>
+				<li>(ahmislan)2c_solleretsa_item</li>
+				<li>(ahmislan)2c_solleretsb_item</li>
+				<li>(ahmislan)2c_longsolleretsa_item</li>
+				<li>(ahmislan)2c_longsolleretsb_item</li>
+				<li>(ahmislan)3_apron_item</li>
+				<li>(ahmislan)3_blacksmithapron_item</li>
+				<li>(ahmislan)3_jacket_item</li>
+				<li>(ahmislan)3_overdress_item</li>
+				<li>(ahmislan)3_ruffledvest_item</li>
+				<li>(ahmislan)3_shortapron_item</li>
+				<li>(ahmislan)3_tunic_item</li>
+				<li>(ahmislan)3_vest_item</li>
+				<li>(ahmislan)34_armora_item</li>
+				<li>(ahmislan)34_armorb_item</li>
+				<li>(ahmislan)34_armorc_item</li>
+				<li>(ahmislan)34_armord_item</li>
+				<li>(ahmislan)4_brigandine_item</li>
+				<li>(ahmislan)4_corseta_item</li>
+				<li>(ahmislan)4_corsetb_item</li>
+				<li>(ahmislan)4_corsetc_item</li>
+				<li>(ahmislan)4_corsetd_item</li>
+				<li>(ahmislan)5a_cloaka_item</li>
+				<li>(ahmislan)5a_cloakb_item</li>
+				<li>(ahmislan)5a_bustlea_item</li>
+				<li>(ahmislan)5a_bustleb_item</li>
+				<li>(ahmislan)5a_shoulderwrap_item</li>
+				<li>(ahmislan)5b_puttee_item</li>
+				<li>(ahmislan)5b_kneeplatesa_item</li>
+				<li>(ahmislan)5b_kneeplatesb_item</li>
+				<li>(ahmislan)6a_beret_item</li>
+				<li>(ahmislan)6a_bonnet_item</li>
+				<li>(ahmislan)6a_coif_item</li>
+				<li>(ahmislan)6a_flowercrown_item</li>
+				<li>(ahmislan)6a_hairbanda_item</li>
+				<li>(ahmislan)6a_hairbandb_item</li>
+				<li>(ahmislan)6a_hunterhat_item</li>
+				<li>(ahmislan)6a_mantilla_item</li>
+				<li>(ahmislan)6a_nunveil_item</li>
+				<li>(ahmislan)6a_strawhat_item</li>
+				<li>(ahmislan)6a_bascinet_item</li>
+				<li>(ahmislan)6a_crowna_item</li>
+				<li>(ahmislan)6a_crownb_item</li>
+				<li>(ahmislan)6a_crownc_item</li>
+				<li>(ahmislan)6a_helma_item</li>
+				<li>(ahmislan)6a_helmb_item</li>
+				<li>(ahmislan)6a_helmc_item</li>
+				<li>(ahmislan)6a_kettlehelm_item</li>
+				<li>(ahmislan)6abc_closehelma_item</li>
+				<li>(ahmislan)6abc_closehelmb_item</li>
+				<li>(ahmislan)6abc_closehelmc_item</li>
+				<li>(ahmislan)6bc_masquerademask_item</li>
+				<li>(ahmislan)6bc_noseguard_item</li>
+				<li>(ahmislan)6c_mask_item</li>
+				<li>(ahmislan)6c_veil_item</li>
+				<li>(ahmislan)7_backpack_item</li>
+				<li>(ahmislan)7_bascket_item</li>
+				<li>(ahmislan)7_sack_item</li>
+				<li>(ahmislan)8a_banner_item</li>
+				<li>(ahmislan)8a_warflag_item</li>
+				<li>(ahmislan)8b_crystalwing_item</li>
+				<li>(ahmislan)8b_swordwing_item</li>
+				<li>(ahmislan)8c_heatershield_item</li>
+				<li>(ahmislan)8c_kiteshield_item</li>
+				<li>(ahmislan)8c_woodenshield_item</li>
+				<li>(gakuen)1a_bra_item</li>
+				<li>(gakuen)1a_catbra_item</li>
+				<li>(gakuen)1a_halterneckbra_item</li>
+				<li>(gakuen)1a_chestwrap_item</li>
+				<li>(gakuen)1ab_schoolswimsuit_item</li>
+				<li>(gakuen)1ab_cowprintswimsuit_item</li>
+				<li>(gakuen)1b_catunderwear_item</li>
+				<li>(gakuen)1b_cheeky_item</li>
+				<li>(gakuen)1b_classic_item</li>
+				<li>(gakuen)1b_loincloth_item</li>
+				<li>(gakuen)1c_loosesocks_item</li>
+				<li>(gakuen)1c_pantyhose_item</li>
+				<li>(gakuen)1c_socks_item</li>
+				<li>(gakuen)1c_stockings_item</li>
+				<li>(gakuen)1c_soccersocks_item</li>
+				<li>(gakuen)1c_tabi_item</li>
+				<li>(gakuen)1c_cowprintstockings_item</li>
+				<li>(gakuen)2a_sailorsuita_item</li>
+				<li>(gakuen)2a_sailorsuitb_item</li>
+				<li>(gakuen)2a_sailorcroptopa_item</li>
+				<li>(gakuen)2a_sailorcroptopb_item</li>
+				<li>(gakuen)2a_shirtbowtie_item</li>
+				<li>(gakuen)2a_shirtnecktie_item</li>
+				<li>(gakuen)2a_shirtopen_item</li>
+				<li>(gakuen)2a_kendotop_item</li>
+				<li>(gakuen)2a_cheercroptop_item</li>
+				<li>(gakuen)2a_gymshirt_item</li>
+				<li>(gakuen)2b_miniskirt_item</li>
+				<li>(gakuen)2b_skirt_item</li>
+				<li>(gakuen)2b_plaidskirt_item</li>
+				<li>(gakuen)2b_plaidminiskirt_item</li>
+				<li>(gakuen)2b_kendohakama_item</li>
+				<li>(gakuen)2b_cheerdress_item</li>
+				<li>(gakuen)2b_gymshorts_item</li>
+				<li>(gakuen)2b_dresspants_item</li>
+				<li>(gakuen)2c_boots_item</li>
+				<li>(gakuen)2c_leathershoes_item</li>
+				<li>(gakuen)2c_tennisshoes_item</li>
+				<li>(gakuen)2c_sneakers_item</li>
+				<li>(gakuen)2c_geta_item</li>
+				<li>(gakuen)2c_uwabaki_item</li>
+				<li>(gakuen)2c_slippers_item</li>
+				<li>(gakuen)3_blazer_item</li>
+				<li>(gakuen)3_sweatervest_item</li>
+				<li>(gakuen)3_apron_item</li>
+				<li>(gakuen)3_coat_item</li>
+				<li>(gakuen)3_gakurancoat_item</li>
+				<li>(gakuen)3_tiedaroundwaist_item</li>
+				<li>(gakuen)3_trackjacket_item</li>
+				<li>(gakuen)34_kendoarmor_item</li>
+				<li>(gakuen)4_armorvest_item</li>
+				<li>(gakuen)4_camoarmorvest_item</li>
+				<li>(gakuen)4_armorbikini_item</li>
+				<li>(gakuen)4_camoarmorbikini_item</li>
+				<li>(gakuen)4_chestguard_item</li>
+				<li>(gakuen)5a_chestrig_item</li>
+				<li>(gakuen)5a_camochestrig_item</li>
+				<li>(gakuen)5a_scarf_item</li>
+				<li>(gakuen)5a_plaidscarf_item</li>
+				<li>(gakuen)5a_coatascloak_item</li>
+				<li>(gakuen)5b_legrig_item</li>
+				<li>(gakuen)5b_camolegrig_item</li>
+				<li>(gakuen)6a_beret_item</li>
+				<li>(gakuen)6a_sunhat_item</li>
+				<li>(gakuen)6a_headband_item</li>
+				<li>(gakuen)6a_militaryhat_item</li>
+				<li>(gakuen)6a_baseballcap_item</li>
+				<li>(gakuen)6a_visorcap_item</li>
+				<li>(gakuen)6a_bikehelmet_item</li>
+				<li>(gakuen)6a_tacticalheadset_item</li>
+				<li>(gakuen)6a_camotacticalheadset_item</li>
+				<li>(gakuen)6a_catheadset_item</li>
+				<li>(gakuen)6a_hachimaki_item</li>
+				<li>(gakuen)6a_hachimakikanji_item</li>
+				<li>(gakuen)6a_chiikawaaccessories_item</li>
+				<li>(gakuen)6abc_kendohelmet_item</li>
+				<li>(gakuen)6abc_motorhelmet_item</li>
+				<li>(gakuen)6abc_paperbag_item</li>
+				<li>(gakuen)6b_eyepatcha_item</li>
+				<li>(gakuen)6b_eyepatchb_item</li>
+				<li>(gakuen)6b_roundglasses_item</li>
+				<li>(gakuen)6b_squreglasses_item</li>
+				<li>(gakuen)6b_invisibleglasses_item</li>
+				<li>(gakuen)6bc_gasmask_item</li>
+				<li>(gakuen)6c_woolmask_item</li>
+				<li>(gakuen)6c_medicalmask_item</li>
+				<li>(gakuen)6c_toast_item</li>
+				<li>(gakuen)7_schoolbag_item</li>
+				<li>(gakuen)7_shoulderbag_item</li>
+				<li>(gakuen)8a_walkwoman_item</li>
+				<li>(gakuen)8a_flute_item</li>
+				<li>(gakuen)8a_katanaa_item</li>
+				<li>(gakuen)8a_katanab_item</li>
+				<li>(gakuen)8c_ballisticshield_item</li>
+				<li>(gakuen)8c_riotshield_item</li>
+				<li>anneli gakuen bench_building</li>
+				<li>전기 석재 절삭대_building</li>
+				<li>메드포드 lux_building</li>
+				<li>메드포드_building</li>
+				<li>벳포드_building</li>
+				<li>대형 벳포드_building</li>
+				<li>초대형 벳포드_building</li>
+				<li>등선형 처리 장치_item</li>
+				<li>いにしえのタイル_terrain</li>
+				<li>装飾用頭蓋骨_building</li>
+				<li>アーリーマインド_item</li>
+				<li>古代の歯車_item</li>
+				<li>サイバー・ドラゴン・コア_item</li>
+				<li>ハングリーバーガー_item</li>
+				<li>ブルーアイズマウンテン_item</li>
+				<li>千年眼スープ_item</li>
+				<li>非常食_item</li>
+				<li>ハンバーガーの具材_item</li>
+				<li>ガスタガルドの卵(無精卵)_item</li>
+				<li>ガスタガルドの卵(有精卵)_item</li>
+				<li>伝説の黒石_item</li>
+				<li>トマト_item</li>
+				<li>謎肉_item</li>
+				<li>ジェム_item</li>
+				<li>ドラゴン族の革_item</li>
+				<li>見習い魔導師のローブ_item</li>
+				<li>セラドレス_item</li>
+				<li>バニー服_item</li>
+				<li>フレシアドレス_item</li>
+				<li>セクレタリースーツ_item</li>
+				<li>アトラドレス_item</li>
+				<li>カズーラドレス_item</li>
+				<li>ティオドレス_item</li>
+				<li>トリオンドレス_item</li>
+				<li>ランカドレス_item</li>
+				<li>キノドレス_item</li>
+				<li>フェリジットドレス_item</li>
+				<li>キットの作業着_item</li>
+				<li>見習い魔導師の帽子_item</li>
+				<li>ウサミミカウンター_item</li>
+				<li>i:p猫型バイザー_item</li>
+				<li>鉄獣戦線のゴーグル_item</li>
+				<li>ガガガガールの帽子_item</li>
+				<li>蕾禍ノ姫笠_item</li>
+				<li>蟲惑魔ブラa_item</li>
+				<li>蟲惑魔ブラb_item</li>
+				<li>マーメイドの貝殻_item</li>
+				<li>蟲惑魔スパッツ_item</li>
+				<li>女性用下着_item</li>
+				<li>ホログラムボディスーツl_item</li>
+				<li>アーティファクト－デスサイズ_item</li>
+				<li>アーティファクト－ロンギヌス_item</li>
+				<li>アーティファクト－ミョルニル_item</li>
+				<li>アーティファクト－アイギス_item</li>
+				<li>アーティファクト－アキレウス_item</li>
+				<li>アーティファクト－ベガルタ_item</li>
+				<li>アーティファクト－モラルタ_item</li>
+				<li>アーティファクト－カドケウス_item</li>
+				<li>アーティファクト－ラブリュス_item</li>
+				<li>アーティファクト－ヴァジュラ_item</li>
+				<li>ラヴァル・マチェット_item</li>
+				<li>カタストルの影霊衣_item</li>
+				<li>草薙剣_item</li>
+				<li>御巫の鉄扇_item</li>
+				<li>ゼクトブレード_item</li>
+				<li>ゼクトガントレット_item</li>
+				<li>アクアマリンの盾_item</li>
+				<li>ルビーの槍_item</li>
+				<li>マスターソード_item</li>
+				<li>アーティファクト－チャクラム_item</li>
+				<li>アーティファクト－フェイルノート_item</li>
+				<li>魔鍵－マフテア_item</li>
+				<li>鉄獣の狙撃銃_item</li>
+				<li>御巫の鉄扇(射)_item</li>
+				<li>マジシャンズステッキ_item</li>
+				<li>ラヴァルの投擲槍_item</li>
+				<li>トマト_plant</li>
+				<li>古代の歯車_pawn</li>
+				<li>古代の機械巨人_pawn</li>
+				<li>古代の機械猟犬_pawn</li>
+				<li>a・o・jカタストル_pawn</li>
+				<li>アームドホーン_pawn</li>
+				<li>シェードブリガンダイン_pawn</li>
+				<li>セファロタスネイル_pawn</li>
+				<li>クラブ・タートル_pawn</li>
+				<li>サイバー・ドラゴン_pawn</li>
+				<li>サイバー・シャドー・ガードナー_pawn</li>
+				<li>ダーリング・コブラ_pawn</li>
+				<li>サンド・ドゥードゥルバグ_pawn</li>
+				<li>フライ・ヘル_pawn</li>
+				<li>リングリボー_pawn</li>
+				<li>リンクリボー_pawn</li>
+				<li>sin 真紅眼の黒竜_pawn</li>
+				<li>キラー・トマト_pawn</li>
+				<li>ウィード_pawn</li>
+				<li>オフリス・スコーピオ_pawn</li>
+				<li>真紅眼の黒竜_pawn</li>
+				<li>真紅眼の闇竜_pawn</li>
+				<li>真紅眼の画竜_pawn</li>
+				<li>真紅眼の飛竜_pawn</li>
+				<li>黒光りするg_pawn</li>
+				<li>ガスタガルド_pawn</li>
+				<li>ワーム・アポカリプス_pawn</li>
+				<li>ワーム・グルス_pawn</li>
+				<li>ワーム・ホープ_pawn</li>
+				<li>ワーム・ジェートリクプス_pawn</li>
+				<li>ワーム・ソリッド_pawn</li>
+				<li>ワーム・ゼクス_pawn</li>
+				<li>ワーム・ヤガン_pawn</li>
+				<li>한칸 냉장고_building</li>
+				<li>냉장고_building</li>
+				<li>네칸 냉장고_building</li>
+				<li>내벽형 한칸 냉장고_building</li>
+				<li>내벽형 냉장고_building</li>
+				<li>pod funnel_building</li>
+				<li>zb26hat_item</li>
+				<li>dsr-50 모자_item</li>
+				<li>모신나강 모자_item</li>
+				<li>루이스 베레모_item</li>
+				<li>9a-91 베레모_item</li>
+				<li>tmp 모자_item</li>
+				<li>saiga-12 베레모_item</li>
+				<li>aa12모자_item</li>
+				<li>ff fnc 베레모_item</li>
+				<li>g36 머리띠_item</li>
+				<li>나강 리볼버 모자_item</li>
+				<li>지휘관 베레모_item</li>
+				<li>4식 모자_item</li>
+				<li>k3 apparel_item</li>
+				<li>m200 apparel_item</li>
+				<li>zb26 apparel_item</li>
+				<li>dsr-50 제복_item</li>
+				<li>m14 제복_item</li>
+				<li>pkp 제복_item</li>
+				<li>모신나강 제복_item</li>
+				<li>루이스 제복_item</li>
+				<li>k5 제복_item</li>
+				<li>sig mcx 제복_item</li>
+				<li>웨블리 리볼버 제복_item</li>
+				<li>9a91 제복_item</li>
+				<li>tmp 제복_item</li>
+				<li>spas-12 제복_item</li>
+				<li>스프링필드 제복_item</li>
+				<li>aek-999 제복_item</li>
+				<li>m950a 제복_item</li>
+				<li>썬더 제복_item</li>
+				<li>saiga-12 제복_item</li>
+				<li>aa-12 제복_item</li>
+				<li>ff fnc 제복_item</li>
+				<li>g36 제복_item</li>
+				<li>g41 제복_item</li>
+				<li>idw 제복_item</li>
+				<li>나강 리볼버 제복_item</li>
+				<li>sat8 제복_item</li>
+				<li>지휘관 제복_item</li>
+				<li>수오미 제복_item</li>
+				<li>4식 제복_item</li>
+				<li>wa2000 제복_item</li>
+				<li>k2 제복_item</li>
+				<li>sat8 방패_item</li>
+				<li>saiga-12 방패_item</li>
+				<li>aa-12 방패_item</li>
+				<li>spas-12 방패_item</li>
+				<li>iop 야전 정비 작업대_building</li>
+				<li>방폭벽_building</li>
+				<li>저격총_item</li>
+				<li>심층 냉장고_building</li>
 			</keys>
 			<values>
 				<li>
@@ -28620,6 +29210,4751 @@
 					<mainThingDefName>Admire_vega_uniform</mainThingDefName>
 					<thingDefs>
 						<li>Admire_vega_uniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>백선 유충_pawn</thingKey>
+					<mainThingDefName>AnnelitriceLarvaAsAnimal</mainThingDefName>
+					<thingDefs>
+						<li>AnnelitriceLarvaAsAnimal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>안네리트리스_pawn</thingKey>
+					<mainThingDefName>Annelitrice</mainThingDefName>
+					<thingDefs>
+						<li>Annelitrice</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(안넬리)4_갑옷_바닐라_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_Armor_Vanilla</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_Armor_Vanilla</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(아넬리)4_방어구_강화_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_Armor_Enhanced</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_Armor_Enhanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(아넬리)4_armor_op_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_Armor_Overpowered</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_Armor_Overpowered</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(안넬리)6abc_헬멧_바닐라_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_Helmet_Vanilla</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_Helmet_Vanilla</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(안넬리)6abc_헬멧_강화_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_Helmet_Enhanced</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_Helmet_Enhanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(안넬리)6abc_helmet_op_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_Helmet_Overpowered</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_Helmet_Overpowered</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(안넬리)쉴드벨트_바닐라_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_ShieldBelt_Vanilla</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_ShieldBelt_Vanilla</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(아넬리)shieldbelt_enhanced_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_ShieldBelt_Enhanced</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_ShieldBelt_Enhanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(anneli) shieldbelt_op_item</thingKey>
+					<mainThingDefName>Anneli_Transmog_ShieldBelt_Overpowered</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Transmog_ShieldBelt_Overpowered</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>안넬리 인형극장_building</thingKey>
+					<mainThingDefName>Anneli_PuppetTheatre</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_PuppetTheatre</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>안네리트리스 분수_building</thingKey>
+					<mainThingDefName>Anneli_Fountain</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Fountain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>안네리트리스 구충제_item</thingKey>
+					<mainThingDefName>Anneli_Anthelmintic</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Anthelmintic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>식민지 주민의 달걀_item</thingKey>
+					<mainThingDefName>Anneli_ColonistEgg</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_ColonistEgg</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>아웃사이더 달걀_item</thingKey>
+					<mainThingDefName>Anneli_OutsiderEgg</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_OutsiderEgg</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>안네리트리스 영양액_item</thingKey>
+					<mainThingDefName>Anneli_NutrientSolution</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_NutrientSolution</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1a_비키니브라_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_BikiniBra</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_BikiniBra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1a_camo비키니브라_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoBikiniBra</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoBikiniBra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니지아)1a_lacebraa_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_LaceBraA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_LaceBraA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1a_lacebrab_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_LaceBraB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_LaceBraB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1a_sportsbra_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_SportsBra</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_SportsBra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)1ab_lingerie_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Lingerie</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Lingerie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jernizia)1ab_lacelingerie_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_LaceLingerie</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_LaceLingerie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jernizia)1b_비키니속옷_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_BikiniUnderwear</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_BikiniUnderwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1b_camo비키니속옷_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoBikiniUnderwear</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoBikiniUnderwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jernizia)1b_레이스속옷a_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_LaceUnderwearA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_LaceUnderwearA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니지아)1b_레이스속옷b_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_LaceUnderwearB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_LaceUnderwearB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1b_스포츠속옷_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_SportsUnderwear</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_SportsUnderwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(쥬르니지아)1c_스타킹a_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_StockingsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_StockingsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)1c_스타킹b_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_StockingsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_StockingsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1c_garter스타킹a_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GarterStockingsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GarterStockingsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1c_가터스타킹b_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GarterStockingsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GarterStockingsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1c_풋랩_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Footwraps</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Footwraps</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(쥬르니지아)1c_양말_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Socks</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Socks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)1c_camosocks_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoSocks</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoSocks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2a_민소매셔츠_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_SleevelessShirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_SleevelessShirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2a_plaidsleevelessshirt_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_PlaidSleevelessShirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_PlaidSleevelessShirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jernizia)2a_셔츠넥타이_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_ShirtNecktie</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_ShirtNecktie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2a_t셔츠_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_TShirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_TShirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2a_tshirt_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_TShirt_Olive</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_TShirt_Olive</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jernizia)2a_오버사이즈셔츠_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_OversizedShirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_OversizedShirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2a_openchestshirt_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_OpenChestShirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_OpenChestShirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2a_haltertop_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_HalterTop</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_HalterTop</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(요르니치아)2a_탱크탑_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_TankTop</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_TankTop</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2a_camotanktop_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoTankTop</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoTankTop</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2a_telnyashka_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Telnyashka</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Telnyashka</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)2ab_드레스_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Dress</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Dress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)2ab_sundress_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_SunDress</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_SunDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2ab_sheath드레스_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_SheathDress</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_SheathDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)2b_청바지_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Jeans</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Jeans</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2b_데님반바지_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_DenimShorts</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_DenimShorts</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)2b_레깅스_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Leggings</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Leggings</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(쥬르니치아)2b_스커트_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Skirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Skirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(쥬르니치아)2b_가죽스커트_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_LeatherSkirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_LeatherSkirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(쥬르니치아)2b_스포츠팬츠_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_SportPants</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_SportPants</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)2b_배기팬츠_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_BaggyPants</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_BaggyPants</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(쥬르니치아)2b_카모팬츠_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoPants</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoPants</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(journizia) 2b_고르카팬츠_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GorkaPants</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GorkaPants</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)2c_heels_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Heels</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Heels</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2c_tielegheels_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_TieLegHeels</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_TieLegHeels</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)2c_샌들_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Sandals</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Sandals</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2c_mockba스니커즈_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_MockbaSneakers</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_MockbaSneakers</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2c_hikingboots_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_HikingBoots</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_HikingBoots</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2c_winterboots_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_WinterBoots</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_WinterBoots</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2c_tacticalboots_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_TacticalBoots</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_TacticalBoots</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)2c_ridingboots_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_RidingBoots</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_RidingBoots</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)3_후디_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Hoodie</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Hoodie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)3_트렌치코트_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_TrenchCoat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_TrenchCoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)3_아디다스재킷_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_AdidasJacket</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_AdidasJacket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(주르니치아)3_파카_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Parka</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Parka</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia) 3_고르카파카_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GorkaParka</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GorkaParka</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(쥬르니지아)3_camoparka_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoParka</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoParka</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(쥬르니치아)3_푸퍼조끼_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_PufferVest</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_PufferVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)3_furcoat_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_FurCoat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_FurCoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)4_6b2bodyarmor_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_6B2BodyArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_6B2BodyArmor</li>
+						<li>Anneli_Jurnizia_6B2BodyArmor_Olive</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)4_camo6b2bodyarmor_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Camo6B2BodyArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Camo6B2BodyArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)4_6b3bodyarmor_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_6B3BodyArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_6B3BodyArmor</li>
+						<li>Anneli_Jurnizia_6B3BodyArmor_Olive</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)4_camo6b3bodyarmor_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Camo6B3BodyArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Camo6B3BodyArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)4_6b13bodyarmor_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_6B13BodyArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_6B13BodyArmor</li>
+						<li>Anneli_Jurnizia_6B13BodyArmor_Olive</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)4_camo6b13bodyarmor_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Camo6B13BodyArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Camo6B13BodyArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)5a_lifchik_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Lifchik</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Lifchik</li>
+						<li>Anneli_Jurnizia_Lifchik_Olive</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)5a_camolifchik_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoLifchik</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoLifchik</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)5a_tacticalbelt_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_TacticalBelt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_TacticalBelt</li>
+						<li>Anneli_Jurnizia_TacticalBelt_Olive</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)5a_camotacticalbelt_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoTacticalBelt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoTacticalBelt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)5a_bandolier_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Bandolier</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Bandolier</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(조르니치아)5a_ghilliesuit_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GhillieSuit</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GhillieSuit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jernizia)5b_니패드_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_KneePads</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_KneePads</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)5b_kneepads_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_KneePads_Green</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_KneePads_Green</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_peakcap_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_PeakCap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_PeakCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_shlemofon_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Shlemofon</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Shlemofon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_beanie_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Beanie</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Beanie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_flatcap_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_FlatCap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_FlatCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_bandana_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Bandana</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Bandana</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_camobandana_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoBandana</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoBandana</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_hood_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Hood</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Hood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_camohood_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoHood</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoHood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_gorkahood_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GorkaHood</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GorkaHood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_ghilliehood_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GhillieHood</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GhillieHood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_patrolcap_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_PatrolCap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_PatrolCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_camopatrolcap_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoPatrolCap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoPatrolCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_ushanka_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Ushanka</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Ushanka</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_shapkaushanka_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_ShapkaUshanka</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_ShapkaUshanka</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_ssh68helmet_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_SSH68Helmet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_SSH68Helmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_camossh68helmet_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoSSH68Helmet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoSSH68Helmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_maskahelmet_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_MASKAHelmet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_MASKAHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6a_camomaskahelmet_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoMASKAHelmet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoMASKAHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6abc_maskaslit_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_MASKASlit</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_MASKASlit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6abc_maskavisor_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_MASKAVisor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_MASKAVisor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6b_goggles_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Goggles</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Goggles</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6b_sunglasses_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Sunglasses</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Sunglasses</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6b_eyepatcha_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_EyePatchA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_EyePatchA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6b_eyepatchb_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_EyePatchB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_EyePatchB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6bc_gp5gasmaska_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GP5GasMaskA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GP5GasMaskA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6bc_gp5gasmaskb_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_GP5GasMaskB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_GP5GasMaskB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6bc_pmk1gasmaska_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_PMK1GasMaskA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_PMK1GasMaskA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6bc_pmk1gasmaskb_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_PMK1GasMaskB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_PMK1GasMaskB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6c_balaclava_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Balaclava</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Balaclava</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6c_camomask_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoMask</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)6c_cigar_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Cigar</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Cigar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)7_ataka_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_ATAKA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_ATAKA</li>
+						<li>Anneli_Jurnizia_ATAKA_Olive</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)7_camoataka_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoATAKA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoATAKA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)7_backpack_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Backpack</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Backpack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)7_sack_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Sack</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Sack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)8a_guitar_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Guitar</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Guitar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)8a_accordion_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Accordion</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Accordion</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)8b_laserdesignator_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_LaserDesignator</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_LaserDesignator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)8c_bzt75shield_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_BZT75Shield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_BZT75Shield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)8c_camobzt75shield_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoBZT75Shield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoBZT75Shield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)8c_vantvmshield_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_VantVMShield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_VantVMShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(jurnizia)8c_camovantvmshield_item</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_CamoVantVMShield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_CamoVantVMShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>anneli jurnizia workbench_building</thingKey>
+					<mainThingDefName>Anneli_Jurnizia_Workbench</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Jurnizia_Workbench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1a_curtaina_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CurtainA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CurtainA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1a_curtainb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CurtainB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CurtainB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1a_curtainc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CurtainC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CurtainC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1ab_bodysuita_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_BodySuitA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_BodySuitA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1ab_bodysuitb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_BodySuitB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_BodySuitB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1ab_bodysuitc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_BodySuitC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_BodySuitC</li>
+						<li>Anneli_YoRHa_BodySuitC_White</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1ab_lingeriea_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LingerieA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LingerieA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1ab_lingerieb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LingerieB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LingerieB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1abc_zantai_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Zantai</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Zantai</li>
+						<li>Anneli_YoRHa_Zantai_White</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1b_underwear_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Underwear</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Underwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1b_thong_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Thong</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Thong</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1b_hipster_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Hipster</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Hipster</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1c_bandage_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Bandage</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Bandage</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1c_socks_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Socks</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Socks</li>
+						<li>Anneli_YoRHa_Socks_White</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1c_tighta_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_TightA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_TightA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1c_tightb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_TightB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_TightB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1c_stockingsa_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_StockingsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_StockingsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)1c_stockingsb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_StockingsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_StockingsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2a_topa_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_TopA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_TopA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2a_topb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_TopB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_TopB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2a_topc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_TopC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_TopC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2a_topd_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_TopD</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_TopD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2a_halfrobea_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_HalfRobeA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_HalfRobeA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2a_halfrobeb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_HalfRobeB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_HalfRobeB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2ab_dressa_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_DressA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_DressA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2ab_dressb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_DressB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_DressB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2ab_dressc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_DressC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_DressC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2ab_dressd_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_DressD</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_DressD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2ab_longdressa_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LongDressA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LongDressA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2ab_longdressb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LongDressB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LongDressB</li>
+						<li>Anneli_YoRHa_LongDressB_White</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2ab_longdressc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LongDressC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LongDressC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2ab_combatsuit_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CombatSuit</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CombatSuit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2b_pants_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Pants</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Pants</li>
+						<li>Anneli_YoRHa_Pants_White</li>
+						<li>Anneli_YoRHa_Pants_Red</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2b_shorts_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Shorts</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Shorts</li>
+						<li>Anneli_YoRHa_Shorts_Red</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2b_skirta_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_SkirtA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_SkirtA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2b_skirtb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_SkirtB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_SkirtB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2b_miniskirt_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Miniskirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Miniskirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_heelsa_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_HeelsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_HeelsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_heelsb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_HeelsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_HeelsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_heelsc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_HeelsC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_HeelsC</li>
+						<li>Anneli_YoRHa_HeelsC_White</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_dressshoes_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_DressShoes</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_DressShoes</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_longbootsa_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LongBootsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LongBootsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_longbootsb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LongBootsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LongBootsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_longbootsc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LongBootsC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LongBootsC</li>
+						<li>Anneli_YoRHa_LongBootsC_White</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_bootsa_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_BootsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_BootsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_bootsb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_BootsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_BootsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_destroyerboots_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_DestroyerBoots</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_DestroyerBoots</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)2c_sollerets_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Sollerets</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Sollerets</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)3_destroyercoat_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_DestroyerCoat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_DestroyerCoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)3_blazera_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_BlazerA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_BlazerA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)3_blazerb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_BlazerB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_BlazerB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)3_vest_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Vest</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Vest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)3_trenchcoat_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_TrenchCoat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_TrenchCoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)3_coata_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CoatA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CoatA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)3_coatb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CoatB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CoatB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)3_coatc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CoatC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CoatC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)34_heavyarmor_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_HeavyArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_HeavyArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)4_destroyerarmor_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_DestroyerArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_DestroyerArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)4_armorvest_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_ArmorVest</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_ArmorVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)5a_cloaka_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CloakA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CloakA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)5a_cloakb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_CloakB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_CloakB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)5b_kneeplates_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_KneePlates</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_KneePlates</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_flatcap_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_FlatCap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_FlatCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_beret_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Beret</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Beret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_sidecap_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_SideCap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_SideCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_hood_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Hood</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Hood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_ribbonedhat_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_RibbonedHat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_RibbonedHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_ribbonhairband_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_RibbonHairband</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_RibbonHairband</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_headband_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Headband</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Headband</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_hairband_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Hairband</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Hairband</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_floweraccessory_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_FlowerAccessory</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_FlowerAccessory</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_headwear_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Headwear</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Headwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6a_conicalhat_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_ConicalHat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_ConicalHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6abc_heavyhelmeta_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_HeavyHelmetA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_HeavyHelmetA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6abc_heavyhelmetb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_HeavyHelmetB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_HeavyHelmetB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6b_eyemaska_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_EyeMaskA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_EyeMaskA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6b_eyemaskb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_EyeMaskB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_EyeMaskB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6b_eyemaskc_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_EyeMaskC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_EyeMaskC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6b_flower_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Flower</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Flower</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6b_squreglasses_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_SqureGlasses</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_SqureGlasses</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6bc_latexmask_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_LatexMask</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_LatexMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6c_maska_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_MaskA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_MaskA</li>
+						<li>Anneli_YoRHa_MaskA_White</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6c_maskb_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_MaskB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_MaskB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)6c_veil_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Veil</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Veil</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)7_bag_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Bag</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Bag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)7_oxidanttank_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_OxidantTank</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_OxidantTank</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)8a_musicbox_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_MusicBox</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_MusicBox</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)8a_weaponset_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_WeaponSet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_WeaponSet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)8b_pod_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_POD</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_POD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)8b_grimore_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Grimore</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Grimore</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(yorha)8b_machine_item</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Machine</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Machine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>anneli yorha bench_building</thingKey>
+					<mainThingDefName>Anneli_YoRHa_Workbench</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_YoRHa_Workbench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>anneli ahmislan bench_building</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Workbench</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Workbench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1a_chestwrap_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ChestWrap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ChestWrap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1a_straplessbra_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_StraplessBra</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_StraplessBra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1ab_bodysuit_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_BodySuit</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_BodySuit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1ab_lingerie_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Lingerie</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Lingerie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1abc_bodystockings_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Bodystockings</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Bodystockings</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1b_underwear_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Underwear</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Underwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1b_laceunderwear_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_LaceUnderwear</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_LaceUnderwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1c_socks_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Socks</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Socks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1c_stockings_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Stockings</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Stockings</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1c_ruffledstockings_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_RuffledStockings</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_RuffledStockings</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1c_leggarter_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_LegGarter</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_LegGarter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)1c_toelesssocks_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ToelessSocks</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ToelessSocks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2a_bodicea_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_BodiceA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_BodiceA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2a_bodiceb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_BodiceB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_BodiceB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2a_shirta_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ShirtA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ShirtA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2a_shirtb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ShirtB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ShirtB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_chemise_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Chemise</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Chemise</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_squireuniforma_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_SquireUniformA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_SquireUniformA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_squireuniformb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_SquireUniformB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_SquireUniformB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_dressa_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_DressA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_DressA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_dressb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_DressB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_DressB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_dressc_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_DressC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_DressC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_longdressa_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_LongDressA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_LongDressA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_longdressb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_LongDressB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_LongDressB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_maiddressa_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_MaidDressA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_MaidDressA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_maiddressb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_MaidDressB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_MaidDressB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_nunattirea_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_NunAttireA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_NunAttireA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2ab_nunattireb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_NunAttireB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_NunAttireB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2b_skirta_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_SkirtA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_SkirtA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2b_skirtb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_SkirtB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_SkirtB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2b_pants_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Pants</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Pants</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2b_shorts_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Shorts</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Shorts</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_moccasins_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Moccasins</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Moccasins</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_boots_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Boots</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Boots</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_heels_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Heels</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Heels</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_maryjane_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_MaryJane</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_MaryJane</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_longbootsa_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_LongBootsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_LongBootsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_longbootsb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_LongBootsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_LongBootsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_ridingboots_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_RidingBoots</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_RidingBoots</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_solleretsa_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_SolleretsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_SolleretsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_solleretsb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_SolleretsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_SolleretsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_longsolleretsa_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_LongSolleretsA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_LongSolleretsA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)2c_longsolleretsb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_LongSolleretsB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_LongSolleretsB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)3_apron_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Apron</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Apron</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)3_blacksmithapron_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_BlacksmithApron</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_BlacksmithApron</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)3_jacket_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Jacket</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Jacket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)3_overdress_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Overdress</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Overdress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)3_ruffledvest_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_RuffledVest</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_RuffledVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)3_shortapron_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ShortApron</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ShortApron</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)3_tunic_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Tunic</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Tunic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)3_vest_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Vest</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Vest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)34_armora_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ArmorA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ArmorA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)34_armorb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ArmorB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ArmorB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)34_armorc_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ArmorC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ArmorC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)34_armord_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ArmorD</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ArmorD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)4_brigandine_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Brigandine</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Brigandine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)4_corseta_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CorsetA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CorsetA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)4_corsetb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CorsetB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CorsetB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)4_corsetc_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CorsetC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CorsetC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)4_corsetd_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CorsetD</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CorsetD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)5a_cloaka_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CloakA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CloakA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)5a_cloakb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CloakB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CloakB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)5a_bustlea_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_BustleA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_BustleA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)5a_bustleb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_BustleB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_BustleB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)5a_shoulderwrap_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_ShoulderWrap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_ShoulderWrap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)5b_puttee_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Puttee</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Puttee</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)5b_kneeplatesa_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_KneePlatesA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_KneePlatesA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)5b_kneeplatesb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_KneePlatesB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_KneePlatesB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_beret_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Beret</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Beret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_bonnet_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Bonnet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Bonnet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_coif_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Coif</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Coif</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_flowercrown_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_FlowerCrown</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_FlowerCrown</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_hairbanda_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_HairbandA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_HairbandA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_hairbandb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_HairbandB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_HairbandB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_hunterhat_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_HunterHat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_HunterHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_mantilla_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Mantilla</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Mantilla</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_nunveil_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_NunVeil</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_NunVeil</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_strawhat_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_StrawHat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_StrawHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_bascinet_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Bascinet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Bascinet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_crowna_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CrownA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CrownA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_crownb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CrownB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CrownB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_crownc_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CrownC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CrownC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_helma_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_HelmA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_HelmA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_helmb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_HelmB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_HelmB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_helmc_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_HelmC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_HelmC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6a_kettlehelm_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_KettleHelm</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_KettleHelm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6abc_closehelma_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CloseHelmA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CloseHelmA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6abc_closehelmb_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CloseHelmB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CloseHelmB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6abc_closehelmc_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CloseHelmC</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CloseHelmC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6bc_masquerademask_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_MasqueradeMask</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_MasqueradeMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6bc_noseguard_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_NoseGuard</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_NoseGuard</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6c_mask_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Mask</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Mask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)6c_veil_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Veil</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Veil</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)7_backpack_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Backpack</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Backpack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)7_bascket_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Bascket</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Bascket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)7_sack_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Sack</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Sack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)8a_banner_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_Banner</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_Banner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)8a_warflag_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_WarFlag</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_WarFlag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)8b_crystalwing_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_CrystalWing</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_CrystalWing</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)8b_swordwing_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_SwordWing</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_SwordWing</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)8c_heatershield_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_HeaterShield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_HeaterShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)8c_kiteshield_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_KiteShield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_KiteShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(ahmislan)8c_woodenshield_item</thingKey>
+					<mainThingDefName>Anneli_Ahmislan_WoodenShield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Ahmislan_WoodenShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1a_bra_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Bra</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Bra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1a_catbra_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CatBra</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CatBra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1a_halterneckbra_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_HalterNeckBra</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_HalterNeckBra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1a_chestwrap_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ChestWrap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ChestWrap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1ab_schoolswimsuit_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SchoolSwimsuit</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SchoolSwimsuit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1ab_cowprintswimsuit_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CowPrintSwimsuit</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CowPrintSwimsuit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1b_catunderwear_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CatUnderwear</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CatUnderwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1b_cheeky_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Cheeky</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Cheeky</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1b_classic_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Classic</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Classic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1b_loincloth_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Loincloth</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Loincloth</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1c_loosesocks_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_LooseSocks</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_LooseSocks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1c_pantyhose_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Pantyhose</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Pantyhose</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1c_socks_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Socks</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Socks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1c_stockings_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Stockings</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Stockings</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1c_soccersocks_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SoccerSocks</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SoccerSocks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1c_tabi_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Tabi</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Tabi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)1c_cowprintstockings_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CowPrintStockings</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CowPrintStockings</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_sailorsuita_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SailorSuitA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SailorSuitA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_sailorsuitb_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SailorSuitB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SailorSuitB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_sailorcroptopa_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SailorCropTopA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SailorCropTopA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_sailorcroptopb_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SailorCropTopB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SailorCropTopB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_shirtbowtie_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ShirtBowTie</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ShirtBowTie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_shirtnecktie_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ShirtNecktie</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ShirtNecktie</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_shirtopen_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ShirtOpen</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ShirtOpen</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_kendotop_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_KendoTop</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_KendoTop</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_cheercroptop_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CheerCropTop</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CheerCropTop</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2a_gymshirt_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_GymShirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_GymShirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2b_miniskirt_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Miniskirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Miniskirt</li>
+						<li>Anneli_Gakuen_Miniskirt_Red</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2b_skirt_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Skirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Skirt</li>
+						<li>Anneli_Gakuen_Skirt_Blue</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2b_plaidskirt_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_PlaidSkirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_PlaidSkirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2b_plaidminiskirt_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_PlaidMiniskirt</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_PlaidMiniskirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2b_kendohakama_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_KendoHakama</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_KendoHakama</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2b_cheerdress_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CheerDress</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CheerDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2b_gymshorts_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_GymShorts</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_GymShorts</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2b_dresspants_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_DressPants</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_DressPants</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2c_boots_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Boots</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Boots</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2c_leathershoes_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_LeatherShoes</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_LeatherShoes</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2c_tennisshoes_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_TennisShoes</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_TennisShoes</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2c_sneakers_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Sneakers</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Sneakers</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2c_geta_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Geta</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Geta</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2c_uwabaki_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Uwabaki</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Uwabaki</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)2c_slippers_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Slippers</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Slippers</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)3_blazer_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Blazer</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Blazer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)3_sweatervest_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SweaterVest</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SweaterVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)3_apron_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Apron</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Apron</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)3_coat_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Coat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Coat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)3_gakurancoat_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_GakuranCoat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_GakuranCoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)3_tiedaroundwaist_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_TiedAroundWaist</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_TiedAroundWaist</li>
+						<li>Anneli_Gakuen_TiedAroundWaist_Red</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)3_trackjacket_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_TrackJacket</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_TrackJacket</li>
+						<li>Anneli_Gakuen_TrackJacket_Red</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)34_kendoarmor_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_KendoArmor</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_KendoArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)4_armorvest_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ArmorVest</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ArmorVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)4_camoarmorvest_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CamoArmorVest</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CamoArmorVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)4_armorbikini_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ArmorBikini</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ArmorBikini</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)4_camoarmorbikini_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CamoArmorBikini</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CamoArmorBikini</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)4_chestguard_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Chestguard</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Chestguard</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)5a_chestrig_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ChestRig</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ChestRig</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)5a_camochestrig_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CamoChestRig</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CamoChestRig</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)5a_scarf_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Scarf</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Scarf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)5a_plaidscarf_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_PlaidScarf</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_PlaidScarf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)5a_coatascloak_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CoatAsCloak</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CoatAsCloak</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)5b_legrig_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_LegRig</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_LegRig</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)5b_camolegrig_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CamoLegRig</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CamoLegRig</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_beret_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Beret</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Beret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_sunhat_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SunHat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SunHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_headband_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Headband</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Headband</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_militaryhat_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_MilitaryHat</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_MilitaryHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_baseballcap_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_BaseballCap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_BaseballCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_visorcap_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_VisorCap</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_VisorCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_bikehelmet_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_BikeHelmet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_BikeHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_tacticalheadset_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_TacticalHeadset</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_TacticalHeadset</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_camotacticalheadset_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CamoTacticalHeadset</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CamoTacticalHeadset</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_catheadset_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_CatHeadset</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_CatHeadset</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_hachimaki_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Hachimaki</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Hachimaki</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_hachimakikanji_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_HachimakiKanji</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_HachimakiKanji</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6a_chiikawaaccessories_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ChiikawaAccessories</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ChiikawaAccessories</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6abc_kendohelmet_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_KendoHelmet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_KendoHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6abc_motorhelmet_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_MotorHelmet</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_MotorHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6abc_paperbag_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_PaperBag</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_PaperBag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6b_eyepatcha_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_EyePatchA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_EyePatchA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6b_eyepatchb_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_EyePatchB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_EyePatchB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6b_roundglasses_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_RoundGlasses</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_RoundGlasses</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6b_squreglasses_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SqureGlasses</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SqureGlasses</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6b_invisibleglasses_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_InvisibleGlasses</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_InvisibleGlasses</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6bc_gasmask_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_GasMask</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_GasMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6c_woolmask_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_WoolMask</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_WoolMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6c_medicalmask_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_MedicalMask</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_MedicalMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)6c_toast_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Toast</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Toast</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)7_schoolbag_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_SchoolBag</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_SchoolBag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)7_shoulderbag_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_ShoulderBag</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_ShoulderBag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)8a_walkwoman_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_WALKWOMAN</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_WALKWOMAN</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)8a_flute_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Flute</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Flute</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)8a_katanaa_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_KatanaA</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_KatanaA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)8a_katanab_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_KatanaB</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_KatanaB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)8c_ballisticshield_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_BallisticShield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_BallisticShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(gakuen)8c_riotshield_item</thingKey>
+					<mainThingDefName>Anneli_Gakuen_RiotShield</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_RiotShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>anneli gakuen bench_building</thingKey>
+					<mainThingDefName>Anneli_Gakuen_Workbench</mainThingDefName>
+					<thingDefs>
+						<li>Anneli_Gakuen_Workbench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>전기 석재 절삭대_building</thingKey>
+					<mainThingDefName>TableStonecutterElectric</mainThingDefName>
+					<thingDefs>
+						<li>TableStonecutterElectric</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>메드포드 lux_building</thingKey>
+					<mainThingDefName>MedPodLux</mainThingDefName>
+					<thingDefs>
+						<li>MedPodLux</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>메드포드_building</thingKey>
+					<mainThingDefName>MedPodStandard</mainThingDefName>
+					<thingDefs>
+						<li>MedPodStandard</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>벳포드_building</thingKey>
+					<mainThingDefName>MedPodAnimal</mainThingDefName>
+					<thingDefs>
+						<li>MedPodAnimal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>대형 벳포드_building</thingKey>
+					<mainThingDefName>MedPodAnimalMedium</mainThingDefName>
+					<thingDefs>
+						<li>MedPodAnimalMedium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>초대형 벳포드_building</thingKey>
+					<mainThingDefName>MedPodAnimalBig</mainThingDefName>
+					<thingDefs>
+						<li>MedPodAnimalBig</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>등선형 처리 장치_item</thingKey>
+					<mainThingDefName>IsolinearProcessor</mainThingDefName>
+					<thingDefs>
+						<li>IsolinearProcessor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>いにしえのタイル_terrain</thingKey>
+					<mainThingDefName>AncientGoldTile</mainThingDefName>
+					<thingDefs>
+						<li>AncientGoldTile</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>装飾用頭蓋骨_building</thingKey>
+					<mainThingDefName>DMRW_PatternSkull</mainThingDefName>
+					<thingDefs>
+						<li>DMRW_PatternSkull</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーリーマインド_item</thingKey>
+					<mainThingDefName>DMRW_AllyMindCore</mainThingDefName>
+					<thingDefs>
+						<li>DMRW_AllyMindCore</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>古代の歯車_item</thingKey>
+					<mainThingDefName>DMRW_AncientGear</mainThingDefName>
+					<thingDefs>
+						<li>DMRW_AncientGear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>サイバー・ドラゴン・コア_item</thingKey>
+					<mainThingDefName>DMRW_CyberDragonCore</mainThingDefName>
+					<thingDefs>
+						<li>DMRW_CyberDragonCore</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ハングリーバーガー_item</thingKey>
+					<mainThingDefName>HungryBurger</mainThingDefName>
+					<thingDefs>
+						<li>HungryBurger</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ブルーアイズマウンテン_item</thingKey>
+					<mainThingDefName>BlueEyesMountain</mainThingDefName>
+					<thingDefs>
+						<li>BlueEyesMountain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>千年眼スープ_item</thingKey>
+					<mainThingDefName>MillenniumEyeSoup</mainThingDefName>
+					<thingDefs>
+						<li>MillenniumEyeSoup</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>非常食_item</thingKey>
+					<mainThingDefName>MealEmergencyProvisions</mainThingDefName>
+					<thingDefs>
+						<li>MealEmergencyProvisions</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ハンバーガーの具材_item</thingKey>
+					<mainThingDefName>MealHungryIngredients</mainThingDefName>
+					<thingDefs>
+						<li>MealHungryIngredients</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ガスタガルドの卵(無精卵)_item</thingKey>
+					<mainThingDefName>EggGustoGulldoUnfertilized</mainThingDefName>
+					<thingDefs>
+						<li>EggGustoGulldoUnfertilized</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ガスタガルドの卵(有精卵)_item</thingKey>
+					<mainThingDefName>EggGustoGulldoFertilized</mainThingDefName>
+					<thingDefs>
+						<li>EggGustoGulldoFertilized</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>伝説の黒石_item</thingKey>
+					<mainThingDefName>The_BlackStone_of_Legend</mainThingDefName>
+					<thingDefs>
+						<li>The_BlackStone_of_Legend</li>
+						<li>The_BlackStone_of_Malefic</li>
+						<li>The_BlackStone_of_Wyvern</li>
+						<li>The_BlackStone_of_Toon</li>
+						<li>The_BlackStone_of_Darkness</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>トマト_item</thingKey>
+					<mainThingDefName>DMRW_RawTomatos</mainThingDefName>
+					<thingDefs>
+						<li>DMRW_RawTomatos</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>謎肉_item</thingKey>
+					<mainThingDefName>DMRW_Nazoniku</mainThingDefName>
+					<thingDefs>
+						<li>DMRW_Nazoniku</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ジェム_item</thingKey>
+					<mainThingDefName>DMRW_Gem</mainThingDefName>
+					<thingDefs>
+						<li>DMRW_Gem</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ドラゴン族の革_item</thingKey>
+					<mainThingDefName>Leather_DMRW_Dragons</mainThingDefName>
+					<thingDefs>
+						<li>Leather_DMRW_Dragons</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>見習い魔導師のローブ_item</thingKey>
+					<mainThingDefName>Apparel_MagicianGirlRobe</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_MagicianGirlRobe</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>セラドレス_item</thingKey>
+					<mainThingDefName>Apparel_SeraDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_SeraDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>バニー服_item</thingKey>
+					<mainThingDefName>Apparel_DMRW_AngelBunny</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_DMRW_AngelBunny</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>フレシアドレス_item</thingKey>
+					<mainThingDefName>Apparel_RafflesiaDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_RafflesiaDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>セクレタリースーツ_item</thingKey>
+					<mainThingDefName>Apparel_SecretaryDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_SecretaryDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アトラドレス_item</thingKey>
+					<mainThingDefName>Apparel_AtraxDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_AtraxDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>カズーラドレス_item</thingKey>
+					<mainThingDefName>Apparel_NepenthesDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_NepenthesDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ティオドレス_item</thingKey>
+					<mainThingDefName>Apparel_DionaeaDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_DionaeaDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>トリオンドレス_item</thingKey>
+					<mainThingDefName>Apparel_MyrmeleoDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_MyrmeleoDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ランカドレス_item</thingKey>
+					<mainThingDefName>Apparel_MantisDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_MantisDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>キノドレス_item</thingKey>
+					<mainThingDefName>Apparel_ArachnocampaDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_ArachnocampaDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>フェリジットドレス_item</thingKey>
+					<mainThingDefName>Apparel_FerrijitDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_FerrijitDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>キットの作業着_item</thingKey>
+					<mainThingDefName>Apparel_KittDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KittDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>見習い魔導師の帽子_item</thingKey>
+					<mainThingDefName>Apparel_MagicianGirlHat</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_MagicianGirlHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ウサミミカウンター_item</thingKey>
+					<mainThingDefName>Apparel_DMRW_BunnyEar</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_DMRW_BunnyEar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>i:p猫型バイザー_item</thingKey>
+					<mainThingDefName>Apparel_IP_CatVisor</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_IP_CatVisor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>鉄獣戦線のゴーグル_item</thingKey>
+					<mainThingDefName>Apparel_TriBrigadeGoggles</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_TriBrigadeGoggles</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ガガガガールの帽子_item</thingKey>
+					<mainThingDefName>Apparel_GagagaGirlHat</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_GagagaGirlHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>蕾禍ノ姫笠_item</thingKey>
+					<mainThingDefName>Apparel_MinoisDryasGasa</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_MinoisDryasGasa</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>蟲惑魔ブラa_item</thingKey>
+					<mainThingDefName>Apparel_TraptrixBra_A</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_TraptrixBra_A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>蟲惑魔ブラb_item</thingKey>
+					<mainThingDefName>Apparel_TraptrixBra_B</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_TraptrixBra_B</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>マーメイドの貝殻_item</thingKey>
+					<mainThingDefName>Apparel_ArcheryGirlShell</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_ArcheryGirlShell</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>蟲惑魔スパッツ_item</thingKey>
+					<mainThingDefName>Apparel_TraptrixUnder</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_TraptrixUnder</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>女性用下着_item</thingKey>
+					<mainThingDefName>Apparel_DMRW_Shorts</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_DMRW_Shorts</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ホログラムボディスーツl_item</thingKey>
+					<mainThingDefName>Apparel_EvilHologramSuitA</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_EvilHologramSuitA</li>
+						<li>Apparel_EvilHologramSuitB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－デスサイズ_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Scythelink</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Scythelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－ロンギヌス_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Lancealink</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Lancealink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－ミョルニル_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Mjollnirlink</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Mjollnirlink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－アイギス_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Aegis</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Aegis</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－アキレウス_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Achilleshield</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Achilleshield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－ベガルタ_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Beagalltachlink</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Beagalltachlink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－モラルタ_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Moralltachlink</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Moralltachlink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－カドケウス_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Caduceuslink</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Caduceuslink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－ラブリュス_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Labryslink</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Labryslink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－ヴァジュラ_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Vajralink</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Vajralink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ラヴァル・マチェット_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_LavalMachete</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_LavalMachete</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>カタストルの影霊衣_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_NekrozCatastor</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_NekrozCatastor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>草薙剣_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_Sword_of_Kusanagi</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_Sword_of_Kusanagi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>御巫の鉄扇_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_IronFan</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_IronFan</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ゼクトブレード_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_ZektBlade</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_ZektBlade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ゼクトガントレット_item</thingKey>
+					<mainThingDefName>MeleeWeapon_DMRW_ZektGauntlet</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_DMRW_ZektGauntlet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アクアマリンの盾_item</thingKey>
+					<mainThingDefName>MeleeWeapon_GemBuckler</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_GemBuckler</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ルビーの槍_item</thingKey>
+					<mainThingDefName>MeleeWeapon_GemGlaive</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_GemGlaive</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>マスターソード_item</thingKey>
+					<mainThingDefName>MeleeWeapon_GemMasterSword</mainThingDefName>
+					<thingDefs>
+						<li>MeleeWeapon_GemMasterSword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－チャクラム_item</thingKey>
+					<mainThingDefName>RangedWeapon_DMRW_Chakram</mainThingDefName>
+					<thingDefs>
+						<li>RangedWeapon_DMRW_Chakram</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アーティファクト－フェイルノート_item</thingKey>
+					<mainThingDefName>RangedWeapon_DMRW_Failnaught</mainThingDefName>
+					<thingDefs>
+						<li>RangedWeapon_DMRW_Failnaught</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>魔鍵－マフテア_item</thingKey>
+					<mainThingDefName>DMRW_Magikey</mainThingDefName>
+					<thingDefs>
+						<li>DMRW_Magikey</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>鉄獣の狙撃銃_item</thingKey>
+					<mainThingDefName>Gun_DMRW_SniperRifle</mainThingDefName>
+					<thingDefs>
+						<li>Gun_DMRW_SniperRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>御巫の鉄扇(射)_item</thingKey>
+					<mainThingDefName>Gun_IronFanMagatama</mainThingDefName>
+					<thingDefs>
+						<li>Gun_IronFanMagatama</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>マジシャンズステッキ_item</thingKey>
+					<mainThingDefName>Gun_DMRW_Magicians_Cane</mainThingDefName>
+					<thingDefs>
+						<li>Gun_DMRW_Magicians_Cane</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ラヴァルの投擲槍_item</thingKey>
+					<mainThingDefName>LavalLanceRod</mainThingDefName>
+					<thingDefs>
+						<li>LavalLanceRod</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>トマト_plant</thingKey>
+					<mainThingDefName>Plant_DMRW_Tomato</mainThingDefName>
+					<thingDefs>
+						<li>Plant_DMRW_Tomato</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>古代の歯車_pawn</thingKey>
+					<mainThingDefName>Mech_AncientGear</mainThingDefName>
+					<thingDefs>
+						<li>Mech_AncientGear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>古代の機械巨人_pawn</thingKey>
+					<mainThingDefName>Mech_AncientGearGolem</mainThingDefName>
+					<thingDefs>
+						<li>Mech_AncientGearGolem</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>古代の機械猟犬_pawn</thingKey>
+					<mainThingDefName>Mech_AncientGearHuntingHound</mainThingDefName>
+					<thingDefs>
+						<li>Mech_AncientGearHuntingHound</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>a・o・jカタストル_pawn</thingKey>
+					<mainThingDefName>Mech_Catastor</mainThingDefName>
+					<thingDefs>
+						<li>Mech_Catastor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>アームドホーン_pawn</thingKey>
+					<mainThingDefName>Armorhorn</mainThingDefName>
+					<thingDefs>
+						<li>Armorhorn</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>シェードブリガンダイン_pawn</thingKey>
+					<mainThingDefName>ShadeBrigandine</mainThingDefName>
+					<thingDefs>
+						<li>ShadeBrigandine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>セファロタスネイル_pawn</thingKey>
+					<mainThingDefName>Cephalotusnail</mainThingDefName>
+					<thingDefs>
+						<li>Cephalotusnail</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>クラブ・タートル_pawn</thingKey>
+					<mainThingDefName>CrabTurtle</mainThingDefName>
+					<thingDefs>
+						<li>CrabTurtle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>サイバー・ドラゴン_pawn</thingKey>
+					<mainThingDefName>Mech_CyberDragon</mainThingDefName>
+					<thingDefs>
+						<li>Mech_CyberDragon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>サイバー・シャドー・ガードナー_pawn</thingKey>
+					<mainThingDefName>Mech_CyberShadowGardna</mainThingDefName>
+					<thingDefs>
+						<li>Mech_CyberShadowGardna</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ダーリング・コブラ_pawn</thingKey>
+					<mainThingDefName>DarlingtoniaCobra</mainThingDefName>
+					<thingDefs>
+						<li>DarlingtoniaCobra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>サンド・ドゥードゥルバグ_pawn</thingKey>
+					<mainThingDefName>Sand_Doodlebug</mainThingDefName>
+					<thingDefs>
+						<li>Sand_Doodlebug</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>フライ・ヘル_pawn</thingKey>
+					<mainThingDefName>PredaplantFlytrap</mainThingDefName>
+					<thingDefs>
+						<li>PredaplantFlytrap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>リングリボー_pawn</thingKey>
+					<mainThingDefName>Linguriboh</mainThingDefName>
+					<thingDefs>
+						<li>Linguriboh</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>リンクリボー_pawn</thingKey>
+					<mainThingDefName>Linkuriboh</mainThingDefName>
+					<thingDefs>
+						<li>Linkuriboh</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sin 真紅眼の黒竜_pawn</thingKey>
+					<mainThingDefName>MaleficRedEyes</mainThingDefName>
+					<thingDefs>
+						<li>MaleficRedEyes</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>キラー・トマト_pawn</thingKey>
+					<mainThingDefName>MysticTomato</mainThingDefName>
+					<thingDefs>
+						<li>MysticTomato</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ウィード_pawn</thingKey>
+					<mainThingDefName>Nettles</mainThingDefName>
+					<thingDefs>
+						<li>Nettles</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>オフリス・スコーピオ_pawn</thingKey>
+					<mainThingDefName>OphrysScorpio</mainThingDefName>
+					<thingDefs>
+						<li>OphrysScorpio</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>真紅眼の黒竜_pawn</thingKey>
+					<mainThingDefName>RedEyesBlackDragon</mainThingDefName>
+					<thingDefs>
+						<li>RedEyesBlackDragon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>真紅眼の闇竜_pawn</thingKey>
+					<mainThingDefName>RedEyesDarkness</mainThingDefName>
+					<thingDefs>
+						<li>RedEyesDarkness</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>真紅眼の画竜_pawn</thingKey>
+					<mainThingDefName>RedEyesToonDragon</mainThingDefName>
+					<thingDefs>
+						<li>RedEyesToonDragon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>真紅眼の飛竜_pawn</thingKey>
+					<mainThingDefName>RedEyesWyvern</mainThingDefName>
+					<thingDefs>
+						<li>RedEyesWyvern</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>黒光りするg_pawn</thingKey>
+					<mainThingDefName>ShinyBlack_C</mainThingDefName>
+					<thingDefs>
+						<li>ShinyBlack_C</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ガスタガルド_pawn</thingKey>
+					<mainThingDefName>GustoGulldo</mainThingDefName>
+					<thingDefs>
+						<li>GustoGulldo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ワーム・アポカリプス_pawn</thingKey>
+					<mainThingDefName>WormApocalypse</mainThingDefName>
+					<thingDefs>
+						<li>WormApocalypse</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ワーム・グルス_pawn</thingKey>
+					<mainThingDefName>WormGulse</mainThingDefName>
+					<thingDefs>
+						<li>WormGulse</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ワーム・ホープ_pawn</thingKey>
+					<mainThingDefName>WormHope</mainThingDefName>
+					<thingDefs>
+						<li>WormHope</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ワーム・ジェートリクプス_pawn</thingKey>
+					<mainThingDefName>WormJetelikpse</mainThingDefName>
+					<thingDefs>
+						<li>WormJetelikpse</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ワーム・ソリッド_pawn</thingKey>
+					<mainThingDefName>WormSolid</mainThingDefName>
+					<thingDefs>
+						<li>WormSolid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ワーム・ゼクス_pawn</thingKey>
+					<mainThingDefName>WormXex</mainThingDefName>
+					<thingDefs>
+						<li>WormXex</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ワーム・ヤガン_pawn</thingKey>
+					<mainThingDefName>WormYagan</mainThingDefName>
+					<thingDefs>
+						<li>WormYagan</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>한칸 냉장고_building</thingKey>
+					<mainThingDefName>RimFridge_SingleRefrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_SingleRefrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>냉장고_building</thingKey>
+					<mainThingDefName>RimFridge_Refrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_Refrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>네칸 냉장고_building</thingKey>
+					<mainThingDefName>RimFridge_QuadRefrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_QuadRefrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>내벽형 한칸 냉장고_building</thingKey>
+					<mainThingDefName>RimFridge_SingleWallRefrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_SingleWallRefrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>내벽형 냉장고_building</thingKey>
+					<mainThingDefName>RimFridge_WallRefrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_WallRefrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pod funnel_building</thingKey>
+					<mainThingDefName>PodFunnel</mainThingDefName>
+					<thingDefs>
+						<li>PodFunnel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>zb26hat_item</thingKey>
+					<mainThingDefName>GF_ZB26hat</mainThingDefName>
+					<thingDefs>
+						<li>GF_ZB26hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dsr-50 모자_item</thingKey>
+					<mainThingDefName>GF_DSR-50hat</mainThingDefName>
+					<thingDefs>
+						<li>GF_DSR-50hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>모신나강 모자_item</thingKey>
+					<mainThingDefName>GF_MosinNaganthat</mainThingDefName>
+					<thingDefs>
+						<li>GF_MosinNaganthat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>루이스 베레모_item</thingKey>
+					<mainThingDefName>GF_Lewis1beret</mainThingDefName>
+					<thingDefs>
+						<li>GF_Lewis1beret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>9a-91 베레모_item</thingKey>
+					<mainThingDefName>GF_9A91beret</mainThingDefName>
+					<thingDefs>
+						<li>GF_9A91beret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tmp 모자_item</thingKey>
+					<mainThingDefName>GF_TMPcollar</mainThingDefName>
+					<thingDefs>
+						<li>GF_TMPcollar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>saiga-12 베레모_item</thingKey>
+					<mainThingDefName>GF_SAIGA12beret</mainThingDefName>
+					<thingDefs>
+						<li>GF_SAIGA12beret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>aa12모자_item</thingKey>
+					<mainThingDefName>GF_AA12hat</mainThingDefName>
+					<thingDefs>
+						<li>GF_AA12hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ff fnc 베레모_item</thingKey>
+					<mainThingDefName>GF_FNCberet</mainThingDefName>
+					<thingDefs>
+						<li>GF_FNCberet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>g36 머리띠_item</thingKey>
+					<mainThingDefName>GF_G36_Aliceband</mainThingDefName>
+					<thingDefs>
+						<li>GF_G36_Aliceband</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>나강 리볼버 모자_item</thingKey>
+					<mainThingDefName>GF_nagantM1895hat</mainThingDefName>
+					<thingDefs>
+						<li>GF_nagantM1895hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>지휘관 베레모_item</thingKey>
+					<mainThingDefName>GF_Shikikanberet</mainThingDefName>
+					<thingDefs>
+						<li>GF_Shikikanberet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>4식 모자_item</thingKey>
+					<mainThingDefName>GF_Type4hat</mainThingDefName>
+					<thingDefs>
+						<li>GF_Type4hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>k3 apparel_item</thingKey>
+					<mainThingDefName>GF_K3A</mainThingDefName>
+					<thingDefs>
+						<li>GF_K3A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m200 apparel_item</thingKey>
+					<mainThingDefName>GF_M200A</mainThingDefName>
+					<thingDefs>
+						<li>GF_M200A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>zb26 apparel_item</thingKey>
+					<mainThingDefName>GF_ZB26A</mainThingDefName>
+					<thingDefs>
+						<li>GF_ZB26A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dsr-50 제복_item</thingKey>
+					<mainThingDefName>GF_DSR-50A</mainThingDefName>
+					<thingDefs>
+						<li>GF_DSR-50A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m14 제복_item</thingKey>
+					<mainThingDefName>GF_M14A</mainThingDefName>
+					<thingDefs>
+						<li>GF_M14A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pkp 제복_item</thingKey>
+					<mainThingDefName>GF_PKP</mainThingDefName>
+					<thingDefs>
+						<li>GF_PKP</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>모신나강 제복_item</thingKey>
+					<mainThingDefName>GF_MosinNagant</mainThingDefName>
+					<thingDefs>
+						<li>GF_MosinNagant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>루이스 제복_item</thingKey>
+					<mainThingDefName>GF_Lewis</mainThingDefName>
+					<thingDefs>
+						<li>GF_Lewis</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>k5 제복_item</thingKey>
+					<mainThingDefName>GF_K5A</mainThingDefName>
+					<thingDefs>
+						<li>GF_K5A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sig mcx 제복_item</thingKey>
+					<mainThingDefName>GF_SIGMCX</mainThingDefName>
+					<thingDefs>
+						<li>GF_SIGMCX</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>웨블리 리볼버 제복_item</thingKey>
+					<mainThingDefName>GF_WebleyRevolver</mainThingDefName>
+					<thingDefs>
+						<li>GF_WebleyRevolver</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>9a91 제복_item</thingKey>
+					<mainThingDefName>GF_9A91A</mainThingDefName>
+					<thingDefs>
+						<li>GF_9A91A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tmp 제복_item</thingKey>
+					<mainThingDefName>GF_TMP</mainThingDefName>
+					<thingDefs>
+						<li>GF_TMP</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spas-12 제복_item</thingKey>
+					<mainThingDefName>GF_Spas12a</mainThingDefName>
+					<thingDefs>
+						<li>GF_Spas12a</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>스프링필드 제복_item</thingKey>
+					<mainThingDefName>GF_Springfield</mainThingDefName>
+					<thingDefs>
+						<li>GF_Springfield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>aek-999 제복_item</thingKey>
+					<mainThingDefName>GF_AEK999a</mainThingDefName>
+					<thingDefs>
+						<li>GF_AEK999a</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m950a 제복_item</thingKey>
+					<mainThingDefName>GF_M950A</mainThingDefName>
+					<thingDefs>
+						<li>GF_M950A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>썬더 제복_item</thingKey>
+					<mainThingDefName>GF_Thunder</mainThingDefName>
+					<thingDefs>
+						<li>GF_Thunder</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>saiga-12 제복_item</thingKey>
+					<mainThingDefName>GF_SAIGA12A</mainThingDefName>
+					<thingDefs>
+						<li>GF_SAIGA12A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>aa-12 제복_item</thingKey>
+					<mainThingDefName>GF_AA12A</mainThingDefName>
+					<thingDefs>
+						<li>GF_AA12A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ff fnc 제복_item</thingKey>
+					<mainThingDefName>GF_FN_FNCA</mainThingDefName>
+					<thingDefs>
+						<li>GF_FN_FNCA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>g36 제복_item</thingKey>
+					<mainThingDefName>GF_G36A</mainThingDefName>
+					<thingDefs>
+						<li>GF_G36A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>g41 제복_item</thingKey>
+					<mainThingDefName>GF_G41A</mainThingDefName>
+					<thingDefs>
+						<li>GF_G41A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>idw 제복_item</thingKey>
+					<mainThingDefName>GF_IDWA</mainThingDefName>
+					<thingDefs>
+						<li>GF_IDWA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>나강 리볼버 제복_item</thingKey>
+					<mainThingDefName>GF_NagantM1895A</mainThingDefName>
+					<thingDefs>
+						<li>GF_NagantM1895A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sat8 제복_item</thingKey>
+					<mainThingDefName>GF_SAT8A</mainThingDefName>
+					<thingDefs>
+						<li>GF_SAT8A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>지휘관 제복_item</thingKey>
+					<mainThingDefName>GF_ShikikanA</mainThingDefName>
+					<thingDefs>
+						<li>GF_ShikikanA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>수오미 제복_item</thingKey>
+					<mainThingDefName>GF_Suomi</mainThingDefName>
+					<thingDefs>
+						<li>GF_Suomi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>4식 제복_item</thingKey>
+					<mainThingDefName>GF_Type4A</mainThingDefName>
+					<thingDefs>
+						<li>GF_Type4A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wa2000 제복_item</thingKey>
+					<mainThingDefName>GF_Wa2000A</mainThingDefName>
+					<thingDefs>
+						<li>GF_Wa2000A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>k2 제복_item</thingKey>
+					<mainThingDefName>GF_K2A</mainThingDefName>
+					<thingDefs>
+						<li>GF_K2A</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sat8 방패_item</thingKey>
+					<mainThingDefName>GF_Sat8_shield</mainThingDefName>
+					<thingDefs>
+						<li>GF_Sat8_shield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>saiga-12 방패_item</thingKey>
+					<mainThingDefName>GF_Saiga12_shield</mainThingDefName>
+					<thingDefs>
+						<li>GF_Saiga12_shield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>aa-12 방패_item</thingKey>
+					<mainThingDefName>GF_AA12_shield</mainThingDefName>
+					<thingDefs>
+						<li>GF_AA12_shield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spas-12 방패_item</thingKey>
+					<mainThingDefName>GF_Spas12_shield</mainThingDefName>
+					<thingDefs>
+						<li>GF_Spas12_shield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>iop 야전 정비 작업대_building</thingKey>
+					<mainThingDefName>GFTable</mainThingDefName>
+					<thingDefs>
+						<li>GFTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>방폭벽_building</thingKey>
+					<mainThingDefName>RogueServitor_BlastWall</mainThingDefName>
+					<thingDefs>
+						<li>RogueServitor_BlastWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>저격총_item</thingKey>
+					<mainThingDefName>Gun_SniperRifle_lilly</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SniperRifle_lilly</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>심층 냉장고_building</thingKey>
+					<mainThingDefName>LWM_DS_RimFridge_Refrigerator</mainThingDefName>
+					<thingDefs>
+						<li>LWM_DS_RimFridge_Refrigerator</li>
 					</thingDefs>
 					<removedDefs />
 				</li>

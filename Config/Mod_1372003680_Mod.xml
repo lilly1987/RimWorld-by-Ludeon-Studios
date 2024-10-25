@@ -10,6 +10,16 @@
 			<li>Tile_SpikecoreIJade</li>
 			<li>Tile_TotemicIJade</li>
 			<li>FineTileIJade</li>
+			<li>HYBridgeSandstone</li>
+			<li>HYBridgeGranite</li>
+			<li>HYBridgeLimestone</li>
+			<li>HYBridgeSlate</li>
+			<li>HYBridgeMarble</li>
+			<li>HYHeavyBridgeSandstone</li>
+			<li>HYHeavyBridgeGranite</li>
+			<li>HYHeavyBridgeLimestone</li>
+			<li>HYHeavyBridgeSlate</li>
+			<li>HYHeavyBridgeMarble</li>
 		</bridgePrefNames>
 	</ModSettings>
 </SettingsBlock>

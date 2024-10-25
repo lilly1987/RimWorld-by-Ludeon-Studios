@@ -750,6 +750,20 @@
     </value>
   </li>
   <li>
+    <key>ToggleHeatMap</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>KeyBinding_DestroyItem</key>
+    <value>
+      <keyBindingA>X</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -795,13 +809,6 @@
     <key>MainTab_kNumbersOverviewTab</key>
     <value>
       <keyBindingA>Z</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>ToggleHeatMap</key>
-    <value>
-      <keyBindingA>Backslash</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>

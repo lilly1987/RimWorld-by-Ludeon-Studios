@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="AlphaPrefabs.AlphaPrefabs_Settings" />
+	<ModSettings Class="AlphaPrefabs.AlphaPrefabs_Settings">
+		<devMode>True</devMode>
+		<noResearchLockingMode>True</noResearchLockingMode>
+		<noModLockingMode>True</noModLockingMode>
+	</ModSettings>
 </SettingsBlock>

@@ -606,6 +606,72 @@
 				<li>Gun_HYAssaultRifle</li>
 				<li>Gun_HYEMP</li>
 				<li>Gun_HYVapor</li>
+				<li>MeleeWeapon_DMRW_Scythelink</li>
+				<li>MeleeWeapon_DMRW_Lancealink</li>
+				<li>MeleeWeapon_DMRW_Mjollnirlink</li>
+				<li>MeleeWeapon_DMRW_Aegis</li>
+				<li>MeleeWeapon_DMRW_Achilleshield</li>
+				<li>MeleeWeapon_DMRW_Beagalltachlink</li>
+				<li>MeleeWeapon_DMRW_Moralltachlink</li>
+				<li>MeleeWeapon_DMRW_Caduceuslink</li>
+				<li>MeleeWeapon_DMRW_Labryslink</li>
+				<li>MeleeWeapon_DMRW_Vajralink</li>
+				<li>MeleeWeapon_DMRW_LavalMachete</li>
+				<li>MeleeWeapon_DMRW_NekrozCatastor</li>
+				<li>MeleeWeapon_DMRW_Sword_of_Kusanagi</li>
+				<li>MeleeWeapon_DMRW_IronFan</li>
+				<li>MeleeWeapon_DMRW_ZektBlade</li>
+				<li>MeleeWeapon_DMRW_ZektGauntlet</li>
+				<li>MeleeWeapon_GemBuckler</li>
+				<li>MeleeWeapon_GemGlaive</li>
+				<li>MeleeWeapon_GemMasterSword</li>
+				<li>RangedWeapon_DMRW_Chakram</li>
+				<li>RangedWeapon_DMRW_Failnaught</li>
+				<li>DMRW_Magikey</li>
+				<li>Gun_DMRW_SniperRifle</li>
+				<li>Gun_IronFanMagatama</li>
+				<li>Gun_DMRW_Magicians_Cane</li>
+				<li>LavalLanceRod</li>
+				<li>WSGR_Abyssal_DD_Gun</li>
+				<li>WSGR_Abyssal_CL_Gun</li>
+				<li>WSGR_Abyssal_AP_Gun</li>
+				<li>WSGR_Abyssal_AircraftGun</li>
+				<li>WSGR_Abyssal_60kg_bomb</li>
+				<li>WSGR_Oerlikon_20mm_LMG</li>
+				<li>WSGR_Bofors_40mm_HMG</li>
+				<li>WSGR_AK630_30mm_HMG</li>
+				<li>WSGR_RN_MK1_15inch</li>
+				<li>WSGR_Italian_1934_381mm</li>
+				<li>WSGR_Kriegsmarine_SKC34_380mm</li>
+				<li>WSGR_IJN_43rdYearType_14inch_S</li>
+				<li>WSGR_USN_MK7_16inch_S</li>
+				<li>Kyon_Tachyon_Lance</li>
+				<li>WSGR_USN_MK16_6inch</li>
+				<li>WSGR_Kriegsmarine_SKC25_150mm</li>
+				<li>WSGR_USN_MK9_8inch</li>
+				<li>WSGR_USN_MK16_8inch</li>
+				<li>WSGR_USN_MK9_8inch_S</li>
+				<li>WSGR_IJN_3rdYearType_8inch_S</li>
+				<li>WSGR_Soviet_T3485_Turret</li>
+				<li>WSGR_IJN_3rdYearType_5inch</li>
+				<li>WSGR_Speke_anchor</li>
+				<li>WSGR_CavalrySword_a</li>
+				<li>WSGR_CavalrySword_b</li>
+				<li>RogueServitor_PM423_Grenade_Weapon</li>
+				<li>RogueServitor_PM629_Grenade_Weapon</li>
+				<li>RogueServitor_HI_HMG</li>
+				<li>RogueServitor_AR</li>
+				<li>RogueServitor_AR_GrenadeLauncher</li>
+				<li>RogueServitor_DMR</li>
+				<li>RogueServitor_LMG</li>
+				<li>RogueServitor_SMG</li>
+				<li>RogueServitor_PortablePlasmaCannon</li>
+				<li>RogueServitor_BR</li>
+				<li>RogueServitor_AMR</li>
+				<li>RogueServitor_Scalpel</li>
+				<li>RogueServitor_Long_Sword</li>
+				<li>RogueServitor_Twinblade</li>
+				<li>Gun_SniperRifle_lilly</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -1209,6 +1275,72 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>False</li>
 			</values>

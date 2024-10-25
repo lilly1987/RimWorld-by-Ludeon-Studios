@@ -44,7 +44,9 @@
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
   <devMode>True</devMode>
-  <debugActionPalette />
+  <debugActionPalette>
+    <li>Actions\Spawn thing...\SteamGeyser</li>
+  </debugActionPalette>
   <devPalettePosition>
     <x>120</x>
     <y>151</y>

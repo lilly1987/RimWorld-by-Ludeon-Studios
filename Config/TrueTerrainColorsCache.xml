@@ -3510,4 +3510,13 @@
       <a>0</a>
     </Color>
   </CacheEntry>
+  <CacheEntry>
+    <DefName>AncientGoldTile</DefName>
+    <Color>
+      <r>0.314092427</r>
+      <g>0.314092427</g>
+      <b>0.09076389</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
 </ArrayOfCacheEntry>
