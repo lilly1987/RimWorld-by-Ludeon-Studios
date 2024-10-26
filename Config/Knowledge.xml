@@ -19,7 +19,7 @@
     </li>
     <li>
       <key>ShieldBelts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InteractingWithTraders</key>
@@ -71,7 +71,7 @@
     </li>
     <li>
       <key>DrugBurning</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DoorOpenSpeed</key>
@@ -191,7 +191,7 @@
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
@@ -299,7 +299,7 @@
     </li>
     <li>
       <key>CapturingEntities</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ContainingEntities</key>

@@ -7,6 +7,24 @@
 login anonymous 
 //force_install_dir ../csgo_ds
 //app_update 740 validate
+workshop_download_item 294100 2895299310
+workshop_download_item 294100 1687566130
+workshop_download_item 294100 935982361
+workshop_download_item 294100 830545304
+workshop_download_item 294100 848513545
+workshop_download_item 294100 2988200143
+workshop_download_item 294100 2897848371
+workshop_download_item 294100 2879659174
+workshop_download_item 294100 2237396205
+workshop_download_item 294100 761421485
+workshop_download_item 294100 3353962716
+workshop_download_item 294100 3354735289
+workshop_download_item 294100 3353974251
+workshop_download_item 294100 3346589753
+workshop_download_item 294100 2944982026
+workshop_download_item 294100 3352990362
+workshop_download_item 294100 3292831237
+workshop_download_item 294100 3250266494
 workshop_download_item 294100 2054073477
 workshop_download_item 294100 3202046258
 workshop_download_item 294100 2566120724

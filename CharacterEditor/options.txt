@@ -5,5 +5,5 @@ None|None|
 
 
 
-Kiiro_SingleGlass,키이로 단안경,3,3,True,0,,MaxHitPoints!10000|Flammability!0|DeteriorationRate!0|Beauty!100|Mass!0|EquipDelay!0|WorkToMake!0|StuffEffectMultiplierArmor!100|StuffEffectMultiplierInsulation_Cold!0|StuffEffectMultiplierInsulation_Heat!0|StuffPower_Armor_Sharp!0,ResearchSpeed!0.25|SocialImpact!0.02|NegotiationAbility!0.05|WorkSpeedGlobal!-0.15,Steel!25|Cloth!15,,Apparel|Kiiro_DailyClothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,,,,,,,,,,,,,Kiiro_Machining,,0,0,EyeCover,Eyes|HeadAttackTool,Kiiro_Researcher|Kiiro_EyeCover|Kiiro_Glasses,,1;
+
 

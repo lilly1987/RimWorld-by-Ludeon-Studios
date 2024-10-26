@@ -672,6 +672,7 @@
 				<li>RogueServitor_Long_Sword</li>
 				<li>RogueServitor_Twinblade</li>
 				<li>Gun_SniperRifle_lilly</li>
+				<li>Gun_AssaultRifle_lilly</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -1342,6 +1343,7 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
+				<li>False</li>
 				<li>False</li>
 			</values>
 		</usableWithShieldsWeapons>
