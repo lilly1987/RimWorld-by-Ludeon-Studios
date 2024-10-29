@@ -55,6 +55,89 @@
 				<li>Gun_HellcatRifle</li>
 				<li>Gun_Incinerator</li>
 				<li>NerveSpiker</li>
+				<li>Milian_BishopScepter</li>
+				<li>Milian_PivotScepter</li>
+				<li>Milian_ParticleLongRangeSniper</li>
+				<li>Milian_KnightHalberd</li>
+				<li>Milian_KnightSword</li>
+				<li>Milian_KnightLance</li>
+				<li>Milian_KnightHammer</li>
+				<li>Milian_ParticleBeamGun</li>
+				<li>Milian_PulsedBeamGun</li>
+				<li>Milian_ParticleBeamBlaster</li>
+				<li>Milian_RookBlade</li>
+				<li>Milian_RookBladeII</li>
+				<li>Milira_Lance</li>
+				<li>Milira_Sickle</li>
+				<li>Milira_Hammer</li>
+				<li>Milira_TwoHandSword</li>
+				<li>Milira_Spear</li>
+				<li>Milira_PlasmaPistol</li>
+				<li>Milira_PlasmaRifle</li>
+				<li>Milira_PlasmaCannon</li>
+				<li>Milira_PlasmaMG</li>
+				<li>Milira_MagneticRailRifle</li>
+				<li>Milira_HandRailGun</li>
+				<li>MeleeWeapon_DMRW_Scythelink</li>
+				<li>MeleeWeapon_DMRW_Lancealink</li>
+				<li>MeleeWeapon_DMRW_Mjollnirlink</li>
+				<li>MeleeWeapon_DMRW_Aegis</li>
+				<li>MeleeWeapon_DMRW_Achilleshield</li>
+				<li>MeleeWeapon_DMRW_Beagalltachlink</li>
+				<li>MeleeWeapon_DMRW_Moralltachlink</li>
+				<li>MeleeWeapon_DMRW_Caduceuslink</li>
+				<li>MeleeWeapon_DMRW_Labryslink</li>
+				<li>MeleeWeapon_DMRW_Vajralink</li>
+				<li>MeleeWeapon_DMRW_LavalMachete</li>
+				<li>MeleeWeapon_DMRW_NekrozCatastor</li>
+				<li>MeleeWeapon_DMRW_Sword_of_Kusanagi</li>
+				<li>MeleeWeapon_DMRW_IronFan</li>
+				<li>MeleeWeapon_DMRW_ZektBlade</li>
+				<li>MeleeWeapon_DMRW_ZektGauntlet</li>
+				<li>MeleeWeapon_GemBuckler</li>
+				<li>MeleeWeapon_GemGlaive</li>
+				<li>MeleeWeapon_GemMasterSword</li>
+				<li>RangedWeapon_DMRW_Chakram</li>
+				<li>RangedWeapon_DMRW_Failnaught</li>
+				<li>DMRW_Magikey</li>
+				<li>Gun_DMRW_SniperRifle</li>
+				<li>Gun_IronFanMagatama</li>
+				<li>Gun_DMRW_Magicians_Cane</li>
+				<li>LavalLanceRod</li>
+				<li>VV_Mead</li>
+				<li>VV_RitualLance</li>
+				<li>VV_EltexNeedle</li>
+				<li>VV_ViviSpear</li>
+				<li>VV_Slingshot</li>
+				<li>VV_ShockDart</li>
+				<li>VV_ViviLongJavelin</li>
+				<li>VV_RepeatingCrossbow</li>
+				<li>YR_Red_wood</li>
+				<li>YR_WP_Bow</li>
+				<li>YR_WP_kunai</li>
+				<li>YR_WP_katana</li>
+				<li>YR_WP_Naginata</li>
+				<li>YR_WP_Spear</li>
+				<li>YR_WP_Gun</li>
+				<li>YR_WP_monokatana</li>
+				<li>YR_WP_MonoGun</li>
+				<li>YR_WP_Staff</li>
+				<li>YR_WP_Staff_Cooldown</li>
+				<li>YR_WP_StaffB</li>
+				<li>YR_WP_StaffC</li>
+				<li>YR_WP_Staff_BlackSnake</li>
+				<li>YR_WP_Staff_Cooldown_BlackSnake</li>
+				<li>YR_WP_StaffB_BlackSnake</li>
+				<li>YR_WP_StaffC_BlackSnake</li>
+				<li>Kurin_MeleeWeapon_Ceremonial_Polearm</li>
+				<li>Kurin_MeleeWeapon_Ceremonial_Sword</li>
+				<li>Kurin_Gun_Charge_Rifle</li>
+				<li>Kurin_Gun_Charge_Shotgun</li>
+				<li>Kurin_Gun_Shotgun</li>
+				<li>Kurin_Gun_Surigum</li>
+				<li>Kurin_Gun_Assault_Rifle</li>
+				<li>Kurin_Gun_Carbine</li>
+				<li>Kurin_Gun_Sniper_Rifle</li>
 				<li>Mousekin_MeleeWeapon_Axe</li>
 				<li>Mousekin_MeleeWeapon_Cleaver</li>
 				<li>Mousekin_MeleeWeapon_Dagger</li>
@@ -73,12 +156,15 @@
 				<li>Mousekin_RangedWeapon_CrossbowAuto</li>
 				<li>Mousekin_RangedWeapon_MusketLong</li>
 				<li>Mousekin_RangedWeapon_MusketShort</li>
+				<li>MeleeWeapon_konkatana</li>
+				<li>MeleeWeapon_sirokatana</li>
 				<li>Axolotl_Hammer</li>
 				<li>Axolotl_Mace</li>
 				<li>Axolotl_MoeLotlCrossBow_Basic</li>
 				<li>Axolotl_MoeLotlCrossBow_Intermediate</li>
 				<li>Axolotl_MoeLotlCrossBow_Advanced</li>
 				<li>Axolotl_FallingSunBow</li>
+				<li>Axolotl_BattlebreakerCrossbow</li>
 				<li>Axolotl_AuspiciousNeedle</li>
 				<li>Axolotl_VastSeaCelestialWhaleCannon</li>
 				<li>Axolotl_Sword</li>
@@ -87,23 +173,6 @@
 				<li>Axolotl_Rockforge_Halberd</li>
 				<li>Axolotl_Turquoise_shadow</li>
 				<li>Axolotl_Flame_VermilionBird_Machete</li>
-				<li>Hamefura_RoyalSword</li>
-				<li>Hamefura_GardenHoe</li>
-				<li>Kurin_Range_FlareGun</li>
-				<li>Kurin_Range_NecroLauncher</li>
-				<li>Kurin_Melee_CeremonialSwordBladelink</li>
-				<li>Kurin_Melee_CeremonialSword</li>
-				<li>Kurin_Melee_MarineSword</li>
-				<li>Kurin_Melee_Sattle_Stuff</li>
-				<li>Kurin_Melee_Desolator_Halberd</li>
-				<li>Kurin_Weapon_Kunai</li>
-				<li>Kurin_Weapon_CrossDart</li>
-				<li>Kurin_Range_DMR</li>
-				<li>Kurin_Range_ChainGun</li>
-				<li>Kurin_Range_TwinRocket</li>
-				<li>Kurin_Range_ChargePistol</li>
-				<li>Kurin_Range_ChargeRifle</li>
-				<li>Kurin_GatheringLance</li>
 				<li>Miho_Weapon_RifleRecoillessSharp</li>
 				<li>Miho_Weapon_PowerClaw</li>
 				<li>Miho_Weapon_PowerHammer</li>
@@ -127,7 +196,21 @@
 				<li>Miho_Weapon_SniperPlasma</li>
 				<li>Miho_Weapon_ShotgunPsychic</li>
 				<li>Miho_Weapon_RiflePsychic</li>
-				<li>RB_F_PDW</li>
+				<li>Kurin_Range_FlareGun</li>
+				<li>Kurin_Range_NecroLauncher</li>
+				<li>Kurin_Melee_CeremonialSwordBladelink</li>
+				<li>Kurin_Melee_CeremonialSword</li>
+				<li>Kurin_Melee_MarineSword</li>
+				<li>Kurin_Melee_Sattle_Stuff</li>
+				<li>Kurin_Melee_Desolator_Halberd</li>
+				<li>Kurin_Weapon_Kunai</li>
+				<li>Kurin_Weapon_CrossDart</li>
+				<li>Kurin_Range_DMR</li>
+				<li>Kurin_Range_ChainGun</li>
+				<li>Kurin_Range_TwinRocket</li>
+				<li>Kurin_Range_ChargePistol</li>
+				<li>Kurin_Range_ChargeRifle</li>
+				<li>Kurin_GatheringLance</li>
 				<li>Kiiro_GrenadeFrag</li>
 				<li>Kiiro_GrenadeSmoke</li>
 				<li>Kiiro_GrenadeFlash</li>
@@ -162,269 +245,8 @@
 				<li>Kiiro_Hammer</li>
 				<li>Kiiro_KitchenKnife</li>
 				<li>Kiiro_Slice</li>
-				<li>AK_Weapon_Absinthe</li>
-				<li>AK_Weapon_Ifrit</li>
-				<li>AK_Weapon_Amiya</li>
-				<li>AK_Weapon_CeobeA</li>
-				<li>AK_Weapon_CeobeB</li>
-				<li>AK_Weapon_CeobeC</li>
-				<li>AK_Weapon_CeobeD</li>
-				<li>AK_Weapon_Dusk</li>
-				<li>AK_Weapon_MintA</li>
-				<li>AK_Weapon_MintB</li>
-				<li>AK_Weapon_MostimaA</li>
-				<li>AK_Weapon_MostimaB</li>
-				<li>AK_Weapon_MostimaC</li>
-				<li>AK_Weapon_Skyfire</li>
-				<li>AK_Weapon_Eyjafjalla</li>
-				<li>AK_Weapon_EyjafjallaSummerFlower</li>
-				<li>AK_Weapon_Carnelian</li>
-				<li>AK_Weapon_CarnelianShimmeringDew</li>
-				<li>AK_Weapon_Beeswax</li>
-				<li>AK_Weapon_BeeswaxCasualVacation</li>
-				<li>AK_Weapon_Indigo</li>
-				<li>AK_Weapon_Goldenglow</li>
-				<li>AK_Weapon_GoldenglowMaidenfortheBrightNight</li>
-				<li>AK_Weapon_Tomimi</li>
-				<li>AK_Weapon_Kjera</li>
-				<li>AK_Weapon_Astgenne</li>
-				<li>AK_Weapon_AstgenneHerAspiration</li>
-				<li>AK_Weapon_Harmonie</li>
-				<li>AK_Weapon_HarmonieInvitation</li>
-				<li>AK_Weapon_Lin</li>
-				<li>AK_Weapon_Hoolheyak</li>
-				<li>AK_Weapon_Passenger</li>
-				<li>AK_Weapon_PassengerB</li>
-				<li>AK_Weapon_PassengerC</li>
-				<li>AK_Weapon_PassengerD</li>
-				<li>AK_Weapon_Lava</li>
-				<li>AK_Weapon_LavaB</li>
-				<li>AK_Weapon_Santalla</li>
-				<li>AK_Weapon_SantallaLeisurelyHoliday</li>
-				<li>AK_Weapon_Delphine</li>
-				<li>AK_Weapon_Nymph</li>
-				<li>AK_Weapon_Cuora</li>
-				<li>AK_Weapon_CuoraTypeB</li>
-				<li>AK_Weapon_EunectesA</li>
-				<li>AK_Weapon_EunectesB</li>
-				<li>AK_Weapon_Hoshiguma</li>
-				<li>AK_Weapon_LiskarmA</li>
-				<li>AK_Weapon_LiskarmB</li>
-				<li>AK_Weapon_Mudrock</li>
-				<li>AK_Weapon_MudrockSilentNight</li>
-				<li>AK_Weapon_NianA</li>
-				<li>AK_Weapon_NianB</li>
-				<li>AK_Weapon_SariaA</li>
-				<li>AK_Weapon_SariaB</li>
-				<li>AK_Weapon_BlemishineA</li>
-				<li>AK_Weapon_BlemishineB</li>
-				<li>AK_Weapon_CroissantA</li>
-				<li>AK_Weapon_CroissantB</li>
-				<li>AK_Weapon_Aurora</li>
-				<li>AK_Weapon_AshlockA</li>
-				<li>AK_Weapon_AshlockB</li>
-				<li>AK_Weapon_HornA</li>
-				<li>AK_Weapon_HornB</li>
-				<li>AK_Weapon_GummyA</li>
-				<li>AK_Weapon_GummyB</li>
-				<li>AK_Weapon_MatterhornA</li>
-				<li>AK_Weapon_MatterhornB</li>
-				<li>AK_Weapon_VulcanA</li>
-				<li>AK_Weapon_VulcanB</li>
-				<li>AK_Weapon_NearlA</li>
-				<li>AK_Weapon_NearlB</li>
-				<li>AK_Weapon_Penance</li>
-				<li>AK_Weapon_PenanceOccasionalFlush</li>
-				<li>AK_Weapon_Beagle</li>
-				<li>AK_Weapon_BeagleB</li>
-				<li>AK_Weapon_Liberated</li>
-				<li>AK_Weapon_LiberatedB</li>
-				<li>AK_Weapon_LiberatedC</li>
-				<li>AK_Weapon_Shu</li>
-				<li>AK_Weapon_Surtr</li>
-				<li>AK_Weapon_SurtrColorfulWonderland</li>
-				<li>AK_Weapon_Blaze</li>
-				<li>AK_Weapon_ChenA</li>
-				<li>AK_Weapon_ChenB</li>
-				<li>AK_Weapon_Cutter</li>
-				<li>AK_Weapon_Franka</li>
-				<li>AK_Weapon_Frostleaf</li>
-				<li>AK_Weapon_Lappland</li>
-				<li>AK_Weapon_Mousse</li>
-				<li>AK_Weapon_Silverash</li>
-				<li>AK_Weapon_Skadi</li>
-				<li>AK_Weapon_Specter</li>
-				<li>AK_Weapon_Thorns</li>
-				<li>AK_Weapon_Whislash</li>
-				<li>AK_Weapon_Swire</li>
-				<li>AK_Weapon_Pallas</li>
-				<li>AK_Weapon_Irene</li>
-				<li>AK_Weapon_IreneTypeB</li>
-				<li>AK_Weapon_Tequila</li>
-				<li>AK_Weapon_LaPluma</li>
-				<li>AK_Weapon_LaPlumaSummerFlower</li>
-				<li>AK_Weapon_Estelle</li>
-				<li>AK_Weapon_Flint</li>
-				<li>AK_Weapon_Savage</li>
-				<li>AK_Weapon_Sideroca</li>
-				<li>AK_Weapon_SiderocaLightBreeze</li>
-				<li>AK_Weapon_Astesia</li>
-				<li>AK_Weapon_AstesiaFantasticCrafts</li>
-				<li>AK_Weapon_Maynar</li>
-				<li>AK_Weapon_Chongyue</li>
-				<li>AK_Weapon_Qiubai</li>
-				<li>AK_Weapon_Indra</li>
-				<li>AK_Weapon_Dagda</li>
-				<li>AK_Weapon_DagdaB</li>
-				<li>AK_Weapon_Morgan</li>
-				<li>AK_Weapon_Utage</li>
-				<li>AK_Weapon_UtageSummerFlower</li>
-				<li>AK_Weapon_Jackie</li>
-				<li>AK_Weapon_RadiantKnight</li>
-				<li>AK_Weapon_VivianaA</li>
-				<li>AK_Weapon_VivianaB</li>
-				<li>AK_Weapon_InvincibleA</li>
-				<li>AK_Weapon_InvincibleB</li>
-				<li>AK_Weapon_DegenbrecherA</li>
-				<li>AK_Weapon_DegenbrecherB</li>
-				<li>AK_Weapon_Ulpianus</li>
-				<li>AK_Weapon_Gavial</li>
-				<li>AK_Weapon_Kaltsit</li>
-				<li>AK_Weapon_Perfumer</li>
-				<li>AK_Weapon_Silence</li>
-				<li>AK_Weapon_Shining</li>
-				<li>AK_Weapon_ShiningSilentNight</li>
-				<li>AK_Weapon_Nightingale</li>
-				<li>AK_Weapon_NightingaleElegy</li>
-				<li>AK_Weapon_NightingaleIakhuOfFlows</li>
-				<li>AK_Weapon_Ptilopsis</li>
-				<li>AK_Weapon_Purestream</li>
-				<li>AK_Weapon_Myrrh</li>
-				<li>AK_Weapon_Warfarin</li>
-				<li>AK_Weapon_Sussurro</li>
-				<li>AK_Weapon_Ceylon</li>
-				<li>AK_Weapon_Mulberry</li>
-				<li>AK_Weapon_Whisperain</li>
-				<li>AK_Weapon_WhisperainPrioryOfAbyss</li>
-				<li>AK_Weapon_FlameShadow</li>
-				<li>AK_Weapon_FlameShadowCurator</li>
-				<li>AK_Weapon_FlameSummerFlower</li>
-				<li>AK_Weapon_Vendela</li>
-				<li>AK_Weapon_EyjafjallaHvitAska</li>
-				<li>AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip</li>
-				<li>AK_Weapon_Kristen</li>
-				<li>AK_Weapon_FrostNova</li>
-				<li>AK_Weapon_Eblana</li>
-				<li>AK_Weapon_EblanaB</li>
-				<li>AK_Weapon_DukeWindermere</li>
-				<li>AK_Weapon_PRTS</li>
-				<li>AK_Weapon_Executor</li>
-				<li>AK_Weapon_Exusiai</li>
-				<li>AK_Weapon_Greythroat</li>
-				<li>AK_Weapon_Jessica</li>
-				<li>AK_Weapon_Pinecone</li>
-				<li>AK_Weapon_Provence</li>
-				<li>AK_Weapon_RosmontisA</li>
-				<li>AK_Weapon_RosmontisB</li>
-				<li>AK_Weapon_Schwarz</li>
-				<li>AK_Weapon_AgentW</li>
-				<li>AK_Weapon_Rosa</li>
-				<li>AK_Weapon_Platinum</li>
-				<li>AK_Weapon_PlatinumShimmeringDew</li>
-				<li>AK_Weapon_Archetto</li>
-				<li>AK_Weapon_Meteorite</li>
-				<li>AK_Weapon_Bluepoison</li>
-				<li>AK_Weapon_Fiammetta</li>
-				<li>AK_Weapon_FiammettaDivineOath</li>
-				<li>AK_Weapon_FiammettaTypeB</li>
-				<li>AK_Weapon_FiammettaDivineOathTypeB</li>
-				<li>AK_Weapon_April</li>
-				<li>AK_Weapon_Fartooth</li>
-				<li>AK_Weapon_Vermeil</li>
-				<li>AK_Weapon_Toddifons</li>
-				<li>AK_Weapon_Lunacub</li>
-				<li>AK_Weapon_Pozyomka</li>
-				<li>AK_Weapon_Firewatch</li>
-				<li>AK_Weapon_Typhon</li>
-				<li>AK_Weapon_TyphonTemperature</li>
-				<li>AK_Weapon_Kroos</li>
-				<li>AK_Weapon_Erato</li>
-				<li>AK_Weapon_EratoUntoldStories</li>
-				<li>AK_Weapon_Wisadel</li>
-				<li>AK_Weapon_Ray</li>
-				<li>AK_Weapon_ChenHolungday</li>
-				<li>AK_Weapon_Narantuya</li>
-				<li>AK_Weapon_Red</li>
-				<li>AK_Weapon_RedLightBreeze</li>
-				<li>AK_Weapon_Robin</li>
-				<li>AK_Weapon_Gladiia</li>
-				<li>AK_Weapon_GladiiaReturn</li>
-				<li>AK_Weapon_Weedy</li>
-				<li>AK_Weapon_WeedySedjem</li>
-				<li>AK_Weapon_Mizuki</li>
-				<li>AK_Weapon_Gravel</li>
-				<li>AK_Weapon_Kafka</li>
-				<li>AK_Weapon_Cliffheart</li>
-				<li>AK_Weapon_DorothyA</li>
-				<li>AK_Weapon_DorothyB</li>
-				<li>AK_Weapon_DorothyC</li>
-				<li>AK_Weapon_DorothyHandOfDestiny</li>
-				<li>AK_Weapon_Manticore</li>
-				<li>AK_Weapon_Kazemaru</li>
-				<li>AK_Weapon_Kirin</li>
-				<li>AK_Weapon_KirinB</li>
-				<li>AK_Weapon_Almond</li>
-				<li>AK_Weapon_Ascalon</li>
-				<li>AK_Weapon_SwireElegantWit</li>
-				<li>AK_Weapon_SpecterUnchained</li>
-				<li>AK_Weapon_Angelina</li>
-				<li>AK_Weapon_Magallan</li>
-				<li>AK_Weapon_Suzuran</li>
-				<li>AK_Weapon_Deepcolor</li>
-				<li>AK_Weapon_DeepcolorMelodicPortrayal</li>
-				<li>AK_Weapon_Pramanix</li>
-				<li>AK_Weapon_Glaucus</li>
-				<li>AK_Weapon_Scene</li>
-				<li>AK_Weapon_Sora</li>
-				<li>AK_Weapon_Ling</li>
-				<li>AK_Weapon_Istina</li>
-				<li>AK_Weapon_Heidi</li>
-				<li>AK_Weapon_Gnosis</li>
-				<li>AK_Weapon_Quercus</li>
-				<li>AK_Weapon_QuercusBardsTale</li>
-				<li>AK_Weapon_Roberta</li>
-				<li>AK_Weapon_Proviso</li>
-				<li>AK_Weapon_Mayer</li>
-				<li>AK_Weapon_CorruptingHeart</li>
-				<li>AK_Weapon_CorruptingHeartSublimation</li>
-				<li>AK_Weapon_Virtuosa</li>
-				<li>AK_Weapon_Valarqvin</li>
-				<li>AK_Weapon_Bagpipe</li>
-				<li>AK_Weapon_Reed</li>
-				<li>AK_Weapon_Saga</li>
-				<li>AK_Weapon_Texas</li>
-				<li>AK_Weapon_Vanilla</li>
-				<li>AK_Weapon_SaileachA</li>
-				<li>AK_Weapon_SaileachB</li>
-				<li>AK_Weapon_Flametail</li>
-				<li>AK_Weapon_Wild</li>
-				<li>AK_Weapon_Courier</li>
-				<li>AK_Weapon_Grani</li>
-				<li>AK_Weapon_MyrtleA</li>
-				<li>AK_Weapon_MyrtleSummerFlower</li>
-				<li>AK_Weapon_MyrtleB</li>
-				<li>AK_Weapon_Siege</li>
-				<li>AK_Weapon_Zima</li>
-				<li>AK_Weapon_Beanstalk</li>
-				<li>AK_Weapon_BeanstalkGiftUncompleted</li>
-				<li>AK_Weapon_Blacknight</li>
-				<li>AK_Weapon_MuelsyseA</li>
-				<li>AK_Weapon_MuelsyseB</li>
-				<li>AK_Weapon_Ines</li>
-				<li>AK_Weapon_InesB</li>
-				<li>AK_Weapon_Fang</li>
-				<li>AK_Weapon_Plume</li>
-				<li>AK_Weapon_Yato</li>
+				<li>Hamefura_RoyalSword</li>
+				<li>Hamefura_GardenHoe</li>
 				<li>Logic_reason</li>
 				<li>Superningu</li>
 				<li>White_fang</li>
@@ -490,148 +312,9 @@
 				<li>Black_fang</li>
 				<li>Proof_of_rescue</li>
 				<li>Know_your_enemy_and_yourself</li>
-				<li>Ungrateful_oz</li>
-				<li>Amazing_wonderland</li>
-				<li>Team_chemistry</li>
-				<li>Wanderlust</li>
-				<li>Rust_chaser</li>
-				<li>Liberty_stail</li>
-				<li>Militaria</li>
-				<li>Boomstick</li>
-				<li>Savior_in_the_snow</li>
-				<li>Perfect_line</li>
-				<li>Honorable</li>
-				<li>Wolfsbane</li>
-				<li>AW_ChargeMateba</li>
-				<li>AW_ChargeSMG</li>
-				<li>AW_ChargeBR</li>
-				<li>AW_ChargeCS</li>
-				<li>AW_ChargeLMG</li>
-				<li>AW_ChargeSR</li>
-				<li>AW_ChargeJavelin</li>
-				<li>AW_ChargeMKThreeOne</li>
-				<li>Kurin_MeleeWeapon_Ceremonial_Polearm</li>
-				<li>Kurin_MeleeWeapon_Ceremonial_Sword</li>
-				<li>Kurin_Gun_Charge_Rifle</li>
-				<li>Kurin_Gun_Charge_Shotgun</li>
-				<li>Kurin_Gun_Shotgun</li>
-				<li>Kurin_Gun_Surigum</li>
-				<li>Kurin_Gun_Assault_Rifle</li>
-				<li>Kurin_Gun_Carbine</li>
-				<li>Kurin_Gun_Sniper_Rifle</li>
 				<li>IG_Meal_g</li>
 				<li>IG_Meal_b</li>
-				<li>FGO_Clarent</li>
-				<li>Geist_Knife</li>
-				<li>Larva_SKnife</li>
-				<li>Rugeiyu_Pila</li>
-				<li>Nearmaere_WildHunt</li>
-				<li>Gun_AssaultRifle_NM</li>
-				<li>HAR_NM_Weapon_Gun_a</li>
-				<li>HAR_NM_Weapon_Gun_b</li>
-				<li>HAR_NM_Weapon_Sword_a</li>
-				<li>VWE_Gun_Autocannon</li>
-				<li>VWE_Gun_HandheldMortar</li>
-				<li>VWE_Gun_HeavyFlamer</li>
-				<li>VWE_Gun_SwarmMissileLauncher</li>
-				<li>VWE_Gun_UraniumSlugRifle</li>
-				<li>VWEL_LaserSword</li>
-				<li>VWEL_Gun_LaserPistol</li>
-				<li>VWEL_Gun_LaserSMG</li>
-				<li>VWEL_Gun_LaserRifle</li>
-				<li>VWEL_Gun_LaserShotgun</li>
-				<li>VWEL_Gun_LaserSniperRifle</li>
-				<li>VWEL_Gun_LaserMinigun</li>
-				<li>VWEL_Gun_TeslaGun</li>
-				<li>VWEL_Gun_SalvagedLaserPistol</li>
-				<li>VWEL_Gun_SalvagedLaserRifle</li>
-				<li>VWEL_Gun_SalvagedLaserShotgun</li>
-				<li>VWEL_Gun_SalvagedLaserSniperRifle</li>
-				<li>Kurin_nanoedge</li>
-				<li>Milian_BishopScepter</li>
-				<li>Milian_PivotScepter</li>
-				<li>Milian_ParticleLongRangeSniper</li>
-				<li>Milian_KnightHalberd</li>
-				<li>Milian_KnightSword</li>
-				<li>Milian_KnightLance</li>
-				<li>Milian_KnightHammer</li>
-				<li>Milian_ParticleBeamGun</li>
-				<li>Milian_PulsedBeamGun</li>
-				<li>Milian_ParticleBeamBlaster</li>
-				<li>Milian_RookBlade</li>
-				<li>Milian_RookBladeII</li>
-				<li>Milira_Lance</li>
-				<li>Milira_Sickle</li>
-				<li>Milira_Hammer</li>
-				<li>Milira_TwoHandSword</li>
-				<li>Milira_Spear</li>
-				<li>Milira_PlasmaPistol</li>
-				<li>Milira_PlasmaRifle</li>
-				<li>Milira_PlasmaCannon</li>
-				<li>Milira_PlasmaMG</li>
-				<li>Milira_MagneticRailRifle</li>
-				<li>Milira_HandRailGun</li>
-				<li>YR_Red_wood</li>
-				<li>YR_WP_Bow</li>
-				<li>YR_WP_kunai</li>
-				<li>YR_WP_katana</li>
-				<li>YR_WP_Naginata</li>
-				<li>YR_WP_Spear</li>
-				<li>YR_WP_Gun</li>
-				<li>YR_WP_monokatana</li>
-				<li>YR_WP_MonoGun</li>
-				<li>YR_WP_Staff</li>
-				<li>YR_WP_Staff_Cooldown</li>
-				<li>YR_WP_StaffB</li>
-				<li>YR_WP_StaffC</li>
-				<li>YR_WP_Staff_BlackSnake</li>
-				<li>YR_WP_Staff_Cooldown_BlackSnake</li>
-				<li>YR_WP_StaffB_BlackSnake</li>
-				<li>YR_WP_StaffC_BlackSnake</li>
-				<li>MeleeWeapon_konkatana</li>
-				<li>MeleeWeapon_sirokatana</li>
-				<li>Axolotl_BattlebreakerCrossbow</li>
-				<li>Gun_HYHFSpray</li>
-				<li>CptQ</li>
-				<li>HY_Sapphire</li>
-				<li>HYCutter</li>
-				<li>HYBayonet</li>
-				<li>HYASEK</li>
-				<li>HYSickle</li>
-				<li>Gun_HYPistol</li>
-				<li>Gun_HYRifle</li>
-				<li>Gun_HYVulcan</li>
-				<li>Gun_HYBrrrt</li>
-				<li>Gun_HYSMG</li>
-				<li>Gun_HYAssaultRifle</li>
-				<li>Gun_HYEMP</li>
-				<li>Gun_HYVapor</li>
-				<li>MeleeWeapon_DMRW_Scythelink</li>
-				<li>MeleeWeapon_DMRW_Lancealink</li>
-				<li>MeleeWeapon_DMRW_Mjollnirlink</li>
-				<li>MeleeWeapon_DMRW_Aegis</li>
-				<li>MeleeWeapon_DMRW_Achilleshield</li>
-				<li>MeleeWeapon_DMRW_Beagalltachlink</li>
-				<li>MeleeWeapon_DMRW_Moralltachlink</li>
-				<li>MeleeWeapon_DMRW_Caduceuslink</li>
-				<li>MeleeWeapon_DMRW_Labryslink</li>
-				<li>MeleeWeapon_DMRW_Vajralink</li>
-				<li>MeleeWeapon_DMRW_LavalMachete</li>
-				<li>MeleeWeapon_DMRW_NekrozCatastor</li>
-				<li>MeleeWeapon_DMRW_Sword_of_Kusanagi</li>
-				<li>MeleeWeapon_DMRW_IronFan</li>
-				<li>MeleeWeapon_DMRW_ZektBlade</li>
-				<li>MeleeWeapon_DMRW_ZektGauntlet</li>
-				<li>MeleeWeapon_GemBuckler</li>
-				<li>MeleeWeapon_GemGlaive</li>
-				<li>MeleeWeapon_GemMasterSword</li>
-				<li>RangedWeapon_DMRW_Chakram</li>
-				<li>RangedWeapon_DMRW_Failnaught</li>
-				<li>DMRW_Magikey</li>
-				<li>Gun_DMRW_SniperRifle</li>
-				<li>Gun_IronFanMagatama</li>
-				<li>Gun_DMRW_Magicians_Cane</li>
-				<li>LavalLanceRod</li>
+				<li>RB_F_PDW</li>
 				<li>WSGR_Abyssal_DD_Gun</li>
 				<li>WSGR_Abyssal_CL_Gun</li>
 				<li>WSGR_Abyssal_AP_Gun</li>
@@ -671,8 +354,9 @@
 				<li>RogueServitor_Scalpel</li>
 				<li>RogueServitor_Long_Sword</li>
 				<li>RogueServitor_Twinblade</li>
-				<li>Gun_SniperRifle_lilly</li>
 				<li>Gun_AssaultRifle_lilly</li>
+				<li>Gun_SniperRifle_lilly</li>
+				<li>Kurin_nanoedge</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -727,59 +411,29 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
-				<li>False</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -794,12 +448,6 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -812,75 +460,49 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
-				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -894,45 +516,17 @@
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
+				<li>False</li>
 				<li>True</li>
 				<li>True</li>
+				<li>False</li>
+				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -944,7 +538,6 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -953,52 +546,17 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1006,49 +564,16 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
 				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1057,28 +582,18 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>True</li>
-				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -1087,70 +602,7 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>False</li>
-				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1182,18 +634,11 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1201,13 +646,11 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1219,38 +662,20 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1260,53 +685,17 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1318,33 +707,12 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
 			</values>
 		</usableWithShieldsWeapons>
 	</ModSettings>

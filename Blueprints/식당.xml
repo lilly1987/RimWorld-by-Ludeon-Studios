@@ -7,6 +7,11 @@
 			<li>malteschulze.rimmsassemble</li>
 			<li>me.samboycoding.betterloading.dev</li>
 			<li>ludeon.rimworld</li>
+			<li>imranfish.xmlextensions</li>
+			<li>rimfridge.kv.rw</li>
+			<li>lwm.deepstorage</li>
+			<li>oken.rebalanceddeepstorage</li>
+			<li>dorsai.xmlextensionstabviewfix</li>
 			<li>ludeon.rimworld.royalty</li>
 			<li>ludeon.rimworld.ideology</li>
 			<li>ludeon.rimworld.biotech</li>
@@ -15,30 +20,44 @@
 			<li>mlie.blueprintmaterialdebt</li>
 			<li>chippedchap.blueprinttotalstooltip</li>
 			<li>scorpio.resourcedictionary</li>
-			<li>imranfish.xmlextensions</li>
 			<li>seekiworksmod.no18</li>
 			<li>erdelf.humanoidalienraces</li>
 			<li>rooandgloomy.yuranracemod</li>
+			<li>nareislib.kamijouko.nazunarei</li>
 			<li>kikohi.whatsforsale</li>
+			<li>verniy709.annelitrice3.0</li>
 			<li>sm.mimikko</li>
+			<li>owlchemist.cherrypicker.tmpfix</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>verniy709.annelitrice3.0.jurnizia</li>
+			<li>verniy709.annelitrice3.0.yorha</li>
+			<li>verniy709.annelitrice3.0.ahmislan</li>
+			<li>verniy709.annelitrice3.0.gakuen</li>
+			<li>gideon.reborn.qualitysurgeon</li>
+			<li>syrus.heatmap</li>
+			<li>lz.kurin.rich.trader1.4</li>
 			<li>ancot.ancotlibrary</li>
+			<li>cocaine.electricstonecuttingtable</li>
+			<li>sumghai.medpod</li>
+			<li>duelmonster.rimworld</li>
+			<li>garwel.destroyitem</li>
+			<li>somewhereoutinspace.reusepods.updated</li>
+			<li>syrchalis.setupcamp</li>
+			<li>linkolas.stabilize</li>
 			<li>ancot.milirarace</li>
+			<li>qquack.gfap</li>
+			<li>elshender.stackablechunks</li>
 			<li>jp.perfectpathing</li>
 			<li>anthitei.athsretexturefemalapparel.retexture</li>
 			<li>petetimessix.compacthediffs</li>
 			<li>nals.realisticbody</li>
 			<li>anthitei.athsstylefemaledresses.style</li>
 			<li>zal.moretradeships</li>
-			<li>lwm.deepstorage</li>
 			<li>brrainz.rangefinder</li>
-			<li>oken.rebalanceddeepstorage</li>
 			<li>psyche.kemomimihouse</li>
 			<li>simplephysics.perishablespoiltimefilter</li>
-			<li>owlchemist.cherrypicker.tmpfix</li>
-			<li>oskarpotocki.vanillafactionsexpanded.core</li>
 			<li>rebuild.cotr.doorsandcorners</li>
 			<li>seioch.kurin.har</li>
-			<li>jaxe.bubbles</li>
 			<li>dhultgren.useminifiedbuildings</li>
 			<li>dark.jobinbar</li>
 			<li>mlie.animalharvestingspot</li>
@@ -97,7 +116,6 @@
 			<li>automatic.bionicicons</li>
 			<li>nercury.assignanimalfood</li>
 			<li>nals.dynamicportraits</li>
-			<li>seekiworksmod.no17</li>
 			<li>voult.betterpawncontrol</li>
 			<li>brrainz.achtung</li>
 			<li>mlie.syrmetallicbatteries</li>
@@ -148,7 +166,6 @@
 			<li>doug.nojobauthors</li>
 			<li>indeed.stackxxl</li>
 			<li>dubwise.dubsperformanceanalyzer.steam</li>
-			<li>rmk.translation</li>
 			<li>taranchuk.performanceoptimizer</li>
 			<li>owlchemist.toggleablereadouts</li>
 			<li>kota.inventorytab</li>
@@ -166,9 +183,7 @@
 			<li>azzyh.mechchargerbooster</li>
 			<li>fed1splay.pawntargetfix</li>
 			<li>erdelf.powerindicators</li>
-			<li>andromeda.stackgap</li>
 			<li>brrainz.reversecommands</li>
-			<li>elshender.stackablechunks</li>
 			<li>scherub.stonecuttingextended</li>
 			<li>steve.betterquestrewards</li>
 			<li>falconne.roomsense</li>
@@ -203,11 +218,35 @@
 			<li>uuugggg.usebedrolls</li>
 			<li>xercaine.industrialage.artillery</li>
 			<li>sanoo6.haeyangracemod</li>
+			<li>mlie.centralizedclimatecontrol</li>
 			<li>mlie.capturethem</li>
-			<li>moistestwhale.stuffontablesforked</li>
+			<li>warshipgirlr.alienraces</li>
+			<li>vk.token.hair</li>
+			<li>rogueservitor.mechanoids</li>
 			<li>46hhhh.yuranfurshavedfix</li>
-			<li>lilly.maidproject</li>
+			<li>caesarv6.damageindicators</li>
+			<li>mlie.extendedstorage</li>
+			<li>mlie.expandedroofing</li>
+			<li>8z.callforintel</li>
+			<li>mlie.cargopodtransport</li>
 			<li>mlmlmlm.cosplayapparelumamusumeprettyderby</li>
+			<li>cantaloupe.longrangetransportpods</li>
+			<li>countmymods.1trickpwnyta</li>
+			<li>verniy709.annelitrice3.0.neoyokohama</li>
+			<li>nova.mapsaver</li>
+			<li>rooboid.accessoryhairshd</li>
+			<li>name.krypt.rimworld.rwlayout.alpha2</li>
+			<li>unagi.ap.dress</li>
+			<li>ogre.advancedhydroponics</li>
+			<li>laura7z.noflares</li>
+			<li>uuugggg.whatismypurpose</li>
+			<li>falconne.bwm</li>
+			<li>uuugggg.tdsbugfixes</li>
+			<li>uuugggg.tdfindlib</li>
+			<li>uuugggg.everybodygetsone</li>
+			<li>leafzxg.masterofcooking</li>
+			<li>lilly.maidproject</li>
+			<li>rmk.translation</li>
 			<li>blackcanvas.korean.voiceroidasanimal</li>
 			<li>blackcanvas.ayabosstranslations</li>
 			<li>blackcanvas.korean.myafufu</li>
@@ -222,10 +261,28 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>1149640</li>
 			<li>1392840</li>
 			<li>1826140</li>
 			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -380,9 +437,30 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
-			<li>0</li>
-			<li>0</li>
 			<li>858744731</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -437,6 +515,11 @@
 			<li>RIMMSAssemble</li>
 			<li>BetterLoading</li>
 			<li>Core</li>
+			<li>XML Extensions</li>
+			<li>RimFridge: Now with Shelves!</li>
+			<li>LWM's Deep Storage</li>
+			<li>Integrated Deep Storage</li>
+			<li>Fix XML Extensions TabView</li>
 			<li>Royalty</li>
 			<li>Ideology</li>
 			<li>Biotech</li>
@@ -445,30 +528,44 @@
 			<li>Blueprint Material Debt (Continued)</li>
 			<li>Blueprint Totals Tooltip</li>
 			<li>Resource Dictionary</li>
-			<li>XML Extensions</li>
 			<li>Forced Rearmament</li>
 			<li>Humanoid Alien Races</li>
 			<li>Yuran race</li>
+			<li>NareisLib</li>
 			<li>What's for sale?</li>
+			<li>Annelitrice 3.0</li>
 			<li>兽耳助手（Mimikko）</li>
+			<li>Cherry Picker</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Annelitrice 3.0 Jurnizia Apparels and Factions</li>
+			<li>Annelitrice 3.0 YoRHa Apparels and Factions</li>
+			<li>Annelitrice 3.0 Ahmislan Apparels and Factions</li>
+			<li>Annelitrice 3.0 Gakuen Apparels and Factions</li>
+			<li>Gideon's Quality Surgeon Reborn</li>
+			<li>Heat Map (Continued)</li>
+			<li>Kurin [Deluxe Edition] Rich trader 1.4 update</li>
 			<li>Ancot Library</li>
+			<li>Electric Stonecutting Table</li>
+			<li>MedPod</li>
+			<li>DuelMonsterRimWorld</li>
+			<li>Destroy Item</li>
+			<li>Reuse Pods v1.5</li>
+			<li>Set Up Camp</li>
+			<li>Stabilize</li>
 			<li>Milira Race</li>
+			<li>QQ's Girls' frontline Apparel Pack</li>
+			<li>Stackable Chunks [1.5]</li>
 			<li>Perfect Pathfinding</li>
 			<li>ATH's Retexture Female Apparel</li>
 			<li>Compact Hediffs</li>
 			<li>[NL] Realistic Body</li>
 			<li>ATH's Style Female Dresses</li>
 			<li>More Trade Ships (Continued)</li>
-			<li>LWM's Deep Storage</li>
 			<li>Range Finder</li>
-			<li>Integrated Deep Storage</li>
 			<li>kemomimihouse</li>
 			<li>Perishable Spoil Time Filter</li>
-			<li>Cherry Picker</li>
-			<li>Vanilla Expanded Framework</li>
 			<li>ReBuild: Doors and Corners</li>
 			<li>Kurin HAR Edition</li>
-			<li>Interaction Bubbles</li>
 			<li>Use Minified Buildings</li>
 			<li>Job In Bar</li>
 			<li>AnimalHarvestingSpot (Continued)</li>
@@ -527,7 +624,6 @@
 			<li>Bionic icons</li>
 			<li>Assign Animal Food</li>
 			<li>[NL] Dynamic Portraits</li>
-			<li>AAAA(Allowed Area Automatic Adapter)</li>
 			<li>Better Pawn Control</li>
 			<li>Achtung!</li>
 			<li>[SYR] Metallic Batteries (Continued)</li>
@@ -578,7 +674,6 @@
 			<li>No Job Authors</li>
 			<li>Stack XXL</li>
 			<li>Dubs Performance Analyzer</li>
-			<li>Rimworld Mod Korean</li>
 			<li>Performance Optimizer</li>
 			<li>Toggleable Readouts</li>
 			<li>InventoryTab</li>
@@ -596,9 +691,7 @@
 			<li>Mech Charger Booster</li>
 			<li>PawnTargetFix</li>
 			<li>Power Indicators</li>
-			<li>Stack gap</li>
 			<li>Reverse Commands</li>
-			<li>Stackable Chunks [1.5]</li>
 			<li>Stonecutting Extended</li>
 			<li>Better Quest Rewards</li>
 			<li>Room Sense</li>
@@ -633,11 +726,35 @@
 			<li>Use Bedrolls</li>
 			<li>Artillery Gun</li>
 			<li>Haeyang Race</li>
+			<li>Centralized Climate Control (Continued)</li>
 			<li>Capture Them (Continued)</li>
-			<li>Stuff on Tables Forked</li>
+			<li>[Race]WarShipGirl R|战舰少女R</li>
+			<li>[VK]ToukenRanbuHair</li>
+			<li>[Mech]Pavia-RogueServitor|帕维亚-失控机仆</li>
 			<li>YuranFurshavedFix</li>
-			<li>[SS]Maid Project - lilly</li>
+			<li>Damage Indicators [1.5]</li>
+			<li>Extended Storage (Continued)</li>
+			<li>Expanded Roofing (Continued)</li>
+			<li>Call For Intel</li>
+			<li>Cargo Pod Transport (Continued)</li>
 			<li>[Cosplay apparel]Umamusume Pretty Derby</li>
+			<li>Long Range Transport Pods [CONTINUED]</li>
+			<li>Count My Mods</li>
+			<li>Annelitrice 3.0 Neo-Yokohama Apparels and Factions</li>
+			<li>Map Saver</li>
+			<li>Roo's HD Accessory Hairstyles</li>
+			<li>RWLayout</li>
+			<li>UNAGI Royalty Apparel</li>
+			<li>Advanced Hydroponics</li>
+			<li>No Solar Flares</li>
+			<li>What Is My Purpose</li>
+			<li>Better Workbench Management</li>
+			<li>TDS Bug Fixes</li>
+			<li>TD Find Lib</li>
+			<li>Everybody Gets One</li>
+			<li>Master of Cooking</li>
+			<li>[SS]Maid Project - lilly</li>
+			<li>Rimworld Mod Korean</li>
 			<li>VoiceroidAsAnimal 한국어 번역</li>
 			<li>Ayameduki Boss 통합 한국어 번역</li>
 			<li>Mya's fufu 한국어 번역</li>
@@ -651,143 +768,1028 @@
 	<Blueprint>
 		<BuildableThings>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -6)</Position>
+				<Position>(-9, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, -9)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, -6)</Position>
+				<Position>(-9, 0, -8)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-9, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-9, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-9, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -5)</Position>
+				<Position>(-9, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -5)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -4)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-9, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -2)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, -1)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, -1)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, -5)</Position>
+				<Position>(-9, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-9, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, 7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, -4)</Position>
+				<Position>(-9, 0, 8)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-9, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-9, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-9, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -3)</Position>
+				<Position>(-9, 0, 8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-9, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-9, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-8, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -8)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-8, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -5)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -4)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -2)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, -1)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(-8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-7, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-7, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -5)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -4)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -2)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, -1)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-7, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-7, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-7, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-7, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-7, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-7, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-7, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-6, 0, -9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-6, 0, -8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-6, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-6, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-6, 0, -5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-6, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-6, 0, -3)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-6, 0, -2)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, -1)</Position>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-6, 0, 0)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, -1)</Position>
+				<Position>(-6, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_DoubleAutodoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, 0)</Position>
+				<ThingDef>Brewery</ThingDef>
+				<Position>(-6, 0, 3)</Position>
 				<Rotation>3</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 0)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 1)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 2)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 3)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-6, 0, 4)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 4)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>FermentingBarrel</ThingDef>
 				<Position>(-6, 0, 5)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>Gold</Stuff>
+				<ThingDef>Loudspeaker</ThingDef>
 				<Position>(-6, 0, 6)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 6)</Position>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-6, 0, 7)</Position>
+				<Rotation>3</Rotation>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>Gold</Stuff>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(-6, 0, 7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-6, 0, 7)</Position>
+				<Position>(-6, 0, 8)</Position>
+				<Rotation>3</Rotation>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-6, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-6, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-5, 0, -6)</Position>
+				<Position>(-6, 0, 9)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-6, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-5, 0, -9)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-5, 0, -6)</Position>
+				<Position>(-5, 0, -8)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-5, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-5, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>Table1x2c</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(-5, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
+				<ThingDef>Table1x2c</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-5, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>SurroundAirVentWide</ThingDef>
+				<Position>(-5, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Armchair</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-5, 0, 3)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(-5, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Loudspeaker</ThingDef>
 				<Position>(-5, 0, 6)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, 7)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(-5, 0, 7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-5, 0, 7)</Position>
+				<Position>(-5, 0, 8)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-5, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-5, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-5, 0, 9)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-5, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-4, 0, -9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-4, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, -8)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-4, 0, -6)</Position>
+				<Position>(-4, 0, -8)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, -6)</Position>
+				<Position>(-4, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-4, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-4, 0, -5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
@@ -809,50 +1811,282 @@
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>DiningChair</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-4, 0, -1)</Position>
-				<Rotation>2</Rotation>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>Armchair</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-4, 0, 3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(-4, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Loudspeaker</ThingDef>
+				<Position>(-4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-4, 0, 7)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(-4, 0, 7)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, 8)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-4, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, 7)</Position>
+				<Position>(-4, 0, 9)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-4, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-3, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-3, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-3, 0, -8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-3, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -2)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-3, 0, -6)</Position>
+				<Position>(-3, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>Table2x4c</ThingDef>
+				<ThingDef>DrugLab</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-3, 0, -3)</Position>
+				<Position>(-3, 0, 3)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(-3, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(-3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 7)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(-3, 0, 7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-2, 0, -6)</Position>
+				<Position>(-3, 0, 8)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-3, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-3, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 9)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-3, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, -9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-2, 0, -9)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-2, 0, -8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-2, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-2, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>Table1x2c</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Table1x2c</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-2, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, 7)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(-2, 0, 7)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-2, 0, 8)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-2, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-2, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, -6)</Position>
+				<Position>(-2, 0, 9)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-2, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-1, 0, -9)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-1, 0, -6)</Position>
+				<Position>(-1, 0, -8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-1, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-1, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -5)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>DiningChair</ThingDef>
@@ -873,306 +2107,1870 @@
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>DiningChair</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, -1)</Position>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>DarkColumnMod</ThingDef>
+				<Position>(-1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Reliquary</ThingDef>
+				<Stuff>Steel</Stuff>
+				<Position>(0, 0, 5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>DiningChair</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(-1, 0, 4)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(-1, 0, 7)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(-1, 0, 7)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_DoubleAutodoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(1, 0, -6)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(0, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>DrugLab</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, 4)</Position>
-				<Rotation>1</Rotation>
-			</li>
-			<li>
-				<ThingDef>RB_DoubleAutodoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(0, 0, 7)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(0, 0, 7)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(1, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>ElectricStove</ThingDef>
-				<Position>(1, 0, 4)</Position>
 				<Rotation>3</Rotation>
 			</li>
 			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-1, 0, 7)</Position>
+			</li>
+			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-1, 0, 8)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-1, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(-1, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, 9)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(-1, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(0, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>Lectern</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+			</li>
+			<li>
+				<ThingDef>LightBall</ThingDef>
+			</li>
+			<li>
+				<ThingDef>PartySpot</ThingDef>
+				<Position>(0, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>Drum</ThingDef>
+				<Stuff>Cloth</Stuff>
+				<Position>(0, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(0, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(0, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(1, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(1, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(1, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -5)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Turret_Sniper_Lilly</ThingDef>
+				<Position>(1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(1, 0, 7)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(2, 0, -6)</Position>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(1, 0, 7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(2, 0, -6)</Position>
+				<Position>(1, 0, 8)</Position>
 			</li>
 			<li>
-				<ThingDef>DiningChair</ThingDef>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(1, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(1, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(2, 0, -4)</Position>
-				<Rotation>2</Rotation>
+				<Position>(1, 0, 9)</Position>
 			</li>
 			<li>
-				<ThingDef>DiningChair</ThingDef>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(1, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(2, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(2, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(2, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(2, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>Table1x2c</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Table1x2c</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(2, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>DiningChair</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(2, 0, -2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>DiningChair</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(2, 0, -1)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>DiningChair</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(2, 0, 4)</Position>
-				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(2, 0, 7)</Position>
+				<Position>(2, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>MarriageSpot</ThingDef>
+				<Position>(2, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(2, 0, 7)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(3, 0, -6)</Position>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(2, 0, 7)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(2, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(2, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(2, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, -6)</Position>
+				<Position>(2, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(2, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(3, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(3, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(3, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(3, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>Table2x4c</ThingDef>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(3, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -2)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(3, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(3, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(3, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(3, 0, 7)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(3, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(3, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(3, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(3, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(4, 0, 7)</Position>
-				<Rotation>2</Rotation>
+				<Position>(3, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(3, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(4, 0, -9)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(4, 0, -6)</Position>
+				<Position>(4, 0, -8)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(4, 0, 7)</Position>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(4, 0, -8)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(5, 0, -6)</Position>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(4, 0, -7)</Position>
 			</li>
 			<li>
 				<ThingDef>DiningChair</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(5, 0, -4)</Position>
+				<Position>(4, 0, -5)</Position>
 				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(4, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(4, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Loudspeaker</ThingDef>
+				<Position>(4, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(4, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(4, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(4, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(4, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(4, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(5, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(5, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(5, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(5, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(5, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(5, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>Table1x2c</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(5, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>Table1x2c</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(5, 0, -3)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>DiningChair</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(5, 0, -2)</Position>
-				<Rotation>2</Rotation>
-			</li>
-			<li>
-				<ThingDef>DiningChair</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(5, 0, -1)</Position>
-				<Rotation>2</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(5, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>Armchair</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(5, 0, 3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(5, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Loudspeaker</ThingDef>
+				<Position>(5, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(5, 0, 7)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(6, 0, -6)</Position>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(5, 0, 7)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, -6)</Position>
+				<Position>(5, 0, 8)</Position>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(5, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(5, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(5, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(5, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(6, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(6, 0, -5)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>IceColumnMod</ThingDef>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, -4)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>DiningChair</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(6, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>ElectricStove</ThingDef>
+				<Position>(6, 0, 3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>FermentingBarrel</ThingDef>
+				<Position>(6, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>Loudspeaker</ThingDef>
 				<Position>(6, 0, 6)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(6, 0, 7)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(6, 0, 7)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(6, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(6, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(6, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
+				<Position>(6, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(6, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(7, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(7, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(7, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(7, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(7, 0, -6)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(7, 0, -6)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(7, 0, -5)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(7, 0, -5)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, -4)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(7, 0, -4)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(7, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(7, 0, -3)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(7, 0, -3)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, -2)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(7, 0, -2)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(7, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(7, 0, -1)</Position>
-			</li>
-			<li>
-				<ThingDef>RB_DoubleAutodoor</ThingDef>
-				<Stuff>Gold</Stuff>
-				<Position>(7, 0, 1)</Position>
 				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, -1)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
 				<Position>(7, 0, 0)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
 				<Position>(7, 0, 1)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(7, 0, 2)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
 				<Position>(7, 0, 2)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
+				<ThingDef>redAirPipe</ThingDef>
 				<Position>(7, 0, 3)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_LargeOrnateDoor</ThingDef>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
 				<Position>(7, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, 7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(7, 0, 8)</Position>
 				<Rotation>1</Rotation>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(7, 0, 4)</Position>
+				<Position>(7, 0, 8)</Position>
+				<Rotation>2</Rotation>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(7, 0, 5)</Position>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(7, 0, 8)</Position>
 			</li>
 			<li>
-				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(7, 0, 6)</Position>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(7, 0, 8)</Position>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(7, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(7, 0, 6)</Position>
+				<Position>(7, 0, 9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(7, 0, 9)</Position>
 			</li>
 			<li>
 				<ThingDef>HiddenConduit</ThingDef>
-				<Position>(7, 0, 7)</Position>
+				<Position>(8, 0, -9)</Position>
+				<Rotation>1</Rotation>
 			</li>
 			<li>
-				<ThingDef>RB_OrnateWall</ThingDef>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
 				<Stuff>Gold</Stuff>
-				<Position>(7, 0, 7)</Position>
+				<Position>(8, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(8, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -5)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -4)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -2)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, -1)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(8, 0, 9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(8, 0, 9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -9)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, -9)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(9, 0, -8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(9, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(9, 0, -8)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -7)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, -7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -6)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, -6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -5)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, -5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -4)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, -4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -3)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -2)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, -1)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(9, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(9, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, 4)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, 5)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, 6)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 7)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, 7)</Position>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedGlassAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 8)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(9, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>blueAirPipe</ThingDef>
+				<Position>(9, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>cyanAirPipe</ThingDef>
+				<Position>(9, 0, 8)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(9, 0, 8)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_ReinforcedClerestoryWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(9, 0, 9)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RB_OverwallArmor</ThingDef>
+				<Stuff>Plasteel</Stuff>
+				<Position>(9, 0, 9)</Position>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-9, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-8, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-7, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-6, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-5, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-5, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-5, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-5, 0, -6)</Position>
+				<Rotation>200</Rotation>
 			</li>
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
@@ -1197,11 +3995,6 @@
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-5, 0, -1)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
-				<Position>(-5, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
@@ -1236,6 +4029,41 @@
 			</li>
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-5, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-5, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-5, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-4, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-4, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-4, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-4, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
@@ -1257,11 +4085,6 @@
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, -1)</Position>
-				<Rotation>200</Rotation>
-			</li>
-			<li>
-				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
-				<Position>(-4, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
@@ -1292,6 +4115,41 @@
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-4, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-4, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-4, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-4, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-3, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-3, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-3, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-3, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
@@ -1356,6 +4214,41 @@
 			</li>
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-3, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-3, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-3, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-2, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-2, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-2, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-2, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
@@ -1412,6 +4305,41 @@
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(-2, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-2, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-2, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-2, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-1, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-1, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-1, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-1, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
@@ -1476,6 +4404,36 @@
 			</li>
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-1, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-1, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(-1, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(0, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(0, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(0, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
@@ -1536,6 +4494,36 @@
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(0, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(0, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(0, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(0, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(1, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(1, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(1, 0, -7)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
@@ -1605,6 +4593,41 @@
 			</li>
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(1, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(1, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(1, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(2, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(2, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(2, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(2, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
@@ -1661,6 +4684,41 @@
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(2, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(2, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(2, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(2, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(3, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(3, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(3, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(3, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
@@ -1725,6 +4783,41 @@
 			</li>
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(3, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(3, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(3, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(4, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(4, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(4, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(4, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
@@ -1781,6 +4874,41 @@
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(4, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(4, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(4, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(4, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(5, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(5, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(5, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(5, 0, -6)</Position>
 				<Rotation>200</Rotation>
 			</li>
 			<li>
@@ -1845,6 +4973,41 @@
 			</li>
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(5, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(5, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(5, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(6, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(6, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(6, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(6, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(6, 0, -5)</Position>
 				<Rotation>200</Rotation>
 			</li>
@@ -1905,6 +5068,66 @@
 			</li>
 			<li>
 				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(6, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(6, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(6, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
 				<Position>(7, 0, 0)</Position>
 				<Rotation>200</Rotation>
 			</li>
@@ -1913,8 +5136,238 @@
 				<Position>(7, 0, 1)</Position>
 				<Rotation>200</Rotation>
 			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(7, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(8, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -9)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 4)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 5)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 6)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 7)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 8)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>RB_GoldStuddedTile</TerrainDef>
+				<Position>(9, 0, 9)</Position>
+				<Rotation>200</Rotation>
+			</li>
 		</BuildableThings>
 		<Name>식당</Name>
-		<Size>(14, 14)</Size>
+		<Size>(19, 19)</Size>
 	</Blueprint>
 </Blueprint>

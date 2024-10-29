@@ -3,6 +3,5 @@
 	<ModSettings Class="PawnsChooseResearch.ModSettings_PawnsChooseResearch">
 		<groupResearch>True</groupResearch>
 		<restoreControl>True</restoreControl>
-		<preferSimple>False</preferSimple>
 	</ModSettings>
 </SettingsBlock>

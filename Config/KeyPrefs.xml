@@ -764,6 +764,20 @@
     </value>
   </li>
   <li>
+    <key>Blueprint_Flip</key>
+    <value>
+      <keyBindingA>F</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_kNumbersOverviewTab</key>
+    <value>
+      <keyBindingA>Z</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -774,13 +788,6 @@
     <key>HotkeyTeleport</key>
     <value>
       <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>Blueprint_Flip</key>
-    <value>
-      <keyBindingA>F</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -802,13 +809,6 @@
     <key>VF_DebugSettings</key>
     <value>
       <keyBindingA>Keypad3</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MainTab_kNumbersOverviewTab</key>
-    <value>
-      <keyBindingA>Z</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>

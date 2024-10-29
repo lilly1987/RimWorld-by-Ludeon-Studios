@@ -11,68 +11,79 @@
 			<li>ludeon.rimworld.ideology</li>
 			<li>ludeon.rimworld.biotech</li>
 			<li>ludeon.rimworld.anomaly</li>
+			<li>mlie.dingongameloaded</li>
+			<li>owlchemist.cherrypicker.tmpfix</li>
 			<li>unlimitedhugs.hugslib</li>
+			<li>superniquito.modoptionssort</li>
+			<li>mlie.modmanager</li>
+			<li>taranchuk.moderrorchecker</li>
+			<li>imranfish.xmlextensions</li>
+			<li>rimfridge.kv.rw</li>
+			<li>lwm.deepstorage</li>
+			<li>oken.rebalanceddeepstorage</li>
+			<li>dorsai.xmlextensionstabviewfix</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>sm.mimikko</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>nals.facialanimation</li>
+			<li>nareislib.kamijouko.nazunarei</li>
+			<li>verniy709.annelitrice3.0</li>
+			<li>verniy709.annelitrice3.0.yorha</li>
+			<li>verniy709.annelitrice3.0.gakuen</li>
+			<li>verniy709.annelitrice3.0.ahmislan</li>
+			<li>verniy709.annelitrice3.0.jurnizia</li>
+			<li>ancot.ancotlibrary</li>
+			<li>ancot.milirarace</li>
+			<li>spankyh.bunrace.core</li>
+			<li>duelmonster.rimworld</li>
+			<li>lz.kurin.rich.trader1.4</li>
+			<li>gguake.race.vivi</li>
+			<li>rooandgloomy.yuranracemod</li>
+			<li>seioch.kurin.har</li>
+			<li>anthitei.athsretexturefemalapparel.retexture</li>
+			<li>qquack.gfap</li>
+			<li>anthitei.athsstylefemaledresses.style</li>
+			<li>sumghai.mousekinrace</li>
+			<li>hysteria82.lisasmousekinmedieval</li>
+			<li>hysteria82.lisasmousekinapparelvictorian</li>
+			<li>hysteria82.lisasmousekinapparelservantsandslaves</li>
+			<li>psyche.kemomimihouse</li>
+			<li>fxz.myafufu</li>
+			<li>lan.fufu</li>
+			<li>uuugggg.tdfindlib</li>
+			<li>uuugggg.tdsbugfixes</li>
 			<li>mlie.blueprintmaterialdebt</li>
 			<li>chippedchap.blueprinttotalstooltip</li>
 			<li>scorpio.resourcedictionary</li>
-			<li>imranfish.xmlextensions</li>
 			<li>seekiworksmod.no18</li>
-			<li>erdelf.humanoidalienraces</li>
-			<li>nareislib.kamijouko.nazunarei</li>
-			<li>rooandgloomy.yuranracemod</li>
-			<li>kikohi.whatsforsale</li>
-			<li>verniy709.annelitrice3.0</li>
-			<li>sm.mimikko</li>
-			<li>owlchemist.cherrypicker.tmpfix</li>
-			<li>oskarpotocki.vanillafactionsexpanded.core</li>
-			<li>verniy709.annelitrice3.0.jurnizia</li>
-			<li>verniy709.annelitrice3.0.yorha</li>
-			<li>verniy709.annelitrice3.0.ahmislan</li>
-			<li>verniy709.annelitrice3.0.gakuen</li>
 			<li>gideon.reborn.qualitysurgeon</li>
-			<li>syrus.heatmap</li>
-			<li>lz.kurin.rich.trader1.4</li>
-			<li>ancot.ancotlibrary</li>
 			<li>cocaine.electricstonecuttingtable</li>
 			<li>sumghai.medpod</li>
-			<li>duelmonster.rimworld</li>
 			<li>garwel.destroyitem</li>
-			<li>rimfridge.kv.rw</li>
 			<li>somewhereoutinspace.reusepods.updated</li>
+			<li>kikohi.whatsforsale</li>
+			<li>mlie.animalharvestingspot</li>
+			<li>unagi.a.d.coat</li>
+			<li>butterfish.hairmoddingplus</li>
+			<li>violue.yahmlol.hairs</li>
+			<li>frozensnowfox.betterspiketraps</li>
+			<li>unagi.short.hair2</li>
+			<li>mlie.markthatpawn</li>
 			<li>syrchalis.setupcamp</li>
+			<li>hentailoliteam.axolotl</li>
 			<li>linkolas.stabilize</li>
-			<li>ancot.milirarace</li>
-			<li>qquack.gfap</li>
 			<li>elshender.stackablechunks</li>
 			<li>jp.perfectpathing</li>
-			<li>anthitei.athsretexturefemalapparel.retexture</li>
+			<li>hentailoliteam.axolotl.fa</li>
 			<li>petetimessix.compacthediffs</li>
 			<li>nals.realisticbody</li>
-			<li>anthitei.athsstylefemaledresses.style</li>
 			<li>zal.moretradeships</li>
-			<li>lwm.deepstorage</li>
 			<li>brrainz.rangefinder</li>
-			<li>oken.rebalanceddeepstorage</li>
-			<li>psyche.kemomimihouse</li>
 			<li>simplephysics.perishablespoiltimefilter</li>
 			<li>rebuild.cotr.doorsandcorners</li>
-			<li>seioch.kurin.har</li>
 			<li>dhultgren.useminifiedbuildings</li>
 			<li>dark.jobinbar</li>
-			<li>mlie.animalharvestingspot</li>
-			<li>mlie.markthatpawn</li>
-			<li>frozensnowfox.betterspiketraps</li>
-			<li>sumghai.mousekinrace</li>
-			<li>hysteria82.lisasmousekinapparelvictorian</li>
-			<li>hysteria82.lisasmousekinmedieval</li>
-			<li>hysteria82.lisasmousekinapparelservantsandslaves</li>
-			<li>fxz.myafufu</li>
-			<li>lan.fufu</li>
 			<li>syrchalis.metallicbatteries</li>
-			<li>butterfish.hairmoddingplus</li>
-			<li>unagi.short.hair2</li>
-			<li>violue.yahmlol.hairs</li>
-			<li>unagi.a.d.coat</li>
 			<li>gguake.ai.dsfi</li>
 			<li>sarg.alphaprefabs</li>
 			<li>nep.smallerturbines</li>
@@ -80,10 +91,7 @@
 			<li>mrhydralisk.voeadditionaloutposts</li>
 			<li>nakomaru.shelfanything</li>
 			<li>eoralmilk.faceaddonframework</li>
-			<li>nals.facialanimation</li>
-			<li>hentailoliteam.axolotl</li>
 			<li>merthsoft.designatorshapes</li>
-			<li>hentailoliteam.axolotl.fa</li>
 			<li>miho.fortifiedoutremer</li>
 			<li>oels.multireinstall</li>
 			<li>talos.miho.face.fa</li>
@@ -162,9 +170,9 @@
 			<li>tr.qualcolor</li>
 			<li>void.charactereditor</li>
 			<li>windchime.giverthecolonyhelper</li>
+			<li>amandrp10.nd</li>
 			<li>doug.nojobauthors</li>
 			<li>indeed.stackxxl</li>
-			<li>dubwise.dubsperformanceanalyzer.steam</li>
 			<li>taranchuk.performanceoptimizer</li>
 			<li>owlchemist.toggleablereadouts</li>
 			<li>kota.inventorytab</li>
@@ -216,21 +224,65 @@
 			<li>funkyshit.mods.worldedit</li>
 			<li>uuugggg.usebedrolls</li>
 			<li>xercaine.industrialage.artillery</li>
-			<li>sanoo6.haeyangracemod</li>
+			<li>mlie.centralizedclimatecontrol</li>
 			<li>mlie.capturethem</li>
 			<li>warshipgirlr.alienraces</li>
 			<li>vk.token.hair</li>
 			<li>rogueservitor.mechanoids</li>
 			<li>46hhhh.yuranfurshavedfix</li>
-			<li>lilly.maidproject</li>
+			<li>caesarv6.damageindicators</li>
+			<li>mlie.extendedstorage</li>
+			<li>mlie.expandedroofing</li>
+			<li>8z.callforintel</li>
+			<li>mlie.cargopodtransport</li>
 			<li>mlmlmlm.cosplayapparelumamusumeprettyderby</li>
-			<li>rmk.translation</li>
+			<li>cantaloupe.longrangetransportpods</li>
+			<li>verniy709.annelitrice3.0.neoyokohama</li>
+			<li>viciousbunny.nocomplexity</li>
+			<li>mlie.perspectivebuildings</li>
+			<li>nova.mapsaver</li>
+			<li>peko.marketvalueoverlay</li>
+			<li>rooboid.accessoryhairshd</li>
+			<li>unagi.ap.dress</li>
+			<li>ogre.advancedhydroponics</li>
+			<li>falconne.bwm</li>
+			<li>uuugggg.everybodygetsone</li>
+			<li>leafzxg.masterofcooking</li>
+			<li>dubwise.dubsskylights</li>
+			<li>kongkim.farmableneutroamine</li>
+			<li>match.roofsupport</li>
+			<li>wall.light.relic</li>
+			<li>owlchemist.ceilingutilities</li>
+			<li>archangel.replantsptrees</li>
+			<li>lilly.maidproject</li>
+			<li>countmymods.1trickpwnyta</li>
+			<li>name.krypt.rimworld.rwlayout.alpha2</li>
+			<li>dismarzero.vgp.vgpgardenmedicine</li>
+			<li>uuugggg.whatismypurpose</li>
+			<li>madeline.modmismatchformatter</li>
+			<li>mlie.blockunwantedminutiae</li>
+			<li>katana.disableroofcheck</li>
+			<li>laura7z.noflares</li>
+			<li>nep.noroofcollapse</li>
+			<li>hellrevenger.quickarea</li>
+			<li>kathanon.dountilfilter</li>
+			<li>syrus.heatmap</li>
+			<li>co.uk.epicguru.whatsthatmod</li>
+			<li>seekiworksmod.no17</li>
+			<li>bp.showbuildablematerialcount</li>
+			<li>shepirotgamer.nogauranlenradius</li>
+			<li>frozensnowfox.indoortreefarms</li>
+			<li>wealthlist.ui.tmpfix</li>
+			<li>yy.hoodsandhelmets</li>
+			<li>mlie.showmodupdates</li>
+			<li>dubwise.dubsperformanceanalyzer.steam</li>
 			<li>blackcanvas.korean.voiceroidasanimal</li>
 			<li>blackcanvas.ayabosstranslations</li>
 			<li>blackcanvas.korean.myafufu</li>
 			<li>moonleaf.mistranslations</li>
 			<li>blackcanvas.ayaracetranslations</li>
 			<li>blackcanvas.korean.giverthecolonyhelper</li>
+			<li>rmk.translation</li>
 			<li>destiny.rktm.mod</li>
 			<li>krkr.rocketman</li>
 		</modIds>
@@ -243,6 +295,14 @@
 			<li>1392840</li>
 			<li>1826140</li>
 			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -465,6 +525,50 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 		</modSteamIds>
 		<modNames>
 			<li>Harmony</li>
@@ -475,68 +579,79 @@
 			<li>Ideology</li>
 			<li>Biotech</li>
 			<li>Anomaly</li>
+			<li>Ding On Game Loaded</li>
+			<li>Cherry Picker</li>
 			<li>HugsLib</li>
+			<li>Mod Options Sort</li>
+			<li>Mod Manager (Continued)</li>
+			<li>Mod Error Checker</li>
+			<li>XML Extensions</li>
+			<li>RimFridge: Now with Shelves!</li>
+			<li>LWM's Deep Storage</li>
+			<li>Integrated Deep Storage</li>
+			<li>Fix XML Extensions TabView</li>
+			<li>Humanoid Alien Races</li>
+			<li>兽耳助手（Mimikko）</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>[NL] Facial Animation - WIP</li>
+			<li>NareisLib</li>
+			<li>Annelitrice 3.0</li>
+			<li>Annelitrice 3.0 YoRHa Apparels and Factions</li>
+			<li>Annelitrice 3.0 Gakuen Apparels and Factions</li>
+			<li>Annelitrice 3.0 Ahmislan Apparels and Factions</li>
+			<li>Annelitrice 3.0 Jurnizia Apparels and Factions</li>
+			<li>Ancot Library</li>
+			<li>Milira Race</li>
+			<li>Bun Race</li>
+			<li>DuelMonsterRimWorld</li>
+			<li>Kurin [Deluxe Edition] Rich trader 1.4 update</li>
+			<li>Vivi Race</li>
+			<li>Yuran race</li>
+			<li>Kurin HAR Edition</li>
+			<li>ATH's Retexture Female Apparel</li>
+			<li>QQ's Girls' frontline Apparel Pack</li>
+			<li>ATH's Style Female Dresses</li>
+			<li>Mousekin Race</li>
+			<li>Lisa's Mousekin Apparel: Medieval</li>
+			<li>Lisa's Mousekin Apparel: Victorian</li>
+			<li>Lisa's Mousekin Apparel: Servants And Slaves</li>
+			<li>kemomimihouse</li>
+			<li>Mya's fufu</li>
+			<li>Xiaolan'fufu</li>
+			<li>TD Find Lib</li>
+			<li>TDS Bug Fixes</li>
 			<li>Blueprint Material Debt (Continued)</li>
 			<li>Blueprint Totals Tooltip</li>
 			<li>Resource Dictionary</li>
-			<li>XML Extensions</li>
 			<li>Forced Rearmament</li>
-			<li>Humanoid Alien Races</li>
-			<li>NareisLib</li>
-			<li>Yuran race</li>
-			<li>What's for sale?</li>
-			<li>Annelitrice 3.0</li>
-			<li>兽耳助手（Mimikko）</li>
-			<li>Cherry Picker</li>
-			<li>Vanilla Expanded Framework</li>
-			<li>Annelitrice 3.0 Jurnizia Apparels and Factions</li>
-			<li>Annelitrice 3.0 YoRHa Apparels and Factions</li>
-			<li>Annelitrice 3.0 Ahmislan Apparels and Factions</li>
-			<li>Annelitrice 3.0 Gakuen Apparels and Factions</li>
 			<li>Gideon's Quality Surgeon Reborn</li>
-			<li>Heat Map (Continued)</li>
-			<li>Kurin [Deluxe Edition] Rich trader 1.4 update</li>
-			<li>Ancot Library</li>
 			<li>Electric Stonecutting Table</li>
 			<li>MedPod</li>
-			<li>DuelMonsterRimWorld</li>
 			<li>Destroy Item</li>
-			<li>RimFridge: Now with Shelves!</li>
 			<li>Reuse Pods v1.5</li>
+			<li>What's for sale?</li>
+			<li>AnimalHarvestingSpot (Continued)</li>
+			<li>UNAGI Another Duster Coat</li>
+			<li>Hair Modding Plus (continued)</li>
+			<li>Yet Another Hair Mod: League of Legends Edition</li>
+			<li>[FSF] Better Spike Traps</li>
+			<li>UNAGI_Hair2</li>
+			<li>Mark That Pawn</li>
 			<li>Set Up Camp</li>
+			<li>MoeLotl Race</li>
 			<li>Stabilize</li>
-			<li>Milira Race</li>
-			<li>QQ's Girls' frontline Apparel Pack</li>
 			<li>Stackable Chunks [1.5]</li>
 			<li>Perfect Pathfinding</li>
-			<li>ATH's Retexture Female Apparel</li>
+			<li>MoeLotl Facial Animation</li>
 			<li>Compact Hediffs</li>
 			<li>[NL] Realistic Body</li>
-			<li>ATH's Style Female Dresses</li>
 			<li>More Trade Ships (Continued)</li>
-			<li>LWM's Deep Storage</li>
 			<li>Range Finder</li>
-			<li>Integrated Deep Storage</li>
-			<li>kemomimihouse</li>
 			<li>Perishable Spoil Time Filter</li>
 			<li>ReBuild: Doors and Corners</li>
-			<li>Kurin HAR Edition</li>
 			<li>Use Minified Buildings</li>
 			<li>Job In Bar</li>
-			<li>AnimalHarvestingSpot (Continued)</li>
-			<li>Mark That Pawn</li>
-			<li>[FSF] Better Spike Traps</li>
-			<li>Mousekin Race</li>
-			<li>Lisa's Mousekin Apparel: Victorian</li>
-			<li>Lisa's Mousekin Apparel: Medieval</li>
-			<li>Lisa's Mousekin Apparel: Servants And Slaves</li>
-			<li>Mya's fufu</li>
-			<li>Xiaolan'fufu</li>
 			<li>[SYR] Metallic Batteries</li>
-			<li>Hair Modding Plus (continued)</li>
-			<li>UNAGI_Hair2</li>
-			<li>Yet Another Hair Mod: League of Legends Edition</li>
-			<li>UNAGI Another Duster Coat</li>
 			<li>Do Something for Idle</li>
 			<li>Alpha Prefabs</li>
 			<li>Aligned Turbines</li>
@@ -544,10 +659,7 @@
 			<li>Vanilla Outposts Expanded: Additional Outposts</li>
 			<li>Shelf Anything Continued</li>
 			<li>Face Addon Framework</li>
-			<li>[NL] Facial Animation - WIP</li>
-			<li>MoeLotl Race</li>
 			<li>Designator Shapes</li>
-			<li>MoeLotl Facial Animation</li>
 			<li>Miho, the celestial fox</li>
 			<li>Multi-Reinstall</li>
 			<li>Miho Facial Animation</li>
@@ -626,9 +738,9 @@
 			<li>Quality Colors 1.5 - Forked</li>
 			<li>Character Editor</li>
 			<li>Giver</li>
+			<li>Artillery Machine (unofficial)</li>
 			<li>No Job Authors</li>
 			<li>Stack XXL</li>
-			<li>Dubs Performance Analyzer</li>
 			<li>Performance Optimizer</li>
 			<li>Toggleable Readouts</li>
 			<li>InventoryTab</li>
@@ -680,32 +792,76 @@
 			<li>WorldEdit 2.0</li>
 			<li>Use Bedrolls</li>
 			<li>Artillery Gun</li>
-			<li>Haeyang Race</li>
+			<li>Centralized Climate Control (Continued)</li>
 			<li>Capture Them (Continued)</li>
 			<li>[Race]WarShipGirl R|战舰少女R</li>
 			<li>[VK]ToukenRanbuHair</li>
 			<li>[Mech]Pavia-RogueServitor|帕维亚-失控机仆</li>
 			<li>YuranFurshavedFix</li>
-			<li>[SS]Maid Project - lilly</li>
+			<li>Damage Indicators [1.5]</li>
+			<li>Extended Storage (Continued)</li>
+			<li>Expanded Roofing (Continued)</li>
+			<li>Call For Intel</li>
+			<li>Cargo Pod Transport (Continued)</li>
 			<li>[Cosplay apparel]Umamusume Pretty Derby</li>
-			<li>Rimworld Mod Korean</li>
+			<li>Long Range Transport Pods [CONTINUED]</li>
+			<li>Annelitrice 3.0 Neo-Yokohama Apparels and Factions</li>
+			<li>No Complexity</li>
+			<li>Perspective: Buildings (Continued)</li>
+			<li>Map Saver</li>
+			<li>Market Value Overlay</li>
+			<li>Roo's HD Accessory Hairstyles</li>
+			<li>UNAGI Royalty Apparel</li>
+			<li>Advanced Hydroponics</li>
+			<li>Better Workbench Management</li>
+			<li>Everybody Gets One</li>
+			<li>Master of Cooking</li>
+			<li>Dubs Skylights</li>
+			<li>Farmable Neutroamine</li>
+			<li>Roof Support</li>
+			<li>Wall light Relic</li>
+			<li>Simple Utilities: Ceiling</li>
+			<li>Replantable Special Trees</li>
+			<li>[SS]Maid Project - lilly</li>
+			<li>Count My Mods</li>
+			<li>RWLayout</li>
+			<li>VGP Garden Medicine</li>
+			<li>What Is My Purpose</li>
+			<li>Better ModMismatch Window</li>
+			<li>Block Unwanted Minutiae (Continued)</li>
+			<li>Disable Roof Check</li>
+			<li>No Solar Flares</li>
+			<li>No Roof Collapse</li>
+			<li>Quick Area</li>
+			<li>"Do Until" Filter</li>
+			<li>Heat Map (Continued)</li>
+			<li>What's That Mod</li>
+			<li>AAAA(Allowed Area Automatic Adapter)</li>
+			<li>Show Buildable Material Count</li>
+			<li>Removed radius for Gauranlen Trees</li>
+			<li>[FSF] Indoor Tree Farms</li>
+			<li>WealthList 1.5 From VUIE</li>
+			<li>Hoods and Helmets</li>
+			<li>Show Mod Updates</li>
+			<li>Dubs Performance Analyzer</li>
 			<li>VoiceroidAsAnimal 한국어 번역</li>
 			<li>Ayameduki Boss 통합 한국어 번역</li>
 			<li>Mya's fufu 한국어 번역</li>
 			<li>[MIS] - 명일방주 통합 한국어 번역모드</li>
 			<li>Ayameduki Race 통합 한국어 번역</li>
 			<li>Giver 한국어 번역</li>
+			<li>Rimworld Mod Korean</li>
 			<li>[RKTM] Mod</li>
 			<li>RocketMan - Performance Mod</li>
 		</modNames>
 	</meta>
 	<scenario>
-		<name>치트6</name>
+		<name>애완동물 능력치 없음-재료 7종</name>
 		<summary />
 		<description />
 		<playerFaction>
 			<def>PlayerFaction</def>
-			<factionDef>ResearchExpedition</factionDef>
+			<factionDef>PlayerColony</factionDef>
 		</playerFaction>
 		<parts>
 			<li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
@@ -715,7 +871,6 @@
 			</li>
 			<li Class="ScenPart_PlayerPawnsArriveMethod">
 				<def>PlayerPawnsArriveMethod</def>
-				<method>DropPods</method>
 			</li>
 			<li Class="VFECore.ScenPart_ForcedFactionGoodwill">
 				<affectStartingGoodwill>True</affectStartingGoodwill>
@@ -1052,356 +1207,6 @@
 				<chance>1</chance>
 				<context>PlayerStarter</context>
 				<trait>Joyous</trait>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>akame</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>aome</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Ariana</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>baier</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>buer</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Castariri</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Giwa</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>hana</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>jiaer</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>juer</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>kohime</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>kon</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>konf</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>kuoer</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>kuro</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Kurumi</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Maya</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>miko</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Miruko</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Miruku</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Momona</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Nemuri</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Nonona</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Ruri</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>siro</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>sirof</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_Allial</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_IA</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_KizunaAkari</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_KotonohaAkane</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_KotonohaAoi</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_KyomachiSeika</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_MeikaHime</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_MeikaMikoto</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_Millial</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_ONE</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_OtomachiUna</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_SatoSasara</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_SuzukiTsudumi</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_TohokuItako</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_TohokuKiritan</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_TohokuZunko</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_Tuina_chan</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_v_flower</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>VAA_YuzukiYukari</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>WB_Giver</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>yuki</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Yurika</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>Zero</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingAnimalExtra">
-				<def>StartingAnimal</def>
-				<animalKind>zhuer</animalKind>
-				<count>1</count>
-				<pawnName IsNull="True" />
-				<bondToRandomPlayerPawnChance>1</bondToRandomPlayerPawnChance>
 			</li>
 			<li Class="ScenPart_StartingResearch">
 				<def>StartingResearch</def>
@@ -1893,6 +1698,18 @@
 			</li>
 			<li Class="ScenPart_StartingResearch">
 				<def>StartingResearch</def>
+				<project>Anneli_Fountain</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Anneli_NutrientSolution</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Anneli_PuppetTheatre</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
 				<project>RPMomona</project>
 			</li>
 			<li Class="ScenPart_StartingResearch">
@@ -1926,6 +1743,34 @@
 			<li Class="ScenPart_StartingResearch">
 				<def>StartingResearch</def>
 				<project>RPKurumi</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Anneli_Jurnizia_Apparels</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Anneli_YoRHa_Apparels</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Anneli_Ahmislan_Apparels</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Anneli_Gakuen_Apparels</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Electricstonecutting</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>AcceleratedCellularRegeneration</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>DMRW_MonsterCostume</project>
 			</li>
 			<li Class="ScenPart_StartingResearch">
 				<def>StartingResearch</def>
@@ -2289,6 +2134,54 @@
 			</li>
 			<li Class="ScenPart_StartingResearch">
 				<def>StartingResearch</def>
+				<project>Axolotl_Research_BaseClothing</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_BaseArmor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_EnrichedArmor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_HeavenlyTopArmor</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_LuxuryClothing</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_LotlQiClothing</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_BasePlant</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_Alchemy</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_BaseLotlQiRangedWeapon</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_EnrichedLotlQiRangedWeapon</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_BaseWeapon</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Axolotl_Research_EnrichedWeapon</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
 				<project>Miho_BasicFactory</project>
 			</li>
 			<li Class="ScenPart_StartingResearch">
@@ -2621,139 +2514,15 @@
 			</li>
 			<li Class="ScenPart_StartingResearch">
 				<def>StartingResearch</def>
-				<project>MaidTech</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYBasic</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYPurifier</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYMedicalBasic</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYMedicalAdvanced</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYMedicalMaster</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYPumpAuto</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYMarimo</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYSalt</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYIcecream</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYVariablecream</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYNeapolitan</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYPopsicle</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYAqua</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYAquaRefine</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYClothings</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYArmors</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYArmorPlus</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYArmorMagna</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYWeapons</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>HYWeaponPlus</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_BaseClothing</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_BaseArmor</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_EnrichedArmor</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_HeavenlyTopArmor</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_LuxuryClothing</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_LotlQiClothing</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_BasePlant</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_Alchemy</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_BaseLotlQiRangedWeapon</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_EnrichedLotlQiRangedWeapon</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_BaseWeapon</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
-				<project>Axolotl_Research_EnrichedWeapon</project>
-			</li>
-			<li Class="ScenPart_StartingResearch">
-				<def>StartingResearch</def>
 				<project>ArtilleryGun</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>BasicClimateControl</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>IndustrialClimateControl</project>
 			</li>
 			<li Class="ScenPart_StartingResearch">
 				<def>StartingResearch</def>
@@ -2871,81 +2640,41 @@
 				<def>StartingResearch</def>
 				<project>RogueServitor_Mountain_Company</project>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Gold</thingDef>
-				<count>1000000</count>
-				<quality>Legendary</quality>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>TransparentRoofProduction</project>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Silver</thingDef>
-				<count>1000000</count>
-				<quality>Legendary</quality>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>SolarRoofProduction</project>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Steel</thingDef>
-				<count>100000</count>
-				<quality>Legendary</quality>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ThickStoneRoofRemoval</project>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Uranium</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>ThickStoneRoofProduction</project>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Plasteel</thingDef>
-				<count>100000</count>
-				<quality>Legendary</quality>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>MaidTech</project>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Bioferrite</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>CargoPodBuild</project>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>BlocksMarble</thingDef>
-				<count>100000</count>
-				<quality>Legendary</quality>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Anneli_NeoYokohama_Apparels</project>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>BlocksGranite</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>IJade</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
+			<li Class="ScenPart_StartingResearch">
+				<def>StartingResearch</def>
+				<project>Ogre_AdvancedHydroponics</project>
 			</li>
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Milira_SolarCrystal</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Cloth</thingDef>
-				<count>100000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>DevilstrandCloth</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Dye</thingDef>
 				<count>10000</count>
 				<quality>Legendary</quality>
 			</li>
@@ -2958,18 +2687,6 @@
 			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
 				<def>StartingThing_Defined</def>
 				<thingDef>Kibble</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Hay</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>MedicineHerbal</thingDef>
 				<count>10000</count>
 				<quality>Legendary</quality>
 			</li>
@@ -2997,47 +2714,6 @@
 				<count>10000</count>
 				<quality>Legendary</quality>
 			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>NanostructuringChip</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>PowerfocusChip</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>Chemfuel</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>HemogenPack</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>MechSerumResurrector</thingDef>
-				<count>10000</count>
-				<quality>Legendary</quality>
-			</li>
-			<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined">
-				<def>StartingThing_Defined</def>
-				<thingDef>ChefMaid</thingDef>
-				<count>32</count>
-				<quality>Legendary</quality>
-			</li>
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>RB_BallisticGlass</thingDef><count>100000</count><quality>Legendary</quality></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>Electricstonecutting</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>BasicClimateControl</project></li>
-<li Class="ScenPart_StartingResearch"><def>StartingResearch</def><project>IndustrialClimateControl</project></li>
-
 		</parts>
 	</scenario>
 </savedscenario>

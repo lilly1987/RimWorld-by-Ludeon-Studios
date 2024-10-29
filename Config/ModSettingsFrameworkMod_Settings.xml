@@ -116,6 +116,7 @@
 							<li>RB_NewWallAtlasTextures_V1</li>
 							<li>RB_NewWallAtlasTextures_V2</li>
 							<li>RB_NewWallAtlasTextures_V3</li>
+							<li>RB_DaC_DubsSkylights</li>
 						</keys>
 						<values>
 							<li>True</li>
@@ -126,6 +127,7 @@
 							<li>True</li>
 							<li>False</li>
 							<li>False</li>
+							<li>True</li>
 						</values>
 					</patchOperationStates>
 					<patchOperationValues>

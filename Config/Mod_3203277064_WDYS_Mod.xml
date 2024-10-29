@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="WDYS.WDYS_Settings" />
+	<ModSettings Class="WDYS.WDYS_Settings">
+		<onlyIndustrialAndHigher>False</onlyIndustrialAndHigher>
+		<needTradeConsole>False</needTradeConsole>
+		<activateMaxTile>False</activateMaxTile>
+	</ModSettings>
 </SettingsBlock>

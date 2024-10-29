@@ -2,6 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="WhileYoureUp.Mod+Settings">
 		<DrawSpecialHauls>True</DrawSpecialHauls>
+		<Opportunity_TweakVanilla>True</Opportunity_TweakVanilla>
 		<HaulBeforeCarry_Bills_NeedsInitForCs>False</HaulBeforeCarry_Bills_NeedsInitForCs>
 		<hbcBuildingFilter>
 			<disallowedSpecialFilters />

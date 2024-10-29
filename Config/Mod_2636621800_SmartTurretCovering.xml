@@ -2,5 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="SmartTurretCovering.Settings">
 		<CurrentFactor>OneThird</CurrentFactor>
+		<isAnalogBlockChance>True</isAnalogBlockChance>
 	</ModSettings>
 </SettingsBlock>

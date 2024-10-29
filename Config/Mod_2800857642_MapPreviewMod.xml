@@ -2,9 +2,11 @@
 <SettingsBlock>
 	<ModSettings Class="MapPreview.MapPreviewSettings">
 		<AutoOpenPreviewOnWorldMap>True</AutoOpenPreviewOnWorldMap>
+		<EnableSeedRerollFeature>True</EnableSeedRerollFeature>
+		<CompatibilityMode>True</CompatibilityMode>
 		<EnableLandformSettingsIntegration>True</EnableLandformSettingsIntegration>
 		<PreviewWindowSize>499.7549</PreviewWindowSize>
-		<PreviewWindowPos>(1324.0, 373.0)</PreviewWindowPos>
-		<ToolbarWindowPos>(1324.0, 315.0)</ToolbarWindowPos>
+		<PreviewWindowPos>(1394.0, 314.0)</PreviewWindowPos>
+		<ToolbarWindowPos>(1394.0, 251.0)</ToolbarWindowPos>
 	</ModSettings>
 </SettingsBlock>

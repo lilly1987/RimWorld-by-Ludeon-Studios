@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="Table_Diner_Configurable.TableDinerSettings" />
+	<ModSettings Class="Table_Diner_Configurable.TableDinerSettings">
+		<tableSearchDistance>400</tableSearchDistance>
+	</ModSettings>
 </SettingsBlock>

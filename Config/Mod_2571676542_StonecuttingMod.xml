@@ -4,6 +4,5 @@
 		<WorkAmountMultiplier>1.5</WorkAmountMultiplier>
 		<BulkWorkAmountMultiplier>1.5</BulkWorkAmountMultiplier>
 		<SkillLearnFactor>2</SkillLearnFactor>
-		<UsedSkill>Art</UsedSkill>
 	</ModSettings>
 </SettingsBlock>

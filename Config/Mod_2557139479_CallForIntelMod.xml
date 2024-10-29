@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="CallForIntel.CallForIntelSettings" />
+	<ModSettings Class="CallForIntel.CallForIntelSettings">
+		<IntelAncientComplexCost>20</IntelAncientComplexCost>
+	</ModSettings>
 </SettingsBlock>
