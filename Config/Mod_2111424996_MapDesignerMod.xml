@@ -4,18 +4,14 @@
 		<configs>
 			<li>1:flagHomeMapOnly=True;configName=1;hillAmount=0.5;hillSize=0.1;hillSmoothness=0;flagMtnExit=False;flagCaves=True;flagHillClumping=False;flagHillRadial=False;hillRadialAmt=1;hillRadialSize=0.65;flagHillSplit=False;hillSplitAmt=1.5;hillSplitDir=90;hillSplitSize=1.1;flagHillSide=False;hillSideAmt=0.2;hillSideDir=160;flagHillDonut=False;hillDonutAmt=-0.9;hillDonutSize=0.75;hillDonutDisp=(0.0, 0.0, 0.0);densityPlant=1;densityAnimal=1;densityRuins=1;densityDanger=1;densityGeyser=1;densityOre=1;animaCount=1;flagRockChunks=True;oreCommonality=MineableSteel-1,MineableSilver-1,MineableGold-1,MineableUranium-1,MineablePlasteel-1,MineableJade-1,MineableComponentsIndustrial-1,Milira_MineableSunPlateStell-1,MineableFluorite-1,WSGR_MineableAluminium-1,;flagRoadDebris=True;flagCaveDebris=True;flagAncientUtilityBuilding=True;flagAncientTurret=True;flagAncientMechs=True;flagAncientLandingPad=True;flagAncientFences=True;countMechanoidRemains=1;densityAncientPipelineSection=1;densityAncientJunkClusters=1;countAncientExostriderRemains=1;densityAncientPollutionJunk=1;densityPoluxTrees=1;pollutionLevel=1;densityMOBattlefield=1;densityMOTarPit=1;densityMOBeeHive=1;densityMOHornet=1;rockTypeRange=1~1;flagBiomeRocks=False;allowedRocks=Sandstone-True,Granite-True,Limestone-True,Slate-True,Marble-True,;sizeRiver=0.1;flagRiverBeach=False;riverShore=SoilRich;riverBeachSize=10;flagRiverDir=True;riverDir=90;flagRiverLoc=True;flagRiverLocAbs=False;riverCenterDisp=(-0.3, 0.0, -0.3);selRiverStyle=Vanilla;coastDir=Vanilla;beachTerr=Vanilla;terrainFert=0.2;terrainWater=0.2;flagTerrainWater=False;selectedFeature=NatIsland;priIslandSize=40;priBeachSize=5;priStyle=Single;priSingleCenterDisp=(0.0, 0.0, 0.0);flagPriSalty=False;lakeSize=0.2;lakeBeachSize=10;lakeRoundness=1.5;lakeDepth=0.5;flagLakeSalty=False;lakeShore=Sand;lakeCenterDisp=(0.0, 0.0, 0.0);niSize=1.5;niBeachSize=0;niRoundness=0;flagNiSalty=False;niShore=Ice;niCenterDisp=(0.0, 0.0, 0.0);niStyle=Square;niWaterDepth=-0.2;</li>
 			<li>세로:flagHomeMapOnly=True;configName=세로;hillAmount=0.5;hillSize=0.01;hillSmoothness=0;flagMtnExit=False;flagCaves=True;flagHillClumping=False;flagHillRadial=False;hillRadialAmt=1;hillRadialSize=0.6360477;flagHillSplit=False;hillSplitAmt=1.5;hillSplitDir=90;hillSplitSize=0.4740487;flagHillSide=True;hillSideAmt=3;hillSideDir=360;flagHillDonut=False;hillDonutAmt=-0.1253534;hillDonutSize=1.2;hillDonutDisp=(0.0, 0.0, 0.0);densityPlant=2.5;densityAnimal=2.5;densityRuins=0;densityDanger=0;densityGeyser=2.5;densityOre=2.5;animaCount=0;flagRockChunks=True;oreCommonality=MineableSteel-2,MineableSilver-2,MineableGold-2,MineableUranium-2,MineablePlasteel-2,MineableJade-2,MineableComponentsIndustrial-2,Milira_MineableSunPlateStell-2,MineableFluorite-2,WSGR_MineableAluminium-2,;flagRoadDebris=False;flagCaveDebris=False;flagAncientUtilityBuilding=False;flagAncientTurret=False;flagAncientMechs=False;flagAncientLandingPad=False;flagAncientFences=False;countMechanoidRemains=0;densityAncientPipelineSection=0;densityAncientJunkClusters=0;countAncientExostriderRemains=0;densityAncientPollutionJunk=0;densityPoluxTrees=0;pollutionLevel=0;densityMOBattlefield=1;densityMOTarPit=1;densityMOBeeHive=1;densityMOHornet=1;rockTypeRange=5~5;flagBiomeRocks=False;allowedRocks=Sandstone-True,Granite-True,Limestone-True,Slate-True,Marble-True,;sizeRiver=1;flagRiverBeach=False;riverShore=SoilRich;riverBeachSize=10;flagRiverDir=False;riverDir=180;flagRiverLoc=False;flagRiverLocAbs=False;riverCenterDisp=(0.0, 0.0, 0.0);selRiverStyle=Vanilla;coastDir=Vanilla;beachTerr=Vanilla;terrainFert=0.2;terrainWater=0.2;flagTerrainWater=False;selectedFeature=None;priIslandSize=40;priBeachSize=5;priStyle=Single;priSingleCenterDisp=(0.0, 0.0, 0.0);flagPriSalty=False;lakeSize=0.2;lakeBeachSize=10;lakeRoundness=0;lakeDepth=0.5;flagLakeSalty=False;lakeShore=Sand;lakeCenterDisp=(0.0, 0.0, 0.0);niSize=1.5;niBeachSize=0;niRoundness=0;flagNiSalty=False;niShore=Soil;niCenterDisp=(0.0, 0.0, 0.0);niStyle=Square;niWaterDepth=-0.2;</li>
+			<li>2:flagHomeMapOnly=True;configName=2;hillAmount=1.00789;hillSize=0.01;hillSmoothness=0;flagMtnExit=False;flagCaves=True;flagHillClumping=False;flagHillRadial=False;hillRadialAmt=1;hillRadialSize=0.65;flagHillSplit=False;hillSplitAmt=1.5;hillSplitDir=90;hillSplitSize=0.35;flagHillSide=True;hillSideAmt=3;hillSideDir=180;flagHillDonut=False;hillDonutAmt=-0.9;hillDonutSize=0.75;hillDonutDisp=(0.0, 0.0, 0.0);densityPlant=2.5;densityAnimal=2.5;densityRuins=0;densityDanger=0;densityGeyser=2.5;densityOre=2.5;animaCount=1;flagRockChunks=True;oreCommonality=MineableSteel-1,MineableSilver-1,MineableGold-1,MineableUranium-1,MineablePlasteel-1,MineableJade-1,MineableComponentsIndustrial-1,Milira_MineableSunPlateStell-1,Mosi_MineableBioferrite-1,MineableDiamond-1,MineableAmethyst-1,MineableTurquoise-1,MineableSapphire-1,MineableEmerald-1,MineableLapis-1,MineableOpal-1,MineableRuby-1,MineableTopaz-1,MineableQuartz-1,MineablePeridot-1,MineableMoonstone-1,WSGR_MineableAluminium-1,;flagRoadDebris=False;flagCaveDebris=False;flagAncientUtilityBuilding=False;flagAncientTurret=False;flagAncientMechs=False;flagAncientLandingPad=False;flagAncientFences=False;countMechanoidRemains=0;densityAncientPipelineSection=0;densityAncientJunkClusters=0;countAncientExostriderRemains=0;densityAncientPollutionJunk=0;densityPoluxTrees=1;pollutionLevel=0;densityMOBattlefield=1;densityMOTarPit=1;densityMOBeeHive=1;densityMOHornet=1;rockTypeRange=5~5;flagBiomeRocks=False;allowedRocks=Sandstone-True,Granite-True,Limestone-True,Slate-True,Marble-True,;sizeRiver=1;flagRiverBeach=False;riverShore=SoilRich;riverBeachSize=10;flagRiverDir=False;riverDir=180;flagRiverLoc=False;flagRiverLocAbs=False;riverCenterDisp=(0.0, 0.0, 0.0);selRiverStyle=Vanilla;coastDir=Vanilla;beachTerr=Vanilla;terrainFert=2.5;terrainWater=0.2;flagTerrainWater=False;selectedFeature=None;priIslandSize=40;priBeachSize=5;priStyle=Single;priSingleCenterDisp=(0.0, 0.0, 0.0);flagPriSalty=False;lakeSize=0.2;lakeBeachSize=10;lakeRoundness=1.5;lakeDepth=0.5;flagLakeSalty=False;lakeShore=Sand;lakeCenterDisp=(0.0, 0.0, 0.0);niSize=0.75;niBeachSize=20;niRoundness=1.5;flagNiSalty=False;niShore=Sand;niCenterDisp=(0.0, 0.0, 0.0);niStyle=Round;niWaterDepth=0.4;</li>
 		</configs>
-		<hillAmount>0.5</hillAmount>
+		<hillAmount>1.00789</hillAmount>
 		<hillSize>0.01</hillSize>
 		<hillSmoothness>0</hillSmoothness>
 		<hillRadialAmt>1</hillRadialAmt>
-		<hillRadialSize>0.6360477</hillRadialSize>
-		<hillSplitSize>0.4740487</hillSplitSize>
 		<flagHillSide>True</flagHillSide>
 		<hillSideAmt>3</hillSideAmt>
-		<hillSideDir>360</hillSideDir>
-		<hillDonutAmt>-0.1253534</hillDonutAmt>
-		<hillDonutSize>1.2</hillDonutSize>
 		<densityPlant>2.5</densityPlant>
 		<densityAnimal>2.5</densityAnimal>
 		<densityRuins>0</densityRuins>
@@ -32,20 +28,44 @@
 				<li>MineableJade</li>
 				<li>MineableComponentsIndustrial</li>
 				<li>Milira_MineableSunPlateStell</li>
-				<li>MineableFluorite</li>
+				<li>Mosi_MineableBioferrite</li>
+				<li>MineableDiamond</li>
+				<li>MineableAmethyst</li>
+				<li>MineableTurquoise</li>
+				<li>MineableSapphire</li>
+				<li>MineableEmerald</li>
+				<li>MineableLapis</li>
+				<li>MineableOpal</li>
+				<li>MineableRuby</li>
+				<li>MineableTopaz</li>
+				<li>MineableQuartz</li>
+				<li>MineablePeridot</li>
+				<li>MineableMoonstone</li>
 				<li>WSGR_MineableAluminium</li>
 			</keys>
 			<values>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
-				<li>2</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
 			</values>
 		</oreCommonality>
 		<flagRoadDebris>False</flagRoadDebris>
@@ -60,7 +80,6 @@
 		<densityAncientJunkClusters>0</densityAncientJunkClusters>
 		<countAncientExostriderRemains>0</countAncientExostriderRemains>
 		<densityAncientPollutionJunk>0</densityAncientPollutionJunk>
-		<densityPoluxTrees>1.012168</densityPoluxTrees>
 		<pollutionLevel>0</pollutionLevel>
 		<rockTypeRange>5~5</rockTypeRange>
 		<allowedRocks>
@@ -79,14 +98,8 @@
 				<li>True</li>
 			</values>
 		</allowedRocks>
-		<terrainFert>0.2</terrainFert>
+		<terrainFert>2.5</terrainFert>
 		<terrainWater>0.2</terrainWater>
-		<lakeRoundness>0</lakeRoundness>
-		<niSize>1.5</niSize>
-		<niBeachSize>0</niBeachSize>
-		<niRoundness>0</niRoundness>
-		<niShore>Soil</niShore>
-		<niStyle>Square</niStyle>
-		<niWaterDepth>-0.2</niWaterDepth>
+		<niSize>0.75</niSize>
 	</ModSettings>
 </SettingsBlock>

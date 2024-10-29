@@ -35,6 +35,7 @@
 			</li>
 			<li>
 				<sortBy>Total</sortBy>
+				<active>True</active>
 				<order>6</order>
 			</li>
 			<li>

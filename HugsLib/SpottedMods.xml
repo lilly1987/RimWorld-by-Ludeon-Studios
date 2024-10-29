@@ -404,4 +404,12 @@
   <mod packageId="kikohi.ColoredDeepResources" />
   <mod packageId="Mlie.BulkRecipeGenerator" />
   <mod packageId="m00nl1ght.GeologicalLandforms.BiomeTransitions" />
+  <mod packageId="RimWorld.Trait.Expanded" />
+  <mod packageId="Solaris.RatkinRaceMod" />
+  <mod packageId="SunsetModerTeam.SunsetWeaponTechnology2" />
+  <mod packageId="KurKigalIrkalla.qiongguanzhen.QiongGuanZhen" />
+  <mod packageId="zal.piratesgold" />
+  <mod packageId="zeracronius.dynamictradeinterface" />
+  <mod packageId="Mlie.DireRaids" />
+  <mod packageId="zal.advancedelectricstove" />
 </Mods>

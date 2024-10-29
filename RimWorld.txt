@@ -8,6 +8,10 @@ login anonymous
 //force_install_dir ../csgo_ds
 //app_update 740 validate
 //workshop_download_item 294100 3179322376 // 해양
+workshop_download_item 294100 2880481073
+workshop_download_item 294100 2606510510
+workshop_download_item 294100 2763078885
+workshop_download_item 294100 3219406187
 workshop_download_item 294100 1578693166
 workshop_download_item 294100 2890976130
 workshop_download_item 294100 2599107582
@@ -213,6 +217,6 @@ workshop_download_item 294100 3292351432
 workshop_download_item 294100 3293530552
 workshop_download_item 294100 3343888138
 workshop_download_item 294100 839005762
-workshop_download_item 294100 3143396239
+workshop_download_item 294100 3143396239 //
 
 quit

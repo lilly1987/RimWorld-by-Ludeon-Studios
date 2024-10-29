@@ -10,12 +10,12 @@ Direct3D:
     VRAM:     8146 MB
     Driver:   32.0.11037.4004
 Begin MonoManager ReloadAssembly
-- Completed reload, in  2.317 seconds
+- Completed reload, in  2.431 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.703200 ms
+UnloadTime: 0.783900 ms
 RimWorld 1.5.4241 rev599
 Tried loading mod with the same packageId multiple times: brrainz.harmony. Ignoring the duplicates.
 S:\games\RimWorld\Mods\HarmonyMod
@@ -36,38 +36,1126 @@ S:\games\RimWorld\Mods\HarmonyMod
 S:\games\RimWorld\Mods\2009463077 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Setting up 12 worker threads for Enlighten.
-  Thread -> id: 4434 -> priority: 1 
-  Thread -> id: 4594 -> priority: 1 
-  Thread -> id: 44d8 -> priority: 1 
-  Thread -> id: 434c -> priority: 1 
-  Thread -> id: 4340 -> priority: 1 
-  Thread -> id: 4578 -> priority: 1 
-  Thread -> id: 1464 -> priority: 1 
-  Thread -> id: 44dc -> priority: 1 
-  Thread -> id: 433c -> priority: 1 
-  Thread -> id: 44e0 -> priority: 1 
-  Thread -> id: 4350 -> priority: 1 
-  Thread -> id: 4550 -> priority: 1 
-Exception loading GauranlenTreeExpanded.dll: System.Threading.ThreadAbortException
-  at (wrapper managed-to-native) System.Reflection.Assembly.LoadFrom(string,bool)
-  at System.Reflection.Assembly.LoadFrom (System.String assemblyFile, System.Security.Policy.Evidence securityEvidence) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Reflection.Assembly.LoadFile (System.String path, System.Security.Policy.Evidence securityEvidence) [0x0002b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Reflection.Assembly.LoadFile (System.String path) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at Verse.ModAssemblyHandler.ReloadAll () [0x000ac] in <a61e96a8ed6f409dac0dded8f29844b6>:0  
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1A4BE3020.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1A4EA3C40.dll
+[10/29/2024 11:53:44 PM] [BetterLoading] Verifying all mods loaded properly...
+[BetterLoading] Read tip cache of 191 tips from config.
+[BetterLoading] Injecting into main UI.
+[BetterLoading] Injected into main UI.
+[HugsLib] version 11.0.4
+[HugsLib] early-initializing NareisLib.kamijouko.nazunarei, AllowTool
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1A634F820.dll
+!! [ViViRace] race patch complete
+!! [ViViRace] arcane plant patch complete
+MousekinRace :: LWM's Deep Storage detected!
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1A8E15020.dll
+[Dark.JobInBar] loaded
+<color=#34e2eb>AutoTranslation</color>: Harmony patches are applied!
+<color=#34e2eb>AutoTranslation</color>: List of translators: Claude, DeepL (Pro), DeepL, Gemini 1.5 Flash, Gemini 1.5 pro, Google, Current translator: Google
+Failed to find Verse.ResearchProjectDef named HospitalBed. There are 0 defs of this type loaded. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not reload mod content for mod Mlie.GauranlenTreeExpanded: System.Threading.ThreadAbortException
-  at Verse.ModAssemblyHandler.ReloadAll () [0x000cd] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
-  at Verse.ModContentPack.ReloadContent (System.Boolean hotReload) [0x0002b] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
-  at Verse.LoadedModManager.LoadModContent (System.Boolean hotReload) [0x00049] in <a61e96a8ed6f409dac0dded8f29844b6>:0  
+Failed to find Verse.ResearchProjectDef named HospitalBed. There are 0 defs of this type loaded. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Caught exception while loading play data but there are active mods other than Core. Resetting mods config and trying again.
-The exception was: System.Threading.ThreadAbortException
-  at Verse.LoadedModManager.LoadModContent (System.Boolean hotReload) [0x00080] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
-  at Verse.LoadedModManager.LoadAllActiveMods (System.Boolean hotReload) [0x0003b] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
-  at Verse.PlayDataLoader.DoPlayLoad () [0x00026] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
-  at Verse.PlayDataLoader.LoadAllPlayData (System.Boolean recovering) [0x0001c] in <a61e96a8ed6f409dac0dded8f29844b6>:0  
+Failed to find Verse.ResearchProjectDef named HospitalBed. There are 0 defs of this type loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[WhatsMissing] Patched Dialog_BillConfig
+RimSaves NX
+[RimHUD v1.15.3] Initialized
+DubsMintMenus v1.3.1086
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[Visible Raid Points] Loaded.
+Project RimFactory Core 1.0.0.0 - Harmony patches successful
+Project Rimfactory - added Support for shared Nutrient Dispenser with RimFridge Updated
+Project Rimfactory - added Support for Fridge DSU Power using Simple Utilities: Fridge
+[NonUnoPinata] BetterLoading detected, workaround initiated
+Initialized OmniCoreDrill patches
+3.0.9046 ::
+Compat patch with Toggleable Readouts
+Extended Storage 1.0.0.0 - Harmony patches successful
+[WhatsMissing] Patched Dialog_BillConfig
+Dubs Skylight 1.5.2639
+[Count My Mods] Loaded.
+ModContentPack.LoadPatches does not matches the reference. Skipping transpiler 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[WhatsMissing] Patched Dialog_BillConfig
+Loaded What's That Mod.
+[BetterLoading] Finished stage Initializing Mods at 11:53:52 PM.
+[BetterLoading] HugsLib detected, adding HugsLib support.
+[BetterLoading:HugsLib Compat] Resolved required HugsLib types as follows: Controller: HugsLib.HugsLibController / Mod Identifier (Property): ModIdentifier
+[BetterLoading:HugsLib Compat] Successfully blind-patched HugsLib.
+[BetterLoading] Starting stage Reading Mod Content Files.
+[Analyzer] ==========================================================================
+[Analyzer]                          Analyzer Running In Debug Mode                  
+[Analyzer] ==========================================================================
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1ADDC8010.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1ADDE0A50.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1ADDEBA60.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1AC6BD0B0.dll
+Fallback handler could not load library S:/games/RimWorld/RimWorldWin64_Data/Mono/data-000001D1ADDF8A70.dll
+GAGARIN: <color=green>StartUpStarted called!</color>
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4241:10/7/2024 12:00:00 AM:1.5.4241 rev599
+b.4241:10/7/2024 12:00:00 AM:1.5.4241 rev599
+b.4241:10/7/2024 12:00:00 AM:1.5.4241 rev599
+b.4241:10/7/2024 12:00:00 AM:1.5.4241 rev599
+ROCKETMAN:No more RocketMan <color=gray>"Log spam"</color>...
+I hope you're fucking satisfied.
+ReBuild: Doors and Corners 1.2-Miller-rev3
+GAGARIN: Asset changed!<color=red>Gun_SniperRifle_Lilly.xml</color>:<color=red>Unknown</color> in S:\games\RimWorld\Mods\lilly\1.5\Defs\ThingDefs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=yello>Cache disabled from</color>
+Gagarin.LoadableXmlAsset_Constructor_Patch:Postfix():0
+MonoMod.Utils.DynamicMethodDefinition:Verse.LoadableXmlAsset..ctor_Patch1():0
+Verse.DirectXmlLoader+<>c__DisplayClass1_0:<XmlAssetsInModFolder>b__0():0
+Verse.GenThreading+<>c__DisplayClass8_1:<ParallelFor>b__0():0
+System.Threading.QueueUserWorkItemCallback:WaitCallback_Context():0
+System.Threading.ExecutionContext:RunInternal():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.QueueUserWorkItemCallback:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem():0
+System.Threading.ThreadPoolWorkQueue:Dispatch():0
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback():0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Reading Mod Content Files at 11:53:57 PM.
+[BetterLoading] Starting stage Injecting Mod XML.
+[BetterLoading] [Enhanced XML Load] Loaded 4153 loadable assets.
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>3.149</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Injecting Mod XML at 11:53:58 PM.
+[BetterLoading] Starting stage Applying Patches.
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>2.375</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.003</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+|RimFridge: Now with Shelves!| Forcing the application of patch lwm.deepstorage | Patches/AddNewUnits_RimFridge.xml of LWM's Deep Storage.
+|RimFridge: Now with Shelves!| Forcing the application of patch mlie.netrvesdeepstoragegui | Patches/RimFridge_TabPatch.xml of Netrve's DeepStorage GUI (Continued).
+[XML Extensions]: Advanced XML Debugging is enabled 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM Deep Storage: activated compatibility patch for Rim of Madness - Bones
+Now Loading Integrated Deep Storage version 3.2.42
+Vanilla Expanded Framework Found, adding filters
+Roo's Painting Expansion Found! Cloning their furniture into storage..
+LWM's Deep Storage Found! Integrating it into the one and true balance.
+Deep Storage Plus (Continued) Found! Integrating it into the one and true balance.
+Simple Utilities: Fridge Found, Integrating it into the one and true balance.
+Removed IS_WasteStorage. 1
+Removed IS_CardboardStorage. 1
+Removed IS_IndustrialStorage. 1
+Removed IS_BoxesStorage. 1
+[PawnsChooseResearch (Continued) - Start of stack trace]
+Verse.PatchOperationAdd(xpath="Defs/ResearchProjectDef[@Name="MedPodResearchProjectBase"]/modExtensions/li[@Class="PawnsChooseResearch.ResearchCategory"]"): Failed to find a node with the given xpath
+Verse.PatchOperationSequence: Error in the operation at position=1
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: S:\games\RimWorld\Mods\2904905818\1.5\Patches\MedPod.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Hardworking animals 1.5 - Forked - Start of stack trace]
+Verse.PatchOperationReplace(xpath="*/ThinkTreeDef[defName = "Animal"]/thinkRoot/subNodes/li[20]/subNodes/li[4]"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: S:\games\RimWorld\Mods\3224445931\1.5\Patches\HardWA.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Replantable Special Trees - Start of stack trace]
+Verse.PatchOperationRemove(xpath="/Defs/ThingDef[defName="Plant_TreeGauranlen"]/minifiedDef"): Failed to find a node with the given xpath
+Verse.PatchOperationFindMod(Ideology): Error in <match>
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: S:\games\RimWorld\Mods\3223685440\1.5\Patches\TreeGauranlenPatch.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Removed radius for Gauranlen Trees - Start of stack trace]
+Verse.PatchOperationReplace(xpath="/Defs/ThingDef[defName="Plant_TreeGauranlen"]/comps/li[@Class="CompProperties_TreeConnection"]/connectionLossDailyPerBuildingDistanceCurve/points/li"): Failed to find a node with the given xpath
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: S:\games\RimWorld\Mods\3351509670\Patches\Plants_Special.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Applying Patches at 11:54:11 PM.
+[BetterLoading] Starting stage Registering Defs.
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>11.881</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Registering Defs at 11:54:11 PM.
+[BetterLoading] Starting stage Constructing Defs.
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.422</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[DSFI] Initialized
+Could not find type named KurinDeluxeEdition.StockGenerator_BuyKurinEverything from node <li Class="KurinDeluxeEdition.StockGenerator_BuyKurinEverything" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element RimWorld.StockGenerator from XML: System.MissingMethodException: Default constructor not found for type RimWorld.StockGenerator
+[Ref 1F3FE38F]
+ at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <658cfe511108420e84a1aee91a591e04>:0 
+ at XmlExtensions.CustomXmlLoader.ListFromXml[T] (System.Xml.XmlNode listRootNode, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x001a1] in <658cfe511108420e84a1aee91a591e04>:0 
+XML:
+<stockGenerators><li Class="StockGenerator_SingleDef"><thingDef>Silver</thingDef><countRange>20000~30000</countRange></li><li Class="StockGenerator_BuyTradeTag"><tag>KurinEverything</tag></li><li Class="KurinDeluxeEdition.StockGenerator_BuyKurinEverything" /></stockGenerators> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/ZB26hat</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/DSR-50hat</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/MosinNaganthat</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/Lewisberet</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/9A91beret</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/TMPcollar</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/SAIGA12beret</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/aa12beret</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/FNCberet</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/G36hat</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/nagantM1895hat</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/Shikikanberet</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>UpperHead</li></bodyPartGroups><wornGraphicPath>Things/Apparel/Type4hat</wornGraphicPath><layers><li>Overhead</li></layers><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>Torso</li><li>Shoulders</li><li>Arms</li><li>Legs</li><li>FullHead</li><li>Feet</li></bodyPartGroups><wornGraphicPath>Things/Apparel/sat8shield</wornGraphicPath><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace><layers><li>Belt</li></layers></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>Torso</li><li>Shoulders</li><li>Arms</li><li>Legs</li><li>FullHead</li><li>Feet</li></bodyPartGroups><wornGraphicPath>Things/Apparel/saiga12shield</wornGraphicPath><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace><layers><li>Belt</li></layers></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>Torso</li><li>Shoulders</li><li>Arms</li><li>Legs</li><li>FullHead</li><li>Feet</li></bodyPartGroups><wornGraphicPath>Things/Apparel/aa12shield</wornGraphicPath><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace><layers><li>Belt</li></layers></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> does not belong in <apparel> 
+Whole XML: <apparel><bodyPartGroups><li>Torso</li><li>Shoulders</li><li>Arms</li><li>Legs</li><li>FullHead</li><li>Feet</li></bodyPartGroups><wornGraphicPath>Things/Apparel/Spas12shield</wornGraphicPath><hatRenderedFrontOfFace>true</hatRenderedFrontOfFace><layers><li>Belt</li></layers></apparel> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+QQ's Girls' frontline Apparel Pack (qquack.gfap)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.6 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.6 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.6 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 7.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.6 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 8.8 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 16.8 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 13.8 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 8.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 4.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 4.8 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 5.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 12.3 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 7.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 7.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 5.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 7.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 7.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list from XML: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 66BF9E30]
+ at Verse.DirectXmlCrossRefLoader+WantedRefForList`1[T].AddWantedListEntry (System.String newTargetDefName, System.String mayRequireMod, System.String mayRequireAnyMod) [0x000b2] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
+ at Verse.DirectXmlCrossRefLoader.RegisterListWantsCrossRef[T] (System.Collections.Generic.List`1[T] wanterList, System.String targetDefName, System.Object debugWanterInfo, System.String mayRequireMod, System.String mayRequireAnyMod) [0x00043] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
+ at XmlExtensions.CustomXmlLoader.ListFromXml[T] (System.Xml.XmlNode listRootNode, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x000ac] in <658cfe511108420e84a1aee91a591e04>:0 
+XML:
+<linkableFacilities><li>ToolCabinet</li><li MayRequireAnyOf="Aoba.Fortress.Industrial.Citadel,Aoba.Fortress.Industrial.Citadel_steam">FT_transformer</li><li>IS_Storage_ToolCabinet</li></linkableFacilities> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.01 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <discoveredLetterMinDifficulty>1</discoveredLetterMinDifficulty> does not belong in <ResearchProjectDef> (defName="Mawy_Antigrain")
+Whole XML: <ResearchProjectDef><defName>Mawy_Antigrain</defName><label>Antigrain Technology</label><description>Learn to craft the warhead shell.</description><baseCost>15000</baseCost><techLevel>Ultra</techLevel><prerequisites><li>AdvancedFabrication</li></prerequisites><requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding><requiredResearchFacilities><li>MultiAnalyzer</li></requiredResearchFacilities><discoveredLetterMinDifficulty>1</discoveredLetterMinDifficulty><techprintCount>4</techprintCount><techprintCommonality>3</techprintCommonality><techprintMarketValue>6000</techprintMarketValue><heldByFactionCategoryTags><li>Empire</li></heldByFactionCategoryTags><tab>Craftable</tab><researchViewX>0.50</researchViewX><researchViewY>3.00</researchViewY><modExtensions><li Class="PawnsChooseResearch.ResearchCategory" /></modExtensions></ResearchProjectDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+Craftable (mawy.craftable)
+PawnsChooseResearch (Continued) (mlie.pawnschooseresearch)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type DamageDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type AncotLibrary.CompProperties_SpawnerCustom_PlantGrow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.72 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1145141919810 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <recipeUsers Inherit="false" /> does not belong in <ThingDef> (defName="Gun_SniperRifle_lilly")
+Whole XML: <ThingDef ParentName="BaseHumanMakeableGun"><thingClass>ThingWithComps</thingClass><category>Item</category><drawerType>MapMeshOnly</drawerType><drawGUIOverlay>true</drawGUIOverlay><altitudeLayer>Item</altitudeLayer><alwaysHaulable>true</alwaysHaulable><tickerType>Never</tickerType><equipmentType>Primary</equipmentType><useHitPoints>true</useHitPoints><pathCost>14</pathCost><selectable>true</selectable><statBases><MaxHitPoints>100</MaxHitPoints><Flammability>0.0</Flammability><DeteriorationRate>0</DeteriorationRate><Beauty>100</Beauty><SellPriceFactor>1.0</SellPriceFactor><WorkToMake>1</WorkToMake><Mass>1</Mass><AccuracyTouch>10.0</AccuracyTouch><AccuracyShort>10.0</AccuracyShort><AccuracyMedium>10.0</AccuracyMedium><AccuracyLong>10.0</AccuracyLong><RangedWeapon_Cooldown>1.15</RangedWeapon_Cooldown></statBases><comps><li Class="CompProperties_Forbiddable" /><li><compClass>CompEquippable</compClass></li><li Class="CompProperties_Styleable" /><li Class="CompProperties_Art"><nameMaker>NamerArtWeaponGun</nameMaker><descriptionMaker>ArtDescription_WeaponGun</descriptionMaker><minQualityForArtistic>Excellent</minQualityForArtistic></li><li><compClass>CompQuality</compClass></li><li Class="CompProperties_Biocodable" /></comps><graphicData><onGroundRandomRotateAngle>35</onGroundRandomRotateAngle><texPath>Things/Item/Equipment/WeaponRanged/SniperRifle</texPath><graphicClass>Graphic_Single</graphicClass></graphicData><allowedArchonexusCount>1</allowedArchonexusCount><techLevel>Industrial</techLevel><smeltable>true</smeltable><relicChance>1</relicChance><thingCategories><li>WeaponsRanged</li></thingCategories><weaponClasses><li>Ranged</li><li>LongShots</li><li>RangedHeavy</li></weaponClasses><inspectorTabs><li>ITab_Art</li></inspectorTabs><recipeMaker><workSpeedStat>GeneralLaborSpeed</workSpeedStat><workSkill>Crafting</workSkill><effectWorking>Smith</effectWorking><soundWorking>Recipe_Smith</soundWorking><recipeUsers><li>TableMachining</li></recipeUsers><unfinishedThingDef>UnfinishedGun</unfinishedThingDef><researchPrerequisite></researchPrerequisite><skillRequirements /><displayPriority>425</displayPriority></recipeMaker><weaponTags><li>SniperRifle</li></weaponTags><tradeTags><li>WeaponRanged</li></tradeTags><defName>Gun_SniperRifle_lilly</defName><label>sniper rifle</label><description>An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range.</description><possessionCount>1</possessionCount><soundInteract>Interact_Rifle</soundInteract><thingSetMakerTags><li>RewardStandardQualitySuper</li></thingSetMakerTags><recipeUsers Inherit="false" /><costList Inherit="false" /><verbs><li><verbClass>Verb_Shoot</verbClass><hasStandardCommand>true</hasStandardCommand><defaultProjectile>Bullet_SniperRifle_lilly</defaultProjectile><warmupTime>0.875</warmupTime><range>500.0</range><soundCast>Shot_SniperRifle</soundCast><soundCastTail>GunTail_Heavy</soundCastTail><muzzleFlashScale>9</muzzleFlashScale></li></verbs><tools><li><label>stock</label><capacities><li>Blunt</li></capacities><power>100</power><cooldownTime>1</cooldownTime></li><li><label>barrel</label><capacities><li>Blunt</li><li>Poke</li></capacities><power>100</power><cooldownTime>1</cooldownTime></li></tools></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Possibly relevant mods for above error:
+[SS]Maid Project - lilly (lilly.maidproject)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4241:10/7/2024 12:00:00 AM:1.5.4241 rev599
+[BetterLoading] Finished stage Constructing Defs at 11:54:21 PM.
+[BetterLoading] Starting stage Reloading Def Databases.
+GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>0 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>10.114</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[PawnsChooseResearch (Continued)] Patch operation Verse.PatchOperationSequence(count=1, lastFailedOperation=Verse.PatchOperationAdd(Defs/ResearchProjectDef[@Name="MedPodResearchProjectBase"]/modExtensions/li[@Class="PawnsChooseResearch.ResearchCategory"])) failed
+file: S:\games\RimWorld\Mods\2904905818\1.5\Patches\MedPod.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Hardworking animals 1.5 - Forked] Patch operation Verse.PatchOperationReplace(*/ThinkTreeDef[defName = "Animal"]/thinkRoot/subNodes/li[20]/subNodes/li[4]) failed
+file: S:\games\RimWorld\Mods\3224445931\1.5\Patches\HardWA.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Replantable Special Trees] Patch operation Verse.PatchOperationFindMod(Ideology) failed
+file: S:\games\RimWorld\Mods\3223685440\1.5\Patches\TreeGauranlenPatch.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Removed radius for Gauranlen Trees] Patch operation Verse.PatchOperationReplace(/Defs/ThingDef[defName="Plant_TreeGauranlen"]/comps/li[@Class="CompProperties_TreeConnection"]/connectionLossDailyPerBuildingDistanceCurve/points/li) failed
+file: S:\games\RimWorld\Mods\3351509670\Patches\Plants_Special.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0.001</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod lilly.MaidProject has multiple Verse.RecipeDefs named SalvageApparelMaidProject. Skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod lilly.MaidProject has multiple RimWorld.WorkGiverDefs named MakeMaidCostumes. Skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod PuPa.InsectGirls has multiple KCSG.StructureLayoutDefs named IG_StructureLayoutDef_InsectGirlsHouse. Skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod lilly.MaidProject has multiple Verse.ThingCategoryDefs named MaidProject. Skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Slice found to give to Verse.ProjectileProperties Verse.ProjectileProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Slice found to give to Verse.ProjectileProperties Verse.ProjectileProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Slice found to give to Verse.ProjectileProperties Verse.ProjectileProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Slice found to give to Verse.ProjectileProperties Verse.ProjectileProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Critical error while injecting translations into defs: System.ArgumentException: Invalid generic arguments
+Parameter name: typeArguments
+[Ref D16DF11F]
+ at (wrapper managed-to-native) System.RuntimeType.MakeGenericType(System.Type,System.Type[])
+ at System.RuntimeType.MakeGenericType (System.Type[] instantiation) [0x000cd] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+ at Verse.GenGeneric.MethodOnGenericType (System.Type genericBase, System.Type genericParam, System.String methodName) [0x00028] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
+     - PREFIX me.samboycoding.blm: Void BetterLoading.Stage.InitialLoad.StageResolveDefDatabases:PreMOGT(Type genericParam, String methodName)
+     - POSTFIX me.samboycoding.blm: Void BetterLoading.Stage.InitialLoad.StageResolveDefDatabases:PostMOGT(Type genericParam, String methodName)
+ at Verse.GenGeneric.InvokeStaticMethodOnGenericType (System.Type genericBase, System.Type genericParam, System.String methodName) [0x00000] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
+ at Verse.DefInjectionPackage.InjectIntoDefs (System.Boolean errorOnDefNotFound) [0x0015a] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
+ at Verse.LoadedLanguage.InjectIntoData_BeforeImpliedDefs () [0x0002a] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
+     - POSTFIX seohyeon.autotranslation: Void AutoTranslation.Patches:Postfix_LoadedLanguage_InjectIntoData_BeforeImpliedDefs() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#34e2eb>AutoTranslation</color>: finding untranslated Keyed...
+<color=#34e2eb>AutoTranslation</color>: finding untranslated Keyed done!
+Minable thing of SmoothedSandstone is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedGranite is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedLimestone is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedSlate is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedMarble is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Using MineableGold as a substitute for DMRW_Gem to calculate deep mining values.
+Using Mosi_MineableBioferrite as a substitute for IJade to calculate deep mining values.
+Power Tweaks Skipped Defs:
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Middle_Tactical_Vest found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_KuriSoda found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Middle_Hazmat_Suit found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Ultra_Component found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Backpack_Military found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named TailoringSpeed found to give to Verse.RecipeDef SalvageApparelMaidProject 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Biofuel found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Tactical_Armor found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingCategoryDef named Kurin_Apparel_Psychic found to give to RimWorld.StockGenerator_Category RimWorld.StockGenerator_Category 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named ResearchProject found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Tactical_Armor_Helmet found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingCategoryDef named Kurin_Weapon_Ranged found to give to RimWorld.StockGenerator_Category RimWorld.StockGenerator_Category 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named ResearchProject found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingCategoryDef named Kurin_Weapon_Ranged found to give to RimWorld.StockGenerator_Category RimWorld.StockGenerator_Category 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingCategoryDef named Kurin_Posters found to give to RimWorld.StockGenerator_Category RimWorld.StockGenerator_Category 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named ResearchProject found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Ultra_Component found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_Biofuel found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named ResearchProject found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingCategoryDef named Kurin_Apparel_Psychic found to give to RimWorld.StockGenerator_Category RimWorld.StockGenerator_Category 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named ResearchProject found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named ResearchProject found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named Kurin_KuriSoda found to give to RimWorld.StockGenerator_SingleDef RimWorld.StockGenerator_SingleDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MadSkills]: changed behavior of Great Memory trait.
+[BetterLoading] Finished stage Reloading Def Databases at 11:54:51 PM.
+[BetterLoading] Tips should now be available. Showing...
+[BetterLoading] Starting stage Running Pre-Static-Constructor Long Events.
+Config error in AP_Prefab_Bedroom_CircleOfBedrooms: description has trailing whitespace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef CrabTurtle has BodyPartRecord of Body whose children have more or equal coverage than 100% (407.00%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef DMRW_FlyBird has BodyPartRecord of Body whose children have more or equal coverage than 100% (101.00%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef OphrysScorpio has BodyPartRecord of Body whose children have more or equal coverage than 100% (262.00%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Incident_AboutMirukoAndMirukuBC: label contains illegal character(s): "[]{}". This can cause issues during grammar resolution. If this was intended, you can use the "ignoreIllegalLabelCharacterConfigError" flag. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Axolotl_SwordAura_Flower: description has trailing whitespace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef RedEyesBlackDragon has BodyPartRecord of Body whose children have more or equal coverage than 100% (104.00%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef WormApocalypse has BodyPartRecord of Body whose children have more or equal coverage than 100% (259.00%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef WormYagan has BodyPartRecord of Body whose children have more or equal coverage than 100% (217.00%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in ConfigErrors() of Kurin_Settlement_Trader: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref C9BA5F83]
+ at RimWorld.StockGenerator_SingleDef+<ConfigErrors>d__3.MoveNext () [0x0008f] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
+ at RimWorld.TraderKindDef+<ConfigErrors>d__15.MoveNext () [0x000f9] in <a61e96a8ed6f409dac0dded8f29844b6>:0 
+ at Verse.DefDatabase`1[T].ErrorCheckAllDefs () [0x0006b] in <a61e96a8ed6f409dac0dded8f29844b6>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in ConfigErrors() of Kurin_Standard_Trader: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref C9BA5F83] Duplicate stacktrace, see ref for original 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in ConfigErrors() of Kurin_Exotic_Trader: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref C9BA5F83] Duplicate stacktrace, see ref for original 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in ConfigErrors() of Kurin_Food_Trader: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref C9BA5F83] Duplicate stacktrace, see ref for original 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_ViviCreamWall: flammable but has no hitpoints (will burn indefinitely) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_ViviCreamWall: flammable but has no hitpoints (will burn indefinitely) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_SmoothedViviCreamWall: flammable but has no hitpoints (will burn indefinitely) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_SmoothedViviCreamWall: flammable but has no hitpoints (will burn indefinitely) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_ViviHoneycombWall: flammable but has no hitpoints (will burn indefinitely) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_ViviHoneycombWall: flammable but has no hitpoints (will burn indefinitely) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_RoyalJelly: undefined preferability 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_RoyalJelly: undefined preferability 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_RoyalJelly: Nutrition == 0 but preferability is Undefined instead of NeverForNutrition 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in VV_RoyalJelly: Nutrition == 0 but preferability is Undefined instead of NeverForNutrition 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Mousekin_WallCottage: flammable but has no hitpoints (will burn indefinitely) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Mousekin_WallCottage: flammable but has no hitpoints (will burn indefinitely) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Axolotl_ElectromagneticLauncher: description has leading whitespace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Axolotl_ElectromagneticLauncher: description has leading whitespace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in WB_Giver_Herbaltea: undefined preferability 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in WB_Giver_Herbaltea: undefined preferability 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in WB_Giver_Herbaltea: Nutrition == 0 but preferability is Undefined instead of NeverForNutrition 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in WB_Giver_Herbaltea: Nutrition == 0 but preferability is Undefined instead of NeverForNutrition 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in RBPGalleryBarrier: impassable, player-buildable building that can be shot/seen over. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in RBPGalleryBarrier: impassable, player-buildable building that can be shot/seen over. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HotCocoa: undefined preferability 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HotCocoa: undefined preferability 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HotCocoa: Nutrition == 0 but preferability is Undefined instead of NeverForNutrition 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HotCocoa: Nutrition == 0 but preferability is Undefined instead of NeverForNutrition 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HotTea: undefined preferability 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HotTea: undefined preferability 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HotTea: Nutrition == 0 but preferability is Undefined instead of NeverForNutrition 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HotTea: Nutrition == 0 but preferability is Undefined instead of NeverForNutrition 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in ChefMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in ChefMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in ChefMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in ChefMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in CleanerMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in CleanerMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in CleanerMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in CleanerMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in CrafterMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in CrafterMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in CrafterMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in CrafterMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in FightMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in FightMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in FightMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in FightMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HeaderMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HeaderMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HeaderMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in HeaderMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in NurseMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in NurseMaid: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in NurseMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in NurseMaid: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNA: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNA: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNA: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNA: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNB: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNB: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNB: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNB: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNC: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNC: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNC: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Kiiro_SingleGlass_Lilly: is haulable, but does not have an authored mass value 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in MaidHatNC: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Gun_AssaultRifle_lilly: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Gun_AssaultRifle_lilly: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Kiiro_SingleGlass_Lilly: is haulable, but does not have an authored mass value 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Gun_SniperRifle_lilly: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Gun_SniperRifle_lilly: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Gun_AssaultRifle_lilly: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Gun_AssaultRifle_lilly: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Gun_SniperRifle_lilly: has a recipeMaker but no costList or costStuffCount. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Gun_SniperRifle_lilly: is smeltable but does not give anything for smelting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in RBPArtCabinet: impassable, player-buildable building that can be shot/seen over. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in RBPArtCabinet: impassable, player-buildable building that can be shot/seen over. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: MainTab_kNumbersOverviewTab and OpenMapSearch are both bound to Z. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: MainTab_MedicalTab and Misc7 are both bound to M. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: Misc7 and MainTab_MedicalTab are both bound to M. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: OpenMapSearch and MainTab_kNumbersOverviewTab are both bound to Z. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Processing 23491 post-load tasks.
+Tried to load duplicate UnityEngine.Texture2D with path: FilesystemFile [S:\games\RimWorld\Mods\3240011376\Textures\KurinMeowEdition\Bodies\wip.psd], Length 2374456 and internal path: KurinMeowEdition/Bodies/wip 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to load duplicate UnityEngine.Texture2D with path: FilesystemFile [S:\games\RimWorld\Mods\3240011376\Textures\KurinMeowEdition\Item_Apperal\Spacer\bak\SpaceConstructionSuit_Child_east.psd], Length 230227 and internal path: KurinMeowEdition/Item_Apperal/Spacer/bak/SpaceConstructionSuit_Child_east 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to load duplicate UnityEngine.Texture2D with path: FilesystemFile [S:\games\RimWorld\Mods\3240011376\Textures\KurinMeowEdition\Item_Apperal\Spacer\bak\SpaceConstructionSuit_Child_north.psd], Length 266036 and internal path: KurinMeowEdition/Item_Apperal/Spacer/bak/SpaceConstructionSuit_Child_north 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to load duplicate UnityEngine.Texture2D with path: FilesystemFile [S:\games\RimWorld\Mods\3240011376\Textures\KurinMeowEdition\Item_Apperal\Spacer\bak\SpaceConstructionSuit_Child_south.psd], Length 259556 and internal path: KurinMeowEdition/Item_Apperal/Spacer/bak/SpaceConstructionSuit_Child_south 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to load duplicate UnityEngine.Texture2D with path: FilesystemFile [S:\games\RimWorld\Mods\3240011376\Textures\KurinMeowEdition\Item_Apperal\Spacer\bak\SpaceConstructionSuit_Child_west.psd], Length 227900 and internal path: KurinMeowEdition/Item_Apperal/Spacer/bak/SpaceConstructionSuit_Child_west 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 

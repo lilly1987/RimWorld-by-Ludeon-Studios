@@ -10,10 +10,9 @@
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
+    <li>unlimitedhugs.hugslib</li>
     <li>m00nl1ght.geologicallandforms</li>
     <li>mlie.dingongameloaded</li>
-    <li>owlchemist.cherrypicker.tmpfix</li>
-    <li>unlimitedhugs.hugslib</li>
     <li>superniquito.modoptionssort</li>
     <li>mlie.modmanager</li>
     <li>taranchuk.moderrorchecker</li>
@@ -22,6 +21,7 @@
     <li>lwm.deepstorage</li>
     <li>erdelf.humanoidalienraces</li>
     <li>sm.mimikko</li>
+    <li>owlchemist.cherrypicker.tmpfix</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>nals.facialanimation</li>
     <li>nareislib.kamijouko.nazunarei</li>
@@ -40,9 +40,12 @@
     <li>seioch.kurin.har</li>
     <li>anthitei.athsretexturefemalapparel.retexture</li>
     <li>qquack.gfap</li>
+    <li>rimworld.trait.expanded</li>
     <li>anthitei.athsstylefemaledresses.style</li>
+    <li>solaris.ratkinracemod</li>
     <li>sumghai.mousekinrace</li>
     <li>hysteria82.lisasmousekinmedieval</li>
+    <li>sunsetmoderteam.sunsetweapontechnology2</li>
     <li>hysteria82.lisasmousekinapparelvictorian</li>
     <li>hysteria82.lisasmousekinapparelservantsandslaves</li>
     <li>psyche.kemomimihouse</li>
@@ -353,8 +356,13 @@
     <li>shepirotgamer.nogauranlenradius</li>
     <li>frozensnowfox.indoortreefarms</li>
     <li>wealthlist.ui.tmpfix</li>
+    <li>kurkigalirkalla.qiongguanzhen.qiongguanzhen</li>
+    <li>zal.piratesgold</li>
     <li>yy.hoodsandhelmets</li>
     <li>mlie.showmodupdates</li>
+    <li>zeracronius.dynamictradeinterface</li>
+    <li>mlie.direraids</li>
+    <li>zal.advancedelectricstove</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>blackcanvas.korean.voiceroidasanimal</li>
     <li>blackcanvas.ayabosstranslations</li>
