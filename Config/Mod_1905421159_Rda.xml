@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SirRandoo.RDA.Settings">
+		<drugPolicies>False</drugPolicies>
+		<foodRestrictions>False</foodRestrictions>
+		<outfits>False</outfits>
+		<timetables>False</timetables>
+		<displayOrder>False</displayOrder>
+		<medicalCare>False</medicalCare>
+		<hostilityResponse>False</hostilityResponse>
+		<area>False</area>
+	</ModSettings>
+</SettingsBlock>

@@ -195,7 +195,7 @@
     </li>
     <li>
       <key>GettingMoreTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TileInspector</key>
@@ -231,7 +231,7 @@
     </li>
     <li>
       <key>ArrestingCreatesEnemies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
@@ -463,7 +463,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
-      <value>0.624228</value>
+      <value>0</value>
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>
@@ -487,7 +487,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsLosingWeapons</key>

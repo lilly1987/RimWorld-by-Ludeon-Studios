@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="CleanPathfinding.ModSettings_CleanPathfinding">
-		<bias>8</bias>
-		<regionModeThreshold>1000</regionModeThreshold>
+		<bias>0</bias>
+		<roadBias>0</roadBias>
+		<regionModeThreshold>500</regionModeThreshold>
+		<heuristicAdjuster>30</heuristicAdjuster>
+		<darknessPenalty>1</darknessPenalty>
+		<doorPathingSide>50</doorPathingSide>
+		<wanderDelay>6</wanderDelay>
 	</ModSettings>
 </SettingsBlock>

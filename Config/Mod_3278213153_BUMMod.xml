@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="BlockUnwantedMinutiae.BUMSettings">
+		<MessageResearchProjectFinishedByItem>True</MessageResearchProjectFinishedByItem>
+		<LetterLabelFirstSummerWarning>True</LetterLabelFirstSummerWarning>
+		<LetterLabelAreaRevealed>True</LetterLabelAreaRevealed>
+		<LetterCraftedMasterworkLabel>True</LetterCraftedMasterworkLabel>
+		<LetterLabelAnimalSelfTame>True</LetterLabelAnimalSelfTame>
 		<taintedMessagePatch>True</taintedMessagePatch>
 		<idleColonistsPatch>True</idleColonistsPatch>
 		<drawAutoSelectCheckboxPatch>True</drawAutoSelectCheckboxPatch>

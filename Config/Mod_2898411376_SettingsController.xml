@@ -6,6 +6,9 @@
 			<li>
 				<patch>lwm.deepstorage | Patches/AddNewUnits_RimFridge.xml</patch>
 			</li>
+			<li>
+				<patch>mlie.netrvesdeepstoragegui | Patches/RimFridge_TabPatch.xml</patch>
+			</li>
 		</RimFridge.ForcedApplicationOfPatches>
 	</ModSettings>
 </SettingsBlock>

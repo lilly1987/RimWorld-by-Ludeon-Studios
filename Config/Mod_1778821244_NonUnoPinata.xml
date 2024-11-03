@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NonUnoPinata.Settings">
+		<strip_apparel>True</strip_apparel>
+		<strip_untainted>True</strip_untainted>
+	</ModSettings>
+</SettingsBlock>

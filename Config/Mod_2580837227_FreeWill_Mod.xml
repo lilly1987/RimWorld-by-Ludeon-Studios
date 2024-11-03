@@ -43,6 +43,12 @@
 				<li>FinishingOff</li>
 				<li>VCEF_Fishing</li>
 				<li>Rescuing</li>
+				<li>VV_Gathering</li>
+				<li>Yuran_Shine</li>
+				<li>RK_HamsterWheel</li>
+				<li>Nursing</li>
+				<li>GauranlenTreeExpanded</li>
+				<li>CaptureThemCapture</li>
 			</keys>
 			<values>
 				<li>1</li>
@@ -73,6 +79,12 @@
 				<li>1</li>
 				<li>1</li>
 				<li>1</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
 			</values>
 		</freeWillWorkTypeAdjustments>
 	</ModSettings>

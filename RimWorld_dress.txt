@@ -1,0 +1,25 @@
+@NoPromptForPassword 1
+login anonymous 
+workshop_download_item 294100 2674876907 //[코스프레 장비] 블루 아카이브 
+workshop_download_item 294100 3284538085 //캐릭터 - 블루 아카이브 
+workshop_download_item 294100 2763078885 // [Aya]Qualeela Race
+workshop_download_item 294100 3219406187 // [mhy] Genshin Styles - 原神造型包
+workshop_download_item 294100 1578693166 // NewRatkinPlus
+workshop_download_item 294100 705924057 // 제바의 림헤어
+workshop_download_item 294100 1612316880 // More Sculpture 석상 추가
+workshop_download_item 294100 3352990362
+workshop_download_item 294100 2883283629
+
+workshop_download_item 294100 3346160287 //Hoods and Helmets
+
+workshop_download_item 294100 2748834409 // Vanilla Hair Retextured
+workshop_download_item 294100 2747368450 // Rimsenal Hair Retextured
+workshop_download_item 294100 3239789489 // Dryad retexture
+workshop_download_item 294100 2934090958 // Anime Mech Retexture (WIP)
+
+workshop_download_item 294100 1540475285 // [NL] Chibi Face Female only
+
+// workshop_download_item 294100 2890976130 // Sunset Weapon Technology 2
+// workshop_download_item 294100 2599107582 // Pirates! Gold
+
+quit

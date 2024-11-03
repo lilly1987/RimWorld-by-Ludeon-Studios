@@ -88,6 +88,17 @@
 			<li>UCStripedFloor</li>
 			<li>UCScaffoldFloor</li>
 			<li>UCScaffoldTile</li>
+			<li>BoneFloor</li>
+			<li>BoneFloor_Blackened</li>
+			<li>BoneChinaFloor</li>
+			<li>BoneFloor_Ashen</li>
+			<li>BoneFloor_Tile</li>
+			<li>PRF_ConcreteYellow</li>
+			<li>PRF_ConcreteBlack</li>
+			<li>PRF_ConcreteDarkGrey</li>
+			<li>PRF_ConcreteWhite</li>
+			<li>PRF_StripedTileRight</li>
+			<li>PRF_StripedTileLeft</li>
 		</bridgePrefNames>
 	</ModSettings>
 </SettingsBlock>

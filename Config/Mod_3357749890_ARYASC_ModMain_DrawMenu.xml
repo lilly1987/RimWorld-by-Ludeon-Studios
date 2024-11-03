@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ARY_AutomaticStumpChopping.ARYASC_Settings">
+		<ARYASC_enable_cut_stump>True</ARYASC_enable_cut_stump>
+		<ARYASC_enable_cut_blight>True</ARYASC_enable_cut_blight>
+		<ARYASC_enable_visual>True</ARYASC_enable_visual>
+	</ModSettings>
+</SettingsBlock>

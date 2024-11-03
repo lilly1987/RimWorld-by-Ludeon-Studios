@@ -2,26 +2,22 @@
 <SettingsBlock>
 	<ModSettings Class="PeteTimesSix.SimpleSidearms.SimpleSidearms_Settings">
 		<SettingsEverOpened>True</SettingsEverOpened>
-		<ActivePreset>Basic</ActivePreset>
+		<ActivePreset>Custom</ActivePreset>
 		<SeparateModes>True</SeparateModes>
-		<LimitModeSingleMelee>RelativeWeight</LimitModeSingleMelee>
-		<LimitModeAmountMelee>Slots</LimitModeAmountMelee>
-		<LimitModeSingleRanged>RelativeWeight</LimitModeSingleRanged>
-		<LimitModeAmountRanged>Slots</LimitModeAmountRanged>
-		<LimitModeAmountTotal>Slots</LimitModeAmountTotal>
+		<LimitModeAmountMelee>RelativeWeight</LimitModeAmountMelee>
+		<LimitModeAmountRanged>RelativeWeight</LimitModeAmountRanged>
+		<LimitModeAmountTotal>RelativeWeight</LimitModeAmountTotal>
 		<LimitModeSingle_RelativeMass>0.05428571</LimitModeSingle_RelativeMass>
 		<LimitModeAmount_RelativeMass>0.2857143</LimitModeAmount_RelativeMass>
-		<LimitModeSingleMelee_RelativeMass>0.05428571</LimitModeSingleMelee_RelativeMass>
+		<LimitModeSingleMelee_RelativeMass>0.1142857</LimitModeSingleMelee_RelativeMass>
 		<LimitModeAmountMelee_RelativeMass>0.2857143</LimitModeAmountMelee_RelativeMass>
-		<LimitModeSingleRanged_RelativeMass>0.07714286</LimitModeSingleRanged_RelativeMass>
+		<LimitModeSingleRanged_RelativeMass>0.07285714</LimitModeSingleRanged_RelativeMass>
 		<LimitModeAmountRanged_RelativeMass>0.2857143</LimitModeAmountRanged_RelativeMass>
+		<LimitModeAmountRanged_Slots>0</LimitModeAmountRanged_Slots>
 		<LimitModeAmountTotal_RelativeMass>0.2857143</LimitModeAmountTotal_RelativeMass>
-		<LimitModeAmountTotal_Slots>3</LimitModeAmountTotal_Slots>
 		<LimitModeSingle_Selection_defNames>
 			<li>Axolotl_WindWrappingSword</li>
 			<li>RK_LongSword</li>
-			<li>Pirate_Sabre</li>
-			<li>Pirate_Cutlass</li>
 			<li>Axolotl_AuspiciousNeedle</li>
 			<li>Miho_Weapon_RingedBlade</li>
 			<li>RK_OneHanded</li>
@@ -41,7 +37,6 @@
 			<li>RK_Fork</li>
 			<li>RK_Cleaver</li>
 			<li>MeleeWeapon_Gladius</li>
-			<li>Pirate_Rapier</li>
 			<li>MeleeWeapon_Axe</li>
 			<li>MeleeWeapon_Mace</li>
 			<li>MeleeWeapon_BreachAxe</li>
@@ -49,14 +44,11 @@
 			<li>Kiiro_ValorSabre</li>
 			<li>Kiiro_Hammer</li>
 			<li>VV_EltexNeedle</li>
-			<li>Pirate_Flag</li>
 			<li>Kiiro_DaggerAxe</li>
 			<li>Kiiro_LongHandledBlade</li>
-			<li>hhsq_cy</li>
 			<li>MeleeWeapon_Knife</li>
 			<li>Kiiro_Spear</li>
 			<li>Kiiro_Axe</li>
-			<li>Pirate_Dirk</li>
 			<li>RK_Dagger</li>
 			<li>Kiiro_Hoe</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
@@ -75,12 +67,9 @@
 			<li>Milian_PivotScepter</li>
 			<li>Milian_ParticleBeamGun</li>
 			<li>Milian_PulsedBeamGun</li>
-			<li>Pirate_Arquebus</li>
 			<li>RK_AutoCrossBow</li>
 			<li>Weapon_GrenadeEMP</li>
 			<li>Weapon_GrenadeTox</li>
-			<li>Pirate_HandCannon</li>
-			<li>Pirate_Flintlock</li>
 			<li>Miho_Weapon_RifleCQB</li>
 			<li>Weapon_GrenadeFrag</li>
 			<li>Axolotl_MoeLotlCrossBow_Basic</li>
@@ -88,11 +77,8 @@
 			<li>RogueServitor_PM423_Grenade_Weapon</li>
 			<li>RogueServitor_PM629_Grenade_Weapon</li>
 			<li>Weapon_GrenadeMolotov</li>
-			<li>Pirate_Grenade</li>
 			<li>Secretary_vote</li>
 			<li>Kiiro_GrenadeFrag</li>
-			<li>Pirate_Blunderbuss</li>
-			<li>Pirate_Esquebus</li>
 			<li>Mousekin_RangedWeapon_CrossbowAuto</li>
 			<li>Kurin_Range_FlareGun</li>
 			<li>Kiiro_GrenadeFlash</li>
@@ -156,8 +142,6 @@
 		<LimitModeSingleMelee_Selection_defNames>
 			<li>Axolotl_WindWrappingSword</li>
 			<li>RK_LongSword</li>
-			<li>Pirate_Sabre</li>
-			<li>Pirate_Cutlass</li>
 			<li>Miho_Weapon_RingedBlade</li>
 			<li>RK_OneHanded</li>
 			<li>RK_Mace</li>
@@ -176,18 +160,15 @@
 			<li>RK_Fork</li>
 			<li>RK_Cleaver</li>
 			<li>MeleeWeapon_Gladius</li>
-			<li>Pirate_Rapier</li>
 			<li>MeleeWeapon_Axe</li>
 			<li>MeleeWeapon_Mace</li>
 			<li>MeleeWeapon_BreachAxe</li>
 			<li>MeleeWeapon_Ikwa</li>
 			<li>Kiiro_ValorSabre</li>
 			<li>Kiiro_Hammer</li>
-			<li>Pirate_Flag</li>
 			<li>Kiiro_LongHandledBlade</li>
 			<li>MeleeWeapon_Knife</li>
 			<li>Kiiro_Axe</li>
-			<li>Pirate_Dirk</li>
 			<li>RK_Dagger</li>
 			<li>Kiiro_Hoe</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
@@ -217,11 +198,12 @@
 			<li>WoodLog</li>
 		</LimitModeSingleMelee_Selection_defNames>
 		<LimitModeSingleRanged_Selection_defNames>
+			<li>HAR_QL_Weapon_a</li>
+			<li>HAR_QL_Weapon_b</li>
 			<li>Axolotl_AuspiciousNeedle</li>
 			<li>VV_ViviLongJavelin</li>
 			<li>VV_EltexNeedle</li>
 			<li>Kiiro_DaggerAxe</li>
-			<li>hhsq_cy</li>
 			<li>RangedWeapon_DMRW_Chakram</li>
 			<li>RangedWeapon_DMRW_Failnaught</li>
 			<li>DMRW_Magikey</li>
@@ -239,7 +221,6 @@
 			<li>Milian_ParticleBeamGun</li>
 			<li>Milian_PulsedBeamGun</li>
 			<li>RK_FlechetteSniperRifle</li>
-			<li>Pirate_Arquebus</li>
 			<li>RK_FlechetteRifle</li>
 			<li>RK_SniperRifle</li>
 			<li>Axolotl_MoeLotlCrossBow_Intermediate</li>
@@ -250,8 +231,6 @@
 			<li>Kiiro_TRWeapon_RifleII</li>
 			<li>Weapon_GrenadeEMP</li>
 			<li>Weapon_GrenadeTox</li>
-			<li>Pirate_HandCannon</li>
-			<li>Pirate_Flintlock</li>
 			<li>Miho_Weapon_RifleCQB</li>
 			<li>Kiiro_TRWeapon_Rifle</li>
 			<li>RK_Rifle</li>
@@ -267,12 +246,9 @@
 			<li>Kiiro_RepeatingCrossbow</li>
 			<li>Gun_MachinePistol</li>
 			<li>Team_chemistry</li>
-			<li>Pirate_Grenade</li>
 			<li>Secretary_vote</li>
 			<li>Mousekin_RangedWeapon_MusketLong</li>
 			<li>Kiiro_GrenadeFrag</li>
-			<li>Pirate_Blunderbuss</li>
-			<li>Pirate_Esquebus</li>
 			<li>Mousekin_RangedWeapon_CrossbowAuto</li>
 			<li>Kurin_Range_FlareGun</li>
 			<li>Kiiro_GrenadeFlash</li>
@@ -321,6 +297,9 @@
 		<LimitModeSingle_Selection />
 		<LimitModeSingleMelee_Selection />
 		<LimitModeSingleRanged_Selection />
+		<ColonistDefaultWeaponMode>Ranged</ColonistDefaultWeaponMode>
+		<NPCDefaultWeaponMode>Ranged</NPCDefaultWeaponMode>
+		<FumbleMode>Never</FumbleMode>
 		<SkipDangerousWeapons>False</SkipDangerousWeapons>
 		<FumbleRecoveryChance>
 			<li>(0.00, 0.00)</li>

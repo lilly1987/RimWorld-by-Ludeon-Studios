@@ -5,5 +5,5 @@ None|None|
 
 
 
-
+MaidHatNC,의식용 하녀 모자,5,1,True,0,,MaxHitPoints!10000|Flammability!0|DeteriorationRate!0|Beauty!100|Insulation_Cold!100|Insulation_Heat!100|Mass!0|WorkToMake!0|MarketValue!0|ArmorRating_Blunt!2|ArmorRating_Sharp!2|ArmorRating_Heat!2|EquipDelay!0|SellPriceFactor!0.75,,,,Clothing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,,,,,,,,,,,,,MaidTech,,0,0,Overhead,Eyes,Royal|RoyalTier1|RoyalTier2|RoyalTier3|RoyalTier4|RoyalTier5|RoyalTier6|RoyalTier7,Worker|Soldier,1;
 

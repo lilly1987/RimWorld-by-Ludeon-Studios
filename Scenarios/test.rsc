@@ -9,7 +9,8 @@
 		<description />
 		<playerFaction>
 			<def>PlayerFaction</def>
-			<factionDef>ResearchExpedition</factionDef>
+<factionDef>Miho_PlayerColony</factionDef>
+
 		</playerFaction>
 		<parts>
         

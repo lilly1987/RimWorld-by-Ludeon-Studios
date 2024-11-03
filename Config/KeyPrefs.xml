@@ -722,20 +722,6 @@
     </value>
   </li>
   <li>
-    <key>ToggleRoomSenseOverlay</key>
-    <value>
-      <keyBindingA>Equals</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>Dev_QuickGoToConfigPawnPage</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>ToggleTracking</key>
     <value>
       <keyBindingA>Backslash</keyBindingA>
@@ -778,6 +764,13 @@
     </value>
   </li>
   <li>
+    <key>PipetteToolHotKey</key>
+    <value>
+      <keyBindingA>Q</keyBindingA>
+      <keyBindingB>T</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -788,6 +781,20 @@
     <key>HotkeyTeleport</key>
     <value>
       <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>Dev_QuickGoToConfigPawnPage</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleRoomSenseOverlay</key>
+    <value>
+      <keyBindingA>Equals</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>

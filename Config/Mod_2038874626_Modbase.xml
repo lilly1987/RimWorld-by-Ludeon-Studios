@@ -40,6 +40,7 @@
 			</li>
 			<li>
 				<sortBy>CallsPu</sortBy>
+				<active>True</active>
 				<order>7</order>
 			</li>
 		</columnSettings>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Ad2mod.Ad2Settings">
+		<limitToX5>True</limitToX5>
+		<useSameQualityForAll>True</useSameQualityForAll>
+	</ModSettings>
+</SettingsBlock>

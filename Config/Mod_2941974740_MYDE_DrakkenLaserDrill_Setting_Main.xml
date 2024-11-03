@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MYDE_DrakkenLaserDrill.MYDE_DrakkenLaserDrill_Setting">
+		<Base_ConsumePowerFactor>6000</Base_ConsumePowerFactor>
+	</ModSettings>
+</SettingsBlock>

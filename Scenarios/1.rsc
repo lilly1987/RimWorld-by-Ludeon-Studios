@@ -53,14 +53,42 @@
 <li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>BA_Scholar</trait><degree>0</degree></li>
 <li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>BA_HealthConscious</trait><degree>0</degree></li>
 <li Class="ScenPart_ForcedTrait"><def>ForcedTrait</def><chance>1</chance><context>PlayerStarter</context><trait>Joyous</trait><degree>0</degree></li>
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Milira_SolarCrystal</thingDef><count>100</count><quality>Legendary</quality></li>
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MealSurvivalPack</thingDef><count>100</count><quality>Legendary</quality></li>
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Kibble</thingDef><count>100</count><quality>Legendary</quality></li>
+
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Gold</thingDef><count>100000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Silver</thingDef><count>100000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Steel</thingDef><count>100000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Uranium</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Plasteel</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Bioferrite</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>BlocksMarble</thingDef><count>100000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>BlocksGranite</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>IJade</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Milira_SolarCrystal</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>RB_BallisticGlass</thingDef><count>10000</count><quality>Legendary</quality></li>
+
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Cloth</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>DevilstrandCloth</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Dye</thingDef><count>10000</count><quality>Legendary</quality></li>
+
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MealSurvivalPack</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Kibble</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Hay</thingDef><count>10000</count><quality>Legendary</quality></li>
+
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MedicineHerbal</thingDef><count>100</count><quality>Legendary</quality></li>
 <li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MedicineIndustrial</thingDef><count>100</count><quality>Legendary</quality></li>
 <li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MedicineUltratech</thingDef><count>100</count><quality>Legendary</quality></li>
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>ComponentIndustrial</thingDef><count>100</count><quality>Legendary</quality></li>
-<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>ComponentSpacer</thingDef><count>100</count><quality>Legendary</quality></li>
+
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>ComponentIndustrial</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>ComponentSpacer</thingDef><count>10000</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>NanostructuringChip</thingDef><count>100</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>PowerfocusChip</thingDef><count>100</count><quality>Legendary</quality></li>
 <li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>AIPersonaCore</thingDef><count>100</count><quality>Legendary</quality></li>
+
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>Chemfuel</thingDef><count>100</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>HemogenPack</thingDef><count>100</count><quality>Legendary</quality></li>
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>MechSerumResurrector</thingDef><count>100</count><quality>Legendary</quality></li>
+
+<li Class="CharacterEditor.ScenPart_StartingThingStyle_Defined"><def>StartingThing_Defined</def><thingDef>ChefMaid</thingDef><count>32</count><quality>Legendary</quality></li>
 
     </parts>
   </scenario>

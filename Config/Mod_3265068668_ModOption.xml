@@ -1,7 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="seekiworks_GiverTheColonyHelper.ModSettings">
-		<notes />
+		<notes>
+			<li>
+				<tick>3281847</tick>
+				<persistentRandomValue>502520533</persistentRandomValue>
+				<id>1682086202</id>
+				<label>사망: 벤틀리 (기버) (각별한 동물)</label>
+				<text>벤틀리가 찔려 죽었습니다.
+
+(*Name)피아녹스(/Name)와 각별한 사이였던 (*Name)벤틀리(/Name)가 죽었습니다. (*Name)피아녹스(/Name)의 기분에 영향을 미칩니다.</text>
+				<ver>1609</ver>
+			</li>
+		</notes>
 		<defs />
 	</ModSettings>
 </SettingsBlock>

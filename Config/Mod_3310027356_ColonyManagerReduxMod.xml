@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ColonyManagerRedux.Settings">
+		<defaultTargetCount>3000</defaultTargetCount>
+		<jobSettings>
+			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Logs">
+				<def>CM_LogsManager</def>
+			</li>
+			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Hunting">
+				<def>CM_HuntingManager</def>
+				<defaultTargetResource>Leather</defaultTargetResource>
+			</li>
+			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Forestry">
+				<def>CM_ForestryManager</def>
+			</li>
+			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Livestock">
+				<def>CM_LivestockManager</def>
+				<default>
+					<defaultTryTameMore>True</defaultTryTameMore>
+					<defaultTamePastTargets>True</defaultTamePastTargets>
+					<enabledTrainingTargets />
+				</default>
+				<overrides>
+					<keys />
+					<values />
+				</overrides>
+			</li>
+			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Foraging">
+				<def>CM_ForagingManager</def>
+				<defaultForceFullyMature>True</defaultForceFullyMature>
+			</li>
+			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Mining">
+				<def>CM_MiningManager</def>
+				<defaultDeconstructBuildings>True</defaultDeconstructBuildings>
+				<defaultDeconstructAncientDangerWhenFogged>True</defaultDeconstructAncientDangerWhenFogged>
+				<defaultTakeOwnershipOfMiningJobs>True</defaultTakeOwnershipOfMiningJobs>
+				<defaultCheckRoomDivision>False</defaultCheckRoomDivision>
+			</li>
+		</jobSettings>
+		<disabledManagers />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NQualityOfLife.Settings.NQualityOfLife_Settings">
+		<NQoL_architectPosData IsNull="True" />
+		<NQoL_architectPosData>
+			<keys />
+			<values />
+		</NQoL_architectPosData>
+		<NQoL_architectColData IsNull="True" />
+		<NQoL_architectColData>
+			<keys />
+			<values />
+		</NQoL_architectColData>
+		<NQoL_mainButtonPosData IsNull="True" />
+		<NQoL_mainButtonPosData>
+			<keys />
+			<values />
+		</NQoL_mainButtonPosData>
+		<NQoL_mainButtonSizeData IsNull="True" />
+		<NQoL_mainButtonSizeData>
+			<keys />
+			<values />
+		</NQoL_mainButtonSizeData>
+		<NQoL_LetterFilter_SaveData IsNull="True" />
+		<NQoL_LetterFilter_SaveData>
+			<keys />
+			<values />
+		</NQoL_LetterFilter_SaveData>
+		<NQoL_MessageFilter_SaveData IsNull="True" />
+		<NQoL_MessageFilter_SaveData>
+			<keys />
+			<values />
+		</NQoL_MessageFilter_SaveData>
+		<NiilosQoL_Settings_Infestation_Light_Max_For_Insects_100>0</NiilosQoL_Settings_Infestation_Light_Max_For_Insects_100>
+		<NiilosQoL_Settings_Infestation_Temperature_Range_Max>0</NiilosQoL_Settings_Infestation_Temperature_Range_Max>
+		<NiilosQoL_Settings_Raids_No_Mech_World_Quests_As_Tribal_Int>0</NiilosQoL_Settings_Raids_No_Mech_World_Quests_As_Tribal_Int>
+		<NiilosQoL_Settings_World_Project_TimeScale>0</NiilosQoL_Settings_World_Project_TimeScale>
+		<NiilosQoL_Settings_Debug_Tech_Level_Force_Int>0</NiilosQoL_Settings_Debug_Tech_Level_Force_Int>
+		<NiilosQoL_Settings_Storage_Filters_Window_Y>0</NiilosQoL_Settings_Storage_Filters_Window_Y>
+		<NiilosQoL_Settings_Storage_Filters_Window_X>0</NiilosQoL_Settings_Storage_Filters_Window_X>
+		<NiilosQoL_Settings_Pen_Animal_Filters_Window_Y>0</NiilosQoL_Settings_Pen_Animal_Filters_Window_Y>
+		<NiilosQoL_Settings_Pen_Animal_Filters_Window_X>0</NiilosQoL_Settings_Pen_Animal_Filters_Window_X>
+		<NiilosQoL_Settings_Pen_Auto_Cut_Filters_Window_Y>0</NiilosQoL_Settings_Pen_Auto_Cut_Filters_Window_Y>
+		<NiilosQoL_Settings_Pen_Auto_Cut_Filters_Window_X>0</NiilosQoL_Settings_Pen_Auto_Cut_Filters_Window_X>
+		<NiilosQoL_Settings_DeepStorage_Window_Y>0</NiilosQoL_Settings_DeepStorage_Window_Y>
+		<NiilosQoL_Settings_DeepStorage_Window_X>0</NiilosQoL_Settings_DeepStorage_Window_X>
+		<NiilosQoL_Settings_Faction_Window_Y>0</NiilosQoL_Settings_Faction_Window_Y>
+		<NiilosQoL_Settings_Faction_Window_X>0</NiilosQoL_Settings_Faction_Window_X>
+		<NiilosQoL_Settings_Pawn_Relation_Window_Y>0</NiilosQoL_Settings_Pawn_Relation_Window_Y>
+		<NiilosQoL_Settings_Pawn_Relation_Window_X>0</NiilosQoL_Settings_Pawn_Relation_Window_X>
+		<NiilosQoL_Settings_Deconstruction_Losses_Slider>0</NiilosQoL_Settings_Deconstruction_Losses_Slider>
+		<NiilosQoL_Settings_Adjust_FloorWealth_Slider_Default>0</NiilosQoL_Settings_Adjust_FloorWealth_Slider_Default>
+		<NiilosQoL_Settings_Adjust_FloorWealth_Slider_Multiplier>0</NiilosQoL_Settings_Adjust_FloorWealth_Slider_Multiplier>
+		<NiilosQoL_Settings_Adjust_FloorWealth_Slider_Cap>0</NiilosQoL_Settings_Adjust_FloorWealth_Slider_Cap>
+		<NiilosQoL_Settings_Research_TechLevel_Progression_Slider>0</NiilosQoL_Settings_Research_TechLevel_Progression_Slider>
+		<NiilosQoL_Settings_Research_TechLevel_Progression_Skip_Slider>0</NiilosQoL_Settings_Research_TechLevel_Progression_Skip_Slider>
+		<NiilosQoL_Settings_Pawn_Torso_Preservation_Slider>0</NiilosQoL_Settings_Pawn_Torso_Preservation_Slider>
+		<enableLarge>False</enableLarge>
+	</ModSettings>
+</SettingsBlock>

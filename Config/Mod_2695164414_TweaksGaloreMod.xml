@@ -136,10 +136,15 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -149,46 +154,81 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -197,6 +237,7 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -209,54 +250,13 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>True</li>
@@ -438,6 +438,222 @@
 				<li>Tweak_PowerAdj_VPE_Building_Zapcap</li>
 				<li>Tweak_PowerAdj_MURWallSunLamp</li>
 				<li>Tweak_PowerAdj_LWM_DS_RimFridge_Refrigerator</li>
+				<li>Tweak_PowerAdj_MimikkoGenerater</li>
+				<li>Tweak_PowerAdj_Milian_Gestator</li>
+				<li>Tweak_PowerAdj_Milian_Recharger</li>
+				<li>Tweak_PowerAdj_Milira_SunLightFuelPoweredGenerator</li>
+				<li>Tweak_PowerAdj_Milira_UniversalBench</li>
+				<li>Tweak_PowerAdj_Milira_SunLightGatheringTower</li>
+				<li>Tweak_PowerAdj_VV_Thunderpetals</li>
+				<li>Tweak_PowerAdj_VV_AutoExtractor</li>
+				<li>Tweak_PowerAdj_GFTable</li>
+				<li>Tweak_PowerAdj_RK_HamsterWheelGenerator</li>
+				<li>Tweak_PowerAdj_RK_ElectricTailoringBench</li>
+				<li>Tweak_PowerAdj_RK_ElectricSmithy</li>
+				<li>Tweak_PowerAdj_TableStonecutterElectric</li>
+				<li>Tweak_PowerAdj_sd_adv_powergen_nuclear_power_plant</li>
+				<li>Tweak_PowerAdj_ASRG</li>
+				<li>Tweak_PowerAdj_large_ASRG</li>
+				<li>Tweak_PowerAdj_sd_adv_powergen_adv_geothermal_generator</li>
+				<li>Tweak_PowerAdj_advanced_nuclear_generator</li>
+				<li>Tweak_PowerAdj_sd_adv_powergen_adv_wind_turbine</li>
+				<li>Tweak_PowerAdj_sd_adv_powergen_adv_solar_generator</li>
+				<li>Tweak_PowerAdj_sd_adv_powergen_WatermillGenerator</li>
+				<li>Tweak_PowerAdj_MedPodLux</li>
+				<li>Tweak_PowerAdj_MedPodStandard</li>
+				<li>Tweak_PowerAdj_MedPodAnimal</li>
+				<li>Tweak_PowerAdj_MedPodAnimalMedium</li>
+				<li>Tweak_PowerAdj_MedPodAnimalBig</li>
+				<li>Tweak_PowerAdj_GlassMonitorLarge</li>
+				<li>Tweak_PowerAdj_GlassworkTable</li>
+				<li>Tweak_PowerAdj_ReinforcedGlassworkTable</li>
+				<li>Tweak_PowerAdj_AutoDoorGlass</li>
+				<li>Tweak_PowerAdj_GLCeilingLamp</li>
+				<li>Tweak_PowerAdj_GLCeilingLamp_Red</li>
+				<li>Tweak_PowerAdj_GLCeilingLamp_Blue</li>
+				<li>Tweak_PowerAdj_GLCeilingLamp_Green</li>
+				<li>Tweak_PowerAdj_GLCeilingLamp_Violet</li>
+				<li>Tweak_PowerAdj_GLCeilingLamp_Yellow</li>
+				<li>Tweak_PowerAdj_GLCeilingLamp_Orange</li>
+				<li>Tweak_PowerAdj_GLRoundWallLamp</li>
+				<li>Tweak_PowerAdj_ArtilleryMachining</li>
+				<li>Tweak_PowerAdj_UVTerminalCemeteryS</li>
+				<li>Tweak_PowerAdj_UVTerminalCemeteryM</li>
+				<li>Tweak_PowerAdj_UVTerminalCemeteryL</li>
+				<li>Tweak_PowerAdj_UVTerminalCryptosleepS</li>
+				<li>Tweak_PowerAdj_UVTerminalCryptosleepM</li>
+				<li>Tweak_PowerAdj_UVTerminalCryptosleepL</li>
+				<li>Tweak_PowerAdj_UVTerminalStorageS</li>
+				<li>Tweak_PowerAdj_UVTerminalStorageM</li>
+				<li>Tweak_PowerAdj_UVTerminalStorageL</li>
+				<li>Tweak_PowerAdj_UVTerminalStorageXL</li>
+				<li>Tweak_PowerAdj_UVTerminalStorageUltra</li>
+				<li>Tweak_PowerAdj_UVTerminalStorageUltraSub</li>
+				<li>Tweak_PowerAdj_VaultAutodoor</li>
+				<li>Tweak_PowerAdj_Radio</li>
+				<li>Tweak_PowerAdj_StandingRadio</li>
+				<li>Tweak_PowerAdj_TableRadio</li>
+				<li>Tweak_PowerAdj_ModernRadio</li>
+				<li>Tweak_PowerAdj_RimWriter_PapermakingBenchElectric</li>
+				<li>Tweak_PowerAdj_QC_QuantumCooler_Proto</li>
+				<li>Tweak_PowerAdj_QC_QuantumCooler</li>
+				<li>Tweak_PowerAdj_QC_QuantumCooler_Large</li>
+				<li>Tweak_PowerAdj_QC_QuantumHeater</li>
+				<li>Tweak_PowerAdj_QC_QuantumHeater_Large</li>
+				<li>Tweak_PowerAdj_PRF_Shearer</li>
+				<li>Tweak_PowerAdj_PRF_Milker</li>
+				<li>Tweak_PowerAdj_PRF_GenericAnimalHarvester</li>
+				<li>Tweak_PowerAdj_PRF_GenericAnimalHarvester_II</li>
+				<li>Tweak_PowerAdj_PRF_Slaughterhouse</li>
+				<li>Tweak_PowerAdj_PRF_RecipeDatabase</li>
+				<li>Tweak_PowerAdj_PRF_TypeOneAssembler_I</li>
+				<li>Tweak_PowerAdj_PRF_TypeTwoAssembler_I</li>
+				<li>Tweak_PowerAdj_PRF_TypeTwoAssembler_II</li>
+				<li>Tweak_PowerAdj_PRF_TypeTwoAssembler_III</li>
+				<li>Tweak_PowerAdj_PRF_ResearchTerminal</li>
+				<li>Tweak_PowerAdj_TableRoboticMachining</li>
+				<li>Tweak_PowerAdj_PRF_SelfCookerI</li>
+				<li>Tweak_PowerAdj_PRF_SelfCookerII</li>
+				<li>Tweak_PowerAdj_PRF_SelfCookerIII</li>
+				<li>Tweak_PowerAdj_PRF_MeatGrinder</li>
+				<li>Tweak_PowerAdj_PRF_FermentingBarrel</li>
+				<li>Tweak_PowerAdj_PRF_SelfPrepper</li>
+				<li>Tweak_PowerAdj_PRF_DroneCultivator_I</li>
+				<li>Tweak_PowerAdj_PRF_DroneCultivator_II</li>
+				<li>Tweak_PowerAdj_PRF_DroneCultivator_II_sun</li>
+				<li>Tweak_PowerAdj_PRF_DroneCultivator_III</li>
+				<li>Tweak_PowerAdj_PRF_OldTypeCultivator_I</li>
+				<li>Tweak_PowerAdj_PRF_OldTypeCultivator_Sun</li>
+				<li>Tweak_PowerAdj_PRF_OldTypeCultivator_Xl</li>
+				<li>Tweak_PowerAdj_PRF_Sprinkler_I</li>
+				<li>Tweak_PowerAdj_PRF_Sprinkler_II</li>
+				<li>Tweak_PowerAdj_PRF_MiniHelper</li>
+				<li>Tweak_PowerAdj_PRF_MiniDroneColumn</li>
+				<li>Tweak_PowerAdj_PRF_StoneWorks</li>
+				<li>Tweak_PowerAdj_PRF_Recycler</li>
+				<li>Tweak_PowerAdj_PRF_MrTsArtMachine</li>
+				<li>Tweak_PowerAdj_PRF_MetalRefinery</li>
+				<li>Tweak_PowerAdj_PRF_PartAssembler</li>
+				<li>Tweak_PowerAdj_PRF_FurnaceII</li>
+				<li>Tweak_PowerAdj_PRF_FurnaceIII</li>
+				<li>Tweak_PowerAdj_PRF_FuelingMachine</li>
+				<li>Tweak_PowerAdj_PRF_SmartHopper</li>
+				<li>Tweak_PowerAdj_PRF_GrowzonePuller_I</li>
+				<li>Tweak_PowerAdj_PRF_SimplePuller_I</li>
+				<li>Tweak_PowerAdj_PRF_SimplePuller_II</li>
+				<li>Tweak_PowerAdj_PRF_SimplePuller_II_Side</li>
+				<li>Tweak_PowerAdj_PRF_SimplePuller_II_Wall</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Simple_I</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Simple_II</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Simple_III</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Wall_I</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_UG_I</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Connector_To_UG</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Connector_To_Floor</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Splitter_I</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Splitter_UG</li>
+				<li>Tweak_PowerAdj_PRF_Conveyor_Splitter_Wall</li>
+				<li>Tweak_PowerAdj_PRF_DeepQuarry_mkII</li>
+				<li>Tweak_PowerAdj_PRF_DeepQuarry_mkIII</li>
+				<li>Tweak_PowerAdj_PRF_BillTypeMiner_I</li>
+				<li>Tweak_PowerAdj_PRF_WallLight</li>
+				<li>Tweak_PowerAdj_PRF_SunWallLight</li>
+				<li>Tweak_PowerAdj_PRF_IndustrialLamp</li>
+				<li>Tweak_PowerAdj_PRF_Floorspotlight</li>
+				<li>Tweak_PowerAdj_PRF_AutoCrafterSimple</li>
+				<li>Tweak_PowerAdj_PRF_AutoCrafter</li>
+				<li>Tweak_PowerAdj_PRF_TheArtMachine</li>
+				<li>Tweak_PowerAdj_PRF_TheArtMaster</li>
+				<li>Tweak_PowerAdj_PRF_OverclockedAutoAssembler</li>
+				<li>Tweak_PowerAdj_PRF_OverclockedAutoAssemblerII</li>
+				<li>Tweak_PowerAdj_PRF_SALAutoCooker</li>
+				<li>Tweak_PowerAdj_PRF_SALAutoMinerI</li>
+				<li>Tweak_PowerAdj_PRF_GodlyCrafter</li>
+				<li>Tweak_PowerAdj_PRF_IOPort_I</li>
+				<li>Tweak_PowerAdj_PRF_IOPPusher_I</li>
+				<li>Tweak_PowerAdj_PRF_IOPort_II</li>
+				<li>Tweak_PowerAdj_ARKPPP_WirelessPowerEmitter</li>
+				<li>Tweak_PowerAdj_ARKPPP_WirelessPowerEmitterAdvanced</li>
+				<li>Tweak_PowerAdj_ARKPPP_LocalWirelessPowerEmitter</li>
+				<li>Tweak_PowerAdj_ARKPPP_LocalWirelessPortablePowerEmitter</li>
+				<li>Tweak_PowerAdj_ARKPPP_PowerBeamAbsorptionDish</li>
+				<li>Tweak_PowerAdj_ARKPPP_PowerBeamSatelliteTargetingSystem</li>
+				<li>Tweak_PowerAdj_ARKPPP_ADRelayTower</li>
+				<li>Tweak_PowerAdj_OverWallNutrientPaste</li>
+				<li>Tweak_PowerAdj_OverWallNutrientDispenser2W</li>
+				<li>Tweak_PowerAdj_CoreDrill</li>
+				<li>Tweak_PowerAdj_MindAlteringDeviceSW</li>
+				<li>Tweak_PowerAdj_ComputingSystemSW</li>
+				<li>Tweak_PowerAdj_CompactFissionPowerSW</li>
+				<li>Tweak_PowerAdj_TableWeaverSW</li>
+				<li>Tweak_PowerAdj_MechaniteAssemblySW</li>
+				<li>Tweak_PowerAdj_M4_KaraokeMachine</li>
+				<li>Tweak_PowerAdj_MechChargerBooster_I</li>
+				<li>Tweak_PowerAdj_MechChargerBooster_II</li>
+				<li>Tweak_PowerAdj_MechChargerBooster_III</li>
+				<li>Tweak_PowerAdj_MechChargerBooster_IV</li>
+				<li>Tweak_PowerAdj_BackupGeneratorWood</li>
+				<li>Tweak_PowerAdj_BackupGeneratorChemfuel</li>
+				<li>Tweak_PowerAdj_MobileGeneratorChemfuel</li>
+				<li>Tweak_PowerAdj_LargeBackupGeneratorUranium</li>
+				<li>Tweak_PowerAdj_MobileGeneratorUranium</li>
+				<li>Tweak_PowerAdj_ElectronicOrgan</li>
+				<li>Tweak_PowerAdj_GeneLibrary</li>
+				<li>Tweak_PowerAdj_PH_AutodoorDouble</li>
+				<li>Tweak_PowerAdj_PH_AutodoorTriple</li>
+				<li>Tweak_PowerAdj_PH_DoorBlastSingle</li>
+				<li>Tweak_PowerAdj_PH_DoorBlastDoor</li>
+				<li>Tweak_PowerAdj_PH_DoorThickBlastDoor</li>
+				<li>Tweak_PowerAdj_PH_DoorButton</li>
+				<li>Tweak_PowerAdj_PH_DoorLever</li>
+				<li>Tweak_PowerAdj_PH_DoorRemoteSingle</li>
+				<li>Tweak_PowerAdj_PH_DoorRemoteDouble</li>
+				<li>Tweak_PowerAdj_PH_DoorRemoteTriple</li>
+				<li>Tweak_PowerAdj_Turret_Auto_Mortar</li>
+				<li>Tweak_PowerAdj_IntakeFan</li>
+				<li>Tweak_PowerAdj_AirThermal</li>
+				<li>Tweak_PowerAdj_LargeIntakeFan</li>
+				<li>Tweak_PowerAdj_LargeAirThermal</li>
+				<li>Tweak_PowerAdj_WSGR_DataLibrary</li>
+				<li>Tweak_PowerAdj_WSGR_Vendingmachine</li>
+				<li>Tweak_PowerAdj_WSGR_OilWell</li>
+				<li>Tweak_PowerAdj_WSGR_GasPower_Plant</li>
+				<li>Tweak_PowerAdj_WSGR_DeepCoreMining_Plant</li>
+				<li>Tweak_PowerAdj_WSGR_Fabricators_Plant</li>
+				<li>Tweak_PowerAdj_WSGR_Alloy_A_Plant</li>
+				<li>Tweak_PowerAdj_WSGR_Alloy_B_Plant</li>
+				<li>Tweak_PowerAdj_WSGR_Alloy_C_Plant</li>
+				<li>Tweak_PowerAdj_R_Bedside_table</li>
+				<li>Tweak_PowerAdj_WSGR_Galo_CATCHER</li>
+				<li>Tweak_PowerAdj_WSGR_Lathe</li>
+				<li>Tweak_PowerAdj_WSGR_CNC</li>
+				<li>Tweak_PowerAdj_WSGR_ElectricTailoringBench</li>
+				<li>Tweak_PowerAdj_WSGR_Nanoprinter</li>
+				<li>Tweak_PowerAdj_USN_Oerlikon_20mm</li>
+				<li>Tweak_PowerAdj_Soviet_AK630_30mm</li>
+				<li>Tweak_PowerAdj_WSGR_CangMen</li>
+				<li>Tweak_PowerAdj_RogueServitor_WastepackDisruptors</li>
+				<li>Tweak_PowerAdj_RogueServitor_BladeCenter_BandNode</li>
+				<li>Tweak_PowerAdj_RogueServitor_MechGestator</li>
+				<li>Tweak_PowerAdj_RogueServitor_Recharger_a</li>
+				<li>Tweak_PowerAdj_RogueServitor_Recharger_b</li>
+				<li>Tweak_PowerAdj_RogueServitor_PT1_Base</li>
+				<li>Tweak_PowerAdj_Owl_CeilingLight</li>
+				<li>Tweak_PowerAdj_Owl_LongCeilingLight</li>
+				<li>Tweak_PowerAdj_Owl_CeilingSunLamp</li>
+				<li>Tweak_PowerAdj_TableAdvancedElectricStove</li>
+				<li>Tweak_PowerAdj_owl_refrigerator</li>
+				<li>Tweak_PowerAdj_owl_doublerefrigerator</li>
+				<li>Tweak_PowerAdj_PRF_IOPort_IFridge</li>
+				<li>Tweak_PowerAdj_PRFCoolDSU</li>
+				<li>Tweak_PowerAdj_DuelTerminal</li>
+				<li>Tweak_PowerAdj_EccentricAuroraCore</li>
+				<li>Tweak_PowerAdj_EccentricNanofabricator</li>
+				<li>Tweak_PowerAdj_EccentricNanoassembler</li>
+				<li>Tweak_PowerAdj_OPGenerator</li>
+				<li>Tweak_PowerAdj_SolarController</li>
+				<li>Tweak_PowerAdj_CM_ManagerStation</li>
+				<li>Tweak_PowerAdj_CM_AIManager</li>
 			</keys>
 			<values>
 				<li>6</li>
@@ -463,8 +679,8 @@
 				<li>20</li>
 				<li>0</li>
 				<li>4000</li>
-				<li>5</li>
-				<li>5</li>
+				<li>500</li>
+				<li>500</li>
 				<li>30</li>
 				<li>2900</li>
 				<li>30</li>
@@ -507,7 +723,7 @@
 				<li>-1000</li>
 				<li>300</li>
 				<li>50</li>
-				<li>175</li>
+				<li>180</li>
 				<li>200</li>
 				<li>-400</li>
 				<li>50</li>
@@ -542,14 +758,14 @@
 				<li>400</li>
 				<li>50</li>
 				<li>70</li>
-				<li>75</li>
+				<li>72</li>
 				<li>1500</li>
 				<li>150</li>
 				<li>300</li>
 				<li>-4000</li>
 				<li>-2000</li>
 				<li>250</li>
-				<li>375</li>
+				<li>380</li>
 				<li>100</li>
 				<li>120</li>
 				<li>350</li>
@@ -560,8 +776,8 @@
 				<li>60</li>
 				<li>3500</li>
 				<li>400</li>
-				<li>45</li>
-				<li>45</li>
+				<li>44</li>
+				<li>44</li>
 				<li>100</li>
 				<li>100</li>
 				<li>200</li>
@@ -613,6 +829,222 @@
 				<li>-10</li>
 				<li>2000</li>
 				<li>120</li>
+				<li>300</li>
+				<li>350</li>
+				<li>240</li>
+				<li>-1500</li>
+				<li>650</li>
+				<li>-30</li>
+				<li>-300</li>
+				<li>200</li>
+				<li>100</li>
+				<li>-1</li>
+				<li>120</li>
+				<li>210</li>
+				<li>200</li>
+				<li>-20000</li>
+				<li>-2500</li>
+				<li>-9000</li>
+				<li>-7500</li>
+				<li>-26000</li>
+				<li>-4000</li>
+				<li>-3400</li>
+				<li>-2300</li>
+				<li>500</li>
+				<li>500</li>
+				<li>500</li>
+				<li>500</li>
+				<li>500</li>
+				<li>150</li>
+				<li>200</li>
+				<li>100</li>
+				<li>50</li>
+				<li>24</li>
+				<li>24</li>
+				<li>24</li>
+				<li>24</li>
+				<li>24</li>
+				<li>24</li>
+				<li>24</li>
+				<li>30</li>
+				<li>1500</li>
+				<li>100</li>
+				<li>150</li>
+				<li>200</li>
+				<li>100</li>
+				<li>150</li>
+				<li>200</li>
+				<li>100</li>
+				<li>150</li>
+				<li>200</li>
+				<li>300</li>
+				<li>3000</li>
+				<li>400</li>
+				<li>50</li>
+				<li>60</li>
+				<li>60</li>
+				<li>60</li>
+				<li>40</li>
+				<li>120</li>
+				<li>200</li>
+				<li>500</li>
+				<li>2000</li>
+				<li>500</li>
+				<li>2000</li>
+				<li>750</li>
+				<li>750</li>
+				<li>750</li>
+				<li>850</li>
+				<li>700</li>
+				<li>250</li>
+				<li>620</li>
+				<li>750</li>
+				<li>1000</li>
+				<li>1000</li>
+				<li>250</li>
+				<li>400</li>
+				<li>400</li>
+				<li>400</li>
+				<li>600</li>
+				<li>400</li>
+				<li>100</li>
+				<li>400</li>
+				<li>400</li>
+				<li>600</li>
+				<li>1000</li>
+				<li>750</li>
+				<li>600</li>
+				<li>1000</li>
+				<li>2400</li>
+				<li>250</li>
+				<li>350</li>
+				<li>300</li>
+				<li>200</li>
+				<li>300</li>
+				<li>300</li>
+				<li>300</li>
+				<li>3000</li>
+				<li>750</li>
+				<li>200</li>
+				<li>350</li>
+				<li>50</li>
+				<li>200</li>
+				<li>160</li>
+				<li>160</li>
+				<li>160</li>
+				<li>160</li>
+				<li>160</li>
+				<li>10</li>
+				<li>10</li>
+				<li>10</li>
+				<li>10</li>
+				<li>10</li>
+				<li>10</li>
+				<li>10</li>
+				<li>40</li>
+				<li>10</li>
+				<li>10</li>
+				<li>800</li>
+				<li>5000</li>
+				<li>3000</li>
+				<li>30</li>
+				<li>2900</li>
+				<li>50</li>
+				<li>24</li>
+				<li>400</li>
+				<li>1200</li>
+				<li>1200</li>
+				<li>1200</li>
+				<li>1700</li>
+				<li>1900</li>
+				<li>1200</li>
+				<li>1200</li>
+				<li>20000</li>
+				<li>300</li>
+				<li>350</li>
+				<li>300</li>
+				<li>3000</li>
+				<li>600</li>
+				<li>3200</li>
+				<li>450</li>
+				<li>-500</li>
+				<li>850</li>
+				<li>450</li>
+				<li>200</li>
+				<li>200</li>
+				<li>2500</li>
+				<li>600</li>
+				<li>260</li>
+				<li>-9000</li>
+				<li>300</li>
+				<li>400</li>
+				<li>250</li>
+				<li>200</li>
+				<li>200</li>
+				<li>1000</li>
+				<li>-500</li>
+				<li>-1200</li>
+				<li>-2100</li>
+				<li>-900</li>
+				<li>-4000</li>
+				<li>-1800</li>
+				<li>200</li>
+				<li>40</li>
+				<li>100</li>
+				<li>150</li>
+				<li>50</li>
+				<li>100</li>
+				<li>200</li>
+				<li>5</li>
+				<li>1</li>
+				<li>16</li>
+				<li>30</li>
+				<li>44</li>
+				<li>150</li>
+				<li>150</li>
+				<li>200</li>
+				<li>450</li>
+				<li>600</li>
+				<li>400</li>
+				<li>100</li>
+				<li>500</li>
+				<li>-15000</li>
+				<li>1500</li>
+				<li>1000</li>
+				<li>1500</li>
+				<li>1500</li>
+				<li>1500</li>
+				<li>20</li>
+				<li>100</li>
+				<li>300</li>
+				<li>500</li>
+				<li>100</li>
+				<li>800</li>
+				<li>72</li>
+				<li>300</li>
+				<li>30</li>
+				<li>1600</li>
+				<li>2000</li>
+				<li>500</li>
+				<li>200</li>
+				<li>200</li>
+				<li>100</li>
+				<li>30</li>
+				<li>40</li>
+				<li>2900</li>
+				<li>700</li>
+				<li>80</li>
+				<li>150</li>
+				<li>380</li>
+				<li>500</li>
+				<li>250</li>
+				<li>250</li>
+				<li>400</li>
+				<li>800</li>
+				<li>-10000</li>
+				<li>-1</li>
+				<li>100</li>
+				<li>750</li>
 			</values>
 		</intSetting>
 		<intRangeSetting>
@@ -1006,6 +1438,333 @@
 				<li>VVE_RocketArtillery</li>
 				<li>VVE_SiegePods</li>
 				<li>VWE_LaserWeapons</li>
+				<li>RPMomona</li>
+				<li>RPNemuri</li>
+				<li>RPRuri</li>
+				<li>RPNonona</li>
+				<li>RPYurika</li>
+				<li>RPAriana</li>
+				<li>RPZero</li>
+				<li>RPCastariri</li>
+				<li>RPKurumi</li>
+				<li>Anneli_Fountain</li>
+				<li>Anneli_NutrientSolution</li>
+				<li>Anneli_PuppetTheatre</li>
+				<li>Anneli_YoRHa_Apparels</li>
+				<li>Anneli_Gakuen_Apparels</li>
+				<li>Anneli_Ahmislan_Apparels</li>
+				<li>Anneli_Jurnizia_Apparels</li>
+				<li>Milira_Apparel_Sister</li>
+				<li>Milira_Apparel_Daedalus</li>
+				<li>Milira_MilianTech_Recharger</li>
+				<li>Milira_MilianTech_Gestator</li>
+				<li>Milira_MilianTech_AutoFight</li>
+				<li>Milira_MilianTech_ResonatorPack</li>
+				<li>Milira_MilianTech_PawnI</li>
+				<li>Milira_MilianTech_PawnII</li>
+				<li>Milira_MilianTech_PawnIII</li>
+				<li>Milira_MilianTech_PawnIV</li>
+				<li>Milira_MilianTech_KnightI</li>
+				<li>Milira_MilianTech_KnightII</li>
+				<li>Milira_MilianTech_KnightIII</li>
+				<li>Milira_MilianTech_KnightIV</li>
+				<li>Milira_MilianTech_BishopI</li>
+				<li>Milira_MilianTech_BishopII</li>
+				<li>Milira_MilianTech_BishopIII</li>
+				<li>Milira_MilianTech_BishopIV</li>
+				<li>Milira_MilianTech_RookI</li>
+				<li>Milira_MilianTech_RookII</li>
+				<li>Milira_MilianTech_RookIII</li>
+				<li>Milira_MilianTech_RookIV</li>
+				<li>Milira_UniversalPrinter</li>
+				<li>Milira_Apparel_I</li>
+				<li>Milira_Apparel_II</li>
+				<li>Milira_Apparel_Artemis</li>
+				<li>Milira_Apparel_Valkyr</li>
+				<li>Milira_SunLightFuelPoweredGenerator</li>
+				<li>Milira_SunLightFuelGenerator</li>
+				<li>Milira_EffectivePhotoelectricTransform</li>
+				<li>Milira_SunBlastFurnace_Build</li>
+				<li>Milira_SunBlastFurnace_Use</li>
+				<li>Milira_Spear</li>
+				<li>Milira_Sickle</li>
+				<li>Milira_Hammer</li>
+				<li>Milira_Lance</li>
+				<li>Milira_Sword</li>
+				<li>Milira_StandardPlasmaWeapon</li>
+				<li>Milira_HeavyPlasmaWeapon</li>
+				<li>Milira_HeavyPlasmaTurret</li>
+				<li>Milira_HeavyParticleTurret</li>
+				<li>Milira_RailGun</li>
+				<li>Milira_HeavyRailGunTurret</li>
+				<li>Milira_HeavyRocketLauncher</li>
+				<li>Milira_SunLightDaisyPlanting</li>
+				<li>Milira_SunLightFuelExtract</li>
+				<li>Milira_SunPlateSteelSmelt</li>
+				<li>Milira_ParticleAcceleratorI</li>
+				<li>Milira_ParticleAcceleratorII</li>
+				<li>Milira_ParticleAcceleratorIII</li>
+				<li>Milira_ShieldI</li>
+				<li>Milira_ShieldII</li>
+				<li>Milira_SuspensionSystem</li>
+				<li>Milira_Booster</li>
+				<li>Milira_FloatUnit</li>
+				<li>Milira_FloatUnitII</li>
+				<li>Milira_SplendidSteelPrint</li>
+				<li>Milira_FeatherThreadPrint</li>
+				<li>Milira_FieldTheory</li>
+				<li>Milira_FieldTrap</li>
+				<li>DMRW_MonsterCostume</li>
+				<li>VV_BasicInfra</li>
+				<li>VV_Apparels</li>
+				<li>VV_AdvancedApparels</li>
+				<li>VV_Weaponry</li>
+				<li>VV_BasicGathering</li>
+				<li>VV_Tools</li>
+				<li>VV_AdvancedGathering</li>
+				<li>VV_ArcaneBotany</li>
+				<li>VV_CombatArcaneBotany</li>
+				<li>VV_AdvancedArcaneBotany</li>
+				<li>VV_ElectricArcaneBotany</li>
+				<li>VV_Lifestrand</li>
+				<li>VV_AutomatedInfra</li>
+				<li>VV_ManaTransferTube</li>
+				<li>VV_RitualWeaponry</li>
+				<li>Yuran_Evol</li>
+				<li>Yuran_TreeTech</li>
+				<li>Yuran_ClothTech</li>
+				<li>Yuran_ClothTech_Armor</li>
+				<li>Yuran_BaseTech</li>
+				<li>Yuran_InoriTech</li>
+				<li>Yuran_Shikigami</li>
+				<li>PiercingWeapon</li>
+				<li>MechanicalWeapon</li>
+				<li>Ballista</li>
+				<li>Advanced_BallistaBolt</li>
+				<li>Bigmouse</li>
+				<li>MicroOptical</li>
+				<li>FlechetteBullet</li>
+				<li>RatkinClothing</li>
+				<li>HighClassClothing</li>
+				<li>Electricstonecutting</li>
+				<li>sd_adv_powergen_research_adv_geo</li>
+				<li>sd_adv_powergen_research_nuclear_power</li>
+				<li>sd_adv_powergen_research_adv_wind_turbine</li>
+				<li>sd_adv_powergen_research_adv_solar</li>
+				<li>fueled_ASRG</li>
+				<li>large_fueled_ASRG</li>
+				<li>advanced_nofuel_geothermal_generator</li>
+				<li>advanced_fueled_nuclear_generator</li>
+				<li>advanced_naturalfuel_wind_turbine</li>
+				<li>advanced_naturalfuel_solar_panels</li>
+				<li>advanced_nofuel_watermill</li>
+				<li>AcceleratedCellularRegeneration</li>
+				<li>Axolotl_Research_BaseClothing</li>
+				<li>Axolotl_Research_BaseArmor</li>
+				<li>Axolotl_Research_EnrichedArmor</li>
+				<li>Axolotl_Research_HeavenlyTopArmor</li>
+				<li>Axolotl_Research_LuxuryClothing</li>
+				<li>Axolotl_Research_LotlQiClothing</li>
+				<li>Axolotl_Research_BasePlant</li>
+				<li>Axolotl_Research_Alchemy</li>
+				<li>Axolotl_Research_BaseLotlQiRangedWeapon</li>
+				<li>Axolotl_Research_EnrichedLotlQiRangedWeapon</li>
+				<li>Axolotl_Research_BaseWeapon</li>
+				<li>Axolotl_Research_EnrichedWeapon</li>
+				<li>GlassworksResearch</li>
+				<li>ReinforcedGlassResearch</li>
+				<li>DecorativeGlassResearch</li>
+				<li>Mawy_Plasteel</li>
+				<li>Mawy_Hyperweave</li>
+				<li>Mawy_Synthread</li>
+				<li>Mawy_GlitterworldMedicine</li>
+				<li>Mawy_Neutroamine</li>
+				<li>Mawy_Luciferium</li>
+				<li>Mawy_MechSerumHealer</li>
+				<li>Mawy_MechSerumResurrector</li>
+				<li>Mawy_Antigrain</li>
+				<li>Mawy_PsychicFoilHelmet</li>
+				<li>Mawy_BroadshieldCore</li>
+				<li>Mawy_Royaltyweapons</li>
+				<li>Mawy_RoyaltyPersonaweapons</li>
+				<li>Mawy_PsyFocus</li>
+				<li>RBPClassicalPainting</li>
+				<li>RBPModernPainting</li>
+				<li>UVCemeteryMedieval</li>
+				<li>UVCemetery</li>
+				<li>UVStorageMedieval</li>
+				<li>UVStorage</li>
+				<li>UVStorageUltra</li>
+				<li>UVCryptosleep</li>
+				<li>VaultWallsAndDoors</li>
+				<li>terrainRehab</li>
+				<li>TabletopGames</li>
+				<li>supersoil</li>
+				<li>megasoil</li>
+				<li>hypersoil</li>
+				<li>ultrasoil</li>
+				<li>Radio</li>
+				<li>IS_NeolithicStorage</li>
+				<li>IS_MedievalStorage</li>
+				<li>IS_ModernStorage</li>
+				<li>IS_PalletsStorage</li>
+				<li>IS_TechnologicalStorage</li>
+				<li>RimWriter_TechPrimitiveWriting</li>
+				<li>RimWriter_TechSimpleWriting</li>
+				<li>RimWriter_TechBookshelves</li>
+				<li>RimWriter_TechHandWriting</li>
+				<li>RimWriter_TechTypewriting</li>
+				<li>BoneRefine</li>
+				<li>BoneRefineII</li>
+				<li>QC_Research_QuantumCooler_I</li>
+				<li>QC_Research_QuantumCooler_II</li>
+				<li>QC_Research_QuantumHeater_II</li>
+				<li>PRF_AutomaticFarmingI</li>
+				<li>PRF_AnimalStations</li>
+				<li>PRF_AutomaticFarmingII</li>
+				<li>PRF_AnimalStationsII</li>
+				<li>PRF_AutomaticFarmingIII</li>
+				<li>PRF_AnimalStationsIII</li>
+				<li>PRF_SelfCooking</li>
+				<li>PRF_SelfCookingII</li>
+				<li>PRF_MetalRefining</li>
+				<li>PRF_MachineLearning</li>
+				<li>PRF_MagneticTape</li>
+				<li>PRF_UniversalAutocrafting</li>
+				<li>PRF_SelfCorrectingAssemblers</li>
+				<li>PRF_SelfCorrectingAssemblersII</li>
+				<li>PRF_EnhancedBatteries</li>
+				<li>PRF_LargeBatteries</li>
+				<li>PRF_VeryLargeBatteries</li>
+				<li>PRF_CoreTierO</li>
+				<li>PRF_CoreTierI</li>
+				<li>PRF_CoreTierII</li>
+				<li>PRF_CoreTierIII</li>
+				<li>PRF_CoreTierIV</li>
+				<li>PRF_BeltsI</li>
+				<li>PRF_BeltsII</li>
+				<li>PRF_BeltsIII</li>
+				<li>PRF_BasicDrones</li>
+				<li>PRF_ImprovedDrones</li>
+				<li>PRF_AdvancedDrones</li>
+				<li>PRF_AutonomousMining</li>
+				<li>PRF_AutonomousMiningII</li>
+				<li>PRF_AutonomousMiningIII</li>
+				<li>PRF_SALResearchI</li>
+				<li>PRF_SALResearchII</li>
+				<li>PRF_SALResearchIII</li>
+				<li>PRF_SALResearchIV</li>
+				<li>PRF_SALResearchV</li>
+				<li>PRF_SALResearchVII</li>
+				<li>PRF_SALResearchVI</li>
+				<li>PRF_SALResearchVIII</li>
+				<li>PRF_SALGodlyCrafting</li>
+				<li>PRF_Crates</li>
+				<li>PRF_SteelCrates</li>
+				<li>PRF_StorageIO</li>
+				<li>PRF_StorageIO_II</li>
+				<li>ARKPPP_WirelessPowerTheoryResearch</li>
+				<li>ARKPPP_WirelessPowerShortRangeResearch</li>
+				<li>ARKPPP_WirelessPowerShortRangePortableResearch</li>
+				<li>ARKPPP_WirelessPowerLongRangeResearch</li>
+				<li>ARKPPP_WirelessPowerLongRangeAdvancedResearch</li>
+				<li>ARKPPP_WirelessPowerLongRangePortableReceptorResearch</li>
+				<li>ARKPPP_WirelessPowerLongRangeARES</li>
+				<li>ARKPPP_WirelessPowerLongRangeARESEMP</li>
+				<li>ARKPPP_WirelessPowerLongRangeARES2</li>
+				<li>ARKPPP_HackingSatelliteNetwork</li>
+				<li>ARKPPP_HackingSatelliteNetworkSTS</li>
+				<li>ARKPPP_HackingSatelliteNetworkAD</li>
+				<li>ARKPPP_HackingSatelliteNetworkLens</li>
+				<li>ARKPPP_HackingSatelliteNetworkADRT</li>
+				<li>MindAlteringTechSW</li>
+				<li>AdvancedMechanitesSW</li>
+				<li>AdvComputingSW</li>
+				<li>MatterweavingSW</li>
+				<li>PsychicFoilWeavingSW</li>
+				<li>AdvPowerSW</li>
+				<li>OrbitalLaunchSW</li>
+				<li>GlitterworldMedProdSW</li>
+				<li>GlitterworldHospitalBedSW</li>
+				<li>AIProgSW</li>
+				<li>MechaniteAssemblingSW</li>
+				<li>LuciferiumProdSW</li>
+				<li>AdvLauncherSystemsSW</li>
+				<li>RailgunSW</li>
+				<li>PlasmaGunnerySW</li>
+				<li>NervShockDeliverySW</li>
+				<li>NervShockerRangedSW</li>
+				<li>ConcreteWorks</li>
+				<li>ConcreteEfficiency</li>
+				<li>PrimitiveInstruments</li>
+				<li>StringedInstruments</li>
+				<li>ElectricInstruments</li>
+				<li>ArchotechPowerStorage</li>
+				<li>VeryAdvancedBattery</li>
+				<li>AdvancedBattery</li>
+				<li>MidtierBattery</li>
+				<li>LowtierBattery</li>
+				<li>GrandmaAnnasCookbook</li>
+				<li>ProjectHeron_Curtains</li>
+				<li>ProjectHeron_PrisonDoors</li>
+				<li>ProjectHeron_RemoteDoors</li>
+				<li>ProjectHeron_Gates</li>
+				<li>ProjectHeron_BlastDoors</li>
+				<li>ArtilleryGun</li>
+				<li>BasicClimateControl</li>
+				<li>IndustrialClimateControl</li>
+				<li>WSGR_Sewing</li>
+				<li>WSGR_Sewing_personal</li>
+				<li>WSGR_Lathe</li>
+				<li>WSGR_CNC</li>
+				<li>WSGR_Automatic_Industry</li>
+				<li>WSGR_Abyssal_Mechanoids</li>
+				<li>WSGR_ShipArmor_blueprint</li>
+				<li>WSGR_UpgradeModule_Equipment</li>
+				<li>WSGR_Small_ShipArmor</li>
+				<li>WSGR_Medium_ShipArmor</li>
+				<li>WSGR_Large_ShipArmor</li>
+				<li>WSGR_Small_MainGun</li>
+				<li>WSGR_Medium_MainGun</li>
+				<li>WSGR_Large_MainGun</li>
+				<li>WSGR_DataLibrary_Read</li>
+				<li>WSGR_SpaceShip_ShipArmor</li>
+				<li>WSGR_SpaceShip_Weapon</li>
+				<li>WSGR_UpgradeModule_Implant</li>
+				<li>RogueServitor_Research_ReverseEngineering</li>
+				<li>RogueServitor_Armored_Battalion</li>
+				<li>RogueServitor_Research_MechGestator</li>
+				<li>RogueServitor_Research_WastepackDisruptors</li>
+				<li>RogueServitor_Research_ParalyzingCrystals_Weapon</li>
+				<li>RogueServitor_Research_RailWeaponMakeable</li>
+				<li>RogueServitor_Research_Civilian</li>
+				<li>RogueServitor_Research_Infantry</li>
+				<li>RogueServitor_FairyTactics_Company</li>
+				<li>RogueServitor_UrbanAssault_Company</li>
+				<li>RogueServitor_Mountain_Company</li>
+				<li>CargoPodBuild</li>
+				<li>Anneli_NeoYokohama_Apparels</li>
+				<li>Ogre_AdvancedHydroponics</li>
+				<li>NeutroaleafRefining</li>
+				<li>NeutroaleafPlanting</li>
+				<li>VG_Ambrosia</li>
+				<li>VG_GlitterMeds</li>
+				<li>DewormProduction</li>
+				<li>MechaGoneProduction</li>
+				<li>PirateGuns</li>
+				<li>RumBrewing</li>
+				<li>AdvancedCooking</li>
+				<li>NP_NeutroamineProduction</li>
+				<li>MedicineUltratechProduction</li>
+				<li>Eccentric_Core</li>
+				<li>Eccentric_NanoFabrication</li>
+				<li>Eccentric_HighDensityHex</li>
+				<li>Eccentric_SmartApparel</li>
+				<li>Eccentric_CombatApparel</li>
+				<li>TransparentRoofProduction</li>
+				<li>SolarRoofProduction</li>
+				<li>ThickStoneRoofRemoval</li>
+				<li>ThickStoneRoofProduction</li>
 			</keys>
 			<values>
 				<li>
@@ -3188,6 +3947,2352 @@
 					<techprintMarketValue>1000</techprintMarketValue>
 					<techprintTags IsNull="True" />
 				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>550</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1200</techprintMarketValue>
+					<techprintTags>
+						<li>Kiiro_Faction</li>
+						<li>Milira_Faction</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2400</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2400</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2400</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>350</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1250</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>1E-05</techprintCommonality>
+					<techprintMarketValue>1200</techprintMarketValue>
+					<techprintTags>
+						<li>Milira_Faction</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>450</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>650</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>850</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>12000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>200</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>900</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>700</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>900</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1600</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>825</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>700</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>700</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1250</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>780</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1560</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2400</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3600</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1600</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2100</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>5000</techprintMarketValue>
+					<techprintTags>
+						<li>Axolotl_FriendlyFaction</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2500</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1800</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1600</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>700</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>3000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+						<li>Outlander</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>4000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+						<li>Outlander</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>4000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+						<li>Outlander</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>8000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>2</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>4500</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>2500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>2000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+						<li>Outlander</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>10000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCount>2</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>5000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>20000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCount>5</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>7000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>30000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCount>5</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>10000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>15000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCount>4</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>6000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCount>1</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>1500</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+						<li>Outlander</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>8000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>2</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>5000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>18000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>3</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>4000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>25000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>3</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>5000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>15000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCount>4</techprintCount>
+					<techprintCommonality>3</techprintCommonality>
+					<techprintMarketValue>3000</techprintMarketValue>
+					<techprintTags>
+						<li>Empire</li>
+					</techprintTags>
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3750</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>12500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>7000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>15000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>70</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>200</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>140</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>900</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>50</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>250</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>50</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>900</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>5000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>5000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2250</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1250</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2250</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>5000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>750</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>750</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>5000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>600</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>5000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>10000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>20000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>750</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>10000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>12000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>8000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>15000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>18000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>20000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>8000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>6000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3200</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3600</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3600</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2500</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3200</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2800</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3400</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Ultra</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2600</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>750</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>11500</baseCost>
+					<techLevel>Archotech</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>8000</baseCost>
+					<techLevel>Archotech</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>200</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>200</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>300</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>750</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>5000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1960</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>5000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>700</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Medieval</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>400</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>3500</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>800</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1200</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>8000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
 			</values>
 		</tweak_researchProjectSettings>
 		<tweak_pennedAnimalDict>
@@ -3432,6 +6537,152 @@
 				<li>Corpse_HAR_NM_M_KUT</li>
 				<li>Corpse_HAR_NM_TES_a</li>
 				<li>Corpse_HAR_NM_M_KZU</li>
+				<li>Momona</li>
+				<li>Nemuri</li>
+				<li>Ruri</li>
+				<li>Nonona</li>
+				<li>Yurika</li>
+				<li>Ariana</li>
+				<li>Zero</li>
+				<li>Miruko</li>
+				<li>Miruku</li>
+				<li>Maya</li>
+				<li>Giwa</li>
+				<li>Castariri</li>
+				<li>Kurumi</li>
+				<li>AnnelitriceLarvaAsAnimal</li>
+				<li>Cynobun</li>
+				<li>CynobunHirsutus</li>
+				<li>Armorhorn</li>
+				<li>ShadeBrigandine</li>
+				<li>Cephalotusnail</li>
+				<li>CrabTurtle</li>
+				<li>DarlingtoniaCobra</li>
+				<li>Sand_Doodlebug</li>
+				<li>PredaplantFlytrap</li>
+				<li>Linguriboh</li>
+				<li>Linkuriboh</li>
+				<li>MaleficRedEyes</li>
+				<li>MysticTomato</li>
+				<li>Nettles</li>
+				<li>OphrysScorpio</li>
+				<li>RedEyesBlackDragon</li>
+				<li>RedEyesDarkness</li>
+				<li>RedEyesToonDragon</li>
+				<li>RedEyesWyvern</li>
+				<li>ShinyBlack_C</li>
+				<li>GustoGulldo</li>
+				<li>WormApocalypse</li>
+				<li>WormGulse</li>
+				<li>WormHope</li>
+				<li>WormJetelikpse</li>
+				<li>WormSolid</li>
+				<li>WormXex</li>
+				<li>WormYagan</li>
+				<li>VV_TitanicHornet</li>
+				<li>YR_Sikigami_Turtle</li>
+				<li>YR_Sikigami_Racoon</li>
+				<li>YR_Sikigami_Snake</li>
+				<li>YR_Sikigami_Snake_Noroi</li>
+				<li>RK_KingHamster</li>
+				<li>Rotti</li>
+				<li>akame</li>
+				<li>aome</li>
+				<li>hana</li>
+				<li>kohime</li>
+				<li>kon</li>
+				<li>konf</li>
+				<li>kuro</li>
+				<li>miko</li>
+				<li>siro</li>
+				<li>sirof</li>
+				<li>yuki</li>
+				<li>HAR_QL_M_Race_a</li>
+				<li>HAR_QL_M_Race_b</li>
+				<li>HAR_QL_M_Race_c</li>
+				<li>HAR_QL_M_Race_d</li>
+				<li>HAR_QL_M_Race_e</li>
+				<li>Corpse_Momona</li>
+				<li>Corpse_Nemuri</li>
+				<li>Corpse_Ruri</li>
+				<li>Corpse_Nonona</li>
+				<li>Corpse_Yurika</li>
+				<li>Corpse_Ariana</li>
+				<li>Corpse_Zero</li>
+				<li>Corpse_Miruko</li>
+				<li>Corpse_Miruku</li>
+				<li>Corpse_Maya</li>
+				<li>Corpse_Giwa</li>
+				<li>Corpse_Castariri</li>
+				<li>Corpse_Kurumi</li>
+				<li>Corpse_AnnelitriceLarvaAsAnimal</li>
+				<li>Corpse_Cynobun</li>
+				<li>Corpse_CynobunHirsutus</li>
+				<li>Corpse_Armorhorn</li>
+				<li>Corpse_ShadeBrigandine</li>
+				<li>Corpse_Cephalotusnail</li>
+				<li>Corpse_CrabTurtle</li>
+				<li>Corpse_DarlingtoniaCobra</li>
+				<li>Corpse_Sand_Doodlebug</li>
+				<li>Corpse_PredaplantFlytrap</li>
+				<li>Corpse_Linguriboh</li>
+				<li>Corpse_Linkuriboh</li>
+				<li>Corpse_MaleficRedEyes</li>
+				<li>Corpse_MysticTomato</li>
+				<li>Corpse_Nettles</li>
+				<li>Corpse_OphrysScorpio</li>
+				<li>Corpse_RedEyesBlackDragon</li>
+				<li>Corpse_RedEyesDarkness</li>
+				<li>Corpse_RedEyesToonDragon</li>
+				<li>Corpse_RedEyesWyvern</li>
+				<li>Corpse_ShinyBlack_C</li>
+				<li>Corpse_GustoGulldo</li>
+				<li>Corpse_WormApocalypse</li>
+				<li>Corpse_WormGulse</li>
+				<li>Corpse_WormHope</li>
+				<li>Corpse_WormJetelikpse</li>
+				<li>Corpse_WormSolid</li>
+				<li>Corpse_WormXex</li>
+				<li>Corpse_WormYagan</li>
+				<li>Corpse_VV_TitanicHornet</li>
+				<li>Corpse_RK_KingHamster</li>
+				<li>Corpse_Rotti</li>
+				<li>Corpse_akame</li>
+				<li>Corpse_aome</li>
+				<li>Corpse_hana</li>
+				<li>Corpse_kohime</li>
+				<li>Corpse_kon</li>
+				<li>Corpse_konf</li>
+				<li>Corpse_kuro</li>
+				<li>Corpse_miko</li>
+				<li>Corpse_siro</li>
+				<li>Corpse_sirof</li>
+				<li>Corpse_yuki</li>
+				<li>Corpse_HAR_QL_M_Race_a</li>
+				<li>Corpse_HAR_QL_M_Race_b</li>
+				<li>Corpse_HAR_QL_M_Race_c</li>
+				<li>Corpse_HAR_QL_M_Race_d</li>
+				<li>Corpse_HAR_QL_M_Race_e</li>
+				<li>Beetrooper_Armorhorn</li>
+				<li>ArmorhornTrooper</li>
+				<li>Beetrooper_ScaleBomber</li>
+				<li>ScaleBomberTrooper</li>
+				<li>Beetrooper_ScoutBuggy</li>
+				<li>ScoutBuggyTrooper</li>
+				<li>DMRW_GiantRat</li>
+				<li>ScaleBomber</li>
+				<li>ScoutBuggy</li>
+				<li>SplittingPlanarian</li>
+				<li>Corpse_Beetrooper_Armorhorn</li>
+				<li>Corpse_ArmorhornTrooper</li>
+				<li>Corpse_Beetrooper_ScaleBomber</li>
+				<li>Corpse_ScaleBomberTrooper</li>
+				<li>Corpse_Beetrooper_ScoutBuggy</li>
+				<li>Corpse_ScoutBuggyTrooper</li>
+				<li>Corpse_DMRW_GiantRat</li>
+				<li>Corpse_ScaleBomber</li>
+				<li>Corpse_ScoutBuggy</li>
+				<li>Corpse_SplittingPlanarian</li>
 			</keys>
 			<values>
 				<li>0</li>
@@ -3628,6 +6879,152 @@
 				<li>0</li>
 				<li>2</li>
 				<li>2</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>2.5</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>3</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>2.5</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>3</li>
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>
@@ -3817,6 +7214,63 @@
 				<li>GiveQuest_Intro_MihoScav</li>
 				<li>WandererJoin_Kurin</li>
 				<li>HAR_NM_Incident_a</li>
+				<li>Incident_AboutMomonaCore</li>
+				<li>Incident_AboutNemuriCore</li>
+				<li>Incident_AboutRuriCore</li>
+				<li>Incident_AboutNononaCore</li>
+				<li>Incident_AboutYurikaCore</li>
+				<li>Incident_AboutArianaCore</li>
+				<li>Incident_AboutZeroCore</li>
+				<li>Incident_AboutCastaririCore</li>
+				<li>Incident_AboutKurumiCore</li>
+				<li>Incident_AboutMayaPawn</li>
+				<li>Incident_AboutGiwaPawn</li>
+				<li>Incident_AboutMirukoAndMiruku</li>
+				<li>Incident_AboutMirukoAndMirukuAA</li>
+				<li>Incident_AboutMirukoAndMirukuBA</li>
+				<li>Incident_AboutMirukoAndMirukuBB</li>
+				<li>Incident_AboutMirukoAndMirukuBC</li>
+				<li>Incident_AboutMirukoAndMirukuCA</li>
+				<li>Incident_AboutMirukoAndMirukuCB</li>
+				<li>Incident_AboutMirukoAndMirukuDA</li>
+				<li>Incident_AboutMirukoAndMirukuEA</li>
+				<li>Milira_SolarCrystalMining</li>
+				<li>Milira_MeteoriteImpact_SolarCrystal</li>
+				<li>Milira_FallenAngel_Drop</li>
+				<li>Milira_FallenAngel_Return</li>
+				<li>Milira_FallenAngel_ToChurch</li>
+				<li>Milira_ChurchIntro</li>
+				<li>Milira_SmallCluster_SingleTurret</li>
+				<li>Milira_MilianCluster</li>
+				<li>Milira_Raid</li>
+				<li>VV_TitanicHornetSwarm</li>
+				<li>WandererJoin_YuranMiko_Scenario</li>
+				<li>RatkinTunnel_Guerrilla</li>
+				<li>RatkinTunnel_Thief</li>
+				<li>RatkinFollowUpTroops</li>
+				<li>RatkinVagabondJoin</li>
+				<li>ARKPPP_UnsecureWPN</li>
+				<li>ARKPPP_SupernovaDisturbance</li>
+				<li>ARKPPP_WPNInterruption</li>
+				<li>ARKPPP_MechanoidWarship</li>
+				<li>ARKPPP_STSHackFail</li>
+				<li>ARKPPP_DamagedSatellite</li>
+				<li>SrPoaching</li>
+				<li>SrLogging</li>
+				<li>SrHositleTraveler</li>
+				<li>SrHositleCaravanPassing</li>
+				<li>ShipCrashSW</li>
+				<li>RaidOnArrivalSW</li>
+				<li>ThrumboSightingSW</li>
+				<li>HuntingPartyArrivalSW</li>
+				<li>QuestDoctorRequestSW</li>
+				<li>PsychicEmitterActivationSW</li>
+				<li>PsychicEmitterAnimalInsanitySW</li>
+				<li>TradeFairSW</li>
+				<li>InsectHiveDropSW</li>
+				<li>HuntingLodgeOppSW</li>
+				<li>WeaponsCachePodCrashSW</li>
+				<li>DireRaidEnemy</li>
 			</keys>
 			<values>
 				<li>0</li>
@@ -3897,7 +7351,7 @@
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>
-				<li>0.012</li>
+				<li>0.01</li>
 				<li>1</li>
 				<li>0.5</li>
 				<li>0.2</li>
@@ -3941,11 +7395,11 @@
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>
-				<li>9.6</li>
+				<li>9.599999</li>
 				<li>0</li>
 				<li>0.2</li>
 				<li>1</li>
-				<li>0.1</li>
+				<li>0.09999999</li>
 				<li>0.2</li>
 				<li>1</li>
 				<li>1.2</li>
@@ -3958,6 +7412,63 @@
 				<li>0</li>
 				<li>0.7</li>
 				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0.5</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>2</li>
+				<li>1.9</li>
+				<li>0</li>
+				<li>0.5</li>
+				<li>0</li>
+				<li>2.7</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0.45</li>
+				<li>0.25</li>
+				<li>0.55</li>
+				<li>0.15</li>
+				<li>0.45</li>
+				<li>0.45</li>
+				<li>0.8</li>
+				<li>0.8</li>
+				<li>1</li>
+				<li>1</li>
+				<li>0.4</li>
+				<li>0</li>
+				<li>0.6</li>
+				<li>0</li>
+				<li>0.35</li>
+				<li>1.2</li>
+				<li>0</li>
+				<li>0.25</li>
+				<li>1.8</li>
+				<li>0.8</li>
+				<li>0.25</li>
+				<li>1.8</li>
 			</values>
 		</tweak_eventcontrolDict>
 		<tweak_animaPsylinkLevelNeeds>
@@ -3977,6 +7488,20 @@
 				<li>Praetor</li>
 				<li>Baron</li>
 				<li>Count</li>
+				<li>Milira_ChurchTitleI</li>
+				<li>Milira_ChurchTitleII</li>
+				<li>Milira_ChurchTitleIII</li>
+				<li>Milira_ChurchTitleIV</li>
+				<li>Milira_ChurchTitleV</li>
+				<li>Milira_ChurchTitleVI</li>
+				<li>Milira_ChurchTitleVII</li>
+				<li>DMRW_Rookie</li>
+				<li>DMRW_Bronze</li>
+				<li>DMRW_Silver</li>
+				<li>DMRW_Gold</li>
+				<li>DMRW_Platinum</li>
+				<li>DMRW_Diamond</li>
+				<li>DMRW_Master</li>
 			</keys>
 			<values>
 				<li>
@@ -4037,6 +7562,113 @@
 					<disableThroneroomRequirements>False</disableThroneroomRequirements>
 					<disableBedroomRequirements>False</disableBedroomRequirements>
 				</li>
+				<li>
+					<favorCost>1</favorCost>
+					<heirQuestPoints>1000</heirQuestPoints>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>8</favorCost>
+					<heirQuestPoints>1000</heirQuestPoints>
+					<permitPoints>1</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>12</favorCost>
+					<heirQuestPoints>1200</heirQuestPoints>
+					<permitPoints>1</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>48</favorCost>
+					<heirQuestPoints>1600</heirQuestPoints>
+					<permitPoints>3</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>64</favorCost>
+					<heirQuestPoints>2200</heirQuestPoints>
+					<permitPoints>4</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>84</favorCost>
+					<heirQuestPoints>2800</heirQuestPoints>
+					<permitPoints>5</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>150</favorCost>
+					<heirQuestPoints>3500</heirQuestPoints>
+					<permitPoints>6</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>1</favorCost>
+					<heirQuestPoints>1000</heirQuestPoints>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>6</favorCost>
+					<heirQuestPoints>1000</heirQuestPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>6</favorCost>
+					<heirQuestPoints>1200</heirQuestPoints>
+					<permitPoints>1</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>8</favorCost>
+					<heirQuestPoints>1600</heirQuestPoints>
+					<permitPoints>1</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>10</favorCost>
+					<heirQuestPoints>2200</heirQuestPoints>
+					<permitPoints>1</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>14</favorCost>
+					<heirQuestPoints>2800</heirQuestPoints>
+					<permitPoints>1</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
+				<li>
+					<favorCost>20</favorCost>
+					<heirQuestPoints>3500</heirQuestPoints>
+					<permitPoints>1</permitPoints>
+					<dignifiedMeditation>True</dignifiedMeditation>
+					<disableThroneroomRequirements>False</disableThroneroomRequirements>
+					<disableBedroomRequirements>False</disableBedroomRequirements>
+				</li>
 			</values>
 		</tweak_royalTitleSettings>
 		<tweak_royalPermitSettings>
@@ -4053,6 +7685,34 @@
 				<li>CallOrbitalStrike</li>
 				<li>CallOrbitalSalvo</li>
 				<li>CallTransportShuttle</li>
+				<li>Milira_ChurchPermit_DropMilian_PawnI</li>
+				<li>Milira_ChurchPermit_DropMilian_PawnIII</li>
+				<li>Milira_ChurchPermit_DropMilian_PawnII</li>
+				<li>Milira_ChurchPermit_DropMilian_KnightI</li>
+				<li>Milira_ChurchPermit_DropMilian_KnightII</li>
+				<li>Milira_ChurchPermit_DropSunPlateSteel_I</li>
+				<li>Milira_ChurchPermit_DropSunPlateSteel_II</li>
+				<li>Milira_ChurchPermit_DropSolarCrystal_I</li>
+				<li>Milira_ChurchPermit_DropSolarCrystal_II</li>
+				<li>Milira_ChurchPermit_DropSunLightFuel_I</li>
+				<li>Milira_ChurchPermit_DropSunLightFuel_II</li>
+				<li>Milira_ChurchPermit_DropSilver</li>
+				<li>Milira_ChurchPermit_DropMeal</li>
+				<li>Milira_ChurchPermit_CallTransportShuttle</li>
+				<li>Milira_ChurchPermit_BombardmentI</li>
+				<li>Milira_ChurchPermit_BombardmentII</li>
+				<li>DMRW_SteelDrop</li>
+				<li>DMRW_FoodDrop</li>
+				<li>DMRW_SilverDrop</li>
+				<li>DMRW_GlitterMedDrop</li>
+				<li>DMRW_CallLaborerTeam</li>
+				<li>DMRW_CallLaborerGang</li>
+				<li>DMRW_CallMilitaryAidSmall</li>
+				<li>DMRW_CallMilitaryAidLarge</li>
+				<li>DMRW_CallMilitaryAidGrand</li>
+				<li>DMRW_CallOrbitalStrike</li>
+				<li>DMRW_CallOrbitalSalvo</li>
+				<li>DMRW_CallTransportShuttle</li>
 			</keys>
 			<values>
 				<li>
@@ -4130,6 +7790,186 @@
 				</li>
 				<li>
 					<minTitle>Knight</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>8</favorCost>
+					<cooldownDays>40</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>6</favorCost>
+					<cooldownDays>120</cooldownDays>
+					<pawnCount>1</pawnCount>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIV</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>9</favorCost>
+					<cooldownDays>120</cooldownDays>
+					<pawnCount>1</pawnCount>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>6</favorCost>
+					<cooldownDays>120</cooldownDays>
+					<pawnCount>1</pawnCount>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>8</favorCost>
+					<cooldownDays>120</cooldownDays>
+					<pawnCount>1</pawnCount>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>10</favorCost>
+					<cooldownDays>120</cooldownDays>
+					<pawnCount>1</pawnCount>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>6</favorCost>
+					<cooldownDays>60</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIV</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>9</favorCost>
+					<cooldownDays>60</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>6</favorCost>
+					<cooldownDays>60</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIV</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>9</favorCost>
+					<cooldownDays>60</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>6</favorCost>
+					<cooldownDays>60</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIV</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>9</favorCost>
+					<cooldownDays>60</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>4</favorCost>
+					<cooldownDays>30</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleII</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>4</favorCost>
+					<cooldownDays>30</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleI</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>8</favorCost>
+					<cooldownDays>40</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIII</minTitle>
+					<permitPointCost>2</permitPointCost>
+					<favorCost>10</favorCost>
+					<cooldownDays>180</cooldownDays>
+				</li>
+				<li>
+					<minTitle>Milira_ChurchTitleIV</minTitle>
+					<permitPointCost>4</permitPointCost>
+					<favorCost>25</favorCost>
+					<cooldownDays>180</cooldownDays>
+				</li>
+				<li>
+					<minTitle>DMRW_Silver</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>4</favorCost>
+					<cooldownDays>45</cooldownDays>
+				</li>
+				<li>
+					<minTitle>DMRW_Silver</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>4</favorCost>
+					<cooldownDays>45</cooldownDays>
+				</li>
+				<li>
+					<minTitle>DMRW_Gold</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>6</favorCost>
+					<cooldownDays>45</cooldownDays>
+				</li>
+				<li>
+					<minTitle>DMRW_Diamond</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>8</favorCost>
+					<cooldownDays>45</cooldownDays>
+				</li>
+				<li>
+					<minTitle>DMRW_Silver</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>4</favorCost>
+					<cooldownDays>60</cooldownDays>
+					<aidDurationDays>4</aidDurationDays>
+					<pawnCount>4</pawnCount>
+				</li>
+				<li>
+					<minTitle>DMRW_Master</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>8</favorCost>
+					<cooldownDays>60</cooldownDays>
+					<aidDurationDays>4</aidDurationDays>
+					<pawnCount>8</pawnCount>
+				</li>
+				<li>
+					<minTitle>DMRW_Silver</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>4</favorCost>
+					<cooldownDays>40</cooldownDays>
+					<pawnCount>4</pawnCount>
+				</li>
+				<li>
+					<minTitle>DMRW_Platinum</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>6</favorCost>
+					<cooldownDays>50</cooldownDays>
+					<pawnCount>4</pawnCount>
+				</li>
+				<li>
+					<minTitle>DMRW_Master</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>8</favorCost>
+					<cooldownDays>60</cooldownDays>
+					<pawnCount>4</pawnCount>
+				</li>
+				<li>
+					<minTitle>DMRW_Gold</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>6</favorCost>
+					<cooldownDays>45</cooldownDays>
+				</li>
+				<li>
+					<minTitle>DMRW_Platinum</minTitle>
+					<permitPointCost>1</permitPointCost>
+					<favorCost>8</favorCost>
+					<cooldownDays>60</cooldownDays>
+				</li>
+				<li>
+					<minTitle>DMRW_Gold</minTitle>
 					<permitPointCost>1</permitPointCost>
 					<favorCost>8</favorCost>
 					<cooldownDays>40</cooldownDays>
@@ -4416,6 +8256,41 @@
 				<li>AddictionImmune_Planetarium</li>
 				<li>AddictionImmune_Mousekin_Muroidine</li>
 				<li>AddictionImmune_Lact-X</li>
+				<li>Anneli_Ageless</li>
+				<li>Fire_Rat_Tail</li>
+				<li>Water_Cat_Tail</li>
+				<li>Wind_Fox_Tail</li>
+				<li>Ferrijit_Tail</li>
+				<li>Kitt_Tail</li>
+				<li>Fraulein_Wing</li>
+				<li>Atrax_Leg</li>
+				<li>Skin_DMRW_VampireRed</li>
+				<li>DMRW_Body_Female</li>
+				<li>DMRW_BustUpMagic</li>
+				<li>DMRW_Body_Thin</li>
+				<li>Hair_TraptrixOnly</li>
+				<li>TrapInvalid</li>
+				<li>Ears_WaterCat</li>
+				<li>Ears_WindFox</li>
+				<li>Ears_FireRat</li>
+				<li>Hair_RafflesiaTail</li>
+				<li>Hair_DionaeaTail</li>
+				<li>Hair_NepenthesTail</li>
+				<li>Hair_IceBellSideRollA</li>
+				<li>Hair_IceBellSideRollB</li>
+				<li>Hair_ArachnocampaMucus</li>
+				<li>Ears_Traptrix</li>
+				<li>Devil_Claw</li>
+				<li>PinguiculaTail</li>
+				<li>Ears_Ferrijit</li>
+				<li>VV_ViviMetabolism</li>
+				<li>VV_HoneyDepedency</li>
+				<li>VV_Skin_Melanin</li>
+				<li>ChemicalDependency_Tobacco</li>
+				<li>AddictionResistant_Tobacco</li>
+				<li>AddictionImmune_Tobacco</li>
+				<li>DragonmaidLaundry</li>
+				<li>DragonmaidKitchen</li>
 			</keys>
 			<values>
 				<li>False</li>
@@ -4691,6 +8566,41 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
