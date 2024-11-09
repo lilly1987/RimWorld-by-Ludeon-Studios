@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DynamicTradeInterface.Mod.DynamicTradeInterfaceSettings">
+		<ExcludeUnwillingItems>True</ExcludeUnwillingItems>
+		<RememberSortings>True</RememberSortings>
+		<ShowTradeSummary>True</ShowTradeSummary>
 		<visibleColumns>
 			<li>colTradeIconDef</li>
 			<li>colTradeInfoDef</li>
@@ -12,7 +15,11 @@
 			<li>colTradeButtonsDef</li>
 		</visibleColumns>
 		<traderSorting />
-		<colonySorting />
+		<colonySorting>
+			<li>
+				<ColumnDef>colTradePriceDef</ColumnDef>
+			</li>
+		</colonySorting>
 		<ColumnCustomization>
 			<keys />
 			<values />

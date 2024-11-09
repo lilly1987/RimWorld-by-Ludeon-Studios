@@ -1918,6 +1918,10 @@
 				<li>Victor.SimpleAutomation;Component</li>
 				<li>Victor.SimpleAutomation;Synthread</li>
 				<li>Victor.SimpleAutomation;StoneBlocks</li>
+				<li>NiilosQoL;WIDLE_Key</li>
+				<li>NiilosQoL_Profile_1;WIDLE_Key</li>
+				<li>NiilosQoL_Profile_2;WIDLE_Key</li>
+				<li>NiilosQoL_Profile_3;WIDLE_Key</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -1969,7 +1973,7 @@
 				<li>True</li>
 				<li>True</li>
 				<li>4</li>
-				<li>2000</li>
+				<li>1000</li>
 				<li>true</li>
 				<li>true</li>
 				<li>true</li>
@@ -3835,6 +3839,10 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
 			</values>
 		</dataDict>
 		<PinnedMods />

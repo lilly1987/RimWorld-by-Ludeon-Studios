@@ -1,0 +1,6 @@
+Version:1
+allowedDefs:RawHops/PsychoidLeaves/SmokeleafLeaves/Dye/Neutroaleaves/RawTobacco/NeutroPetals/AlyssumTrimings/VG_DandelionCuttings
+allowedHitPointsPercents:0.0000:1.0000
+allowedQualities:Awful:Legendary
+disallowedSpecialFilters:
+Priority:Important

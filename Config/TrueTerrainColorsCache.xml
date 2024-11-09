@@ -3699,4 +3699,31 @@
       <a>0</a>
     </Color>
   </CacheEntry>
+  <CacheEntry>
+    <DefName>CopperSterileTile</DefName>
+    <Color>
+      <r>0.688163</r>
+      <g>0.16537568</g>
+      <b>0.00461554062</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>CopperMetalTile</DefName>
+    <Color>
+      <r>0.6135038</r>
+      <g>0.148132712</g>
+      <b>0.004180112</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>TealMetalTile</DefName>
+    <Color>
+      <r>0.0357451662</r>
+      <g>0.239649937</g>
+      <b>0.223722845</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
 </ArrayOfCacheEntry>

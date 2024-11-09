@@ -1,0 +1,6 @@
+Version:1
+allowedDefs:ComponentIndustrial/ComponentSpacer
+allowedHitPointsPercents:0.0000:1.0000
+allowedQualities:Awful:Legendary
+disallowedSpecialFilters:AllowCorpsesColonist/AllowCorpsesStranger/AllowCorpsesSlave/AllowCorpsesMechFriendly/AllowCorpsesMechEnemy/AllowCorpsesUnnatural/AllowRotten
+Priority:Preferred

@@ -46,11 +46,15 @@
 		</columnSettings>
 		<callsColour>RGBA(0.239, 0.784, 0.431, 1.000)</callsColour>
 		<dnspyPath />
+		<updatesPerSecond>1</updatesPerSecond>
+		<longFormNames>True</longFormNames>
 		<SavedPatches_Update />
-		<SavedPatches_Tick />
+		<SavedPatches_Tick>
+			<li>Verse.Pawn:Tick</li>
+		</SavedPatches_Tick>
 		<allEnabled>
 			<li>True</li>
-			<li>False</li>
+			<li>True</li>
 			<li>False</li>
 		</allEnabled>
 	</ModSettings>

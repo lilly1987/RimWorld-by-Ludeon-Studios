@@ -4,91 +4,36 @@
 		<SettingsEverOpened>True</SettingsEverOpened>
 		<ActivePreset>Custom</ActivePreset>
 		<SeparateModes>True</SeparateModes>
-		<LimitModeAmountMelee>RelativeWeight</LimitModeAmountMelee>
-		<LimitModeAmountRanged>RelativeWeight</LimitModeAmountRanged>
+		<LimitModeSingleMelee>RelativeWeight</LimitModeSingleMelee>
+		<LimitModeSingleRanged>RelativeWeight</LimitModeSingleRanged>
 		<LimitModeAmountTotal>RelativeWeight</LimitModeAmountTotal>
 		<LimitModeSingle_RelativeMass>0.05428571</LimitModeSingle_RelativeMass>
 		<LimitModeAmount_RelativeMass>0.2857143</LimitModeAmount_RelativeMass>
-		<LimitModeSingleMelee_RelativeMass>0.1142857</LimitModeSingleMelee_RelativeMass>
+		<LimitModeSingleMelee_RelativeMass>0.06428572</LimitModeSingleMelee_RelativeMass>
 		<LimitModeAmountMelee_RelativeMass>0.2857143</LimitModeAmountMelee_RelativeMass>
-		<LimitModeSingleRanged_RelativeMass>0.07285714</LimitModeSingleRanged_RelativeMass>
+		<LimitModeSingleRanged_RelativeMass>0.1428571</LimitModeSingleRanged_RelativeMass>
 		<LimitModeAmountRanged_RelativeMass>0.2857143</LimitModeAmountRanged_RelativeMass>
-		<LimitModeAmountRanged_Slots>0</LimitModeAmountRanged_Slots>
 		<LimitModeAmountTotal_RelativeMass>0.2857143</LimitModeAmountTotal_RelativeMass>
 		<LimitModeSingle_Selection_defNames>
-			<li>Axolotl_WindWrappingSword</li>
-			<li>RK_LongSword</li>
-			<li>Axolotl_AuspiciousNeedle</li>
-			<li>Miho_Weapon_RingedBlade</li>
-			<li>RK_OneHanded</li>
-			<li>RK_Mace</li>
-			<li>Axolotl_IndigoFlower</li>
-			<li>Kiiro_Claw</li>
-			<li>YR_WP_katana</li>
-			<li>WSGR_CavalrySword_b</li>
-			<li>Kiiro_PhantomDagger</li>
-			<li>WSGR_CavalrySword_a</li>
-			<li>Axolotl_Sword</li>
-			<li>Axolotl_Turquoise_shadow</li>
 			<li>MeleeWeapon_DMRW_LavalMachete</li>
-			<li>Kiiro_Pickaxe</li>
-			<li>RK_Axe</li>
-			<li>RK_Hockey</li>
-			<li>RK_Fork</li>
-			<li>RK_Cleaver</li>
 			<li>MeleeWeapon_Gladius</li>
 			<li>MeleeWeapon_Axe</li>
 			<li>MeleeWeapon_Mace</li>
 			<li>MeleeWeapon_BreachAxe</li>
 			<li>MeleeWeapon_Ikwa</li>
-			<li>Kiiro_ValorSabre</li>
-			<li>Kiiro_Hammer</li>
-			<li>VV_EltexNeedle</li>
-			<li>Kiiro_DaggerAxe</li>
-			<li>Kiiro_LongHandledBlade</li>
 			<li>MeleeWeapon_Knife</li>
-			<li>Kiiro_Spear</li>
-			<li>Kiiro_Axe</li>
-			<li>RK_Dagger</li>
-			<li>Kiiro_Hoe</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
-			<li>Kiiro_Slice</li>
-			<li>Kiiro_KitchenKnife</li>
-			<li>Milira_PlasmaPistol</li>
-			<li>YR_WP_monokatana</li>
+			<li>MeleeWeapon_DMRW_SkyStrikeRed</li>
 			<li>MeleeWeapon_DMRW_NekrozCatastor</li>
-			<li>Kiiro_PTWeapon_SMG</li>
-			<li>RogueServitor_Long_Sword</li>
 			<li>MeleeWeapon_GemBuckler</li>
 			<li>MeleeWeapon_GemMasterSword</li>
 			<li>RFGun_Vector</li>
-			<li>RogueServitor_SMG</li>
-			<li>Milian_BishopScepter</li>
-			<li>Milian_PivotScepter</li>
-			<li>Milian_ParticleBeamGun</li>
-			<li>Milian_PulsedBeamGun</li>
-			<li>RK_AutoCrossBow</li>
 			<li>Weapon_GrenadeEMP</li>
 			<li>Weapon_GrenadeTox</li>
-			<li>Miho_Weapon_RifleCQB</li>
 			<li>Weapon_GrenadeFrag</li>
-			<li>Axolotl_MoeLotlCrossBow_Basic</li>
 			<li>Hatshot</li>
-			<li>RogueServitor_PM423_Grenade_Weapon</li>
-			<li>RogueServitor_PM629_Grenade_Weapon</li>
 			<li>Weapon_GrenadeMolotov</li>
 			<li>Secretary_vote</li>
-			<li>Kiiro_GrenadeFrag</li>
-			<li>Mousekin_RangedWeapon_CrossbowAuto</li>
-			<li>Kurin_Range_FlareGun</li>
-			<li>Kiiro_GrenadeFlash</li>
-			<li>Kiiro_GrenadeSmoke</li>
-			<li>Kiiro_CrossBow</li>
-			<li>Mousekin_RangedWeapon_MusketShort</li>
-			<li>VV_RepeatingCrossbow</li>
-			<li>RK_EnhanceCrossBow</li>
-			<li>Mousekin_MeleeWeapon_SwordKnightLarge</li>
-			<li>YR_WP_kunai</li>
 			<li>Gun_Autopistol</li>
 			<li>Gentle_resolution</li>
 			<li>Piety</li>
@@ -100,166 +45,48 @@
 			<li>Blessings</li>
 			<li>RFGun_PA15_AP</li>
 			<li>Gun_Revolver</li>
-			<li>Kurin_Weapon_CrossDart</li>
-			<li>Mousekin_MeleeWeapon_SwordKnight</li>
-			<li>Kurin_Weapon_Kunai</li>
-			<li>Mousekin_RangedWeapon_Crossbow</li>
-			<li>VV_ShockDart</li>
-			<li>Mousekin_MeleeWeapon_Pitchfork</li>
-			<li>Kurin_Gun_Surigum</li>
-			<li>Kiiro_BlowGun</li>
-			<li>Kiiro_RecurveBow</li>
-			<li>Mousekin_MeleeWeapon_SwordGuardener</li>
-			<li>WSGR_Abyssal_DD_Gun</li>
-			<li>WSGR_Abyssal_AP_Gun</li>
-			<li>Mousekin_MeleeWeapon_Pickaxe</li>
-			<li>RK_Crossbow</li>
-			<li>Mousekin_MeleeWeapon_SwordGuardenerTraining</li>
-			<li>Kiiro_HunterBow</li>
-			<li>Mousekin_MeleeWeapon_Hoe</li>
 			<li>ElephantTusk</li>
-			<li>Kiiro_ThrowingCrossKnives</li>
-			<li>Kiiro_ThrowingKnife</li>
 			<li>Bow_Recurve</li>
 			<li>NerveSpiker</li>
-			<li>RK_MagicWand</li>
-			<li>Mousekin_MeleeWeapon_Axe</li>
-			<li>Mousekin_MeleeWeapon_HammerMetal</li>
-			<li>Mousekin_MeleeWeapon_Cleaver</li>
-			<li>RogueServitor_Scalpel</li>
 			<li>Flamebow</li>
-			<li>Mousekin_MeleeWeapon_Dagger</li>
 			<li>Bow_Short</li>
-			<li>Mousekin_MeleeWeapon_HammerWood</li>
-			<li>VV_Slingshot</li>
 			<li>Beer</li>
-			<li>WSGR_Abyssal_AircraftGun</li>
-			<li>WSGR_Abyssal_60kg_bomb</li>
 			<li>WoodLog</li>
 			<li>Gun_AssaultRifle_lilly</li>
 			<li>Gun_SniperRifle_lilly</li>
 		</LimitModeSingle_Selection_defNames>
 		<LimitModeSingleMelee_Selection_defNames>
-			<li>Axolotl_WindWrappingSword</li>
-			<li>RK_LongSword</li>
-			<li>Miho_Weapon_RingedBlade</li>
-			<li>RK_OneHanded</li>
-			<li>RK_Mace</li>
-			<li>Axolotl_IndigoFlower</li>
-			<li>Kiiro_Claw</li>
-			<li>YR_WP_katana</li>
-			<li>WSGR_CavalrySword_b</li>
-			<li>Kiiro_PhantomDagger</li>
-			<li>WSGR_CavalrySword_a</li>
-			<li>Axolotl_Sword</li>
-			<li>Axolotl_Turquoise_shadow</li>
 			<li>MeleeWeapon_DMRW_LavalMachete</li>
-			<li>Kiiro_Pickaxe</li>
-			<li>RK_Axe</li>
-			<li>RK_Hockey</li>
-			<li>RK_Fork</li>
-			<li>RK_Cleaver</li>
 			<li>MeleeWeapon_Gladius</li>
 			<li>MeleeWeapon_Axe</li>
 			<li>MeleeWeapon_Mace</li>
 			<li>MeleeWeapon_BreachAxe</li>
 			<li>MeleeWeapon_Ikwa</li>
-			<li>Kiiro_ValorSabre</li>
-			<li>Kiiro_Hammer</li>
-			<li>Kiiro_LongHandledBlade</li>
 			<li>MeleeWeapon_Knife</li>
-			<li>Kiiro_Axe</li>
-			<li>RK_Dagger</li>
-			<li>Kiiro_Hoe</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
-			<li>Kiiro_Slice</li>
-			<li>Kiiro_KitchenKnife</li>
-			<li>YR_WP_monokatana</li>
+			<li>MeleeWeapon_DMRW_SkyStrikeRed</li>
 			<li>MeleeWeapon_DMRW_NekrozCatastor</li>
-			<li>RogueServitor_Long_Sword</li>
 			<li>MeleeWeapon_GemBuckler</li>
 			<li>MeleeWeapon_GemMasterSword</li>
-			<li>Mousekin_MeleeWeapon_SwordKnightLarge</li>
-			<li>Mousekin_MeleeWeapon_SwordKnight</li>
-			<li>Mousekin_MeleeWeapon_Pitchfork</li>
-			<li>Mousekin_MeleeWeapon_SwordGuardener</li>
-			<li>Mousekin_MeleeWeapon_Pickaxe</li>
-			<li>Mousekin_MeleeWeapon_SwordGuardenerTraining</li>
-			<li>Mousekin_MeleeWeapon_Hoe</li>
 			<li>ElephantTusk</li>
-			<li>RK_MagicWand</li>
-			<li>Mousekin_MeleeWeapon_Axe</li>
-			<li>Mousekin_MeleeWeapon_HammerMetal</li>
-			<li>Mousekin_MeleeWeapon_Cleaver</li>
-			<li>RogueServitor_Scalpel</li>
-			<li>Mousekin_MeleeWeapon_Dagger</li>
-			<li>Mousekin_MeleeWeapon_HammerWood</li>
 			<li>Beer</li>
 			<li>WoodLog</li>
 		</LimitModeSingleMelee_Selection_defNames>
 		<LimitModeSingleRanged_Selection_defNames>
-			<li>HAR_QL_Weapon_a</li>
-			<li>HAR_QL_Weapon_b</li>
-			<li>Axolotl_AuspiciousNeedle</li>
-			<li>VV_ViviLongJavelin</li>
-			<li>VV_EltexNeedle</li>
-			<li>Kiiro_DaggerAxe</li>
 			<li>RangedWeapon_DMRW_Chakram</li>
 			<li>RangedWeapon_DMRW_Failnaught</li>
 			<li>DMRW_Magikey</li>
-			<li>Kiiro_Spear</li>
-			<li>Milira_PlasmaPistol</li>
-			<li>Axolotl_FallingSunBow</li>
-			<li>Kiiro_PTWeapon_SMG</li>
-			<li>Kurin_Range_ChargePistol</li>
-			<li>Larva_SKnife</li>
 			<li>RFGun_Vector</li>
 			<li>RFGun_Type97R</li>
-			<li>RogueServitor_SMG</li>
-			<li>Milian_BishopScepter</li>
-			<li>Milian_PivotScepter</li>
-			<li>Milian_ParticleBeamGun</li>
-			<li>Milian_PulsedBeamGun</li>
-			<li>RK_FlechetteSniperRifle</li>
-			<li>RK_FlechetteRifle</li>
-			<li>RK_SniperRifle</li>
-			<li>Axolotl_MoeLotlCrossBow_Intermediate</li>
 			<li>Know_your_enemy_and_yourself</li>
-			<li>RK_Rifle_line</li>
-			<li>RK_AutoCrossBow</li>
-			<li>Miho_Weapon_Shotgun</li>
-			<li>Kiiro_TRWeapon_RifleII</li>
 			<li>Weapon_GrenadeEMP</li>
 			<li>Weapon_GrenadeTox</li>
-			<li>Miho_Weapon_RifleCQB</li>
-			<li>Kiiro_TRWeapon_Rifle</li>
-			<li>RK_Rifle</li>
-			<li>Kiiro_TRWeapon_ShotGun</li>
-			<li>RB_F_PDW</li>
 			<li>Weapon_GrenadeFrag</li>
-			<li>Axolotl_MoeLotlCrossBow_Basic</li>
 			<li>Hatshot</li>
-			<li>RogueServitor_PM423_Grenade_Weapon</li>
-			<li>RogueServitor_PM629_Grenade_Weapon</li>
 			<li>Weapon_GrenadeMolotov</li>
-			<li>Kiiro_TRWeapon_SMG</li>
-			<li>Kiiro_RepeatingCrossbow</li>
 			<li>Gun_MachinePistol</li>
 			<li>Team_chemistry</li>
 			<li>Secretary_vote</li>
-			<li>Mousekin_RangedWeapon_MusketLong</li>
-			<li>Kiiro_GrenadeFrag</li>
-			<li>Mousekin_RangedWeapon_CrossbowAuto</li>
-			<li>Kurin_Range_FlareGun</li>
-			<li>Kiiro_GrenadeFlash</li>
-			<li>Kiiro_GrenadeSmoke</li>
-			<li>Kiiro_CrossBow</li>
-			<li>Mousekin_RangedWeapon_MusketShort</li>
-			<li>VV_RepeatingCrossbow</li>
-			<li>RK_EnhanceCrossBow</li>
-			<li>YR_WP_kunai</li>
-			<li>Kiiro_LongBow</li>
-			<li>Geist_Knife</li>
 			<li>Gun_Autopistol</li>
 			<li>Gentle_resolution</li>
 			<li>Piety</li>
@@ -271,34 +98,17 @@
 			<li>Blessings</li>
 			<li>RFGun_PA15_AP</li>
 			<li>Gun_Revolver</li>
-			<li>Kurin_Weapon_CrossDart</li>
-			<li>Kurin_Weapon_Kunai</li>
-			<li>Mousekin_RangedWeapon_Crossbow</li>
-			<li>VV_ShockDart</li>
-			<li>Kurin_Gun_Surigum</li>
-			<li>Kiiro_BlowGun</li>
-			<li>Kiiro_RecurveBow</li>
-			<li>WSGR_Abyssal_DD_Gun</li>
-			<li>WSGR_Abyssal_AP_Gun</li>
-			<li>RK_Crossbow</li>
-			<li>Kiiro_HunterBow</li>
-			<li>Kiiro_ThrowingCrossKnives</li>
-			<li>Kiiro_ThrowingKnife</li>
 			<li>Bow_Recurve</li>
 			<li>NerveSpiker</li>
 			<li>Flamebow</li>
 			<li>Bow_Short</li>
-			<li>VV_Slingshot</li>
-			<li>WSGR_Abyssal_AircraftGun</li>
-			<li>WSGR_Abyssal_60kg_bomb</li>
 			<li>Gun_AssaultRifle_lilly</li>
 			<li>Gun_SniperRifle_lilly</li>
 		</LimitModeSingleRanged_Selection_defNames>
 		<LimitModeSingle_Selection />
 		<LimitModeSingleMelee_Selection />
 		<LimitModeSingleRanged_Selection />
-		<ColonistDefaultWeaponMode>Ranged</ColonistDefaultWeaponMode>
-		<NPCDefaultWeaponMode>Ranged</NPCDefaultWeaponMode>
+		<ColonistDefaultWeaponMode>Melee</ColonistDefaultWeaponMode>
 		<FumbleMode>Never</FumbleMode>
 		<SkipDangerousWeapons>False</SkipDangerousWeapons>
 		<FumbleRecoveryChance>
@@ -309,6 +119,5 @@
 			<li>(20.00, 1.00)</li>
 		</FumbleRecoveryChance>
 		<ShowAlertsMissingSidearm>False</ShowAlertsMissingSidearm>
-		<PlaySounds>False</PlaySounds>
 	</ModSettings>
 </SettingsBlock>

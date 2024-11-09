@@ -1,0 +1,5 @@
+Version:1
+allowedDefs:Milira_SunPlateSteel
+allowedHitPointsPercents:0.0000:1.0000
+disallowedSpecialFilters:AllowCorpsesColonist/AllowCorpsesStranger/AllowCorpsesSlave/AllowCorpsesMechFriendly/AllowCorpsesMechEnemy/AllowCorpsesUnnatural
+Priority:Preferred

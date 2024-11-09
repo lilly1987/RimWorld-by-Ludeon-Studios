@@ -1,0 +1,4 @@
+Version:1
+allowedDefs:Diamond/Amethyst/Turquoise/Sapphire/Emerald/LapisLazuli/Opal/Ruby/Topaz/Quartz/Peridot/Moonstone
+disallowedSpecialFilters:AllowCorpsesColonist/AllowCorpsesStranger/AllowCorpsesSlave/AllowCorpsesMechFriendly/AllowCorpsesMechEnemy/AllowCorpsesUnnatural/AllowRotten
+Priority:Preferred

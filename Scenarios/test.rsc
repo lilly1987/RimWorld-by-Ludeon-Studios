@@ -9,7 +9,7 @@
 		<description />
 		<playerFaction>
 			<def>PlayerFaction</def>
-<factionDef>Miho_PlayerColony</factionDef>
+<factionDef>PlayerColony</factionDef>
 
 		</playerFaction>
 		<parts>

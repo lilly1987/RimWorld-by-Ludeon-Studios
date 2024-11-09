@@ -1,0 +1,6 @@
+Version:1
+allowedDefs:ChunkMechanoidSlag/ChunkSlagSteel/ChunkSandstone/ChunkGranite/ChunkLimestone/ChunkSlate/ChunkMarble
+allowedHitPointsPercents:0.0000:1.0000
+allowedQualities:Awful:Legendary
+disallowedSpecialFilters:AllowCorpsesColonist/AllowCorpsesStranger/AllowCorpsesUnnatural/AllowCorpsesMechFriendly/AllowCorpsesMechEnemy/AllowCorpsesSlave/AllowRotten
+Priority:Preferred

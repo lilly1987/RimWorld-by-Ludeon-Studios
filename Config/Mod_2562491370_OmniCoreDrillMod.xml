@@ -2,9 +2,15 @@
 <SettingsBlock>
 	<ModSettings Class="DoctorVanGogh.OmniCoreDrill.Settings">
 		<props>
-			<drillWork />
-			<density />
-			<commonality />
+			<drillWork>
+				<value>0.25</value>
+			</drillWork>
+			<density>
+				<value>4</value>
+			</density>
+			<commonality>
+				<value>0.25</value>
+			</commonality>
 		</props>
 	</ModSettings>
 </SettingsBlock>

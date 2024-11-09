@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="WhileYoureUp.Mod+Settings">
+		<Enabled>False</Enabled>
 		<DrawSpecialHauls>True</DrawSpecialHauls>
 		<Opportunity_TweakVanilla>True</Opportunity_TweakVanilla>
 		<HaulBeforeCarry_Bills_NeedsInitForCs>False</HaulBeforeCarry_Bills_NeedsInitForCs>
@@ -10,7 +11,6 @@
 				<li>Shelf</li>
 				<li>ShelfSmall</li>
 				<li>Hopper</li>
-				<li>QRY_Platform</li>
 				<li>LWM_BigShelf</li>
 				<li>LWM_VeryBigShelf</li>
 				<li>LWM_MealRack</li>
@@ -37,7 +37,6 @@
 				<li>Shelf</li>
 				<li>ShelfSmall</li>
 				<li>Hopper</li>
-				<li>QRY_Platform</li>
 			</allowedDefs>
 			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
 			<allowedMentalBreakChance>0~1</allowedMentalBreakChance>

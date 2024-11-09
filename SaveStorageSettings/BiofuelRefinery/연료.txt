@@ -7,7 +7,7 @@ ingSearchRadius:999
 storeMode:DropOnFloor
 repeatMode:TargetCount
 repeatCount:1
-targetCount:100000
+targetCount:10000
 includeEquipped:False
 includeTainted:False
 limitToAllowedStuff:False
@@ -31,7 +31,7 @@ ingSearchRadius:999
 storeMode:DropOnFloor
 repeatMode:TargetCount
 repeatCount:1
-targetCount:100000
+targetCount:10000
 includeEquipped:False
 includeTainted:False
 limitToAllowedStuff:False
@@ -56,7 +56,7 @@ ingSearchRadius:999
 storeMode:DropOnFloor
 repeatMode:TargetCount
 repeatCount:0
-targetCount:100000
+targetCount:10000
 includeEquipped:False
 includeTainted:False
 limitToAllowedStuff:False
@@ -80,7 +80,7 @@ ingSearchRadius:999
 storeMode:DropOnFloor
 repeatMode:TargetCount
 repeatCount:1
-targetCount:100000
+targetCount:10000
 includeEquipped:False
 includeTainted:False
 limitToAllowedStuff:False
@@ -104,7 +104,7 @@ ingSearchRadius:999
 storeMode:DropOnFloor
 repeatMode:TargetCount
 repeatCount:0
-targetCount:100000
+targetCount:10000
 includeEquipped:False
 includeTainted:False
 limitToAllowedStuff:False

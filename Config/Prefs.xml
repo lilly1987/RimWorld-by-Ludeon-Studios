@@ -45,11 +45,12 @@
   <pauseOnError>False</pauseOnError>
   <devMode>True</devMode>
   <debugActionPalette>
-    <li>Actions\Spawn thing...\SteamGeyser</li>
+    <li>Actions\모든 연구 완료{Finish All Research}</li>
+    <li>Actions\지형 설정 (범위)...{Set terrain (rect)}...\태국의 타일{AncientGoldTile}</li>
   </debugActionPalette>
   <devPalettePosition>
-    <x>120</x>
-    <y>151</y>
+    <x>295</x>
+    <y>132</y>
   </devPalettePosition>
   <langFolderName>Korean (한국어)</langFolderName>
   <logVerbose>False</logVerbose>

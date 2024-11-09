@@ -1,0 +1,6 @@
+Version:1
+allowedDefs:WoolSheep/WoolAlpaca/WoolMegasloth/WoolMuffalo/WoolBison/Leather_Plain/Leather_Dog/Leather_Wolf/Leather_Panthera/Leather_Camel/Leather_Bluefur/Leather_Bear/Leather_GuineaPig/Leather_Human/Leather_Pig/Leather_Light/Leather_Bird/Leather_Chinchilla/Leather_Fox/Leather_Lizard/Leather_Elephant/Leather_Heavy/Leather_Rhinoceros/Leather_Thrumbo/Leather_Patch/Leather_Dread/Leather_DMRW_Dragons/siroWool/konWool/hanaWool/mikoWool/akameWool/aomeWool/kuroWool/yukiwool/kohimeWool
+allowedHitPointsPercents:0.0000:1.0000
+allowedQualities:Awful:Legendary
+disallowedSpecialFilters:
+Priority:Preferred

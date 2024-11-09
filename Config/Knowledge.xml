@@ -31,7 +31,7 @@
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BuildOrbitalTradeBeacon</key>
@@ -219,11 +219,11 @@
     </li>
     <li>
       <key>ShotAccuracyTooltip</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FriendlyFireSafety</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TradeGoodsMustBeNearBeacon</key>
@@ -243,7 +243,7 @@
     </li>
     <li>
       <key>TradingRequiresPermit</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SteamDeckControlsMainMenu</key>
@@ -287,7 +287,7 @@
     </li>
     <li>
       <key>GenesAndXenotypes</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mechanitors</key>
@@ -311,7 +311,7 @@
     </li>
     <li>
       <key>EntityCodex</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SuppressingEntities</key>
@@ -507,6 +507,10 @@
     </li>
     <li>
       <key>Jecrell_TypewriterTable</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WVC_MMWM_BehaviorsGuide</key>
       <value>0</value>
     </li>
   </knowledge>

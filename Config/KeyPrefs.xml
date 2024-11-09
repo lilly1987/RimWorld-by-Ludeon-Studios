@@ -470,13 +470,6 @@
     </value>
   </li>
   <li>
-    <key>OpenChooseYourOutfitDialog</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>PublishLogs</key>
     <value>
       <keyBindingA>F12</keyBindingA>
@@ -575,48 +568,6 @@
     </value>
   </li>
   <li>
-    <key>MintMenus_BuildMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintResearch</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintWheel</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintBillMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_PinningHide</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintGearMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>RocketKeyBindingDisable</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -694,6 +645,83 @@
     </value>
   </li>
   <li>
+    <key>TMB_ToggleAutoDesignatePlantsCutMode</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleTracking</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleHeatMap</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>KeyBinding_DestroyItem</key>
+    <value>
+      <keyBindingA>X</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_BuildMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintResearch</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintWheel</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintBillMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PinningHide</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintGearMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>QuickShowKey</key>
+    <value>
+      <keyBindingA>LeftControl</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>MainTab_MedicalTab</key>
     <value>
       <keyBindingA>M</keyBindingA>
@@ -701,9 +729,23 @@
     </value>
   </li>
   <li>
-    <key>TMB_ToggleAutoDesignatePlantsCutMode</key>
+    <key>HotkeyEditor</key>
     <value>
-      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>HotkeyTeleport</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>OpenChooseYourOutfitDialog</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -722,30 +764,9 @@
     </value>
   </li>
   <li>
-    <key>ToggleTracking</key>
-    <value>
-      <keyBindingA>Backslash</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>BetterPawnControlEmergency</key>
     <value>
       <keyBindingA>5</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>ToggleHeatMap</key>
-    <value>
-      <keyBindingA>Backslash</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>KeyBinding_DestroyItem</key>
-    <value>
-      <keyBindingA>X</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -768,20 +789,6 @@
     <value>
       <keyBindingA>Q</keyBindingA>
       <keyBindingB>T</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>HotkeyEditor</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>HotkeyTeleport</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
     </value>
   </li>
   <li>

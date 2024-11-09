@@ -5,8 +5,8 @@
 		<EnableSeedRerollFeature>True</EnableSeedRerollFeature>
 		<CompatibilityMode>True</CompatibilityMode>
 		<EnableLandformSettingsIntegration>True</EnableLandformSettingsIntegration>
-		<PreviewWindowSize>499.7549</PreviewWindowSize>
-		<PreviewWindowPos>(1291.0, 144.0)</PreviewWindowPos>
-		<ToolbarWindowPos>(1370.0, 128.0)</ToolbarWindowPos>
+		<PreviewWindowSize>250.1225</PreviewWindowSize>
+		<PreviewWindowPos>(1619.0, 105.0)</PreviewWindowPos>
+		<ToolbarWindowPos>(1619.0, 50.0)</ToolbarWindowPos>
 	</ModSettings>
 </SettingsBlock>

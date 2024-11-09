@@ -1,0 +1,5 @@
+Version:1
+allowedDefs:Steel/Plasteel/WoodLog/Uranium/Milira_SunPlateSteel/WSGR_Aluminium
+allowedHitPointsPercents:0.0000:1.0000
+disallowedSpecialFilters:AllowCorpsesColonist/AllowCorpsesStranger/AllowCorpsesSlave/AllowCorpsesMechFriendly/AllowCorpsesMechEnemy/AllowCorpsesUnnatural/AllowRotten
+Priority:Preferred

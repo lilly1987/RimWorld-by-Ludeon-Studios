@@ -198,7 +198,7 @@
 				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
@@ -1765,6 +1765,7 @@
 				<li>SolarRoofProduction</li>
 				<li>ThickStoneRoofRemoval</li>
 				<li>ThickStoneRoofProduction</li>
+				<li>LuciferiumProduction</li>
 			</keys>
 			<values>
 				<li>
@@ -6289,6 +6290,13 @@
 				<li>
 					<baseCost>8000</baseCost>
 					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>10000</baseCost>
+					<techLevel>Spacer</techLevel>
 					<techprintCommonality>1</techprintCommonality>
 					<techprintMarketValue>1000</techprintMarketValue>
 					<techprintTags IsNull="True" />

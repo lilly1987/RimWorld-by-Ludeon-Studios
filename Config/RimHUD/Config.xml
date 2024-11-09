@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Config Version="1.15.3">
   <General>
-    <RefreshRate>5</RefreshRate>
+    <RefreshRate>30</RefreshRate>
     <DockedMode>True</DockedMode>
   </General>
   <InspectPane>

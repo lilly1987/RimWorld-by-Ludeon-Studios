@@ -2,20 +2,26 @@
 <SettingsBlock>
 	<ModSettings Class="ColonyManagerRedux.Settings">
 		<defaultTargetCount>3000</defaultTargetCount>
+		<defaultShouldCheckReachable>False</defaultShouldCheckReachable>
+		<recordHistoricalData>False</recordHistoricalData>
+		<maxDesignationsPerJob>150</maxDesignationsPerJob>
 		<jobSettings>
 			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Logs">
 				<def>CM_LogsManager</def>
 			</li>
 			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Hunting">
 				<def>CM_HuntingManager</def>
+				<defaultSyncFilterAndAllowed>False</defaultSyncFilterAndAllowed>
 				<defaultTargetResource>Leather</defaultTargetResource>
 			</li>
 			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Forestry">
 				<def>CM_ForestryManager</def>
+				<defaultSyncFilterAndAllowed>False</defaultSyncFilterAndAllowed>
 			</li>
 			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Livestock">
 				<def>CM_LivestockManager</def>
 				<default>
+					<adultMaleDefaultTargetCount>1</adultMaleDefaultTargetCount>
 					<defaultTryTameMore>True</defaultTryTameMore>
 					<defaultTamePastTargets>True</defaultTamePastTargets>
 					<enabledTrainingTargets />
@@ -27,10 +33,12 @@
 			</li>
 			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Foraging">
 				<def>CM_ForagingManager</def>
+				<defaultSyncFilterAndAllowed>False</defaultSyncFilterAndAllowed>
 				<defaultForceFullyMature>True</defaultForceFullyMature>
 			</li>
 			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Mining">
 				<def>CM_MiningManager</def>
+				<defaultSyncFilterAndAllowed>False</defaultSyncFilterAndAllowed>
 				<defaultDeconstructBuildings>True</defaultDeconstructBuildings>
 				<defaultDeconstructAncientDangerWhenFogged>True</defaultDeconstructAncientDangerWhenFogged>
 				<defaultTakeOwnershipOfMiningJobs>True</defaultTakeOwnershipOfMiningJobs>

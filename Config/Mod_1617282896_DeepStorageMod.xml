@@ -2,8 +2,131 @@
 <SettingsBlock>
 	<ModSettings Class="LWM.DeepStorage.Settings">
 		<storing_takes_time>False</storing_takes_time>
+		<disable_mass_limits>True</disable_mass_limits>
 		<storing_time_CSS>False</storing_time_CSS>
 		<int_to_use_DS>Animal</int_to_use_DS>
-		<useRightClickLogic>False</useRightClickLogic>
+		<check_over_capacity>False</check_over_capacity>
+		<allowPerDSUSettings>True</allowPerDSUSettings>
+		<DSU_Shelf_maxNumStacks>1024</DSU_Shelf_maxNumStacks>
+		<DSU_Shelf_maxTotalMass>0</DSU_Shelf_maxTotalMass>
+		<DSU_Shelf_filter IsNull="True" />
+		<DSU_ShelfSmall_maxNumStacks>1024</DSU_ShelfSmall_maxNumStacks>
+		<DSU_ShelfSmall_maxTotalMass>0</DSU_ShelfSmall_maxTotalMass>
+		<DSU_ShelfSmall_filter IsNull="True" />
+		<DSU_Hopper_filter IsNull="True" />
+		<DSU_RimFridge_SingleRefrigerator_maxNumStacks>1024</DSU_RimFridge_SingleRefrigerator_maxNumStacks>
+		<DSU_RimFridge_SingleRefrigerator_maxTotalMass>0</DSU_RimFridge_SingleRefrigerator_maxTotalMass>
+		<DSU_RimFridge_SingleRefrigerator_filter IsNull="True" />
+		<DSU_RimFridge_Refrigerator_maxNumStacks>1024</DSU_RimFridge_Refrigerator_maxNumStacks>
+		<DSU_RimFridge_Refrigerator_maxTotalMass>0</DSU_RimFridge_Refrigerator_maxTotalMass>
+		<DSU_RimFridge_Refrigerator_filter IsNull="True" />
+		<DSU_RimFridge_QuadRefrigerator_maxNumStacks>1024</DSU_RimFridge_QuadRefrigerator_maxNumStacks>
+		<DSU_RimFridge_QuadRefrigerator_maxTotalMass>0</DSU_RimFridge_QuadRefrigerator_maxTotalMass>
+		<DSU_RimFridge_QuadRefrigerator_filter IsNull="True" />
+		<DSU_RimFridge_SingleWallRefrigerator_filter IsNull="True" />
+		<DSU_RimFridge_WallRefrigerator_filter IsNull="True" />
+		<DSU_Storage_Basket_filter IsNull="True" />
+		<DSU_Storage_FabricHamper_filter IsNull="True" />
+		<DSU_Storage_HazMatContainer_filter IsNull="True" />
+		<DSU_Storage_Locker_maxNumStacks>1024</DSU_Storage_Locker_maxNumStacks>
+		<DSU_Storage_Locker_maxTotalMass>0</DSU_Storage_Locker_maxTotalMass>
+		<DSU_Storage_Locker_filter IsNull="True" />
+		<DSU_Storage_MedicineCabinet_filter IsNull="True" />
+		<DSU_Storage_Skip_maxNumStacks>1024</DSU_Storage_Skip_maxNumStacks>
+		<DSU_Storage_Skip_maxTotalMass>0</DSU_Storage_Skip_maxTotalMass>
+		<DSU_Storage_Skip_filter IsNull="True" />
+		<DSU_Storage_TrayRack_filter IsNull="True" />
+		<DSU_Storage_WoodenPallet_maxNumStacks>1024</DSU_Storage_WoodenPallet_maxNumStacks>
+		<DSU_Storage_WoodenPallet_maxTotalMass>0</DSU_Storage_WoodenPallet_maxTotalMass>
+		<DSU_Storage_WoodenPallet_filter IsNull="True" />
+		<DSU_Storage_MeatHooks_filter IsNull="True" />
+		<DSU_Storage_MeatHooks_Neolithic_filter IsNull="True" />
+		<DSU_Storage_AnimalFeedTrough_filter IsNull="True" />
+		<DSU_Storage_WeaponsStack_filter IsNull="True" />
+		<DSU_Storage_SmallWeaponsRack_maxNumStacks>1024</DSU_Storage_SmallWeaponsRack_maxNumStacks>
+		<DSU_Storage_SmallWeaponsRack_maxTotalMass>0</DSU_Storage_SmallWeaponsRack_maxTotalMass>
+		<DSU_Storage_SmallWeaponsRack_filter IsNull="True" />
+		<DSU_Storage_LargeWeaponsRack_maxNumStacks>1024</DSU_Storage_LargeWeaponsRack_maxNumStacks>
+		<DSU_Storage_LargeWeaponsRack_maxTotalMass>0</DSU_Storage_LargeWeaponsRack_maxTotalMass>
+		<DSU_Storage_LargeWeaponsRack_filter IsNull="True" />
+		<DSU_Storage_MassiveWeaponsRack_maxNumStacks>1024</DSU_Storage_MassiveWeaponsRack_maxNumStacks>
+		<DSU_Storage_MassiveWeaponsRack_maxTotalMass>0</DSU_Storage_MassiveWeaponsRack_maxTotalMass>
+		<DSU_Storage_MassiveWeaponsRack_filter IsNull="True" />
+		<DSU_Storage_ExplosivesContainer_maxNumStacks>1024</DSU_Storage_ExplosivesContainer_maxNumStacks>
+		<DSU_Storage_ExplosivesContainer_maxTotalMass>0</DSU_Storage_ExplosivesContainer_maxTotalMass>
+		<DSU_Storage_ExplosivesContainer_filter IsNull="True" />
+		<DSU_JDSS_Cargo_Case_GrayC_filter IsNull="True" />
+		<DSU_JDSS_Cargo_Case_GreenC_filter IsNull="True" />
+		<DSU_JDSS_Hay_BalesA_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsA_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsB_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsC_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsD_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsE_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsF_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsG_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsH_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsI_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsJ_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsK_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsL_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsM_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetN_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsO_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsP_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsQ_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsR_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsS_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsT_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsU_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsV_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsW_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsX_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsY_filter IsNull="True" />
+		<DSU_JDSS_Weapon_CabinetsZ_filter IsNull="True" />
+		<DSU_LWM_BigShelf_maxNumStacks>1024</DSU_LWM_BigShelf_maxNumStacks>
+		<DSU_LWM_BigShelf_maxTotalMass>0</DSU_LWM_BigShelf_maxTotalMass>
+		<DSU_LWM_BigShelf_maxMassStoredItem>0</DSU_LWM_BigShelf_maxMassStoredItem>
+		<DSU_LWM_BigShelf_filter IsNull="True" />
+		<DSU_LWM_VeryBigShelf_maxNumStacks>1024</DSU_LWM_VeryBigShelf_maxNumStacks>
+		<DSU_LWM_VeryBigShelf_maxTotalMass>0</DSU_LWM_VeryBigShelf_maxTotalMass>
+		<DSU_LWM_VeryBigShelf_maxMassStoredItem>0</DSU_LWM_VeryBigShelf_maxMassStoredItem>
+		<DSU_LWM_VeryBigShelf_filter IsNull="True" />
+		<DSU_LWM_MealRack_filter IsNull="True" />
+		<DSU_LWM_Food_Basket_filter IsNull="True" />
+		<DSU_LWM_Meat_Hook_filter IsNull="True" />
+		<DSU_LWM_Hayloft_filter IsNull="True" />
+		<DSU_LWM_FabricHamper_filter IsNull="True" />
+		<DSU_LWM_Pallet_filter IsNull="True" />
+		<DSU_LWM_Pallet_Covered_filter IsNull="True" />
+		<DSU_LWM_DeepStorage_Skip_maxNumStacks>1024</DSU_LWM_DeepStorage_Skip_maxNumStacks>
+		<DSU_LWM_DeepStorage_Skip_maxTotalMass>0</DSU_LWM_DeepStorage_Skip_maxTotalMass>
+		<DSU_LWM_DeepStorage_Skip_filter IsNull="True" />
+		<DSU_LWM_Medicine_Cabinet_maxNumStacks>1024</DSU_LWM_Medicine_Cabinet_maxNumStacks>
+		<DSU_LWM_Medicine_Cabinet_maxTotalMass>0</DSU_LWM_Medicine_Cabinet_maxTotalMass>
+		<DSU_LWM_Medicine_Cabinet_filter IsNull="True" />
+		<DSU_LWM_Clothing_Rack_maxNumStacks>1024</DSU_LWM_Clothing_Rack_maxNumStacks>
+		<DSU_LWM_Clothing_Rack_maxTotalMass>0</DSU_LWM_Clothing_Rack_maxTotalMass>
+		<DSU_LWM_Clothing_Rack_filter IsNull="True" />
+		<DSU_LWM_Safe_maxNumStacks>1024</DSU_LWM_Safe_maxNumStacks>
+		<DSU_LWM_Safe_maxTotalMass>0</DSU_LWM_Safe_maxTotalMass>
+		<DSU_LWM_Safe_filter IsNull="True" />
+		<DSU_LWM_WeaponsCabinet_maxNumStacks>1024</DSU_LWM_WeaponsCabinet_maxNumStacks>
+		<DSU_LWM_WeaponsCabinet_maxTotalMass>0</DSU_LWM_WeaponsCabinet_maxTotalMass>
+		<DSU_LWM_WeaponsCabinet_maxMassStoredItem>0</DSU_LWM_WeaponsCabinet_maxMassStoredItem>
+		<DSU_LWM_WeaponsCabinet_filter IsNull="True" />
+		<DSU_LWM_WeaponsLocker_maxNumStacks>1024</DSU_LWM_WeaponsLocker_maxNumStacks>
+		<DSU_LWM_WeaponsLocker_maxTotalMass>0</DSU_LWM_WeaponsLocker_maxTotalMass>
+		<DSU_LWM_WeaponsLocker_maxMassStoredItem>0</DSU_LWM_WeaponsLocker_maxMassStoredItem>
+		<DSU_LWM_WeaponsLocker_filter IsNull="True" />
+		<DSU_DSP_OrganFridge_filter IsNull="True" />
+		<DSU_DSP_Barrel_filter IsNull="True" />
+		<DSU_DSP_WoodRack_filter IsNull="True" />
+		<DSU_DSP_Bin_filter IsNull="True" />
+		<DSU_LWM_DS_RimFridge_Refrigerator_filter IsNull="True" />
+		<DSU_IS_Storage_Dresser_filter IsNull="True" />
+		<DSU_IS_Storage_EndTable_filter IsNull="True" />
+		<DSU_IS_Storage_ToolCabinet_filter IsNull="True" />
+		<DSU_IS_Storage_RBPArtCabinet_filter IsNull="True" />
 	</ModSettings>
 </SettingsBlock>
