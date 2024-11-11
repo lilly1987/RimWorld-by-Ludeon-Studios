@@ -133,57 +133,10 @@
 				<li>Tweak_NFSM_PreventByTrainabilityAdvanced</li>
 			</keys>
 			<values>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>False</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
@@ -192,6 +145,21 @@
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -200,13 +168,20 @@
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
+				<li>True</li>
+				<li>False</li>
 				<li>True</li>
 				<li>False</li>
 				<li>True</li>
@@ -217,6 +192,31 @@
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -229,7 +229,7 @@
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -240,8 +240,8 @@
 				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1052,7 +1052,7 @@
 				<li>Tweak_TraitCountRange</li>
 			</keys>
 			<values>
-				<li>3~3</li>
+				<li>8~8</li>
 			</values>
 		</intRangeSetting>
 		<floatSetting>
@@ -1107,7 +1107,7 @@
 				<li>9.9</li>
 				<li>0.65</li>
 				<li>3</li>
-				<li>1</li>
+				<li>0</li>
 				<li>1</li>
 				<li>2</li>
 				<li>0.8</li>
@@ -1766,6 +1766,10 @@
 				<li>ThickStoneRoofRemoval</li>
 				<li>ThickStoneRoofProduction</li>
 				<li>LuciferiumProduction</li>
+				<li>BasicAutopsy</li>
+				<li>AdvancedAutopsy</li>
+				<li>GlitterworldAutopsy</li>
+				<li>AnimalAutopsy</li>
 			</keys>
 			<values>
 				<li>
@@ -6297,6 +6301,34 @@
 				<li>
 					<baseCost>10000</baseCost>
 					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>500</baseCost>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>2000</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>4000</baseCost>
+					<techLevel>Spacer</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
 					<techprintCommonality>1</techprintCommonality>
 					<techprintMarketValue>1000</techprintMarketValue>
 					<techprintTags IsNull="True" />

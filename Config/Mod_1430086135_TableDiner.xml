@@ -2,6 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="Table_Diner_Configurable.TableDinerSettings">
 		<overwriteNonDefault>True</overwriteNonDefault>
+		<useExtraFeatures>False</useExtraFeatures>
 		<tableDefaultDistance>60</tableDefaultDistance>
 		<tableDefaultDistance>60</tableDefaultDistance>
 	</ModSettings>

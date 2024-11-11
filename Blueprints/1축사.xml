@@ -1,0 +1,1070 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Blueprint>
+	<meta>
+		<gameVersion>1.5.4241 rev599</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>me.samboycoding.betterloading.dev</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>imranfish.xmlextensions</li>
+			<li>rimfridge.kv.rw</li>
+			<li>owlchemist.toggleableoverlays</li>
+			<li>lwm.deepstorage</li>
+			<li>jangodsoul.simplestorage</li>
+			<li>oken.rebalanceddeepstorage</li>
+			<li>dorsai.xmlextensionstabviewfix</li>
+			<li>countmymods.1trickpwnyta</li>
+			<li>taranchuk.moderrorchecker</li>
+			<li>jovianpug.caravanlageliminator</li>
+			<li>mlie.modmanager</li>
+			<li>automatic.startupimpact</li>
+			<li>jaxe.rimhud</li>
+			<li>taranchuk.performanceoptimizer</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>dubwise.dubsperformanceanalyzer.steam</li>
+			<li>latta.fsharp.core</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>owlchemist.cherrypicker.tmpfix</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>superniquito.modoptionssort</li>
+			<li>ilyvion.laboratory</li>
+			<li>redmattis.optimization</li>
+			<li>mehni.pickupandhaul</li>
+			<li>codeoptimist.jobsofopportunity</li>
+			<li>kota.inventorytab</li>
+			<li>mlie.cutplantsbeforebuilding</li>
+			<li>brrainz.achtung</li>
+			<li>unlimitedhugs.allowtool</li>
+			<li>frozensnowfox.indoortreefarms</li>
+			<li>haecriver.injuredcarry</li>
+			<li>nep.yeetit</li>
+			<li>brrainz.justignoremepassing</li>
+			<li>owlchemist.cleanpathfinding</li>
+			<li>dark.jobinbar</li>
+			<li>katana.disableroofcheck</li>
+			<li>alt4s.disableruins</li>
+			<li>telardo.dragselect</li>
+			<li>dubwise.dubsmintminimap</li>
+			<li>eagle0600.dresspatients.1.4</li>
+			<li>mlie.iclearlyhaveenough</li>
+			<li>ventaextera.ideorolepatch</li>
+			<li>hellrevenger.batchinstall</li>
+			<li>madeline.modmismatchformatter</li>
+			<li>doll.nevergeneraterelations</li>
+			<li>steve.betterquestrewards</li>
+			<li>falconne.bwm</li>
+			<li>m00nl1ght.geologicallandforms.biometransitions</li>
+			<li>mlie.blockunwantedminutiae</li>
+			<li>chippedchap.blueprinttotalstooltip</li>
+			<li>fluffy.blueprints.fork</li>
+			<li>zeracronius.dynamictradeinterface</li>
+			<li>ben.automaticnightowl</li>
+			<li>nercury.assignanimalfood</li>
+			<li>ogre.advancedhydroponics</li>
+			<li>mlie.drugsarenotfood</li>
+			<li>mlie.expandedroofing</li>
+			<li>mlie.extendedstorage</li>
+			<li>mlie.extendedstorageextended</li>
+			<li>jaxe.filtermanager</li>
+			<li>flyfire2002.fieldmedic</li>
+			<li>kongkim.farmableneutroamine</li>
+			<li>lucifer.realisticrooms</li>
+			<li>mlie.foodalert</li>
+			<li>zylle.mapdesigner</li>
+			<li>doug.mapedittools</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>andromeda.stackgap</li>
+			<li>nova.mapsaver</li>
+			<li>supes.mapwideorbitaltradebeacon</li>
+			<li>mlie.gems</li>
+			<li>indeed.stackxxl</li>
+			<li>elshender.stackablechunks</li>
+			<li>hatena.voiceroidasanimal</li>
+			<li>sickboywi.vault.onepointone</li>
+			<li>visibleraidpoints.1trickpwnyta</li>
+			<li>mlie.smarterdeconstructionandmining</li>
+			<li>owlchemist.scatteredflames</li>
+			<li>weishanmaowei.nuligongzuo</li>
+			<li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
+			<li>oblitus.animalslogic</li>
+			<li>seohyeon.optimizationmeats</li>
+			<li>memegoddess.searchanddestroy</li>
+			<li>captaingeorge.tradershavemoney</li>
+			<li>orion.xevarimhair</li>
+			<li>ogliss.thewhitecrayon.quarry</li>
+			<li>irilis.uncap.tradepriceimprovement</li>
+			<li>squirtingelephant.nozzz</li>
+			<li>telardo.nolaggybed</li>
+			<li>tofudriver.medicaltabforked</li>
+			<li>squirtingelephant.nohealingemotes</li>
+			<li>bar0th.nodebris</li>
+			<li>oblitus.mylittleplanet</li>
+			<li>doug.botschargewhenidle</li>
+			<li>smuffle.harvestorganspostmortem</li>
+			<li>seekiworksmod.no17</li>
+			<li>crashm.colorcodedmoodbar.11</li>
+			<li>nephlite.orbitaltradecolumn</li>
+			<li>funkyshit.mods.worldedit</li>
+			<li>antihydrogen.donotavoidfire</li>
+			<li>troopersmith1.deathrattle</li>
+			<li>flashpoint55.usechemfueltobrazier</li>
+			<li>automatic.bionicicons</li>
+			<li>owlchemist.toggleablereadouts</li>
+			<li>dhultgren.useminifiedbuildings</li>
+			<li>syrchalis.setupcamp</li>
+			<li>mlie.scheduledevents</li>
+			<li>kathanon.dountilfilter</li>
+			<li>ilyvion.colonymanagerredux</li>
+			<li>dhultgren.smarterconstruction</li>
+			<li>mlie.capturethem</li>
+			<li>bp.showbuildablematerialcount</li>
+			<li>wealthlist.ui.tmpfix</li>
+			<li>roolo.runandgun</li>
+			<li>brrainz.reversecommands</li>
+			<li>sumika.overflowingflowers</li>
+			<li>sarg.smartspeed</li>
+			<li>sumika.milkystar</li>
+			<li>farxmai2.genebanksexapnded</li>
+			<li>leoltron.genebankindicators</li>
+			<li>gt.sam.tilledsoil</li>
+			<li>joseasoler.tradingoptions</li>
+			<li>oels.chooseyouroutfit</li>
+			<li>dismarzero.vgp.vgpgardenmedicine</li>
+			<li>lowli.genebankplus</li>
+			<li>thumb.bettercremation</li>
+			<li>tr.autocutblight</li>
+			<li>scorpio.resourcedictionary</li>
+			<li>hawkwood.floorsareworthless</li>
+			<li>neronix17.tweaksgalore</li>
+			<li>mlie.direraids</li>
+			<li>amunra.lc</li>
+			<li>nakomaru.shelfanything</li>
+			<li>torann.caravanoptions</li>
+			<li>weilbyte.snapout</li>
+			<li>goat.gene.library</li>
+			<li>tac.genetrader</li>
+			<li>rimworld.randomcoughdrop.geneassistant</li>
+			<li>redundant.oopsallgenepacks</li>
+			<li>mlie.syrmetallicbatteries</li>
+			<li>sandy.rpgstyleinventory.avilmask.revamped</li>
+			<li>frozensnowfox.morequests</li>
+			<li>sumghai.medpod</li>
+			<li>co.uk.epicguru.whatsthatmod</li>
+			<li>murmur.walllight</li>
+			<li>avilmask.nonunopinata</li>
+			<li>revolus.whatsmissing.15tmp</li>
+			<li>peko.marketvalueoverlay</li>
+			<li>tr.qualcolor</li>
+			<li>erdelf.powerindicators</li>
+			<li>chad.almostthere1.5</li>
+			<li>cedaro.perfectoredeposits</li>
+			<li>mlie.organizedresearchtab</li>
+			<li>shiggsy.opgenerator</li>
+			<li>mlie.omnicoredrill</li>
+			<li>tk421storm.prioritytreatmentressurected</li>
+			<li>unon.noburnmetal</li>
+			<li>viciousbunny.nocomplexity</li>
+			<li>mlie.noversionwarning</li>
+			<li>laura7z.noflares</li>
+			<li>squirtingelephant.sleepdisturbed</li>
+			<li>archangel.replantsptrees</li>
+			<li>uuugggg.replacestuff</li>
+			<li>sr.modrimworld.raidextensioncontinued</li>
+			<li>match.roofsupport</li>
+			<li>arandomkiwi.raidsforme</li>
+			<li>dvs.norandomrelations</li>
+			<li>ganjamannl.nomorefilth</li>
+			<li>doug.nojobauthors</li>
+			<li>versengt.moretradeships</li>
+			<li>morphsassorted.nocrushedbodies</li>
+			<li>oels.multireinstall</li>
+			<li>auxiliusm.supersoil</li>
+			<li>carnysenpai.traitraritycolors</li>
+			<li>antaioz.tdiner</li>
+			<li>murmur.tcu</li>
+			<li>pa.capturethem.patch</li>
+			<li>mrhydralisk.synthreadproduction</li>
+			<li>mlie.netrvesdeepstoragegui</li>
+			<li>kittahkhan.grazeup</li>
+			<li>mrhydralisk.glitterworldmedicineproduction</li>
+			<li>cedaro.madskillsplus</li>
+			<li>mlie.lessstupidromanceattempt</li>
+			<li>lellel.sell.modapparel</li>
+			<li>cantaloupe.longrangetransportpods</li>
+			<li>mrhydralisk.hyperweaveproduction</li>
+			<li>tr.hardwa</li>
+			<li>syrus.heatmap</li>
+			<li>erdelf.minifyeverything</li>
+			<li>notooshabby.homemover</li>
+			<li>yy.hoodsandhelmets</li>
+			<li>nep.smallerturbines</li>
+			<li>sarg.alphaprefabs</li>
+			<li>arylice.rimworld.automaticstumpchopping</li>
+			<li>8z.callforintel</li>
+			<li>mlie.centralizedclimatecontrol</li>
+			<li>mlie.cargopodtransport</li>
+			<li>kapitanoczywisty.changemapedge</li>
+			<li>void.charactereditor</li>
+			<li>merthsoft.designatorshapes</li>
+			<li>garwel.destroyitem</li>
+			<li>mlie.deepstorageplus</li>
+			<li>lingluo.movesteamgeyser</li>
+			<li>savestoragesettings.kv.rw.fishtmp</li>
+			<li>s16.sbto</li>
+			<li>mlie.bulkrecipegenerator</li>
+			<li>lotusland.fixedpawngenerate</li>
+			<li>azzyh.mechchargerbooster</li>
+			<li>lotusland.fpgbluearchive</li>
+			<li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
+			<li>fb.ameiro.animehairs</li>
+			<li>jesterromut.animemech.mod</li>
+			<li>butterfish.hairmoddingplus</li>
+			<li>duelmonster.rimworld</li>
+			<li>erin.hairredux</li>
+			<li>erin.hair2</li>
+			<li>ricofox233.fgo.stylesapparelpack</li>
+			<li>mihoyo.genshinimpact.characterstyles</li>
+			<li>ricofox233.ptc.gfpack</li>
+			<li>sumghai.hamefura</li>
+			<li>psyche.kemomimihouse</li>
+			<li>lc.experimentalhair</li>
+			<li>gunseeker.lovelyhairstyle</li>
+			<li>andromeda.nicehairs</li>
+			<li>lilly.maidproject</li>
+			<li>ponpeco.pphair</li>
+			<li>qquack.gfap</li>
+			<li>rimsenal.hair</li>
+			<li>neronix17.retexture.rimsenalrimhair</li>
+			<li>rooboid.accessoryhairshd</li>
+			<li>sakama.roppoihair</li>
+			<li>unagi.a.d.coat</li>
+			<li>unagi.ap.dress</li>
+			<li>unagi.kawaii.hair1</li>
+			<li>unagi.short.hair2</li>
+			<li>neronix17.retexture.vanillahair</li>
+			<li>won2.hair</li>
+			<li>mlmlmlm.cosplayapparelumamusumeprettyderby</li>
+			<li>mlmlmlm.cosplayapparelzenlesszonezero</li>
+			<li>mlmlmlm.cosplayequipmentbluearchive</li>
+			<li>mlmlmlm.cosplayequipmentgoddessofvictorynikke</li>
+			<li>fxz.myafufu</li>
+			<li>latta.devl10n</li>
+			<li>blackcanvas.korean.voiceroidasanimal</li>
+			<li>blackcanvas.korean.myafufu</li>
+			<li>seohyeon.autotranslation</li>
+			<li>rmk.translation</li>
+			<li>destiny.rktm.mod</li>
+			<li>krkr.rocketman</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>2380740</li>
+			<li>1826140</li>
+			<li>1392840</li>
+			<li>1149640</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>730936602</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>1231617602</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>858744731</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>BetterLoading</li>
+			<li>Core</li>
+			<li>Anomaly</li>
+			<li>Biotech</li>
+			<li>Ideology</li>
+			<li>Royalty</li>
+			<li>XML Extensions</li>
+			<li>RimFridge: Now with Shelves!</li>
+			<li>Toggleable Overlays</li>
+			<li>LWM's Deep Storage</li>
+			<li>[JDS] Simple Storage</li>
+			<li>Integrated Deep Storage</li>
+			<li>Fix XML Extensions TabView</li>
+			<li>Count My Mods</li>
+			<li>Mod Error Checker</li>
+			<li>Caravan Lag Eliminator</li>
+			<li>Mod Manager (Continued)</li>
+			<li>StartupImpact</li>
+			<li>RimHUD</li>
+			<li>Performance Optimizer</li>
+			<li>Humanoid Alien Races</li>
+			<li>Dubs Performance Analyzer</li>
+			<li>FSharp.Core</li>
+			<li>Geological Landforms</li>
+			<li>Cherry Picker</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>HugsLib</li>
+			<li>Mod Options Sort</li>
+			<li>ilyvion's Laboratory</li>
+			<li>Red's Performance Fixes (aka. Comp EggLayer Fix)</li>
+			<li>Pick Up And Haul</li>
+			<li>While You're Up (with add-on for PUAH)</li>
+			<li>InventoryTab</li>
+			<li>Cut plants before building (Continued)</li>
+			<li>Achtung!</li>
+			<li>Allow Tool</li>
+			<li>[FSF] Indoor Tree Farms</li>
+			<li>Injured Carry</li>
+			<li>Just Drop it on the Floor</li>
+			<li>Just Ignore Me Passing</li>
+			<li>Clean Pathfinding 2</li>
+			<li>Job In Bar</li>
+			<li>Disable Roof Check</li>
+			<li>Disable Ruins</li>
+			<li>DragSelect</li>
+			<li>Dubs Mint Minimap</li>
+			<li>Dress Patients (Continued)</li>
+			<li>I Clearly Have Enough! (Continued)</li>
+			<li>Ideo Roles Don't Forbid Work</li>
+			<li>Batch Install</li>
+			<li>Better ModMismatch Window</li>
+			<li>Never Generate Relations</li>
+			<li>Better Quest Rewards</li>
+			<li>Better Workbench Management</li>
+			<li>Biome Transitions</li>
+			<li>Block Unwanted Minutiae (Continued)</li>
+			<li>Blueprint Totals Tooltip</li>
+			<li>Blueprints - Forked</li>
+			<li>Dynamic Trade Interface</li>
+			<li>Automatic Night Owl</li>
+			<li>Assign Animal Food</li>
+			<li>Advanced Hydroponics</li>
+			<li>Drugs are not Food (Continued)</li>
+			<li>Expanded Roofing (Continued)</li>
+			<li>Extended Storage (Continued)</li>
+			<li>Extended Storage Extended (Continued)</li>
+			<li>Filter Manager</li>
+			<li>Field Medic [1.0-1.5]</li>
+			<li>Farmable Neutroamine</li>
+			<li>Realistic Rooms Rewritten</li>
+			<li>Food Alert (Continued)</li>
+			<li>Map Designer</li>
+			<li>Map Edit Tools</li>
+			<li>Map Preview</li>
+			<li>Dubs Mint Menus</li>
+			<li>Stack gap</li>
+			<li>Map Saver</li>
+			<li>Map Wide Orbital Trade Beacon</li>
+			<li>Gems (Continued)</li>
+			<li>Stack XXL</li>
+			<li>Stackable Chunks [1.5]</li>
+			<li>VoiceroidAsAnimal</li>
+			<li>Vault Walls and Doors</li>
+			<li>Visible Raid Points</li>
+			<li>Smarter Deconstruction and Mining (Continued)</li>
+			<li>Scattered Flames</li>
+			<li>奴隶可做所有类型的工作</li>
+			<li>WVC - Work Modes</li>
+			<li>Animals Logic</li>
+			<li>Optimization: Meats - C# Edition</li>
+			<li>Search and Destroy (Unofficial Update)</li>
+			<li>Traders Have Money 1.5</li>
+			<li>Xeva's Rimhair</li>
+			<li>Quarry</li>
+			<li>UnCap TradePriceImprovement</li>
+			<li>No ZzZ</li>
+			<li>No Laggy Bed</li>
+			<li>Medical Tab - Forked</li>
+			<li>No Healing Emotes</li>
+			<li>No Debris</li>
+			<li>My Little Planet</li>
+			<li>Bots Charge When Idle</li>
+			<li>Harvest Organs Post Mortem</li>
+			<li>AAAA(Allowed Area Automatic Adapter)</li>
+			<li>CM Color Coded Mood Bar [1.1+]</li>
+			<li>Utility Columns</li>
+			<li>WorldEdit 2.0</li>
+			<li>[AntiHydrogen]Do Not Avoid Fire</li>
+			<li>Death Rattle Continued [1.2+]</li>
+			<li>Use Chemfuel To Brazier</li>
+			<li>Bionic icons</li>
+			<li>Toggleable Readouts</li>
+			<li>Use Minified Buildings</li>
+			<li>Set Up Camp</li>
+			<li>Scheduled Events (Continued)</li>
+			<li>"Do Until" Filter</li>
+			<li>Colony Manager Redux</li>
+			<li>Smarter Construction</li>
+			<li>Capture Them (Continued)</li>
+			<li>Show Buildable Material Count</li>
+			<li>WealthList 1.5 From VUIE</li>
+			<li>RunAndGun</li>
+			<li>Reverse Commands</li>
+			<li>OverflowingFlowers</li>
+			<li>Smart Speed</li>
+			<li>MilkyStar</li>
+			<li>Gene Banks Expanded</li>
+			<li>Gene Bank Indicators</li>
+			<li>Tilled Soil</li>
+			<li>Trading Options</li>
+			<li>Choose Your Outfit</li>
+			<li>VGP Garden Medicine</li>
+			<li>Gene Bank Plus</li>
+			<li>Cremation smelts apparels</li>
+			<li>Auto-Cut Blight</li>
+			<li>Resource Dictionary</li>
+			<li>Floors Are Completely Worthless</li>
+			<li>Tweaks Galore</li>
+			<li>Dire Raids (Continued)</li>
+			<li>Luciferium craftable</li>
+			<li>Shelf Anything Continued</li>
+			<li>CaravanOptions</li>
+			<li>Snap Out!</li>
+			<li>GeneLibrary</li>
+			<li>Gene Trader</li>
+			<li>Random's Gene Assistant</li>
+			<li>Oops All Gene Banks</li>
+			<li>[SYR] Metallic Batteries (Continued)</li>
+			<li>RPG Style Inventory Revamped</li>
+			<li>[FSF] More Quests</li>
+			<li>MedPod</li>
+			<li>What's That Mod</li>
+			<li>Wall Light</li>
+			<li>Non uno Pinata (don't drop items)</li>
+			<li>What's Missing? 1.5 temp</li>
+			<li>Market Value Overlay</li>
+			<li>Quality Colors 1.5 - Forked</li>
+			<li>Power Indicators</li>
+			<li>Almostthere1.5</li>
+			<li>Perfect Ore Deposits</li>
+			<li>Organized Research Tab (Continued)</li>
+			<li>[SB]OP Generator</li>
+			<li>Omni Core Drill (Continued)</li>
+			<li>Priority Treatment Ressurected</li>
+			<li>No Burn Metal</li>
+			<li>No Complexity</li>
+			<li>No Version Warning</li>
+			<li>No Solar Flares</li>
+			<li>No Sleep Disturbed</li>
+			<li>Replantable Special Trees</li>
+			<li>Replace Stuff</li>
+			<li>[SR]Raid Extension Continued</li>
+			<li>Roof Support</li>
+			<li>Raids For Me</li>
+			<li>No Random Relations</li>
+			<li>No More Filth (continued)</li>
+			<li>No Job Authors</li>
+			<li>More Trade Ships</li>
+			<li>Morphs Assorted: No Crushed Bodies</li>
+			<li>Multi-Reinstall</li>
+			<li>Super Soil</li>
+			<li>Trait Rarity Colors</li>
+			<li>Table Diner</li>
+			<li>Temperature Control Unit</li>
+			<li>Go fXXing Capture them!</li>
+			<li>Synthread Production</li>
+			<li>Netrve's DeepStorage GUI (Continued)</li>
+			<li>[Kit] Graze up</li>
+			<li>Glitterworld Medicine Production</li>
+			<li>Mad Skills+</li>
+			<li>Less Stupid Romance Attempt (Continued)</li>
+			<li>Lets Sell ModApparel</li>
+			<li>Long Range Transport Pods [CONTINUED]</li>
+			<li>Hyperweave Production</li>
+			<li>Hardworking animals 1.5 - Forked</li>
+			<li>Heat Map (Continued)</li>
+			<li>MinifyEverything</li>
+			<li>Home Mover</li>
+			<li>Hoods and Helmets</li>
+			<li>Aligned Turbines</li>
+			<li>Alpha Prefabs</li>
+			<li>[ARY] Automatic Stump Chopping [1.5]</li>
+			<li>Call For Intel</li>
+			<li>Centralized Climate Control (Continued)</li>
+			<li>Cargo Pod Transport (Continued)</li>
+			<li>Change map edge limit</li>
+			<li>Character Editor</li>
+			<li>Designator Shapes</li>
+			<li>Destroy Item</li>
+			<li>Deep Storage Plus (Continued)</li>
+			<li>[Ling]Move Steam Geyser</li>
+			<li>[1.5][KV] Save Storage, Outfit, Crafting, Drug, &amp; Operation Settings </li>
+			<li>[S16] Standard Body Type Only</li>
+			<li>Bulk Recipe Generator (Continued)</li>
+			<li>Fixed Pawn Generate</li>
+			<li>Mech Charger Booster</li>
+			<li>Characters - Blue Archive</li>
+			<li>AFU女士发型_Women's hairstyles</li>
+			<li>[FB] Ameiro anime hairs</li>
+			<li>Anime Mech Retexture (WIP)</li>
+			<li>Hair Modding Plus (continued)</li>
+			<li>DuelMonsterRimWorld</li>
+			<li>Erin's Hairstyles - Redux</li>
+			<li>Erin's Hairstyles 2</li>
+			<li>[FGO]Fate Grand Order - Styles Apparel Pack</li>
+			<li>[mhy] Genshin Styles - 原神造型包</li>
+			<li>[PtW]Girls' Frontline Styles - 少前角色定制包</li>
+			<li>Hamefura</li>
+			<li>kemomimihouse</li>
+			<li>LC-HairXXX</li>
+			<li>[1.5] Lovely Hair Style</li>
+			<li>Nice Short Female Hairs</li>
+			<li>[SS]Maid Project - lilly</li>
+			<li>Ponpeco Hair</li>
+			<li>QQ's Girls' frontline Apparel Pack</li>
+			<li>Rimsenal - Hair pack</li>
+			<li>Rimsenal Hair Retextured</li>
+			<li>Roo's HD Accessory Hairstyles</li>
+			<li>Roppoi hair</li>
+			<li>UNAGI Another Duster Coat</li>
+			<li>UNAGI Royalty Apparel</li>
+			<li>UNAGI_Hair1</li>
+			<li>UNAGI_Hair2</li>
+			<li>Vanilla Hair Retextured</li>
+			<li>Won hair_women </li>
+			<li>[Cosplay apparel]Umamusume Pretty Derby</li>
+			<li>[Cosplay apparel]Zenless Zone Zero</li>
+			<li>[Cosplay equipment] Blue archive</li>
+			<li>[Cosplay equipment] Goddess of victory：NIKKE</li>
+			<li>Mya's fufu</li>
+			<li>Dev In Your Language</li>
+			<li>VoiceroidAsAnimal 한국어 번역</li>
+			<li>Mya's fufu 한국어 번역</li>
+			<li>Auto Translation</li>
+			<li>Rimworld Mod Korean</li>
+			<li>[RKTM] Mod</li>
+			<li>RocketMan - Performance Mod</li>
+		</modNames>
+	</meta>
+	<Blueprint>
+		<BuildableThings>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-3, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>WallAirVent</ThingDef>
+				<Position>(-2, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-2, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-2, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-2, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-2, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-2, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-2, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-1, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-1, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-1, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-1, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(-1, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalFlap</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(0, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(0, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(0, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(0, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(0, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(0, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(1, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(1, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(1, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(1, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(1, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(1, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(2, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(2, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(2, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(2, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(2, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalBed</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(2, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, 3)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(3, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>AnimalFlap</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(3, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, 3)</Position>
+			</li>
+		</BuildableThings>
+		<Name>1축사</Name>
+		<Size>(7, 7)</Size>
+		<Exported>True</Exported>
+	</Blueprint>
+</Blueprint>

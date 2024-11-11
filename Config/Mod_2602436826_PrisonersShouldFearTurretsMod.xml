@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="PrisonersShouldFearTurrets.PrisonersShouldFearTurretsModSettings" />
+	<ModSettings Class="PrisonersShouldFearTurrets.PrisonersShouldFearTurretsModSettings">
+		<AppliesForSlaves>True</AppliesForSlaves>
+		<AppliesForAggro>True</AppliesForAggro>
+		<ApplyTerror>True</ApplyTerror>
+	</ModSettings>
 </SettingsBlock>

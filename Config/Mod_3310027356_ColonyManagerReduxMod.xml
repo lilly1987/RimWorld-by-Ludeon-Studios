@@ -3,8 +3,6 @@
 	<ModSettings Class="ColonyManagerRedux.Settings">
 		<defaultTargetCount>3000</defaultTargetCount>
 		<defaultShouldCheckReachable>False</defaultShouldCheckReachable>
-		<recordHistoricalData>False</recordHistoricalData>
-		<maxDesignationsPerJob>150</maxDesignationsPerJob>
 		<jobSettings>
 			<li Class="ColonyManagerRedux.Managers.ManagerSettings_Logs">
 				<def>CM_LogsManager</def>

@@ -1,0 +1,6 @@
+Version:1
+allowedDefs:Kibble/Hay
+allowedHitPointsPercents:0.0000:1.0000
+allowedQualities:Awful:Legendary
+disallowedSpecialFilters:
+Priority:Critical

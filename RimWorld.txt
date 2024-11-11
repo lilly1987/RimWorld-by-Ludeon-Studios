@@ -18,16 +18,27 @@ login anonymous
 //workshop_download_item 294100 949498803 // 스택까지 운반 . 모드 충돌 있음
 //workshop_download_item 294100 2603765747 // 1.4길찿기 Clean Pathfinding 2
 //workshop_download_item 294100 2885792215 // 유휴 작업 1.4
+workshop_download_item 294100 3253408577 //   
+workshop_download_item 294100 3362432392 //  Gorlath의 Flowery Ideology 애드온 
+workshop_download_item 294100 3231731155 // 의상을 선택하세요 
 workshop_download_item 294100 3078081326 // 폰 정보
 workshop_download_item 294100 3261316725 // 맵 자원표시 최적화
 workshop_download_item 294100 3261317086 // 왼쪽상단 자원표시 최적화
 workshop_download_item 294100 3261108120 // 화재 최적화
-workshop_download_item 294100 2006605356 // 상단 구성 최적화
+workshop_download_item 294100 2006605356 // 상단 구성 최적화. 2253730555와 호환 불가
 workshop_download_item 294100 2248500261 // 상단 구성 최적화
 workshop_download_item 294100 2008662979 // 치료 아이콘 최적화
 workshop_download_item 294100 3225593781 // 로봇 휴식 최적화
 //workshop_download_item 294100 2790250834 // 침대 최적화
 workshop_download_item 294100 2898006725 // 상인 돈 많음
+//workshop_download_item 294100 2012774042 // 상인 돈 추가. 오류
+workshop_download_item 294100 3265067908 // 유전자 저장소
+workshop_download_item 294100 3138968978 // 유전자 저장소
+workshop_download_item 294100 2889919154 // 유전자 저장소
+workshop_download_item 294100 2883683444 // 유전자 저장소
+workshop_download_item 294100 2882497271 // 유전자 표시
+workshop_download_item 294100 2886375137 // 유전자 상선 추가
+workshop_download_item 294100 1582686191 // 아군의 사격 조정
 workshop_download_item 294100 3232242247 // 자동 전투
 workshop_download_item 294100 2558042766 // 방 조건
 workshop_download_item 294100 2008637628 // No ZzZ
@@ -94,7 +105,7 @@ workshop_download_item 294100 2880481073 //Do Your F****** Research
 workshop_download_item 294100 2606510510 // Organized Research Tab (Continued)
 
 workshop_download_item 294100 3335717889 // 특성 추가
-workshop_download_item 294100 3028378705 // Advanced Electric Stove (Continued)
+// workshop_download_item 294100 3028378705 // Advanced Electric Stove (Continued)  빠른 스토브
 // workshop_download_item 294100 3355120432 // 예지의 매트릭스를 활성화합니다. 
 workshop_download_item 294100 3020706506 // Dynamic Trade Interface
 workshop_download_item 294100 1123043922 // Sparkling Worlds - Full Mod
@@ -112,7 +123,7 @@ workshop_download_item 294100 3310027356 // Colony Manager Redux
 
 
 
-workshop_download_item 294100 1541795146
+// workshop_download_item 294100 1541795146 // Luciferium craftable
 workshop_download_item 294100 3316363751
 workshop_download_item 294100 2361911135
 workshop_download_item 294100 2584374906
@@ -121,7 +132,7 @@ workshop_download_item 294100 2377889028
 // workshop_download_item 294100 1555583045 // 영양 페이스트
 //workshop_download_item 294100 814732357 // 음식
 //workshop_download_item 294100 1434137894 // 시작시 랜덤값 조정
-workshop_download_item 294100 1180573408
+// workshop_download_item 294100 1180573408 // 뼈
 workshop_download_item 294100 3329010005
 workshop_download_item 294100 2017517600 // 보석
 workshop_download_item 294100 2449797994
@@ -149,13 +160,14 @@ workshop_download_item 294100 2898411376 // 냉장고
 workshop_download_item 294100 2988801276 // Ancot의 종족 프레임워크. Kiiro series. Milira series.
 workshop_download_item 294100 3070780021 // 알파 구조물 
 // workshop_download_item 294100 1447140290 // 오우거스택
+workshop_download_item 294100 1501729394 // 캐러밴 옵션
 workshop_download_item 294100 826366050 // Stack XXL
 workshop_download_item 294100 2432699889
 //workshop_download_item 294100 2008138191// 다인 침대
 workshop_download_item 294100 2562491370
 // workshop_download_item 294100 1157085076 // Locks. 성능 부하
 workshop_download_item 294100 2033979700
-workshop_download_item 294100 826153738
+//workshop_download_item 294100 826153738 //유리 벽
 workshop_download_item 294100 3212626413
 //workshop_download_item 294100 1505423207
 workshop_download_item 294100 1316188771
@@ -182,7 +194,7 @@ workshop_download_item 294100 2586462158
 workshop_download_item 294100 1923990111 // No Burn Metal
 workshop_download_item 294100 1547361568
 workshop_download_item 294100 2006960340
-workshop_download_item 294100 872762753
+workshop_download_item 294100 872762753 // MinifyEverything 모두 포장 가능
 workshop_download_item 294100 3224445931
 workshop_download_item 294100 3025108023 // 가우란렌 나무 확장(계속) 
 workshop_download_item 294100 2631474117 // 약의 열량 제거
@@ -195,6 +207,7 @@ workshop_download_item 294100 3222246658 // 생산 시설의 정책 저장 설�
 workshop_download_item 294100 1372003680
 workshop_download_item 294100 1820501433
 // workshop_download_item 294100 1414302321 // Common Sense 부하걸림
+// workshop_download_item 294100 1467764609 // 자동 전투 1.4
 workshop_download_item 294100 1319782555 // 정신 안정화
 workshop_download_item 294100 1778821244
 workshop_download_item 294100 2583377522
@@ -216,7 +229,10 @@ workshop_download_item 294100 2773943594
 workshop_download_item 294100 3346858002 // 기지 가치 오버랩
 //workshop_download_item 294100 3346955193
 workshop_download_item 294100 3347017767
-workshop_download_item 294100 3246503293
+// workshop_download_item 294100 2345493945 // 콜로니 그룹. 버그? 성능?
+workshop_download_item 294100 3005103112 // 넘치는 꽃
+workshop_download_item 294100 3286825217 // 밀크 스타
+workshop_download_item 294100 3246503293 // 재산 목록
 // workshop_download_item 294100 3350548087 // 자동 무기
 
 workshop_download_item 294100 3351509670
@@ -228,7 +244,7 @@ workshop_download_item 294100 2009463077 // Harmony
 // workshop_download_item 294100 3023764871 // 청사진 계산법 변경. 왼쪽 상단 남은 갯수 방식 변경
 // workshop_download_item 294100 2425530959 // 로딩 완료시 소리
 workshop_download_item 294100 2910865748
-workshop_download_item 294100 3306654341
+workshop_download_item 294100 3306654341 // 메인 화면 모드 관리자
 workshop_download_item 294100 3218690663
 workshop_download_item 294100 1872244972
 workshop_download_item 294100 2258431182
@@ -241,9 +257,10 @@ workshop_download_item 294100 2877266511
 workshop_download_item 294100 3223685440
 //workshop_download_item 294100 2586767283 // 3223685440에 포함
 //workshop_download_item 294100 2586765823 // 3223685440에 포함
-workshop_download_item 294100 2880136489 // 사격 경로 계산
+// workshop_download_item 294100 2880136489 // 사격 경로 계산
 workshop_download_item 294100 2034960453
 workshop_download_item 294100 1279012058
+// workshop_download_item 294100 2253730555 // 상단 UI 자세히. 다른거 2006605356 랑 호환 불가
 // workshop_download_item 294100 2732147678 // 1.4
 // workshop_download_item 294100 2007063140 // 약 제작 추가
 workshop_download_item 294100 3231909012
@@ -302,11 +319,12 @@ workshop_download_item 294100 3034078059
 workshop_download_item 294100 3034079349
 workshop_download_item 294100 2574315206
 // workshop_download_item 294100 1896806569 // 휴식시 딴짓
+workshop_download_item 294100 2897753705 // 그루터기 자동 절단
 workshop_download_item 294100 2664723367
 workshop_download_item 294100 2479389928
 workshop_download_item 294100 2038874626
 workshop_download_item 294100 2879963161
-workshop_download_item 294100 3234872374
+workshop_download_item 294100 3234872374 // No More Filth (continued)
 workshop_download_item 294100 2153065191
 workshop_download_item 294100 1649368867
 workshop_download_item 294100 2423311270
@@ -316,7 +334,7 @@ workshop_download_item 294100 2909923795
 
 workshop_download_item 294100 3245977854
 workshop_download_item 294100 3292351432
-workshop_download_item 294100 3293530552
+
 workshop_download_item 294100 3343888138
 workshop_download_item 294100 839005762
 workshop_download_item 294100 3143396239 //

@@ -41,6 +41,8 @@
   </RunAndGun>
   <ImprovedWorkbenches>
     <dropOnFloorByDefault>True</dropOnFloorByDefault>
-    <countOutsideStockpiles>False</countOutsideStockpiles>
   </ImprovedWorkbenches>
+  <Autopsy>
+    <tabs>동물 부검</tabs>
+  </Autopsy>
 </settings>

@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="CleanPathfinding.ModSettings_CleanPathfinding">
-		<bias>1</bias>
-		<naturalBias>1</naturalBias>
-		<roadBias>1</roadBias>
 		<regionModeThreshold>1000</regionModeThreshold>
-		<heuristicAdjuster>200</heuristicAdjuster>
 		<doorPathing>False</doorPathing>
 		<wanderDelay>6</wanderDelay>
 	</ModSettings>

@@ -4,7 +4,21 @@
 		<MessageResearchProjectFinishedByItem>True</MessageResearchProjectFinishedByItem>
 		<LetterLabelFirstSummerWarning>True</LetterLabelFirstSummerWarning>
 		<LetterLabelAreaRevealed>True</LetterLabelAreaRevealed>
+		<LetterLabelAnimalManhunterRevenge>True</LetterLabelAnimalManhunterRevenge>
+		<LetterLabelBreakup>True</LetterLabelBreakup>
 		<LetterCraftedMasterworkLabel>True</LetterCraftedMasterworkLabel>
+		<LetterQuestCompletedLabel>True</LetterQuestCompletedLabel>
+		<LetterLabelBestowingCeremonyExpired>True</LetterLabelBestowingCeremonyExpired>
+		<LetterLabelParty>True</LetterLabelParty>
+		<LetterLabelPregnant>True</LetterLabelPregnant>
+		<LetterLabelInspiredWorkFrenzy>True</LetterLabelInspiredWorkFrenzy>
+		<LetterLabelInspiredGoFrenzy>True</LetterLabelInspiredGoFrenzy>
+		<LetterLabelInspiredShootFrenzy>True</LetterLabelInspiredShootFrenzy>
+		<LetterLabelInspiredTrade>True</LetterLabelInspiredTrade>
+		<LetterLabelInspiredRecruitment>True</LetterLabelInspiredRecruitment>
+		<LetterLabelInspiredTaming>True</LetterLabelInspiredTaming>
+		<LetterLabelInspiredSurgery>True</LetterLabelInspiredSurgery>
+		<LetterLabelInspiredCreativity>True</LetterLabelInspiredCreativity>
 		<LetterLabelAnimalSelfTame>True</LetterLabelAnimalSelfTame>
 		<taintedMessagePatch>True</taintedMessagePatch>
 		<idleColonistsPatch>True</idleColonistsPatch>

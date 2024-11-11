@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ManagerJobs>
+<Blueprint>
 	<meta>
 		<gameVersion>1.5.4241 rev599</gameVersion>
 		<modIds>
@@ -76,6 +76,8 @@
 			<li>zylle.mapdesigner</li>
 			<li>doug.mapedittools</li>
 			<li>m00nl1ght.mappreview</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>andromeda.stackgap</li>
 			<li>nova.mapsaver</li>
 			<li>supes.mapwideorbitaltradebeacon</li>
 			<li>mlie.gems</li>
@@ -107,6 +109,7 @@
 			<li>oblitus.mylittleplanet</li>
 			<li>doug.botschargewhenidle</li>
 			<li>smuffle.harvestorganspostmortem</li>
+			<li>seekiworksmod.no17</li>
 			<li>crashm.colorcodedmoodbar.11</li>
 			<li>nephlite.orbitaltradecolumn</li>
 			<li>funkyshit.mods.worldedit</li>
@@ -125,21 +128,31 @@
 			<li>dhultgren.smarterconstruction</li>
 			<li>mlie.capturethem</li>
 			<li>bp.showbuildablematerialcount</li>
+			<li>wealthlist.ui.tmpfix</li>
 			<li>roolo.runandgun</li>
 			<li>brrainz.reversecommands</li>
 			<li>sarg.smartspeed</li>
+			<li>farxmai2.genebanksexapnded</li>
+			<li>leoltron.genebankindicators</li>
 			<li>gt.sam.tilledsoil</li>
 			<li>joseasoler.tradingoptions</li>
+			<li>oels.chooseyouroutfit</li>
 			<li>dismarzero.vgp.vgpgardenmedicine</li>
+			<li>lowli.genebankplus</li>
 			<li>thumb.bettercremation</li>
 			<li>tr.autocutblight</li>
 			<li>scorpio.resourcedictionary</li>
-			<li>dubwise.dubsmintmenus</li>
 			<li>hawkwood.floorsareworthless</li>
 			<li>neronix17.tweaksgalore</li>
 			<li>mlie.direraids</li>
 			<li>amunra.lc</li>
 			<li>nakomaru.shelfanything</li>
+			<li>torann.caravanoptions</li>
+			<li>weilbyte.snapout</li>
+			<li>goat.gene.library</li>
+			<li>tac.genetrader</li>
+			<li>rimworld.randomcoughdrop.geneassistant</li>
+			<li>redundant.oopsallgenepacks</li>
 			<li>mlie.syrmetallicbatteries</li>
 			<li>sandy.rpgstyleinventory.avilmask.revamped</li>
 			<li>frozensnowfox.morequests</li>
@@ -386,7 +399,20 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>858744731</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -596,6 +622,8 @@
 			<li>Map Designer</li>
 			<li>Map Edit Tools</li>
 			<li>Map Preview</li>
+			<li>Dubs Mint Menus</li>
+			<li>Stack gap</li>
 			<li>Map Saver</li>
 			<li>Map Wide Orbital Trade Beacon</li>
 			<li>Gems (Continued)</li>
@@ -627,6 +655,7 @@
 			<li>My Little Planet</li>
 			<li>Bots Charge When Idle</li>
 			<li>Harvest Organs Post Mortem</li>
+			<li>AAAA(Allowed Area Automatic Adapter)</li>
 			<li>CM Color Coded Mood Bar [1.1+]</li>
 			<li>Utility Columns</li>
 			<li>WorldEdit 2.0</li>
@@ -645,21 +674,31 @@
 			<li>Smarter Construction</li>
 			<li>Capture Them (Continued)</li>
 			<li>Show Buildable Material Count</li>
+			<li>WealthList 1.5 From VUIE</li>
 			<li>RunAndGun</li>
 			<li>Reverse Commands</li>
 			<li>Smart Speed</li>
+			<li>Gene Banks Expanded</li>
+			<li>Gene Bank Indicators</li>
 			<li>Tilled Soil</li>
 			<li>Trading Options</li>
+			<li>Choose Your Outfit</li>
 			<li>VGP Garden Medicine</li>
+			<li>Gene Bank Plus</li>
 			<li>Cremation smelts apparels</li>
 			<li>Auto-Cut Blight</li>
 			<li>Resource Dictionary</li>
-			<li>Dubs Mint Menus</li>
 			<li>Floors Are Completely Worthless</li>
 			<li>Tweaks Galore</li>
 			<li>Dire Raids (Continued)</li>
 			<li>Luciferium craftable</li>
 			<li>Shelf Anything Continued</li>
+			<li>CaravanOptions</li>
+			<li>Snap Out!</li>
+			<li>GeneLibrary</li>
+			<li>Gene Trader</li>
+			<li>Random's Gene Assistant</li>
+			<li>Oops All Gene Banks</li>
 			<li>[SYR] Metallic Batteries (Continued)</li>
 			<li>RPG Style Inventory Revamped</li>
 			<li>[FSF] More Quests</li>
@@ -783,332 +822,444 @@
 			<li>RocketMan - Performance Mod</li>
 		</modNames>
 	</meta>
-	<jobs>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Hunting">
-			<def>CM_HuntingManager</def>
-			<trigger Class="ColonyManagerRedux.Trigger_Threshold">
-				<count>3000</count>
-				<maxUpperThreshold>3000</maxUpperThreshold>
-				<thresholdFilter>
-					<disallowedSpecialFilters />
-					<allowedDefs />
-					<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-					<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-					<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
-				</thresholdFilter>
-			</trigger>
-			<updateInterval>2500</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<targetResource>Leather</targetResource>
-			<allowedAnimals />
-			<allowedAnimalsLeather>
-				<li>Megasloth</li>
-				<li>Goose</li>
-				<li>ShinyBlack_c</li>
-				<li>ShadeBrigandine</li>
-				<li>Raccoon</li>
-				<li>Squirrel</li>
-				<li>VAA_TohokuZunko</li>
-				<li>Horse</li>
-				<li>Elk</li>
-				<li>Muffalo</li>
-				<li>WildBoar</li>
-				<li>Hare</li>
-				<li>Wolf_Arctic</li>
-				<li>Fox_Arctic</li>
-				<li>Fox_Red</li>
-				<li>Deer</li>
-				<li>Ibex</li>
-				<li>Caribou</li>
-				<li>Lynx</li>
-				<li>sirof</li>
-				<li>Yak</li>
-				<li>Warg</li>
-				<li>Nettles</li>
-				<li>Rat</li>
-				<li>Turkey</li>
-				<li>VAA_KotonohaAoi</li>
-				<li>MysticTomato</li>
-				<li>Cougar</li>
-				<li>WasteRat</li>
-				<li>Bear_Grizzly</li>
-				<li>Wolf_Timber</li>
-			</allowedAnimalsLeather>
-			<syncFilterAndAllowed>False</syncFilterAndAllowed>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Forestry">
-			<def>CM_ForestryManager</def>
-			<trigger Class="ColonyManagerRedux.Trigger_Threshold">
-				<count>30000</count>
-				<maxUpperThreshold>30000</maxUpperThreshold>
-				<thresholdFilter>
-					<disallowedSpecialFilters />
-					<allowedDefs>
-						<li>WoodLog</li>
-					</allowedDefs>
-					<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-					<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-					<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
-				</thresholdFilter>
-			</trigger>
-			<updateInterval>2500</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<allowedTrees>
-				<li>Plant_Timbershroom</li>
-				<li>Ogre_AdvHyd_Plant_Timbershroom</li>
-				<li>Plant_Bush</li>
-				<li>Plant_TreePoplar</li>
-				<li>SmashedStump</li>
-				<li>Plant_TreePine</li>
-				<li>Plant_TreeBirch</li>
-				<li>Plant_TreeGrayPine</li>
-				<li>Plant_GrayGrass</li>
-				<li>Bryolux</li>
-				<li>Plant_Grass</li>
-				<li>Plant_Moss</li>
-				<li>Plant_Nutrifungus</li>
-				<li>Plant_HealrootWild</li>
-				<li>Plant_Ambrosia</li>
-				<li>Plant_Berry</li>
-				<li>Glowstool</li>
-				<li>Plant_Ripthorn</li>
-				<li>Ogre_AdvHyd_Agarilux</li>
-				<li>Agarilux</li>
-				<li>Plant_Brambles</li>
-			</allowedTrees>
-			<syncFilterAndAllowed>False</syncFilterAndAllowed>
-			<type>ClearArea</type>
-			<allowSaplings>True</allowSaplings>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Foraging">
-			<def>CM_ForagingManager</def>
-			<trigger Class="ColonyManagerRedux.Trigger_Threshold">
-				<count>3000</count>
-				<maxUpperThreshold>3000</maxUpperThreshold>
-				<thresholdFilter>
-					<disallowedSpecialFilters />
-					<allowedDefs />
-					<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-					<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-					<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
-				</thresholdFilter>
-			</trigger>
-			<updateInterval>2500</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<allowedPlants>
-				<li>Agarilux</li>
-				<li>Ogre_AdvHyd_Agarilux</li>
-				<li>Plant_Bush</li>
-				<li>Glowstool</li>
-				<li>Plant_Berry</li>
-				<li>Plant_Ambrosia</li>
-				<li>Plant_HealrootWild</li>
-				<li>Plant_Nutrifungus</li>
-				<li>Plant_Grass</li>
-			</allowedPlants>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Mining">
-			<def>CM_MiningManager</def>
-			<trigger Class="ColonyManagerRedux.Trigger_Threshold">
-				<count>3000</count>
-				<maxUpperThreshold>3000</maxUpperThreshold>
-				<thresholdFilter>
-					<disallowedSpecialFilters />
-					<allowedDefs />
-					<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-					<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-					<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
-				</thresholdFilter>
-			</trigger>
-			<updateInterval>2500</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<allowedMinerals>
-				<li>MineableGold</li>
-				<li>MineableDiamond</li>
-				<li>Marble</li>
-				<li>MineableRuby</li>
-				<li>MineableComponentsIndustrial</li>
-				<li>MineableJade</li>
-				<li>Sandstone</li>
-				<li>MineableSapphire</li>
-				<li>MineableQuartz</li>
-				<li>Limestone</li>
-				<li>MineableEmerald</li>
-				<li>MineableOpal</li>
-				<li>MineableUranium</li>
-				<li>MineableMoonstone</li>
-				<li>MineableSilver</li>
-				<li>MineableAmethyst</li>
-				<li>Slate</li>
-				<li>MineableSteel</li>
-				<li>MineableLapis</li>
-				<li>MineableTurquoise</li>
-				<li>MineableTopaz</li>
-				<li>MineablePeridot</li>
-				<li>MineablePlasteel</li>
-				<li>Granite</li>
-			</allowedMinerals>
-			<allowedBuildings />
-			<syncFilterAndAllowed>False</syncFilterAndAllowed>
-			<deconstructBuildings>True</deconstructBuildings>
-			<deconstructAncientDangerWhenFogged>True</deconstructAncientDangerWhenFogged>
-			<checkRoomDivision>False</checkRoomDivision>
-			<takeOwnershipOfMiningJobs>True</takeOwnershipOfMiningJobs>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Forestry">
-			<def>CM_ForestryManager</def>
-			<trigger Class="ColonyManagerRedux.Trigger_Threshold">
-				<count>300000</count>
-				<maxUpperThreshold>300000</maxUpperThreshold>
-				<thresholdFilter>
-					<disallowedSpecialFilters />
-					<allowedDefs>
-						<li>WoodLog</li>
-					</allowedDefs>
-					<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-					<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-					<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
-				</thresholdFilter>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<allowedTrees>
-				<li>Plant_Timbershroom</li>
-				<li>Ogre_AdvHyd_Plant_Timbershroom</li>
-				<li>Plant_Bush</li>
-				<li>Plant_TreePoplar</li>
-				<li>SmashedStump</li>
-				<li>Plant_TreePine</li>
-				<li>Plant_TreeBirch</li>
-				<li>Plant_TreeGrayPine</li>
-			</allowedTrees>
-			<syncFilterAndAllowed>False</syncFilterAndAllowed>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>aome</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>hana</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>kon</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>akame</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>kohime</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>siro</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>miko</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>VAA_v_flower</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-		<li Class="ColonyManagerRedux.Managers.ManagerJob_Livestock">
-			<def>CM_LivestockManager</def>
-			<trigger Class="ColonyManagerRedux.Managers.Trigger_PawnKind">
-				<adultFemaleTargetCount>5</adultFemaleTargetCount>
-				<adultMaleTargetCount>1</adultMaleTargetCount>
-				<juvenileFemaleTargetCount>5</juvenileFemaleTargetCount>
-				<juvenileMaleTargetCount>5</juvenileMaleTargetCount>
-				<pawnKind>VAA_Millial</pawnKind>
-			</trigger>
-			<updateInterval>60000</updateInterval>
-			<shouldCheckReachable>False</shouldCheckReachable>
-			<tryTameMore>True</tryTameMore>
-			<tamePastTargets>True</tamePastTargets>
-		</li>
-	</jobs>
-</ManagerJobs>
+	<Blueprint>
+		<BuildableThings>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, -3)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, -1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, 0)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, 1)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, 2)</Position>
+			</li>
+			<li>
+				<ThingDef>redAirPipe</ThingDef>
+				<Position>(-4, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>HiddenConduit</ThingDef>
+				<Position>(-4, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, -1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultAutodoor</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 0)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>WallAirVent</ThingDef>
+				<Position>(-3, 0, 1)</Position>
+				<Rotation>1</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-3, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>WallLamp</ThingDef>
+				<Position>(-2, 0, -1)</Position>
+				<Rotation>3</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-2, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>EndTable</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(-1, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>RoyalBed</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(0, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(1, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>Dresser</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, -2)</Position>
+			</li>
+			<li>
+				<ThingDef>Drape</ThingDef>
+				<Stuff>DevilstrandCloth</Stuff>
+				<Position>(3, 0, 2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(2, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(3, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, -1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 0)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 1)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 2)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<ThingDef>VaultWall</ThingDef>
+				<Stuff>Gold</Stuff>
+				<Position>(4, 0, 3)</Position>
+				<Rotation>2</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-4, 0, -3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-4, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-4, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-4, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-4, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-4, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-4, 0, 3)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-3, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-2, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-2, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-2, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-2, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-2, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-1, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-1, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-1, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-1, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(-1, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(0, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(0, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(0, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(0, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(1, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(1, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(1, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(1, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(1, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(2, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(2, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(2, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(2, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(2, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(3, 0, -2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(3, 0, -1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(3, 0, 0)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(3, 0, 1)</Position>
+				<Rotation>200</Rotation>
+			</li>
+			<li>
+				<TerrainDef>AncientGoldTile</TerrainDef>
+				<Position>(3, 0, 2)</Position>
+				<Rotation>200</Rotation>
+			</li>
+		</BuildableThings>
+		<Name>침실고급</Name>
+		<Size>(9, 7)</Size>
+	</Blueprint>
+</Blueprint>

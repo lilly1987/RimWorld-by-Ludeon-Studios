@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Syrchalis_SetUpCamp.SetUpCampSettings">
-		<allowedSizeRange>50~300</allowedSizeRange>
+		<allowedSizeRange>50~125</allowedSizeRange>
 		<Timeout>60</Timeout>
 		<customMapGenDef>True</customMapGenDef>
 		<permanentCamps>False</permanentCamps>

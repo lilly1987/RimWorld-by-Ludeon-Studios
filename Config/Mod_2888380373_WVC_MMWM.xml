@@ -21,6 +21,6 @@
 		<enableEnemySearching>True</enableEnemySearching>
 		<enableSmartEscort>True</enableSmartEscort>
 		<useCustomShutdownBehavior>True</useCustomShutdownBehavior>
-		<dormantMode>False</dormantMode>
+		<dormantMode>True</dormantMode>
 	</ModSettings>
 </SettingsBlock>

@@ -17,7 +17,7 @@
 		<traderSorting />
 		<colonySorting>
 			<li>
-				<ColumnDef>colTradePriceDef</ColumnDef>
+				<ColumnDef>colTradeQuantityDef</ColumnDef>
 			</li>
 		</colonySorting>
 		<ColumnCustomization>

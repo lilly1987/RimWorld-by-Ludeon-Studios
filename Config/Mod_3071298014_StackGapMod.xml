@@ -2,10 +2,10 @@
 <SettingsBlock>
 	<ModSettings Class="StorageUpperBound.StackGapSettings">
 		<EnableHardEjection>False</EnableHardEjection>
-		<DisplayLogFactor>1</DisplayLogFactor>
+		<DisplayLogFactor>3.012911</DisplayLogFactor>
 		<GlobalMultistackMode>0</GlobalMultistackMode>
 		<PercentageMode>False</PercentageMode>
 		<GlobalSimilarStackEnabled>False</GlobalSimilarStackEnabled>
-		<MaxStackSliderLimit>10000</MaxStackSliderLimit>
+		<MaxStackSliderLimit>10000000</MaxStackSliderLimit>
 	</ModSettings>
 </SettingsBlock>

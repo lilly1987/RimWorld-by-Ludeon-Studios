@@ -2,7 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="FoodAlert.FoodAlertSettings">
 		<foodPreferability>MealLavish</foodPreferability>
-		<dynamicupdate>False</dynamicupdate>
 		<updatefrequency>10000</updatefrequency>
 	</ModSettings>
 </SettingsBlock>

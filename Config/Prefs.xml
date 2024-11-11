@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PrefsData>
-  <volumeMaster>0.7972973</volumeMaster>
+  <volumeMaster>0.4963145</volumeMaster>
   <volumeGame>1</volumeGame>
   <volumeMusic>0.4963145</volumeMusic>
   <volumeAmbient>1</volumeAmbient>
@@ -47,6 +47,7 @@
   <debugActionPalette>
     <li>Actions\모든 연구 완료{Finish All Research}</li>
     <li>Actions\지형 설정 (범위)...{Set terrain (rect)}...\태국의 타일{AncientGoldTile}</li>
+    <li>Actions\상황 제거...{Remove Game Condition}...</li>
   </debugActionPalette>
   <devPalettePosition>
     <x>295</x>

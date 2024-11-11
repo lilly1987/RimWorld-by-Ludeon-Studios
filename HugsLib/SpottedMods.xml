@@ -485,4 +485,15 @@
   <mod packageId="Oblitus.AnimalsLogic" />
   <mod packageId="torann.CaravanOptions" />
   <mod packageId="weilbyte.snapout" />
+  <mod packageId="lowli.genebankplus" />
+  <mod packageId="tac.genetrader" />
+  <mod packageId="rimworld.randomcoughdrop.geneassistant" />
+  <mod packageId="redundant.oopsallgenepacks" />
+  <mod packageId="Farxmai2.GeneBanksExapnded" />
+  <mod packageId="Leoltron.GeneBankIndicators" />
+  <mod packageId="sumika.OverflowingFlowers" />
+  <mod packageId="sumika.MilkyStar" />
+  <mod packageId="gorlath.ideonature" />
+  <mod packageId="restless.ConfigureMoodEffects" />
+  <mod packageId="TE.AutocutStumps.local" />
 </Mods>

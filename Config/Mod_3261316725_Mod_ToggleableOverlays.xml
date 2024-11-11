@@ -2,5 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="ToggleableOverlays.ModSettings_ToggleableOverlays">
 		<quickShowAltMode>False</quickShowAltMode>
+		<hideWindGauge>True</hideWindGauge>
 	</ModSettings>
 </SettingsBlock>
